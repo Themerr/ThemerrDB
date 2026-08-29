@@ -1,0 +1,98 @@
+{
+    "adult": false,
+    "backdrop_path": "/AhlihKYnLZmNZiIItB4RBZoJHP8.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1954-10-18",
+    "genres": [
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 6560,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "1955-10-17",
+    "last_episode_to_air": {
+        "air_date": "1955-10-17",
+        "episode_number": 39,
+        "episode_type": "finale",
+        "id": 377849,
+        "name": "The Case of the Tyrant's Daughter",
+        "overview": "A chemist is accused of the murder of his fianc\u00e9's stepfather, who was determined to keep the two apart. Although there is mounting evidence of the chemist's guilt, Holmes is requested by the old man's housekeeper to investigate the case, as she believes the young man to be innocent.",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 6560,
+        "still_path": "/eUrDOdB09KGXDcXCt6Tcypl5viq.jpg",
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    "name": "Sherlock Holmes",
+    "networks": [],
+    "next_episode_to_air": null,
+    "number_of_episodes": 39,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Sherlock Holmes",
+    "overview": "The first American television series of Sherlock Holmes adventures aired in syndication in the fall of 1954. The 39 half-hour mostly original stories were produced by Sheldon Reynolds and filmed in France by Guild Films, starring Ronald Howard as Holmes and Howard Marion Crawford as Watson. Archie Duncan appeared in many episodes as Inspector Lestrade. Richard Larke, billed as Kenneth Richards, played Sgt. Wilkins in about fifteen episodes. The series' associate producer, Nicole Milinaire, was one of the first women to attain a senior production role in a television series.",
+    "popularity": 6.4604,
+    "poster_path": "/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+    "production_companies": [
+        {
+            "id": 61963,
+            "logo_path": null,
+            "name": "Guild Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1954-10-18",
+            "episode_count": 39,
+            "id": 16778,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rpg4rSbyUXWBcw2mQwcWyag2AHQ.jpg",
+            "season_number": 1,
+            "vote_average": 6.0
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 18,
+    "youtube_theme_added": 1794785476,
+    "youtube_theme_added_by": "177166452",
+    "youtube_theme_edited": 1794785476,
+    "youtube_theme_edited_by": "177166452",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=eIZ1TRsnXNc"
+}

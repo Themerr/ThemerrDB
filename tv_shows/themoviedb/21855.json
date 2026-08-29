@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/xpbYhlApQErpGSIXTP8o9zQmwMu.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2009-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 21855,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-09-22",
+    "last_episode_to_air": {
+        "air_date": "2009-09-22",
+        "episode_number": 25,
+        "episode_type": "finale",
+        "id": 601932,
+        "name": "The Heart Is Lead by The Truth on the Other Side...",
+        "overview": "Teito uses the power of the Eye of Mikhail to summon Frau, Castor, Labrador, Lance, and the Black Hawks.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 21855,
+        "still_path": "/ipcBGNalUhomb1mkqZtYBihbJ9T.jpg",
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    "name": "07-Ghost",
+    "networks": [
+        {
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "name": "Chiba TV",
+            "origin_country": "JP"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "\u30bb\u30d6\u30f3\u30b4\u30fc\u30b9\u30c8",
+    "overview": "For over a thousand years, two great countries shared power in the world. One,the Barsburg Empire, was protected by the Eye of Raphael. The other, the Kingdom of Laggs, was protected by the Eye of Michael. Until a brutal war between them saw the Kingdom of Laggs destroyed... Ten years later, an amnesiac young orphan named Teito and his best friend Mikage are attending Barsburg Imperial Military Academy, dreaming of becoming officers. Teito is plagued by disturbing dreams of Laggs Castle just before the fall... Of a man who speaks to him of his \u201ctrue mission,\u201d and an enemy wielding a blood-drenched sword...\n\nBut when Teito meets Staff Chief Ayanami, his memories begin to return. This is the enemy from his dream. The man lying in a pool of blood, giving him that warning, was his own father... And Teito himself is the prince of the destroyed Laggs Empire! Teito must leave the army to find his true mission, and the secret of his past.",
+    "popularity": 9.2495,
+    "poster_path": "/bplLInPnw3pxyI8ySfPi0VfjsCN.jpg",
+    "production_companies": [
+        {
+            "id": 92585,
+            "logo_path": "/T97RLdI4nkSllgozMDuvveWHL6.png",
+            "name": "Ichijinsha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-04-07",
+            "episode_count": 25,
+            "id": 31639,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bplLInPnw3pxyI8ySfPi0VfjsCN.jpg",
+            "season_number": 1,
+            "vote_average": 6.9
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "\u65e5\u672c\u8a9e"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 31,
+    "youtube_theme_added": 1795033024,
+    "youtube_theme_added_by": "130686340",
+    "youtube_theme_edited": 1795033024,
+    "youtube_theme_edited_by": "130686340",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=7yOut8TgdU8"
+}

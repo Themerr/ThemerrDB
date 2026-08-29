@@ -1,0 +1,72 @@
+{
+    "adult": false,
+    "backdrop_path": "/tWr9NT2I76ZtKY804rx7SkDux9R.jpg",
+    "belongs_to_collection": {
+        "backdrop_path": "/cIj9AqJiUCYqFB3ynmVGENpo6fq.jpg",
+        "id": 730700,
+        "name": "Cheaper by the Dozen (1950) Collection",
+        "poster_path": "/9To1dmvnTtehHNKgKc1igHND9lQ.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "",
+    "id": 33839,
+    "imdb_id": "tt0042327",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Cheaper by the Dozen",
+    "overview": "\"Cheaper by the Dozen\", based on the real-life story of the Gilbreth family, follows them from Providence, Rhode Island, to Montclair, New Jersey, and details the amusing anecdotes found in large families.",
+    "popularity": 2.138,
+    "poster_path": "/sGj9auC0z18y25NObFbvWLt8gtX.jpg",
+    "production_companies": [
+        {
+            "id": 25,
+            "logo_path": "/nM2MfoMqzJQRiSynsDabOtFKetD.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1950-03-31",
+    "revenue": 0,
+    "runtime": 85,
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "He's the New Father of His Country!",
+    "title": "Cheaper by the Dozen",
+    "video": false,
+    "vote_average": 6.468,
+    "vote_count": 93,
+    "youtube_theme_added": 1795062676,
+    "youtube_theme_added_by": "177166452",
+    "youtube_theme_edited": 1795062676,
+    "youtube_theme_edited_by": "177166452",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=u8-UGl0nR1M"
+}

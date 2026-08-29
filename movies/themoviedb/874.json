@@ -1,0 +1,68 @@
+{
+    "adult": false,
+    "backdrop_path": "/o8Pc05f7zwgZCLrcfqszHWEQF0w.jpg",
+    "belongs_to_collection": null,
+    "budget": 3900000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 36,
+            "name": "History"
+        }
+    ],
+    "homepage": "",
+    "id": 874,
+    "imdb_id": "tt0060665",
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_title": "A Man for All Seasons",
+    "overview": "A depiction of the conflict between King Henry VIII of England and his Lord Chancellor, Sir Thomas More, who refuses to swear the Oath of Supremacy declaring Henry Supreme Head of the Church in England.",
+    "popularity": 3.4391,
+    "poster_path": "/kcwcqMitcnRO1SySlX1HKVn7yUV.jpg",
+    "production_companies": [
+        {
+            "id": 571,
+            "logo_path": null,
+            "name": "Highland Films",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "1966-12-13",
+    "revenue": 28350000,
+    "runtime": 120,
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Latin",
+            "iso_639_1": "la",
+            "name": "Latin"
+        }
+    ],
+    "status": "Released",
+    "tagline": "...a motion picture for all times!",
+    "title": "A Man for All Seasons",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 528,
+    "youtube_theme_added": 1795034940,
+    "youtube_theme_added_by": "177166452",
+    "youtube_theme_edited": 1795034940,
+    "youtube_theme_edited_by": "177166452",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=-zuNxMCTTDc"
+}

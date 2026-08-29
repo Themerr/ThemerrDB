@@ -1,0 +1,192 @@
+{
+    "adult": false,
+    "backdrop_path": "/fMz59sG9qvQHEJRvnQIDlkS3FWD.jpg",
+    "created_by": [
+        {
+            "credit_id": "59e24d80c3a3687bdd001293",
+            "gender": 2,
+            "id": 234529,
+            "name": "Antoine Charreyron",
+            "original_name": "Antoine Charreyron",
+            "profile_path": "/stGsWqvN07uNmDzNnpwQUFkqdkN.jpg"
+        },
+        {
+            "credit_id": "59e24d87925141635c001245",
+            "gender": 0,
+            "id": 1905715,
+            "name": "Frederic Dybowski",
+            "original_name": "Frederic Dybowski",
+            "profile_path": null
+        },
+        {
+            "credit_id": "613e9f659653f60093cf5ff7",
+            "gender": 0,
+            "id": 3232520,
+            "name": "Charles Barrez",
+            "original_name": "Charles Barrez",
+            "profile_path": null
+        },
+        {
+            "credit_id": "613e9f72d4cc8e008759bca3",
+            "gender": 0,
+            "id": 3232521,
+            "name": "Vincent Vandelli",
+            "original_name": "Vincent Vandelli",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        26
+    ],
+    "first_air_date": "2006-05-27",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 20993,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ar",
+        "fr"
+    ],
+    "last_air_date": "2011-10-27",
+    "last_episode_to_air": {
+        "air_date": "2011-10-27",
+        "episode_number": 26,
+        "episode_type": "finale",
+        "id": 1149421,
+        "name": "The Stars of Akillian Are Eternal",
+        "overview": "D'Jok score for 1:1 and then Sinedd scores and Snow Kids win the cup 2:1 vs Team Paradisia. Pirates eliminates Harris's cat while then eliminates Harris and Vega who are knocked out into space. The Snow Kids win the cup 3 times in a row.",
+        "production_code": "",
+        "runtime": 23,
+        "season_number": 3,
+        "show_id": 20993,
+        "still_path": "/x7WtmTLn2pGnVKrXQUEpGYBHzB.jpg",
+        "vote_average": 10.0,
+        "vote_count": 1
+    },
+    "name": "Galactik Football",
+    "networks": [
+        {
+            "id": 361,
+            "logo_path": "/b1cFa5FcHHnpejKiPybXSPcqKjT.png",
+            "name": "France 2",
+            "origin_country": "FR"
+        },
+        {
+            "id": 6463,
+            "logo_path": "/1wLTItxaG7iGvqxoBYLfTixYDNo.png",
+            "name": "Disney XD",
+            "origin_country": "FR"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 78,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "FR"
+    ],
+    "original_language": "fr",
+    "original_name": "Galactik Football",
+    "overview": "The inhabited worlds of the Zaelion Galaxy compete in Galactik Football, a sport analogous to football, but played seven to a side. The game is complicated by the addition of Flux, which enhances a player's attributes such as speed, strength, and agility, or grants special powers such as teleportation. The story follows the fate of an inexperienced Galactik Football team, the Snow Kids, as they aim to compete in the Galactik Football Cup.",
+    "popularity": 7.3275,
+    "poster_path": "/iGZe5JcfrUwZvZVtImFONi2ZzqF.jpg",
+    "production_companies": [
+        {
+            "id": 90604,
+            "logo_path": "/n4fNBV539SE1KGNX3v9f8k1Ok0O.png",
+            "name": "Alphanim",
+            "origin_country": "FR"
+        },
+        {
+            "id": 72280,
+            "logo_path": "/4W6PDIwI9oOF5SLsNHPzD7pMtCH.png",
+            "name": "Telegael",
+            "origin_country": "IE"
+        },
+        {
+            "id": 11359,
+            "logo_path": "/aqWJRi66t2oMPMmC60CdK9I3WQd.png",
+            "name": "France 2",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-05-27",
+            "episode_count": 26,
+            "id": 72943,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/n82X5bboRC7W7tJPkoqAcEV4IZd.jpg",
+            "season_number": 1,
+            "vote_average": 9.8
+        },
+        {
+            "air_date": "2009-10-04",
+            "episode_count": 26,
+            "id": 72944,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/bH9XYI4SfayOj7jaHBBUJcFq3cM.jpg",
+            "season_number": 2,
+            "vote_average": 10.0
+        },
+        {
+            "air_date": "2010-07-05",
+            "episode_count": 26,
+            "id": 72947,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/bDiEYBvSygDSi8HV9jUxPQBt1zl.jpg",
+            "season_number": 3,
+            "vote_average": 10.0
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Arabic",
+            "iso_639_1": "ar",
+            "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Fran\u00e7ais"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 171,
+    "youtube_theme_added": 1795119619,
+    "youtube_theme_added_by": "91066652",
+    "youtube_theme_edited": 1795119619,
+    "youtube_theme_edited_by": "91066652",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=isUpjthm6Jo"
+}

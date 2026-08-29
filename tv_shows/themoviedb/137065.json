@@ -1,0 +1,173 @@
+{
+    "adult": false,
+    "backdrop_path": "/kJHEPw3itVz3RmVh4B2PwIVjn3b.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-10-29",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://arknights-anime.jp/",
+    "id": 137065,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2025-09-05",
+    "last_episode_to_air": {
+        "air_date": "2025-09-05",
+        "episode_number": 10,
+        "episode_type": "finale",
+        "id": 6363921,
+        "name": "Dawn",
+        "overview": "Ch'en and Amiya try to free Talulah from Kashchey's control and stopping Chernobog.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 3,
+        "show_id": 137065,
+        "still_path": "/eqIPdSzARcVqVy1LOVc44WXzEZ5.jpg",
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    "name": "Arknights",
+    "networks": [
+        {
+            "id": 98,
+            "logo_path": "/jnuO8pZNEBLEq5YaOP1f5OkmG91.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 614,
+            "logo_path": "/hSdroyVthq3CynxTIIY7lnS8w1.png",
+            "name": "TOKYO MX",
+            "origin_country": "JP"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 26,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "\u660e\u65e5\u65b9\u821f",
+    "overview": "In the wake of unknown Catastrophes in the heart of Terra, a mineral of unimaginable power has been discovered. With it, society's technology has made huge leaps and bounds, but the substance causes a deadly incurable disease, leading to a worldwide enslavement of the infected. As a rebellion is now on the rise, a pharmaceutical company races for a cure to save humanity.",
+    "popularity": 12.7685,
+    "poster_path": "/1DDsRfaTNDZDhiy9TnZBxUOfkB2.jpg",
+    "production_companies": [
+        {
+            "id": 140087,
+            "logo_path": "/lFPM7FXipY4ivUDxsdhrUozNtm8.png",
+            "name": "Yostar Pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 185488,
+            "logo_path": "/kG17uuJtcxXhMytT0leLAqPtpd3.png",
+            "name": "HYPERGRYPH",
+            "origin_country": "CN"
+        },
+        {
+            "id": 185489,
+            "logo_path": "/jhd6JxHfFLfzw0lEfmUYGvLjSb6.png",
+            "name": "Studio Montagne",
+            "origin_country": "CN"
+        },
+        {
+            "id": 187934,
+            "logo_path": "/3sf6swQMiyJwcvGSPOsMyRXWctR.png",
+            "name": "Yostar",
+            "origin_country": "CN"
+        },
+        {
+            "id": 185934,
+            "logo_path": null,
+            "name": "C2 Architecture",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        },
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-12-25",
+            "episode_count": 1,
+            "id": 245014,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/i41TZCqW0Z8uSduGb3heGwKWRYF.jpg",
+            "season_number": 0,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "2022-10-28",
+            "episode_count": 8,
+            "id": 216874,
+            "name": "PRELUDE TO DAWN",
+            "overview": "Adapting the game's early story arc where the pharmaceutical company Rhodes Island, led by Amiya and the amnesiac Doctor, fights the militant Reunion movement. The world of Terra is ravaged by natural disasters that leave behind a mineral called Originium, which advances technology but causes the fatal, crystallizing disease Oripathy. The infected face severe persecution, leading the Reunion movement to seek violent rebellion, while Rhodes Island searches for a cure and a way for the infected and non-infected to coexist.",
+            "poster_path": "/1DDsRfaTNDZDhiy9TnZBxUOfkB2.jpg",
+            "season_number": 1,
+            "vote_average": 5.7
+        },
+        {
+            "air_date": "2023-10-07",
+            "episode_count": 8,
+            "id": 320302,
+            "name": "PERISH IN FROST",
+            "overview": "The season follows Rhodes Island as they deal with the chaos in Lungmen, make uneasy alliances, and engage in intense battles, culminating in a climactic confrontation with FrostNova. Key events include the battle between Ch'en and Mephisto, the stories of Faust and GreyThroat, and the tragic fates of the Yeti Squad members.",
+            "poster_path": "/i8KzomhiLKF62dyGghSzuLRLAmV.jpg",
+            "season_number": 2,
+            "vote_average": 7.6
+        },
+        {
+            "air_date": "2025-07-04",
+            "episode_count": 10,
+            "id": 390751,
+            "name": "RISE FROM EMBER",
+            "overview": "Focusing on the conflict in Chernobog as the Reunion Movement, led by Talulah, attacks the city. Rhodes Island, led by Amiya, stands as the last neutral force against Reunion and attempts to navigate the escalating chaos to prevent widespread destruction. The season covers Chapters 7 and 8 of the game's story, exploring both intense action and emotional moments as the characters confront the consequences of the growing conflict.",
+            "poster_path": "/kRaE0uUaINUSFBd14gFSzhzB25l.jpg",
+            "season_number": 3,
+            "vote_average": 6.7
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "\u65e5\u672c\u8a9e"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.4,
+    "vote_count": 36,
+    "youtube_theme_added": 1795032812,
+    "youtube_theme_added_by": "134911218",
+    "youtube_theme_edited": 1795032812,
+    "youtube_theme_edited_by": "134911218",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=ynnVdC2Mk7k"
+}

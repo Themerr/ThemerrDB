@@ -1,0 +1,78 @@
+{
+    "adult": false,
+    "backdrop_path": "/jyO7LscqXmxOjQpkYYBRImwD300.jpg",
+    "belongs_to_collection": {
+        "backdrop_path": "/gpvSCLCaQhDWqLahsmhMopOX2Qt.jpg",
+        "id": 263193,
+        "name": "Charlotte's Web Collection",
+        "poster_path": "/7sg3elvEwetbPtTbMwr9IuegAtD.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 15171,
+    "imdb_id": "tt0070016",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Charlotte's Web",
+    "overview": "Wilbur the pig is scared of the end of the season, because he knows that come that time, he will end up on the dinner table. He hatches a plan with Charlotte, a spider that lives in his pen, to ensure that this will never happen.",
+    "popularity": 2.2573,
+    "poster_path": "/eLq5bed09bkNVjUfknlbSil2cfR.jpg",
+    "production_companies": [
+        {
+            "id": 1353,
+            "logo_path": "/yXhCcOFK5Fy3ZBQwhBYx8Zu9ZIw.png",
+            "name": "Hanna-Barbera Cartoons",
+            "origin_country": "US"
+        },
+        {
+            "id": 18170,
+            "logo_path": null,
+            "name": "Sagittarius Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1973-03-01",
+    "revenue": 5232000,
+    "runtime": 94,
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "That humble radiant terrific book is now a humble radiant terrific movie.",
+    "title": "Charlotte's Web",
+    "video": false,
+    "vote_average": 6.884,
+    "vote_count": 440,
+    "youtube_theme_added": 1795062568,
+    "youtube_theme_added_by": "177166452",
+    "youtube_theme_edited": 1795062568,
+    "youtube_theme_edited_by": "177166452",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=3ACziCzT6ng"
+}

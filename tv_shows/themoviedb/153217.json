@@ -1,0 +1,139 @@
+{
+    "adult": false,
+    "backdrop_path": "/fx5JyhFvPn1GSm5ITtNNM6hmpUa.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2026-07-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://denkimokuroku.jp",
+    "id": 153217,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2026-09-27",
+    "last_episode_to_air": {
+        "air_date": "2026-09-27",
+        "episode_number": 13,
+        "episode_type": "finale",
+        "id": 7470533,
+        "name": "To the Future We Desire",
+        "overview": "As the Electric Brain goes berserk, Kihachi, Inako and Yosuke confront their destinies. Who will stay stuck in the past or look towards the future?",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 153217,
+        "still_path": "/cYA5KHIYZLN7gzT6qRaw7Kovjv7.jpg",
+        "vote_average": 6.5,
+        "vote_count": 2
+    },
+    "name": "Sparks of Tomorrow",
+    "networks": [
+        {
+            "id": 614,
+            "logo_path": "/hSdroyVthq3CynxTIIY7lnS8w1.png",
+            "name": "TOKYO MX",
+            "origin_country": "JP"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "\u4e8c\u5341\u4e16\u7d00\u96fb\u6c23\u76ee\u9332-\u30e6\u30fc\u30ec\u30ab\u30fb\u30a8\u30f4\u30ea\u30ab-",
+    "overview": "In an alternate past, an unlikely duo team up to look for a missing catalog that could bring electricity to the smoke-filled streets of Kyoto.",
+    "popularity": 8.409,
+    "poster_path": "/yDTcX4l5D3OFeYGsQVI5Jqxx1D7.jpg",
+    "production_companies": [
+        {
+            "id": 5438,
+            "logo_path": "/leZ8GPCL0GneHHayPVnXtB3p0We.png",
+            "name": "Kyoto Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9148,
+            "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+            "name": "Pony Canyon",
+            "origin_country": "JP"
+        },
+        {
+            "id": 86839,
+            "logo_path": "/cnOJAkVVmKZLIzmgw4fRRZ2dctT.png",
+            "name": "ABC Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 173133,
+            "logo_path": "/pB59XO7veWGZjzK4MLGKWxYecD.png",
+            "name": "Bandai Namco Music Live",
+            "origin_country": "JP"
+        },
+        {
+            "id": 244119,
+            "logo_path": null,
+            "name": "Rakuonsha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 303466,
+            "logo_path": null,
+            "name": "Heart Company",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2026-07-05",
+            "episode_count": 13,
+            "id": 235373,
+            "name": "Season 1",
+            "overview": "In an alternate 20th century Kyoto, two brothers dream of bringing about the Age of Electricity with their 20th Century Electrical Catalog. However, when Seiroku Sakamoto brings the catalog with him to war and never returns, his younger brother Kihachi Sakamoto is left by himself. One day, a chance meeting with Inako Momokawa, the daughter of a sake brewer, reunites Kihachi with the lost catalog and kickstarts this dream once more. However, he isn't the only one who wants the catalog...",
+            "poster_path": "/yDTcX4l5D3OFeYGsQVI5Jqxx1D7.jpg",
+            "season_number": 1,
+            "vote_average": 6.4
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "\u65e5\u672c\u8a9e"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Chasing an unseen light!",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 36,
+    "youtube_theme_added": 1795230881,
+    "youtube_theme_added_by": "23737709",
+    "youtube_theme_edited": 1795230881,
+    "youtube_theme_edited_by": "23737709",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=MtxdM8wWpRc"
+}
