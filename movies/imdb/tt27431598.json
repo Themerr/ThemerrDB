@@ -1,0 +1,73 @@
+{
+    "adult": false,
+    "backdrop_path": "/40UyKmlHffRjBDBk7XuI1GwDIwJ.jpg",
+    "belongs_to_collection": null,
+    "budget": 3300000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 1166133,
+    "imdb_id": "tt27431598",
+    "origin_country": [
+        "IN"
+    ],
+    "original_language": "ml",
+    "original_title": "\u0d2d\u0d4d\u0d30\u0d2e\u0d2f\u0d41\u0d17\u0d02",
+    "overview": "A folk singer in 17th-century Kerala discovers a mansion. Inside, he encounters an enigmatic cook and a powerful master, setting in motion a chain of events that changes his life.",
+    "popularity": 2.6907,
+    "poster_path": "/snQLwRrfQAl5YFKVefZq9Lbscki.jpg",
+    "production_companies": [
+        {
+            "id": 11835,
+            "logo_path": "/yEkKuDfFOGouqL5i9lssaAo5Key.png",
+            "name": "Y NOT Studios",
+            "origin_country": "IN"
+        },
+        {
+            "id": 206433,
+            "logo_path": null,
+            "name": "Night Shift Studios",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IN",
+            "name": "India"
+        }
+    ],
+    "release_date": "2024-02-15",
+    "revenue": 10000000,
+    "runtime": 139,
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "Malayalam",
+            "iso_639_1": "ml",
+            "name": "\u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The Age of Madness.",
+    "title": "Bramayugam",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 103,
+    "youtube_theme_added": 1795319883,
+    "youtube_theme_added_by": "76804630",
+    "youtube_theme_edited": 1795319883,
+    "youtube_theme_edited_by": "76804630",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=h1ToI6vpbOY"
+}

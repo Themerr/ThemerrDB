@@ -1,0 +1,59 @@
+{
+    "adult": false,
+    "backdrop_path": "/dIRHmjgbXxfykh3ynQGdciIN9Le.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 10402,
+            "name": "Music"
+        }
+    ],
+    "homepage": "https://tv.apple.com/us/movie/apple-music-live-fred-again/umc.cmc.3zsncw5250n66z6vebyifw97",
+    "id": 1600578,
+    "imdb_id": "tt39186198",
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Apple Music Live: Fred again..",
+    "overview": "Party into the new year with the DJ, who played an electrifying set in Dublin during his USB002 show, accompanied by his friends and guests.",
+    "popularity": 0.2649,
+    "poster_path": "/reQXbV88mMTj5ovrtRe37HsK5Jt.jpg",
+    "production_companies": [
+        {
+            "id": 200429,
+            "logo_path": "/cTUUhWu5V8lEZBQ62wIcjO8gPFs.png",
+            "name": "SiFi Productions",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "2025-12-31",
+    "revenue": 0,
+    "runtime": 180,
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Apple Music Live: Fred again..",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 4,
+    "youtube_theme_added": 1795395228,
+    "youtube_theme_added_by": "52577709",
+    "youtube_theme_edited": 1795395228,
+    "youtube_theme_edited_by": "52577709",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=n7muS3u0Wxo"
+}

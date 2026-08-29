@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/rIb0yi4E3m4OckmEoWrPdpskkTe.jpg",
+    "created_by": [
+        {
+            "credit_id": "63fdeae49653f600b58af618",
+            "gender": 1,
+            "id": 1259788,
+            "name": "Anna Hatzisofia",
+            "original_name": "\u0386\u03bd\u03bd\u03b1 \u03a7\u03b1\u03c4\u03b6\u03b7\u03c3\u03bf\u03c6\u03b9\u03ac",
+            "profile_path": "/jvTr8EPMquXFxhE2oIrupGC0ebJ.jpg"
+        },
+        {
+            "credit_id": "63fdeacecf62cd00b20d757f",
+            "gender": 2,
+            "id": 1241899,
+            "name": "Charis Romas",
+            "original_name": "\u03a7\u03ac\u03c1\u03b7\u03c2 \u03a1\u03ce\u03bc\u03b1\u03c2",
+            "profile_path": "/4RA8GPvYyhpsSQhUEcqQBRQGMa6.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1993-09-16",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 102146,
+    "in_production": false,
+    "languages": [
+        "el"
+    ],
+    "last_air_date": "1995-12-26",
+    "last_episode_to_air": {
+        "air_date": "1995-12-26",
+        "episode_number": 13,
+        "episode_type": "standard",
+        "id": 2623515,
+        "name": "Episode 13",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 3,
+        "show_id": 102146,
+        "still_path": null,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "name": "Oi Men kai oi Den",
+    "networks": [
+        {
+            "id": 572,
+            "logo_path": "/yepAYSCsRS9G4WF9Gt47GSuRjCz.png",
+            "name": "ANT1",
+            "origin_country": "GR"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 108,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "GR"
+    ],
+    "original_language": "el",
+    "original_name": "\u039f\u03b9 \u039c\u03b5\u03bd \u03ba\u03b1\u03b9 \u03bf\u03b9 \u0394\u03b5\u03bd",
+    "overview": "",
+    "popularity": 2.4658,
+    "poster_path": "/1QgzcKYUITFkDtoI0qzgXoPmp77.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1993-09-16",
+            "episode_count": 40,
+            "id": 148290,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "1994-02-21",
+            "episode_count": 39,
+            "id": 175561,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "1995-05-22",
+            "episode_count": 29,
+            "id": 175562,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 3,
+            "vote_average": 0.0
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "Greek",
+            "iso_639_1": "el",
+            "name": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.5,
+    "vote_count": 8,
+    "youtube_theme_added": 1795452558,
+    "youtube_theme_added_by": "228987724",
+    "youtube_theme_edited": 1795452558,
+    "youtube_theme_edited_by": "228987724",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=PgUUEGs6h60"
+}

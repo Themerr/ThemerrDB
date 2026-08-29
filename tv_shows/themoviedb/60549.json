@@ -1,0 +1,118 @@
+{
+    "adult": false,
+    "backdrop_path": "/eoZe9dqseN8FHT3hhZHJAVDAVtZ.jpg",
+    "created_by": [
+        {
+            "credit_id": "52e0b88b19c29575a708d6dc",
+            "gender": 2,
+            "id": 1027870,
+            "name": "Bruno Stagnaro",
+            "original_name": "Bruno Stagnaro",
+            "profile_path": "/e52lZywS1Ob5aeedGIqU9ju4n1Y.jpg"
+        }
+    ],
+    "episode_run_time": [
+        40
+    ],
+    "first_air_date": "2000-10-18",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "",
+    "id": 60549,
+    "in_production": false,
+    "languages": [
+        "es"
+    ],
+    "last_air_date": "2000-12-27",
+    "last_episode_to_air": {
+        "air_date": "2000-12-27",
+        "episode_number": 11,
+        "episode_type": "finale",
+        "id": 971201,
+        "name": "Episode 11",
+        "overview": "",
+        "production_code": "",
+        "runtime": 44,
+        "season_number": 1,
+        "show_id": 60549,
+        "still_path": "/b2Ueo5VGY9sHVul454l131sLNcf.jpg",
+        "vote_average": 9.0,
+        "vote_count": 2
+    },
+    "name": "Okupas",
+    "networks": [
+        {
+            "id": 1529,
+            "logo_path": "/6OLDLGYLUVEfLSlMfA2ODLARe3P.png",
+            "name": "Televisi\u00f3n P\u00fablica Argentina",
+            "origin_country": "AR"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "AR"
+    ],
+    "original_language": "es",
+    "original_name": "Okupas",
+    "overview": "During the year 2000, Ricardo, Pollo, Walter and Chiqui occupied a house in the Buenos Aires neighborhood of Congreso. The four young people forge a strong friendship that leads them to go through different stories of crime, drugs and social marginalization.",
+    "popularity": 2.5464,
+    "poster_path": "/5uf6L2w2QRomahGMCniHskNOQWf.jpg",
+    "production_companies": [
+        {
+            "id": 79648,
+            "logo_path": null,
+            "name": "Ideas del Sur",
+            "origin_country": "AR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "AR",
+            "name": "Argentina"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2000-10-18",
+            "episode_count": 11,
+            "id": 59846,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xbxbnRtdxeXs6bt2sDZ1jNvgcdU.jpg",
+            "season_number": 1,
+            "vote_average": 8.2
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Espa\u00f1ol"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 8.589,
+    "vote_count": 96,
+    "youtube_theme_added": 1795283636,
+    "youtube_theme_added_by": "133032847",
+    "youtube_theme_edited": 1795283636,
+    "youtube_theme_edited_by": "133032847",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=Qw9Vbdd7V1c"
+}

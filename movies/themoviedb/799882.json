@@ -1,0 +1,89 @@
+{
+    "adult": false,
+    "backdrop_path": "/rbFqLPKj6D2JyRh5mOfA7jqX0Qk.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://www.amazon.com/dp/B0G565KPS4",
+    "id": 799882,
+    "imdb_id": "tt14181714",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Bluff",
+    "overview": "When her tranquil life on a remote island is shattered by the return of her vengeful former captain, a skilled ex-pirate must confront her bloody past and unleash her deadly talents to save her family from a ruthless siege.",
+    "popularity": 4.8836,
+    "poster_path": "/dl1cA7wdwePc9QU2Rc24EPqlcyJ.jpg",
+    "production_companies": [
+        {
+            "id": 106544,
+            "logo_path": "/psd84iF7PTGrKf4yFOStKj8JbAh.png",
+            "name": "AGBO",
+            "origin_country": "US"
+        },
+        {
+            "id": 168062,
+            "logo_path": null,
+            "name": "Cinestar Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 6831,
+            "logo_path": "/fWSI4EjIDEEzCNJC8OTPX9Pdbxv.png",
+            "name": "Big Indie Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 52059,
+            "logo_path": "/rajoRd4i5xJKHAqFyeflFBMUBZM.png",
+            "name": "RocketScience",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "2026-02-17",
+    "revenue": 0,
+    "runtime": 103,
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Betrayal cuts deep.",
+    "title": "The Bluff",
+    "video": false,
+    "vote_average": 6.657,
+    "vote_count": 258,
+    "youtube_theme_added": 1795374376,
+    "youtube_theme_added_by": "81909801",
+    "youtube_theme_edited": 1795374376,
+    "youtube_theme_edited_by": "81909801",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=VTJYN4r_Lec"
+}

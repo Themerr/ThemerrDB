@@ -1,0 +1,59 @@
+{
+    "adult": false,
+    "backdrop_path": "/4yrlQXX2QYLdjydZ6hpeB99NGaw.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 993094,
+    "imdb_id": "tt21153268",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Unrivaled: Red Wings v Avalanche",
+    "overview": "Details the intense rivalry between the Detroit Red Wings and the Colorado Avalanche in the 90\u2019s",
+    "popularity": 0.8296,
+    "poster_path": "/lhmRJDJfZxVRuRc31mGTZM9qE1G.jpg",
+    "production_companies": [
+        {
+            "id": 18595,
+            "logo_path": "/2K8ko5VX6K2JTLmyctDpvH7Sgk9.png",
+            "name": "ESPN Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States"
+        }
+    ],
+    "release_date": "2022-06-26",
+    "revenue": 0,
+    "runtime": 128,
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Unrivaled: Red Wings v Avalanche",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1,
+    "youtube_theme_added": 1795637255,
+    "youtube_theme_added_by": "37671266",
+    "youtube_theme_edited": 1795637255,
+    "youtube_theme_edited_by": "37671266",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=iTxOKsyZ0Lw"
+}

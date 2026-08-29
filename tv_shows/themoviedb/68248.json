@@ -1,0 +1,168 @@
+{
+    "adult": false,
+    "backdrop_path": "/onWbj6nWrdFjSQlJIAlHoe1FCGz.jpg",
+    "created_by": [
+        {
+            "credit_id": "580515b392514170aa000faf",
+            "gender": 1,
+            "id": 1498885,
+            "name": "Celia Pacquola",
+            "original_name": "Celia Pacquola",
+            "profile_path": "/rgYPBkZGsH2zRhbNfv08Bg7foFm.jpg"
+        },
+        {
+            "credit_id": "580515bf92514170b7000f4e",
+            "gender": 2,
+            "id": 1469592,
+            "name": "Luke McGregor",
+            "original_name": "Luke McGregor",
+            "profile_path": "/AmK7hRGKUqlnggTjTVynoFinrYt.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2016-10-12",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.abc.net.au/tv/programs/rosehaven/",
+    "id": 68248,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-09-22",
+    "last_episode_to_air": {
+        "air_date": "2021-09-22",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "id": 3086838,
+        "name": "Episode 8",
+        "overview": "Barbara's retirement isn't going to plan. She's retraining and needs the help of Daniel and Emma.",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 5,
+        "show_id": 68248,
+        "still_path": "/mD1ifLzLiVkcVBCvUUZoJHfMOVJ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "name": "Rosehaven",
+    "networks": [
+        {
+            "id": 18,
+            "logo_path": "/kMvN5R8g6L0SY5r9YZw9foYGQr0.png",
+            "name": "ABC TV",
+            "origin_country": "AU"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 40,
+    "number_of_seasons": 5,
+    "origin_country": [
+        "AU"
+    ],
+    "original_language": "en",
+    "original_name": "Rosehaven",
+    "overview": "When Daniel returns to his hometown, Rosehaven, to take over his family's troubled real estate business, he's surprisingly joined by his best (city) friend Emma - who's on the run from a marriage that didn't last the honeymoon. Between Daniel's crippling anxiety and Emma's exuberant irresponsibility will they be able to save the business? It seems unlikely, but it will be fun to watch them try. And might their friendship mean more than they realise?",
+    "popularity": 7.2658,
+    "poster_path": "/dQpsurcTmqPr64bVMEbzmTzmV4r.jpg",
+    "production_companies": [
+        {
+            "id": 82476,
+            "logo_path": "/75OyM9KBYO2rhfsRebvaobIluFP.png",
+            "name": "Guesswork Television",
+            "origin_country": "AU"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "AU",
+            "name": "Australia"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-09-30",
+            "episode_count": 8,
+            "id": 310921,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "2016-10-12",
+            "episode_count": 8,
+            "id": 81011,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/dP9w7MRoV9qqwjhp2qMT2a5mAHR.jpg",
+            "season_number": 1,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "2017-10-25",
+            "episode_count": 8,
+            "id": 95593,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/o3a6ojM7OzB3TYeylKWzuclRNfn.jpg",
+            "season_number": 2,
+            "vote_average": 6.4
+        },
+        {
+            "air_date": "2019-01-30",
+            "episode_count": 8,
+            "id": 117854,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/i5DAmQxuzzSShjrfHbd37kZPjqi.jpg",
+            "season_number": 3,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "2020-07-08",
+            "episode_count": 8,
+            "id": 155692,
+            "name": "Season 4",
+            "overview": "",
+            "poster_path": "/bX5Z2mzTdcRjGtRiyaKyBKOePnu.jpg",
+            "season_number": 4,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "2021-08-04",
+            "episode_count": 8,
+            "id": 203183,
+            "name": "Season 5",
+            "overview": "",
+            "poster_path": "/9wgMIhID0KS40THvrbqJnB4z0Be.jpg",
+            "season_number": 5,
+            "vote_average": 0.0
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 28,
+    "youtube_theme_added": 1795823473,
+    "youtube_theme_added_by": "54457966",
+    "youtube_theme_edited": 1795823473,
+    "youtube_theme_edited_by": "54457966",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=Wy-WPqqT99I"
+}

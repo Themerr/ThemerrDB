@@ -1,0 +1,134 @@
+{
+    "adult": false,
+    "backdrop_path": "/viQZtznvR20oTTSbXp6MPAWkGB2.jpg",
+    "created_by": [
+        {
+            "credit_id": "657d304960c7510718773517",
+            "gender": 2,
+            "id": 1994909,
+            "name": "Lee Chang-hee",
+            "original_name": "\uc774\ucc3d\ud76c",
+            "profile_path": "/6d1j13WsqUV39yfY8QB6MUbycV9.jpg"
+        },
+        {
+            "credit_id": "657d30660816c707ab09088e",
+            "gender": 1,
+            "id": 2756160,
+            "name": "Kim Da-min",
+            "original_name": "\uae40\ub2e4\ubbfc",
+            "profile_path": "/zs8BgrHeZusL28bALBJOnShSquf.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2024-02-09",
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81607354",
+    "id": 202783,
+    "in_production": false,
+    "languages": [
+        "ko"
+    ],
+    "last_air_date": "2024-02-09",
+    "last_episode_to_air": {
+        "air_date": "2024-02-09",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "id": 5100784,
+        "name": "Episode 8",
+        "overview": "The endgame to the chase leads to a final fight \u2014 and it's everyone versus Chon. In the process, Nan-gam finally learns the truth about his father.",
+        "production_code": "",
+        "runtime": 58,
+        "season_number": 1,
+        "show_id": 202783,
+        "still_path": "/hS5wWiFDMULV5PiLnMB4Vyb2tiF.jpg",
+        "vote_average": 6.4,
+        "vote_count": 9
+    },
+    "name": "A Killer Paradox",
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "\uc0b4\uc778\uc790\u3147\ub09c\uac10",
+    "overview": "When one accidental killing leads to another, an ordinary young man finds himself stuck in an endless cat-and-mouse chase with a shrewd detective.",
+    "popularity": 8.9971,
+    "poster_path": "/i2yYZGT2If8XcCZS9ASF1g13MiT.jpg",
+    "production_companies": [
+        {
+            "id": 3491,
+            "logo_path": "/hXRKXi3M9qfP4Npi1kjAaH4eGnM.png",
+            "name": "Showbox",
+            "origin_country": "KR"
+        },
+        {
+            "id": 218087,
+            "logo_path": "/508Kx3BgB8JwV50QFTUp1uOaPxf.png",
+            "name": "Let's Films",
+            "origin_country": "KR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-02-09",
+            "episode_count": 8,
+            "id": 295003,
+            "name": "Limited Series",
+            "overview": "",
+            "poster_path": "/yMx1rTwsP9Q6S1sFKZrXMYwJEdM.jpg",
+            "season_number": 1,
+            "vote_average": 7.0
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "\ud55c\uad6d\uc5b4"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "A godsent hero or unpunished sinner.",
+    "type": "Miniseries",
+    "vote_average": 7.372,
+    "vote_count": 211,
+    "youtube_theme_added": 1795451115,
+    "youtube_theme_added_by": "228987724",
+    "youtube_theme_edited": 1795451115,
+    "youtube_theme_edited_by": "228987724",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=IRK5JDBz588"
+}

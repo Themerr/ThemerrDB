@@ -1,0 +1,130 @@
+{
+    "adult": false,
+    "backdrop_path": "/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+    "created_by": [
+        {
+            "credit_id": "66e62efe9dfbbdf0e6cf4096",
+            "gender": 2,
+            "id": 228428,
+            "name": "Brad Caleb Kane",
+            "original_name": "Brad Caleb Kane",
+            "profile_path": "/5kH9BzRX1osFjvWsh9vmjwTyE7h.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2026-10-15",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://www.peacocktv.com/watch-online/tv/crystal-lake/4833097449942740112",
+    "id": 213562,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2026-10-15",
+    "last_episode_to_air": {
+        "air_date": "2026-10-15",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "id": 7264827,
+        "name": "The Final Chapter",
+        "overview": "Elias arrives in Crystal Lake determined to find his family; Levon and Elias have a heated clash.",
+        "production_code": "",
+        "runtime": 43,
+        "season_number": 1,
+        "show_id": 213562,
+        "still_path": "/9Jm0NFm1FtfXHbSB7k2Kra8IPMH.jpg",
+        "vote_average": 8.103,
+        "vote_count": 29
+    },
+    "name": "Crystal Lake",
+    "networks": [
+        {
+            "id": 3353,
+            "logo_path": "/gIAcGTjKKr0KOHL5s4O36roJ8p7.png",
+            "name": "Peacock",
+            "origin_country": "US"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Crystal Lake",
+    "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
+    "popularity": 29.6348,
+    "poster_path": "/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+    "production_companies": [
+        {
+            "id": 41077,
+            "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+            "name": "A24",
+            "origin_country": "US"
+        },
+        {
+            "id": 278524,
+            "logo_path": null,
+            "name": "K Plus Ultra",
+            "origin_country": "US"
+        },
+        {
+            "id": 62948,
+            "logo_path": null,
+            "name": "Horror",
+            "origin_country": "US"
+        },
+        {
+            "id": 185309,
+            "logo_path": null,
+            "name": "Toberoff Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2026-10-15",
+            "episode_count": 8,
+            "id": 314829,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/hsESHRHtwIQ1OU5ck8fDmuGJkXM.jpg",
+            "season_number": 1,
+            "vote_average": 7.9
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "Rage is a mother.",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 397,
+    "youtube_theme_added": 1795745803,
+    "youtube_theme_added_by": "220218854",
+    "youtube_theme_edited": 1795745803,
+    "youtube_theme_edited_by": "220218854",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=05lNghdnwGU"
+}

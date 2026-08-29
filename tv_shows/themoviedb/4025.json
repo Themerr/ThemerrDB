@@ -1,0 +1,172 @@
+{
+    "adult": false,
+    "backdrop_path": "/g6cOkOGgeeMfMvbsJIDtM5QqxzD.jpg",
+    "created_by": [
+        {
+            "credit_id": "52575a65760ee36aaa29d4df",
+            "gender": 2,
+            "id": 111509,
+            "name": "Jean Chalopin",
+            "original_name": "Jean Chalopin",
+            "profile_path": "/eaqFq3NejY1FiYubiMY6dVcoilp.jpg"
+        },
+        {
+            "credit_id": "595aa7959251415a40012e06",
+            "gender": 2,
+            "id": 1450556,
+            "name": "Yoshitake Suzuki",
+            "original_name": "\u9234\u6728\u826f\u6b66",
+            "profile_path": null
+        },
+        {
+            "credit_id": "6113bcce006b0100469ae8f1",
+            "gender": 1,
+            "id": 2418392,
+            "name": "Nina Wolmark",
+            "original_name": "Nina Wolmark",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1981-10-03",
+    "genres": [
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 4025,
+    "in_production": false,
+    "languages": [
+        "fr"
+    ],
+    "last_air_date": "1982-03-27",
+    "last_episode_to_air": {
+        "air_date": "1982-03-27",
+        "episode_number": 26,
+        "episode_type": "finale",
+        "id": 960154,
+        "name": "The Kingdom of Hades",
+        "overview": "In the final episode, Ulysses and his companions reach the Kingdom of Hades. They meet Orpheus, who seeks Ulysses' help to find his love, Eurydice, who has been taken to the Kingdom of Hades by Charon. Hades, the god of death, tells Ulysses that he must leave his companions behind if he wishes to return to Earth. He rejects the offer, which was a final test, and they all return home.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 4025,
+        "still_path": "/kUWA4utlisT3NOqqJwCSJifsF3z.jpg",
+        "vote_average": 7.5,
+        "vote_count": 2
+    },
+    "name": "Ulysses 31",
+    "networks": [
+        {
+            "id": 249,
+            "logo_path": "/1ePfTUHHvBlVQxa0Fltx5kWhIs5.png",
+            "name": "France 3",
+            "origin_country": "FR"
+        },
+        {
+            "id": 7934,
+            "logo_path": "/chO8WHQcacMPfvKAQI25xxMfEvC.png",
+            "name": "RTL",
+            "origin_country": "LU"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "FR"
+    ],
+    "original_language": "fr",
+    "original_name": "Ulysse 31",
+    "overview": "Ulysses and his crew struggle against the divine entities that rule the universe, the ancient gods from Greek mythology.",
+    "popularity": 9.2738,
+    "poster_path": "/fJLwSnPxQWDj6BFopbAg2qTMQPr.jpg",
+    "production_companies": [
+        {
+            "id": 11244,
+            "logo_path": "/gCHH1xt3dKjlm9NuMPF9ekpPWD6.png",
+            "name": "France\u20223",
+            "origin_country": "FR"
+        },
+        {
+            "id": 40996,
+            "logo_path": "/9DEEZpPrHx5jpGV3GmiSmmYqA5n.png",
+            "name": "CLT",
+            "origin_country": "LU"
+        },
+        {
+            "id": 3069,
+            "logo_path": "/tpGaXEBassYaiEBvnJ7K5vchT50.png",
+            "name": "Tokyo Movie Shinsha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 124006,
+            "logo_path": "/vU1jgLb90ljWQOkGaRzNRBYvdrc.png",
+            "name": "DIC",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 4,
+            "id": 11907,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/f3nptjClKv1lFn0bUzcjuF64r2u.jpg",
+            "season_number": 0,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "1981-10-03",
+            "episode_count": 26,
+            "id": 11906,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9c7vzJXscR0LPJJFFnf7ebPGRZa.jpg",
+            "season_number": 1,
+            "vote_average": 7.0
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "fran\u00e7ais"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.0,
+    "vote_count": 132,
+    "youtube_theme_added": 1795822857,
+    "youtube_theme_added_by": "88253312",
+    "youtube_theme_edited": 1795822857,
+    "youtube_theme_edited_by": "88253312",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=HBFL_AiGW7g"
+}

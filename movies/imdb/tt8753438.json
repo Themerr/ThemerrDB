@@ -1,0 +1,79 @@
+{
+    "adult": false,
+    "backdrop_path": "/jG6bfsahRPUQhXJcBrJrnWnK2BQ.jpg",
+    "belongs_to_collection": {
+        "backdrop_path": "/eFV1SDov7uXPscMWUmvOZqM7FeS.jpg",
+        "id": 619923,
+        "name": "Ash Lad Collection",
+        "poster_path": "/cqFUKfJW4qtEayAc3iJ3BfRbTpV.jpg"
+    },
+    "budget": 7300000,
+    "genres": [
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 561557,
+    "imdb_id": "tt8753438",
+    "origin_country": [
+        "NO"
+    ],
+    "original_language": "no",
+    "original_title": "Askeladden - I Soria Moria slott",
+    "overview": "When the King and Queen are poisoned, brothers Per and P\u00e5l get arrested, suspected of being behind it. Younger brother Espen \"Ash Lad\" and Princess Kristin set out on a quest to find the mythical Soria Moria castle, which is said to be built of pure gold. In Soria Moria, there sits a well containing the Water of Life; the only thing that can cure Kristin's parents. But some wicked Danes are also on the hunt to find the castle. If Espen and Kristin fail, it will spell the end for the brothers, the kingdom - and perhaps the entire world.",
+    "popularity": 2.9335,
+    "poster_path": "/5LVjFm8tGRtpapvexWi6RaXEHOC.jpg",
+    "production_companies": [
+        {
+            "id": 2009,
+            "logo_path": "/uYhcZOgFli63ESI8sveQQ708Yu8.png",
+            "name": "Maipo Film",
+            "origin_country": "NO"
+        },
+        {
+            "id": 19037,
+            "logo_path": "/tceh2aAORA5JxIZSLQ1GkzTBZDL.png",
+            "name": "uMedia",
+            "origin_country": "BE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "NO",
+            "name": "Norway"
+        }
+    ],
+    "release_date": "2019-08-23",
+    "revenue": 2996763,
+    "runtime": 99,
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "Danish",
+            "iso_639_1": "da",
+            "name": "dansk"
+        },
+        {
+            "english_name": "Norwegian",
+            "iso_639_1": "no",
+            "name": "Norsk"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Ash Lad: In Search of the Golden Castle",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 129,
+    "youtube_theme_added": 1795554395,
+    "youtube_theme_added_by": "196570696",
+    "youtube_theme_edited": 1795554395,
+    "youtube_theme_edited_by": "196570696",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=YIF1UtS21IQ"
+}

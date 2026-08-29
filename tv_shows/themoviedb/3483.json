@@ -1,0 +1,180 @@
+{
+    "adult": false,
+    "backdrop_path": "/7BG0EAfPn037Sj9h1cAB2srqQSX.jpg",
+    "created_by": [
+        {
+            "credit_id": "56f3f628c3a3682fdb002a37",
+            "gender": 2,
+            "id": 1218795,
+            "name": "Bill Nye",
+            "original_name": "Bill Nye",
+            "profile_path": "/HfEBnQuiCMPjcsONf9FCpnEyJL.jpg"
+        }
+    ],
+    "episode_run_time": [
+        26
+    ],
+    "first_air_date": "1993-09-10",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "https://billnye.com/",
+    "id": 3483,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "1998-06-20",
+    "last_episode_to_air": {
+        "air_date": "1998-06-20",
+        "episode_number": 20,
+        "episode_type": "finale",
+        "id": 251099,
+        "name": "Motion",
+        "overview": "Things can appear to be moving, when they really aren\u2019t. Sometimes an object might seem to be at rest, even when it is in motion. It\u2019s all relative. Relative motion, that is. How things appear to move depends on how you, or any observer, happens to be moving. So, if you\u2019re on a bus looking out a window into another bus, and your bus begins to back up slowly, you may think the other bus is moving forward, when really it\u2019s not moving at all. That\u2019s motion in motion. It happens all around us all the time.",
+        "production_code": "",
+        "runtime": 26,
+        "season_number": 5,
+        "show_id": 3483,
+        "still_path": "/uCN9i3i90LoSxBPgJgnjMiNB7iS.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "name": "Bill Nye the Science Guy",
+    "networks": [
+        {
+            "id": 14,
+            "logo_path": "/4Fn4eQmEmJZ9YWjiIhZ6cF1QHAi.png",
+            "name": "PBS",
+            "origin_country": "US"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 100,
+    "number_of_seasons": 5,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Bill Nye the Science Guy",
+    "overview": "It's \"Mr. Wizard\" for a different decade. Bill Nye is the Science Guy, a host who's hooked on experimenting and explaining. Picking one topic per show (like the human heart or electricity), Nye gets creative with teaching kids and adults alike the nuances of science.",
+    "popularity": 12.4923,
+    "poster_path": "/xdGGiQ8gBEwjyafLxW34IK8sblZ.jpg",
+    "production_companies": [
+        {
+            "id": 47597,
+            "logo_path": null,
+            "name": "Rabbit Ears Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 3030,
+            "logo_path": "/9qE1ID398SaX9zYiRiPHdZfPTbt.png",
+            "name": "KCTS Television",
+            "origin_country": "US"
+        },
+        {
+            "id": 65723,
+            "logo_path": "/sNxYu3F4BEkeoTg53JgWztSom5d.png",
+            "name": "Buena Vista Television",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 10640,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "1993-09-10",
+            "episode_count": 20,
+            "id": 10635,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xCDUoRQZVZjDdII41hX8H2Gzt4r.jpg",
+            "season_number": 1,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "1994-02-18",
+            "episode_count": 20,
+            "id": 10636,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/1jZrx2vf7I5Xzxbo1nS3oFdvGOE.jpg",
+            "season_number": 2,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "1995-01-14",
+            "episode_count": 20,
+            "id": 10637,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/7dvOhlTEhkKxCN2uItig3VT1R3e.jpg",
+            "season_number": 3,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "1995-11-03",
+            "episode_count": 20,
+            "id": 10638,
+            "name": "Season 4",
+            "overview": "",
+            "poster_path": "/bITWuFYVgNesbwfRJwI67KnmQqT.jpg",
+            "season_number": 4,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "1997-09-19",
+            "episode_count": 20,
+            "id": 10639,
+            "name": "Season 5",
+            "overview": "",
+            "poster_path": "/odzPr23FQNa4UjwwvaWCGUqrgbY.jpg",
+            "season_number": 5,
+            "vote_average": 0.0
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.414,
+    "vote_count": 99,
+    "youtube_theme_added": 1795311599,
+    "youtube_theme_added_by": "320304941",
+    "youtube_theme_edited": 1795311599,
+    "youtube_theme_edited_by": "320304941",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=UtVJdPfm0F8"
+}

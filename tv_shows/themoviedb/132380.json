@@ -1,0 +1,130 @@
+{
+    "adult": false,
+    "backdrop_path": "/xERG8q6BiofxS0OL7IkjattC7Qc.jpg",
+    "created_by": [
+        {
+            "credit_id": "612d6dca9c24fc002b0b385c",
+            "gender": 1,
+            "id": 1237506,
+            "name": "Melinda Hsu Taylor",
+            "original_name": "Melinda Hsu Taylor",
+            "profile_path": "/tMrc6Y905Lb457c11uvpdJ3z95t.jpg"
+        },
+        {
+            "credit_id": "612d6dd181140f002ab7edb8",
+            "gender": 1,
+            "id": 1665447,
+            "name": "Noga Landau",
+            "original_name": "Noga Landau",
+            "profile_path": "/oVAIx11GiI2gOuf7bdvItBv55FW.jpg"
+        },
+        {
+            "credit_id": "612d6ef3a1d3320067fb831e",
+            "gender": 2,
+            "id": 2457718,
+            "name": "Cameron Johnson",
+            "original_name": "Cameron Johnson",
+            "profile_path": "/lr5O1T0JRKAduWvMC3gbGJGbYNl.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2022-05-31",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.cwtv.com/shows/tom-swift",
+    "id": 132380,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-08-02",
+    "last_episode_to_air": {
+        "air_date": "2022-08-02",
+        "episode_number": 10,
+        "episode_type": "finale",
+        "id": 3837183,
+        "name": "... And the Cost of Forgiveness",
+        "overview": "Only hours are left before Tom must launch the rescue drone to save his father from outer space. But his plans are jeopardized by an anti-technology attack at Swift Enterprises\u2019 Black engineering conference.",
+        "production_code": "",
+        "runtime": 43,
+        "season_number": 1,
+        "show_id": 132380,
+        "still_path": "/rBcrSM76B7mfJUDRxJqCWRVC3Cm.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "name": "Tom Swift",
+    "networks": [
+        {
+            "id": 71,
+            "logo_path": "/hEpcdJ4O6eitG9ADSnDXNUrlovS.png",
+            "name": "The CW",
+            "origin_country": "US"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Tom Swift",
+    "overview": "Tom Swift is thrust into a world of sci-fi conspiracy and unexplained phenomena after the shocking disappearance of his father. Tom takes to the road on a quest to unravel the truth, leaving behind the comforts of his usual moneyed lifestyle, all while fighting to stay one step ahead of an Illuminati-scale group hell-bent on stopping him.",
+    "popularity": 3.4434,
+    "poster_path": "/g1gxOmj5EBNle208jCD0CLRJ7v9.jpg",
+    "production_companies": [
+        {
+            "id": 1081,
+            "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+            "name": "CBS Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 51718,
+            "logo_path": "/fS7xGI3Pm48AsvrjBMceyBoKr2c.png",
+            "name": "Fake Empire Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-05-31",
+            "episode_count": 10,
+            "id": 208476,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3swe2ZS5xUFmwF7u917BLyYOo7D.jpg",
+            "season_number": 1,
+            "vote_average": 0.0
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Canceled",
+    "tagline": "Swagger is a science.",
+    "type": "Scripted",
+    "vote_average": 4.2,
+    "vote_count": 36,
+    "youtube_theme_added": 1795494978,
+    "youtube_theme_added_by": "220218854",
+    "youtube_theme_edited": 1795494978,
+    "youtube_theme_edited_by": "220218854",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=cGLIYznHk00"
+}

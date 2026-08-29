@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/5AevuFXRk6Z7rRv1TBGY6bZz3SF.jpg",
+    "created_by": [
+        {
+            "credit_id": "5257fe1a19c29531db330848",
+            "gender": 2,
+            "id": 1219230,
+            "name": "Eric Chappell",
+            "original_name": "Eric Chappell",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1988-01-27",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 10194,
+    "in_production": false,
+    "languages": [],
+    "last_air_date": "1991-08-21",
+    "last_episode_to_air": {
+        "air_date": "1991-08-21",
+        "episode_number": 7,
+        "episode_type": "finale",
+        "id": 420548,
+        "name": "To Russia With Love",
+        "overview": "",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 3,
+        "show_id": 10194,
+        "still_path": null,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "name": "Singles",
+    "networks": [
+        {
+            "id": 9,
+            "logo_path": "/oz9pjTHnBUmlju8OkaTymhKbh6C.png",
+            "name": "ITV1",
+            "origin_country": "GB"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 21,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Singles",
+    "overview": "Singles is a British sitcom set in a singles bar produced by Yorkshire Television. It aired for 3 series and 22 episodes on the ITV network between 1988 and 1991. Main character Malcolm, played by Roger Rees, was written out in the final series after Rees relocated to the United States, with Simon Cadell joining the cast in his place as Dennis Duval.",
+    "popularity": 2.6814,
+    "poster_path": "/g8wB3lC84o0kZwSMaZDuMoJRXk.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 7,
+            "id": 20189,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "1989-01-23",
+            "episode_count": 7,
+            "id": 20190,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "1991-07-10",
+            "episode_count": 7,
+            "id": 20191,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 3,
+            "vote_average": 0.0
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 2,
+    "youtube_theme_added": 1795452905,
+    "youtube_theme_added_by": "228987724",
+    "youtube_theme_edited": 1795452905,
+    "youtube_theme_edited_by": "228987724",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=LNVzX3M3i-4"
+}

@@ -1,0 +1,148 @@
+{
+    "adult": false,
+    "backdrop_path": "/q0bLjLCBZGhnMcRprx2gWRGdlrp.jpg",
+    "created_by": [
+        {
+            "credit_id": "602c39308258fc003e9f8f85",
+            "gender": 2,
+            "id": 87173,
+            "name": "Craig Kyle",
+            "original_name": "Craig Kyle",
+            "profile_path": "/kXtY46kM9bS8AlTXC2rD4u58v58.jpg"
+        },
+        {
+            "credit_id": "602c39359d2b63004188916a",
+            "gender": 2,
+            "id": 109542,
+            "name": "Christopher L. Yost",
+            "original_name": "Christopher L. Yost",
+            "profile_path": "/wPZAV6uK5t3MRd2gBt5AqBTzCsa.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2006-09-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "",
+    "id": 132,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2010-02-25",
+    "last_episode_to_air": {
+        "air_date": "2010-02-25",
+        "episode_number": 26,
+        "episode_type": "finale",
+        "id": 7325,
+        "name": "Scavenger Hunt",
+        "overview": "Terminus, an alien scavenger, comes to steal all of Earth's resources. While the Fantastic Four try to stop him, they realize he may be unbeatable",
+        "production_code": "126",
+        "runtime": 20,
+        "season_number": 1,
+        "show_id": 132,
+        "still_path": "/6k1U2f4Lh50BB8htRVye7r5QH5t.jpg",
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    "name": "Fantastic Four: World's Greatest Heroes",
+    "networks": [
+        {
+            "id": 56,
+            "logo_path": "/c5OC6oVCg6QP4eqzW6XIq17CQjI.png",
+            "name": "Cartoon Network",
+            "origin_country": "US"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Fantastic Four: World's Greatest Heroes",
+    "overview": "Mr. Fantastic, the Invisible Woman, the Human Torch, and the Thing battle some of their greatest foes, including Doctor Doom, Ronan the Accuser, the Multiple Man, and Mole Man.",
+    "popularity": 11.9813,
+    "poster_path": "/zCtCW0JlbMpzfQDAX1bO1o1KLi.jpg",
+    "production_companies": [
+        {
+            "id": 62041,
+            "logo_path": "/tqvwJdwaZxDqgsqUoyN1ogCjEjO.png",
+            "name": "MoonScoop",
+            "origin_country": "FR"
+        },
+        {
+            "id": 7505,
+            "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
+            "name": "Marvel Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-10-27",
+            "episode_count": 3,
+            "id": 399,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "2006-09-02",
+            "episode_count": 26,
+            "id": 398,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/oOsmznLNc8LXDg90sMAvScBnWuO.jpg",
+            "season_number": 1,
+            "vote_average": 5.7
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.567,
+    "vote_count": 104,
+    "youtube_theme_added": 1795741912,
+    "youtube_theme_added_by": "164014637",
+    "youtube_theme_edited": 1795741912,
+    "youtube_theme_edited_by": "164014637",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=3Lvs8fVAKfc"
+}

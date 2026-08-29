@@ -1,0 +1,148 @@
+{
+    "adult": false,
+    "backdrop_path": "/6qQxz0PkwPqVP0M3f5ucrLleHq8.jpg",
+    "created_by": [
+        {
+            "credit_id": "525980f1760ee34661a980e2",
+            "gender": 2,
+            "id": 3225,
+            "name": "Nick Hornby",
+            "original_name": "Nick Hornby",
+            "profile_path": "/AobxCRQRQ5KPXG4VBnjo1EpZMN.jpg"
+        }
+    ],
+    "episode_run_time": [
+        22,
+        20
+    ],
+    "first_air_date": "2014-02-22",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.nbc.com/about-a-boy",
+    "id": 51388,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2015-07-20",
+    "last_episode_to_air": {
+        "air_date": "2015-07-20",
+        "episode_number": 20,
+        "episode_type": "finale",
+        "id": 1091850,
+        "name": "About a Love in the Air",
+        "overview": "Will plays wing-man for Marcus, but Marcus wants to win Shea back at the school dance, Liz dumps Will after he defends Fiona, Marcus professes his love for Shea, Fiona and Will kiss.",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 2,
+        "show_id": 51388,
+        "still_path": "/hRg842QNxD3wjlpTOd5qA9louv9.jpg",
+        "vote_average": 7.0,
+        "vote_count": 2
+    },
+    "name": "About a Boy",
+    "networks": [
+        {
+            "id": 6,
+            "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+            "name": "NBC",
+            "origin_country": "US"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 33,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "US",
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "About a Boy",
+    "overview": "Will Freeman lives a charmed existence as the ultimate man-child. After writing a hit song, he was granted a life of free time, free love and freedom from financial woes. He's single, unemployed and loving it. So imagine his surprise when Fiona, a needy single mom and her oddly charming 11-year-old son, Marcus, move in next door and disrupt his perfect world. When Marcus begins dropping by his home unannounced, Will's not so sure about being a kid's new best friend, until, of course, Will discovers that women find single dads irresistible. That changes everything and a deal is struck: Marcus will pretend to be Will's son and, in return, Marcus is allowed to chill at Will's house. Before he realizes it, Will starts to enjoy the visits and even finds himself looking out for the kid. In fact, this newfound friendship may very well teach him a thing or two that he never imagined possible - about himself and caring for others.",
+    "popularity": 12.2782,
+    "poster_path": "/fTMbfMqUZ1OCqh9CQq5H5Pi13CH.jpg",
+    "production_companies": [
+        {
+            "id": 11391,
+            "logo_path": "/t6m0uRTzaFHCsvEpikENE0PWJGb.png",
+            "name": "Tribeca Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 8102,
+            "logo_path": "/xDCttGk89Udx0Mc11ZZOb14xIg4.png",
+            "name": "Working Title Television",
+            "origin_country": "GB"
+        },
+        {
+            "id": 26727,
+            "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+            "name": "Universal Television",
+            "origin_country": "US"
+        },
+        {
+            "id": 20171,
+            "logo_path": null,
+            "name": "True Jack Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-02-22",
+            "episode_count": 13,
+            "id": 59931,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xxhIxE5DdgiO9ED4FrsMlqqh59t.jpg",
+            "season_number": 1,
+            "vote_average": 7.7
+        },
+        {
+            "air_date": "2014-10-14",
+            "episode_count": 20,
+            "id": 63010,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/7DR3f6PMyKKVFASeihW7bHbLPrz.jpg",
+            "season_number": 2,
+            "vote_average": 7.1
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Canceled",
+    "tagline": "You don't have to be family to be family",
+    "type": "Scripted",
+    "vote_average": 6.4,
+    "vote_count": 97,
+    "youtube_theme_added": 1795828643,
+    "youtube_theme_added_by": "112611573",
+    "youtube_theme_edited": 1795828643,
+    "youtube_theme_edited_by": "112611573",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=CVq2_y3pxoU"
+}

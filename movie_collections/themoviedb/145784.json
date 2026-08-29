@@ -1,0 +1,60 @@
+{
+    "backdrop_path": "/xudPnQgz1n3ZNFu9Co82s3qFoB2.jpg",
+    "id": 145784,
+    "name": "The Philadelphia Experiment Collection",
+    "original_language": "es",
+    "original_name": "The Philadelphia Experiment Collection",
+    "overview": "The Philadelphia Experiment is a 1984 science fiction film. It is directed by Stewart Raffill and based on the urban legend of the Philadelphia Experiment. A sequel called Philadelphia Experiment II, featuring a different cast and crew, was released in 1993.",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/4wPZaKaucs4lN7V4JWwkCN8vSwp.jpg",
+            "genre_ids": [
+                878,
+                12,
+                53
+            ],
+            "id": 10606,
+            "media_type": "movie",
+            "original_language": "en",
+            "original_title": "The Philadelphia Experiment",
+            "overview": "Based on an \"actual event\" that took place in 1943. About a US Navy Destroyer Escort that disappeared from the Philadelphia Naval Shipyard, and sent two men 40 years into the future to 1984.",
+            "popularity": 2.5309,
+            "poster_path": "/loKzciPI19uLZ6GeSYjInzdGg60.jpg",
+            "release_date": "1984-10-05",
+            "softcore": false,
+            "title": "The Philadelphia Experiment",
+            "video": false,
+            "vote_average": 6.11,
+            "vote_count": 482
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uIiFTa0jkv9MN8eNfCNNJCqD88g.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "id": 35610,
+            "media_type": "movie",
+            "original_language": "en",
+            "original_title": "Philadelphia Experiment II",
+            "overview": "It is several years after the events of the first movie, and David Herdeg (the survivor of the Philadelphia Experiment from the first film) and Allison (the woman from 1984 he fell in love with) have married and have a child. David awakes, in agony, to a changed world. Germany won World War II and the United States is now about to mark 50 years as a Nazi conquest.",
+            "popularity": 1.5148,
+            "poster_path": "/6zRtsii1KQuF2KvSda6IDYBEVJg.jpg",
+            "release_date": "1993-11-12",
+            "softcore": false,
+            "title": "Philadelphia Experiment II",
+            "video": false,
+            "vote_average": 5.155,
+            "vote_count": 84
+        }
+    ],
+    "poster_path": "/jA1QaZoq1vrKU2wzUc6iqFK6naW.jpg",
+    "youtube_theme_added": 1795530571,
+    "youtube_theme_added_by": "112124049",
+    "youtube_theme_edited": 1795530571,
+    "youtube_theme_edited_by": "112124049",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=mFmVauw6umo"
+}

@@ -1,0 +1,130 @@
+{
+    "adult": false,
+    "backdrop_path": "/4cRHAgqMQTtx6Ncw8cphjOR7lnS.jpg",
+    "created_by": [
+        {
+            "credit_id": "59bbf8229251411ea6001260",
+            "gender": 2,
+            "id": 1888448,
+            "name": "Dave Holstein",
+            "original_name": "Dave Holstein",
+            "profile_path": "/cahOZfIPtjdcDNZu2qiXZs6zQtE.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2018-09-09",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.sho.com/kidding",
+    "id": 73925,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2020-03-08",
+    "last_episode_to_air": {
+        "air_date": "2020-03-08",
+        "episode_number": 10,
+        "episode_type": "finale",
+        "id": 2070920,
+        "name": "The Puppet Dalai Lama",
+        "overview": "Jill asks Jeff a question he isn't sure if he can answer.",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 2,
+        "show_id": 73925,
+        "still_path": "/wMZBnmNENPqOtE2xnyxo6VmOOFQ.jpg",
+        "vote_average": 8.3,
+        "vote_count": 11
+    },
+    "name": "Kidding",
+    "networks": [
+        {
+            "id": 67,
+            "logo_path": "/257LvQnSLHJAWf6rtJjJbxRkJhL.png",
+            "name": "Showtime",
+            "origin_country": "US"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 20,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Kidding",
+    "overview": "Jeff, aka Mr. Pickles, is an icon of children's TV. But when his family begins to implode, Jeff finds no fairy tale or fable or puppet will guide him through this crisis, which advances faster than his means to cope. The result: a kind man in a cruel world faces a slow leak of sanity as hilarious as it is heartbreaking.",
+    "popularity": 15.6834,
+    "poster_path": "/oYqvxrvN5PVd4Kvp46LnXVl42nW.jpg",
+    "production_companies": [
+        {
+            "id": 37361,
+            "logo_path": "/xpbUNXnrMeEK1ynbqVnHp8ZOVKW.png",
+            "name": "Aggregate Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 93409,
+            "logo_path": null,
+            "name": "Some Kind of Garden",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-09-09",
+            "episode_count": 10,
+            "id": 92801,
+            "name": "Season 1",
+            "overview": "In season 1, Jeff begins to push back against the limits of the well-oiled machine that is Mr. Pickles\u2019 Puppet Time. Seb begins preparing the show for a life after Jeff. Deirdre grapples with her own personal and professional life issues.",
+            "poster_path": "/dDR6SzZ966MffBrYPEG7mS0Qs1r.jpg",
+            "season_number": 1,
+            "vote_average": 7.6
+        },
+        {
+            "air_date": "2020-02-09",
+            "episode_count": 10,
+            "id": 128797,
+            "name": "Season 2",
+            "overview": "Season two picks up moments after season one\u2019s cliffhanger, and with his beloved Mr. Pickles\u2019 Puppet Time off the air for the first time in 30 years, Jeff Pickles must find a way to communicate with his many fans who still need him. Jeff creates a new and controversial method to talk directly to children across the world only to become the target of animosity for the first time in his career. As Jeff navigates the most complicated moral gray areas of his life, he discovers a new side of himself in a season full of music, magic, puppets and pathos.",
+            "poster_path": "/2M7FzUJ9q9MwDQs9kwTqC9zSRYh.jpg",
+            "season_number": 2,
+            "vote_average": 7.8
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Canceled",
+    "tagline": "Hi. Cruel world.",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 361,
+    "youtube_theme_added": 1795451050,
+    "youtube_theme_added_by": "228987724",
+    "youtube_theme_edited": 1795451050,
+    "youtube_theme_edited_by": "228987724",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=v8Tbc27I-hY"
+}

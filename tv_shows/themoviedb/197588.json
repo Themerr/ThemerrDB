@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/1MqkDOnmK54aKiCGIrRFcxe7XfR.jpg",
+    "created_by": [
+        {
+            "credit_id": "625c37d8d266a20067b380b6",
+            "gender": 2,
+            "id": 10730,
+            "name": "Rowan Atkinson",
+            "original_name": "Rowan Atkinson",
+            "profile_path": "/gdiN2zLjC3Mnfrp7hM3TXVJjWJv.jpg"
+        },
+        {
+            "credit_id": "6914e1a3087f7fce383a3dcc",
+            "gender": 2,
+            "id": 21075,
+            "name": "William Davies",
+            "original_name": "William Davies",
+            "profile_path": "/74zc53Wmi08cB7zNXAIKFNKHeYM.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2022-06-24",
+    "genres": [
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81222715",
+    "id": 197588,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-06-24",
+    "last_episode_to_air": {
+        "air_date": "2022-06-24",
+        "episode_number": 9,
+        "episode_type": "finale",
+        "id": 3772022,
+        "name": "Chapter 9",
+        "overview": "With Nina and Christian on their way back home, Trevor goes in pursuit of his unrelenting rival with blazing fury.",
+        "production_code": "",
+        "runtime": 12,
+        "season_number": 1,
+        "show_id": 197588,
+        "still_path": "/mcKNVr9hIsWtKt6lEWbO0naVXi.jpg",
+        "vote_average": 7.424,
+        "vote_count": 33
+    },
+    "name": "Man vs Bee",
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 9,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Man vs Bee",
+    "overview": "Bumbling dad Trevor tries to get the best of a cunning bee while house-sitting a posh mansion \u2014 but only unleashes more chaos in this comedy series.",
+    "popularity": 5.8819,
+    "poster_path": "/c80mxgOPvSWJBcgWoI5bf3et5Ws.jpg",
+    "production_companies": [
+        {
+            "id": 178208,
+            "logo_path": null,
+            "name": "HouseSitter Productions",
+            "origin_country": "GB"
+        },
+        {
+            "id": 49092,
+            "logo_path": null,
+            "name": "Redrum Films",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-06-24",
+            "episode_count": 9,
+            "id": 287594,
+            "name": "Season 1",
+            "overview": "A house sitter named Trevor Bingley finds himself entrenched in an ongoing battle with a bumblebee while lodging in an elegant mansion, damaging expensive items in the house in his attempt to kill it, which fails.",
+            "poster_path": "/33DwaPZGAaBItjwFXT7Tp8ZTMo2.jpg",
+            "season_number": 1,
+            "vote_average": 7.2
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Prepare for battle.",
+    "type": "Scripted",
+    "vote_average": 7.075,
+    "vote_count": 750,
+    "youtube_theme_added": 1795451697,
+    "youtube_theme_added_by": "228987724",
+    "youtube_theme_edited": 1795451697,
+    "youtube_theme_edited_by": "228987724",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=6tFrqLxEiBk"
+}

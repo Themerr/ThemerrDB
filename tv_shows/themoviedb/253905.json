@@ -1,0 +1,124 @@
+{
+    "adult": false,
+    "backdrop_path": "/2vtI9xzD6qpDzY9m8kV67QY0qfM.jpg",
+    "created_by": [
+        {
+            "credit_id": "675abc88ccf4df966822ca59",
+            "gender": 1,
+            "id": 2349392,
+            "name": "Kim Ji-woon",
+            "original_name": "Kim Ji-woon",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        70
+    ],
+    "first_air_date": "2024-11-22",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://program.imbc.com/WhenThePhoneRings",
+    "id": 253905,
+    "in_production": false,
+    "languages": [
+        "ko"
+    ],
+    "last_air_date": "2025-01-04",
+    "last_episode_to_air": {
+        "air_date": "2025-01-04",
+        "episode_number": 12,
+        "episode_type": "finale",
+        "id": 5732896,
+        "name": "Episode 12",
+        "overview": "Sa-eon abandons everything he's worked for, leaving Hee-joo completely alone. But after a clue arrives, she embarks on a journey to reunite with him.",
+        "production_code": "",
+        "runtime": 67,
+        "season_number": 1,
+        "show_id": 253905,
+        "still_path": "/9gvIN5sjFV3EbAasl1nhfMqwv8Z.jpg",
+        "vote_average": 5.3,
+        "vote_count": 3
+    },
+    "name": "When the Phone Rings",
+    "networks": [
+        {
+            "id": 97,
+            "logo_path": "/pOSCKaZhndUFYtxHXjQOV6xJi1s.png",
+            "name": "MBC",
+            "origin_country": "KR"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "\uc9c0\uae08 \uac70\uc2e0 \uc804\ud654\ub294",
+    "overview": "A rising politician and his mute wife's tense marriage begins to unravel after a call from a kidnapper turns their lives upside down.",
+    "popularity": 8.0985,
+    "poster_path": "/glWP5Y7CVeqrOjJpLckQjuLFjQJ.jpg",
+    "production_companies": [
+        {
+            "id": 36225,
+            "logo_path": "/haNfBy6ZS1a1teY9JXNHHkFhZEj.png",
+            "name": "Bon Factory",
+            "origin_country": "KR"
+        },
+        {
+            "id": 140692,
+            "logo_path": "/blHOMOg29qc8GmSaiOWYNsxe0vC.png",
+            "name": "Baram Pictures",
+            "origin_country": "KR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-11-22",
+            "episode_count": 12,
+            "id": 392789,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/glWP5Y7CVeqrOjJpLckQjuLFjQJ.jpg",
+            "season_number": 1,
+            "vote_average": 7.5
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "\ud55c\uad6d\uc5b4"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Their love hangs by a thread... until a stranger picks up the phone.",
+    "type": "Miniseries",
+    "vote_average": 8.271,
+    "vote_count": 323,
+    "youtube_theme_added": 1795494487,
+    "youtube_theme_added_by": "220218854",
+    "youtube_theme_edited": 1795494487,
+    "youtube_theme_edited_by": "220218854",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=Ttu1hG5bWw8"
+}

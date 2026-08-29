@@ -1,0 +1,121 @@
+{
+    "adult": false,
+    "backdrop_path": "/muG1Inh2Eawg8MoAElROpwHGtur.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 36,
+            "name": "History"
+        },
+        {
+            "id": 10402,
+            "name": "Music"
+        }
+    ],
+    "homepage": "",
+    "id": 1067950,
+    "imdb_id": "tt21927594",
+    "origin_country": [
+        "DE"
+    ],
+    "original_language": "de",
+    "original_title": "Girl You Know It's True",
+    "overview": "The rise and fall of Milli Vanilli, a studio group assembled by German producer Frank Farian and fronted by nightclub dancers Robert Pilatus and Fabrice Morvan. After a string of worldwide hit singles, awards and performances, it was revealed that the duo never sang a note of their songs, leading to one of the biggest scandals in music history.",
+    "popularity": 2.0661,
+    "poster_path": "/yKYSHULhVfFzibLmWyJfUiwsFkR.jpg",
+    "production_companies": [
+        {
+            "id": 129014,
+            "logo_path": "/prEkjaZmlInntYbwTCJvgpAzd8E.png",
+            "name": "Leonine Studios",
+            "origin_country": "DE"
+        },
+        {
+            "id": 336,
+            "logo_path": "/zImchRS54kHHsu1g1TkeRYv6xi3.png",
+            "name": "Wiedemann & Berg Film",
+            "origin_country": "DE"
+        },
+        {
+            "id": 12999,
+            "logo_path": "/4fCk9aqM5PbfdFWGrXi6eEALUqD.png",
+            "name": "Sentana Filmproduktion",
+            "origin_country": "DE"
+        },
+        {
+            "id": 138896,
+            "logo_path": "/hKJgmgLUg4OmN0vgvtVoBHdklMe.png",
+            "name": "Mediawan",
+            "origin_country": "FR"
+        },
+        {
+            "id": 331,
+            "logo_path": "/fzP3jKd8Crzkxq0YDUQEviu4p9J.png",
+            "name": "SevenPictures Film",
+            "origin_country": "DE"
+        },
+        {
+            "id": 6626,
+            "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+            "name": "Voltage Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 88606,
+            "logo_path": "/9NKtkn1QfC6cqXB107nGox1rgqt.png",
+            "name": "Vertical",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States"
+        }
+    ],
+    "release_date": "2023-12-06",
+    "revenue": 0,
+    "runtime": 124,
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "fran\u00e7ais"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The biggest scandal in music history.",
+    "title": "Girl You Know It's True",
+    "video": false,
+    "vote_average": 7.41,
+    "vote_count": 145,
+    "youtube_theme_added": 1795462837,
+    "youtube_theme_added_by": "168332544",
+    "youtube_theme_edited": 1795462837,
+    "youtube_theme_edited_by": "168332544",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=l8bxygC-OZ0"
+}

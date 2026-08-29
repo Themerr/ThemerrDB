@@ -1,0 +1,129 @@
+{
+    "adult": false,
+    "backdrop_path": "/lAOiaHI5OoY1t4L5rcmwaf1HkLs.jpg",
+    "created_by": [
+        {
+            "credit_id": "67aa322c44ec9e61ea39e8de",
+            "gender": 0,
+            "id": 3686595,
+            "name": "Im Young-bin",
+            "original_name": "\uc784\uc601\ube48",
+            "profile_path": null
+        },
+        {
+            "credit_id": "67cb07c8dba14916062b6191",
+            "gender": 0,
+            "id": 4170040,
+            "name": "Choi Jeong-in",
+            "original_name": "\ucd5c\uc815\uc778",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        70
+    ],
+    "first_air_date": "2025-02-21",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://program.imbc.com/UndercoverHighschool",
+    "id": 248244,
+    "in_production": false,
+    "languages": [
+        "ko"
+    ],
+    "last_air_date": "2025-03-29",
+    "last_episode_to_air": {
+        "air_date": "2025-03-29",
+        "episode_number": 12,
+        "episode_type": "finale",
+        "id": 5897372,
+        "name": "Where The Stars Lead",
+        "overview": "Despite getting badly injured, Hae Seong manages to call Su A and his team. They conclude that the only evidence they can secure is the flash drive that contains the voice recording of Principal Park murdering Director Kim Hyung Bae. After finding out that an arrest warrant had been issued for her, Seo Myeong Ju decides to take a special measure to end everything.",
+        "production_code": "",
+        "runtime": 69,
+        "season_number": 1,
+        "show_id": 248244,
+        "still_path": "/hZF8Y09uBRDSupPhlaril35LfAx.jpg",
+        "vote_average": 8.7,
+        "vote_count": 3
+    },
+    "name": "Undercover High School",
+    "networks": [
+        {
+            "id": 97,
+            "logo_path": "/pOSCKaZhndUFYtxHXjQOV6xJi1s.png",
+            "name": "MBC",
+            "origin_country": "KR"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "\uc5b8\ub354\ucee4\ubc84 \ud558\uc774\uc2a4\ucfe8",
+    "overview": "Ace NIS agent Jung Hae-seong is demoted after a mission failure. He goes undercover at a high school to locate King Gojong's missing gold, meeting his teacher Oh Soo-ah, who sees him as her lost first love, stirring old heartbreak.",
+    "popularity": 6.294,
+    "poster_path": "/vXAWUI1pYrBvZoUarGxWj1mtlXp.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2025-01-27",
+            "episode_count": 1,
+            "id": 497304,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "2025-02-21",
+            "episode_count": 12,
+            "id": 382336,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/vXAWUI1pYrBvZoUarGxWj1mtlXp.jpg",
+            "season_number": 1,
+            "vote_average": 8.3
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "\ud55c\uad6d\uc5b4"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 8.015,
+    "vote_count": 66,
+    "youtube_theme_added": 1795494855,
+    "youtube_theme_added_by": "220218854",
+    "youtube_theme_edited": 1795494855,
+    "youtube_theme_edited_by": "220218854",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=hsP56dbrp8Y"
+}

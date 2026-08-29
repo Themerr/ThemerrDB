@@ -1,0 +1,50 @@
+{
+    "cover": {
+        "id": 172571,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3p5n.jpg"
+    },
+    "id": 103298,
+    "name": "Doom Eternal",
+    "release_dates": [
+        {
+            "id": 296427,
+            "y": 2020
+        },
+        {
+            "id": 410109,
+            "y": 2020
+        },
+        {
+            "id": 336147,
+            "y": 2021
+        },
+        {
+            "id": 219928,
+            "y": 2020
+        },
+        {
+            "id": 296429,
+            "y": 2020
+        },
+        {
+            "id": 296430,
+            "y": 2021
+        },
+        {
+            "id": 296431,
+            "y": 2021
+        },
+        {
+            "id": 239575,
+            "y": 2020
+        }
+    ],
+    "slug": "doom-eternal",
+    "summary": "Doom Eternal is a first-person shooter developed by id Software and the sequel to Doom (2016). Players control the Doom Slayer as he fights to end a demonic invasion of Earth. Combat is built around aggressive resource management, where health, armor, and ammo are gained by executing, igniting, or chainsawing enemies. The game introduces platforming segments, destructible enemy weak points, an expanded weapon arsenal, and a multiplayer mode called Battlemode, where one player-controlled Slayer fights two player-controlled demons.",
+    "url": "https://www.igdb.com/games/doom-eternal",
+    "youtube_theme_added": 1795459448,
+    "youtube_theme_added_by": "42013603",
+    "youtube_theme_edited": 1795459448,
+    "youtube_theme_edited_by": "42013603",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=kpnW68Q8ltc"
+}

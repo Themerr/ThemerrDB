@@ -1,0 +1,132 @@
+{
+    "adult": false,
+    "backdrop_path": "/7BhXQX6mflX3B3ODAPDGm53WgbT.jpg",
+    "created_by": [
+        {
+            "credit_id": "616c87ff00fb6b004411acda",
+            "gender": 2,
+            "id": 1241348,
+            "name": "Tadao Nagahama",
+            "original_name": "\u9577\u6d5c\u5fe0\u592b",
+            "profile_path": "/eXVBGKj3D7rEs0ber4DkQGARRdp.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1976-04-17",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 44741,
+    "in_production": false,
+    "languages": [
+        "ja",
+        "ar"
+    ],
+    "last_air_date": "1977-05-28",
+    "last_episode_to_air": {
+        "air_date": "1977-05-28",
+        "episode_number": 54,
+        "episode_type": "finale",
+        "id": 895253,
+        "name": "V the Ambassador of Peace is Indestructible!",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 44741,
+        "still_path": null,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "name": "Combattler V",
+    "networks": [
+        {
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "name": "tv asahi",
+            "origin_country": "JP"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 54,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "\u8d85\u96fb\u78c1\u30ed\u30dc \u30b3\u30f3\u30d0\u30c8\u30e9\u30fc\uff36",
+    "overview": "Earth is under attack by the ruthless Campbellian army, and humanity's only hope is five plucky youths. Recruited from all corners of Japan, these young heroes each come with their own specialty, as well as their own priorities... but if they want to save the planet, they'll have to set aside their squabbles (and egos) and unite their hearts. It's the only way to form the invincible robot, Combattler V!",
+    "popularity": 8.0915,
+    "poster_path": "/1llRZXpjwVwn3Lgma6qN8hmZUbl.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 233879,
+            "logo_path": null,
+            "name": "\u0634\u0631\u064a\u0641 \u0648\u062d\u064a\u062f",
+            "origin_country": "LB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1976-04-17",
+            "episode_count": 54,
+            "id": 53609,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bCWVzBEtDipeQsOI5ROzIFVQOdA.jpg",
+            "season_number": 1,
+            "vote_average": 0.0
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "\u65e5\u672c\u8a9e"
+        },
+        {
+            "english_name": "Arabic",
+            "iso_639_1": "ar",
+            "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Let's Combine!",
+    "type": "Scripted",
+    "vote_average": 5.9,
+    "vote_count": 8,
+    "youtube_theme_added": 1795830684,
+    "youtube_theme_added_by": "351445256",
+    "youtube_theme_edited": 1795830684,
+    "youtube_theme_edited_by": "351445256",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=kgCQ9S_X2xI"
+}

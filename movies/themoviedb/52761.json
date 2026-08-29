@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/sBhNHGKJspWnvxOIBZ6d6D2by4X.jpg",
+    "belongs_to_collection": {
+        "backdrop_path": "/Qu7b3QDx72kNUYJt4lQ4nElkXm.jpg",
+        "id": 94050,
+        "name": "Lucky Luke (Animation) Collection",
+        "poster_path": "/p5KZdmDdlQKvXiTppWiX26bbXCs.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 37,
+            "name": "Western"
+        }
+    ],
+    "homepage": "",
+    "id": 52761,
+    "imdb_id": "tt0145891",
+    "origin_country": [
+        "BE",
+        "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Daisy Town",
+    "overview": "When the members of a caravan of pioneers find a daisy growing in the middle of the desert they decide to stop there and to build their town on this very spot. Houses soon spring up like mushrooms, immediately followed by a bank, a saloon, a prison, etc. Daisy Town is born. Unfortunately a city does not go without its bad boys and the peaceful place is soon turned into a lawless place. To restore law and order, a lawman is needed. Lucky Luke, the cowboy who shoots faster than his shadow, will be this man: all the villains had better watch out!",
+    "popularity": 1.4863,
+    "poster_path": "/hKu2GtcbT95cH1O8BHbJOuIQgOu.jpg",
+    "production_companies": [
+        {
+            "id": 64,
+            "logo_path": null,
+            "name": "Les Productions Artistes Associ\u00e9s",
+            "origin_country": "FR"
+        },
+        {
+            "id": 5850,
+            "logo_path": "/26v9iO4OqZzGhKiHYfiPWCYTNiG.png",
+            "name": "Belvision",
+            "origin_country": "BE"
+        },
+        {
+            "id": 5851,
+            "logo_path": null,
+            "name": "Dargaud Films",
+            "origin_country": "FR"
+        },
+        {
+            "id": 152662,
+            "logo_path": "/1SJateP6NARfOFuC229wsOAv3KH.png",
+            "name": "Dargaud M\u00e9dia",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "BE",
+            "name": "Belgium"
+        },
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "release_date": "1971-11-01",
+    "revenue": 0,
+    "runtime": 71,
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "fran\u00e7ais"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Daisy Town",
+    "video": false,
+    "vote_average": 6.908,
+    "vote_count": 142,
+    "youtube_theme_added": 1794948398,
+    "youtube_theme_added_by": "177166452",
+    "youtube_theme_edited": 1794948398,
+    "youtube_theme_edited_by": "177166452",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=xqo-FO4aPdE"
+}

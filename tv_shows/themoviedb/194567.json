@@ -1,0 +1,132 @@
+{
+    "adult": false,
+    "backdrop_path": "/jFLhBues4pdhj2zEIkwDxhGdkcb.jpg",
+    "created_by": [
+        {
+            "credit_id": "62a05036dc1cb40fb51274be",
+            "gender": 2,
+            "id": 226587,
+            "name": "Joe Barton",
+            "original_name": "Joe Barton",
+            "profile_path": "/tWeZkL0zVWeAI5moTAlDJSUVCOA.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2022-06-16",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://www.sky.com/watch/title/series/0832b6cb-b330-47e8-80c9-7322dcd96a49",
+    "id": 194567,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2024-01-03",
+    "last_episode_to_air": {
+        "air_date": "2024-01-03",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "id": 4848663,
+        "name": "Episode 8",
+        "overview": "Things come to a head as missions, agents, and issues from the past and present collide in one epic confrontation. George and the other Lazarus agents have just one chance to try and save their own while fixing the three- week loop once and for all.",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 2,
+        "show_id": 194567,
+        "still_path": "/y3D3OACvuAEsZf96KdeOwMmiBKg.jpg",
+        "vote_average": 7.357,
+        "vote_count": 14
+    },
+    "name": "The Lazarus Project",
+    "networks": [
+        {
+            "id": 5237,
+            "logo_path": "/g2IOt9G84UAjsDPMXQiqgr77AMV.png",
+            "name": "Sky Max",
+            "origin_country": "GB"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 16,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "The Lazarus Project",
+    "overview": "George wakes up to find himself several months in the past before being recruited for the Lazarus Project \u2013 a secret organization that turns back time when the world is at threat of extinction.",
+    "popularity": 9.4908,
+    "poster_path": "/xw7GkWtmPQDU8qzfKshFEN038sj.jpg",
+    "production_companies": [
+        {
+            "id": 38442,
+            "logo_path": null,
+            "name": "Urban Myth Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 135346,
+            "logo_path": "/hIwjhVdOOQ1fpdebwOuDQD7bnw0.png",
+            "name": "Sky Studios",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-06-16",
+            "episode_count": 8,
+            "id": 282359,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tdZjMRK9IFIEWrVNd8pLOOMLiln.jpg",
+            "season_number": 1,
+            "vote_average": 7.0
+        },
+        {
+            "air_date": "2023-11-15",
+            "episode_count": 8,
+            "id": 358594,
+            "name": "Season 2",
+            "overview": "When the world locks into a never-ending time loop that will ultimately end with the planet's complete extinction, the Lazarus team must race against time to find a solution before humanity is wiped out forever. Among their number is resolute Lazarus agent George, who's been left in disgrace after betraying the organisation in the name of love. George is determined to redeem himself and win back the trust of his friends, colleagues and the love of his life. But when he discovers that the cause he's fighting is more sinister than it appears, George begins to suspect that the only person he can really trust is himself.",
+            "poster_path": "/tEMv4PATNWoE7yvPv0PvckYNwg.jpg",
+            "season_number": 2,
+            "vote_average": 6.8
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Canceled",
+    "tagline": "Relive the past. Save the future.",
+    "type": "Scripted",
+    "vote_average": 7.115,
+    "vote_count": 244,
+    "youtube_theme_added": 1795555356,
+    "youtube_theme_added_by": "220218854",
+    "youtube_theme_edited": 1795555356,
+    "youtube_theme_edited_by": "220218854",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=KgBL7ocPKJc"
+}

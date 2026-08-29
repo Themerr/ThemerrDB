@@ -1,0 +1,77 @@
+{
+    "adult": false,
+    "backdrop_path": "/q6jV4IwZ1eVulRJDyilnDICz5yk.jpg",
+    "belongs_to_collection": null,
+    "budget": 8000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 36,
+            "name": "History"
+        },
+        {
+            "id": 10752,
+            "name": "War"
+        }
+    ],
+    "homepage": "",
+    "id": 31675,
+    "imdb_id": "tt0065593",
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Cromwell",
+    "overview": "Disgusted with the policies of King Charles I, Oliver Cromwell plans to take his family to the New World. But on the eve of their departure, Cromwell is drawn into the tangled web of religion and politics that will result in the English Civil War.",
+    "popularity": 2.0016,
+    "poster_path": "/1qlnKlQGEdRl70KDpAv03F8uGzI.jpg",
+    "production_companies": [
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 1788,
+            "logo_path": null,
+            "name": "Irving Allen Productions",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States"
+        }
+    ],
+    "release_date": "1970-07-16",
+    "revenue": 0,
+    "runtime": 140,
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Cromwell",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 109,
+    "youtube_theme_added": 1795032480,
+    "youtube_theme_added_by": "177166452",
+    "youtube_theme_edited": 1795032480,
+    "youtube_theme_edited_by": "177166452",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=-OCdsBBOiwI"
+}

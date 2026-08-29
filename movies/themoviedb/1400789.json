@@ -1,0 +1,79 @@
+{
+    "adult": false,
+    "backdrop_path": "/yZKLgaHKmJCrMsg5e1naV4JqY6b.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 10752,
+            "name": "War"
+        }
+    ],
+    "homepage": "https://releasing.dogwoof.com/2000-meters-to-andriivka",
+    "id": 1400789,
+    "imdb_id": "tt34964205",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "2000 Meters to Andriivka",
+    "overview": "Amid the failing counteroffensive, a journalist follows a Ukrainian platoon on their mission to traverse one mile of heavily fortified forest and liberate a strategic village from Russian occupation. But the farther they advance through their destroyed homeland, the more they realize that this war may never end.",
+    "popularity": 1.9275,
+    "poster_path": "/s1TC3QebWWWJ6CceqbBgAvJde8t.jpg",
+    "production_companies": [
+        {
+            "id": 198216,
+            "logo_path": "/wPgwsboWJIa1YbY7s2P8uQKH7zj.png",
+            "name": "The Associated Press",
+            "origin_country": "US"
+        },
+        {
+            "id": 105995,
+            "logo_path": "/iGH53ndr4yuBhxg86wGjHr3jHRC.png",
+            "name": "FRONTLINE FEATURES",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States"
+        }
+    ],
+    "release_date": "2025-07-23",
+    "revenue": 14863,
+    "runtime": 108,
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
+        },
+        {
+            "english_name": "Ukrainian",
+            "iso_639_1": "uk",
+            "name": "\u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The farther the soldiers advance through their destroyed homeland, the more they realize that, for them, this war may never end",
+    "title": "2000 Meters to Andriivka",
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 66,
+    "youtube_theme_added": 1795319659,
+    "youtube_theme_added_by": "24608907",
+    "youtube_theme_edited": 1795319659,
+    "youtube_theme_edited_by": "24608907",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=VTjJ5At8HS0"
+}

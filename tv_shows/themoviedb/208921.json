@@ -1,0 +1,129 @@
+{
+    "adult": false,
+    "backdrop_path": "/vPw5Gpg0YEEk1VsE8QlmyTxIJuU.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2024-10-18",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.disneyplus.com/series/rivals/4MoVqX2aLYpm",
+    "id": 208921,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2026-11-18",
+    "last_episode_to_air": {
+        "air_date": "2026-11-25",
+        "episode_number": 11,
+        "episode_type": "standard",
+        "id": 7786101,
+        "name": "Episode 11",
+        "overview": "Venturer and Corinium's fates are sealed as Rupert flees and Corinium has a hell of a party.",
+        "production_code": null,
+        "runtime": 51,
+        "season_number": 2,
+        "show_id": 208921,
+        "still_path": "/uY3Nmb4hEXSOdzS5QarT2kEJD3c.jpg",
+        "vote_average": 9.5,
+        "vote_count": 2
+    },
+    "name": "Rivals",
+    "networks": [
+        {
+            "id": 2739,
+            "logo_path": "/1edZOYAfoyZyZ3rklNSiUpXX30Q.png",
+            "name": "Disney+",
+            "origin_country": ""
+        }
+    ],
+    "next_episode_to_air": {
+        "air_date": "2026-12-02",
+        "episode_number": 12,
+        "episode_type": "finale",
+        "id": 7786102,
+        "name": "Episode 12",
+        "overview": "",
+        "production_code": "",
+        "runtime": 67,
+        "season_number": 2,
+        "show_id": 208921,
+        "still_path": null,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "number_of_episodes": 20,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Rivals",
+    "overview": "It is 1986 and Britain is booming. \"Rivals\" dives headfirst into the cutthroat world of TV where hair-dos are big and ambitions are even bigger. Deals are brokered in boardrooms, as well as bedrooms. Nobody can be sure who will come out on top. With every man and woman out only for themselves, can true love really blossom?",
+    "popularity": 60.0874,
+    "poster_path": "/3p9t1KDo5iXAn1zsSPn8sdtakWs.jpg",
+    "production_companies": [
+        {
+            "id": 171015,
+            "logo_path": "/wutf8IwOqNMmpeSnBAxnXhREg5F.png",
+            "name": "Happy Prince",
+            "origin_country": "GB"
+        },
+        {
+            "id": 103374,
+            "logo_path": "/ApbzfacgrUSGF3r4MUfbnjeso9L.png",
+            "name": "The Walt Disney Company EMEA",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-10-18",
+            "episode_count": 8,
+            "id": 306030,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2JGsqTciDo5YEUDQAD8FN59NL3G.jpg",
+            "season_number": 1,
+            "vote_average": 7.8
+        },
+        {
+            "air_date": "2026-05-15",
+            "episode_count": 12,
+            "id": 498955,
+            "name": "Season 2",
+            "overview": "The battle for the Central South West television franchise reaches a fever pitch as the war between Corinium and Venturer enters a dangerous new phase. More ruthless than ever, Tony Baddingham is determined to dismantle his rivals piece-by-piece, weaponising scandal and manipulating those closest to him to maintain his grip on power.",
+            "poster_path": "/3p9t1KDo5iXAn1zsSPn8sdtakWs.jpg",
+            "season_number": 2,
+            "vote_average": 8.0
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.46,
+    "vote_count": 101,
+    "youtube_theme_added": 1795745005,
+    "youtube_theme_added_by": "196570696",
+    "youtube_theme_edited": 1795745005,
+    "youtube_theme_edited_by": "196570696",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=KvPXYn_HxU8"
+}

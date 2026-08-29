@@ -1,0 +1,130 @@
+{
+    "adult": false,
+    "backdrop_path": "/72u451aiHewzevE9PKBraHs0IHu.jpg",
+    "created_by": [
+        {
+            "credit_id": "60bcec8c8ddc3400561690b2",
+            "gender": 2,
+            "id": 1252832,
+            "name": "Lefteris Papapetrou",
+            "original_name": "\u039b\u03b5\u03c5\u03c4\u03ad\u03c1\u03b7\u03c2 \u03a0\u03b1\u03c0\u03b1\u03c0\u03ad\u03c4\u03c1\u03bf\u03c5",
+            "profile_path": "/bqQ8fgxY2GervwYseGE4CZItuCB.jpg"
+        }
+    ],
+    "episode_run_time": [
+        37
+    ],
+    "first_air_date": "1998-10-06",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.antenna.gr/eglimata",
+    "id": 91824,
+    "in_production": false,
+    "languages": [
+        "el"
+    ],
+    "last_air_date": "1999-01-05",
+    "last_episode_to_air": {
+        "air_date": "1999-01-05",
+        "episode_number": 34,
+        "episode_type": "finale",
+        "id": 1871577,
+        "name": "Episode 66",
+        "overview": "",
+        "production_code": "",
+        "runtime": 37,
+        "season_number": 2,
+        "show_id": 91824,
+        "still_path": "/jEi47gf7OIZ2j30d1EsrTAiaxwq.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "name": "Eglimata",
+    "networks": [
+        {
+            "id": 572,
+            "logo_path": "/yepAYSCsRS9G4WF9Gt47GSuRjCz.png",
+            "name": "ANT1",
+            "origin_country": "GR"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 66,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "GR"
+    ],
+    "original_language": "el",
+    "original_name": "\u0395\u03b3\u03ba\u03bb\u03ae\u03bc\u03b1\u03c4\u03b1",
+    "overview": "Achilleas' wife, Flora, is disappointed by her marriage and remembers nostalgia for her childhood love, Alekos. Fate brings them so they eventually reunite illegally. Alekos's wife, however, Soso understands the illegal relationship and tries to avenge her husband for his infidelity. A series of incredible \"crimes\" unfolds with our heroes victims.",
+    "popularity": 5.7405,
+    "poster_path": "/uM0OzOMOwsx3KPfeADLVWvBMQfj.jpg",
+    "production_companies": [
+        {
+            "id": 207161,
+            "logo_path": null,
+            "name": "Nikos Vergetis",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GR",
+            "name": "Greece"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1999-12-31",
+            "episode_count": 1,
+            "id": 128853,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/qdHVAERFLYgI6fi90xr6ZtKVIg6.jpg",
+            "season_number": 0,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "1998-10-06",
+            "episode_count": 32,
+            "id": 128840,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/nWoyvDvKP9hvm0oe6ugTzmtAYLa.jpg",
+            "season_number": 1,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "1998-11-19",
+            "episode_count": 34,
+            "id": 128842,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/n2qeimqDLibRMvZVIbVUIJBt7B4.jpg",
+            "season_number": 2,
+            "vote_average": 0.0
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "Greek",
+            "iso_639_1": "el",
+            "name": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.6,
+    "vote_count": 16,
+    "youtube_theme_added": 1795450818,
+    "youtube_theme_added_by": "228987724",
+    "youtube_theme_edited": 1795450818,
+    "youtube_theme_edited_by": "228987724",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=tRZ7M3ZyJUw"
+}

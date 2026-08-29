@@ -1,0 +1,71 @@
+{
+    "adult": false,
+    "backdrop_path": "/bFC1fipYNfp8s1FIVMRNPcdiesF.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 10770,
+            "name": "TV Movie"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 13397,
+    "imdb_id": "tt0072424",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Year Without a Santa Claus",
+    "overview": "Feeling forgotten by the children of the world, old St. Nick decides to skip his gift-giving journey and take a vacation. Mrs. Claus and two spunky little elves, Jingle and Jangle, set out to see to where all the season's cheer has disappeared. Aided by a magical snowfall, they reawaken the spirit of Christmas in children's hearts and put Santa back in action.",
+    "popularity": 2.9512,
+    "poster_path": "/gc5vz1sZXk1DilIzkQLZ2ujuiWQ.jpg",
+    "production_companies": [
+        {
+            "id": 688,
+            "logo_path": "/hiCX3Z5p6sMWi2mF0CpLYHJy6aB.png",
+            "name": "Rankin/Bass Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States"
+        }
+    ],
+    "release_date": "1974-12-10",
+    "revenue": 0,
+    "runtime": 51,
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Year Without a Santa Claus",
+    "video": false,
+    "vote_average": 7.164,
+    "vote_count": 226,
+    "youtube_theme_added": 1795273416,
+    "youtube_theme_added_by": "213348271",
+    "youtube_theme_edited": 1795273416,
+    "youtube_theme_edited_by": "213348271",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=KOrascju8ms"
+}

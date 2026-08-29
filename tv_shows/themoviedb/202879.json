@@ -1,0 +1,130 @@
+{
+    "adult": false,
+    "backdrop_path": "/fciU7RVyfcdsTeksTnBXGPmkKg2.jpg",
+    "created_by": [
+        {
+            "credit_id": "662bb340c1e56e011df1ccba",
+            "gender": 2,
+            "id": 1293994,
+            "name": "Jon Watts",
+            "original_name": "Jon Watts",
+            "profile_path": "/fkXChMX6CUXY1yOxBehAzvaTCl7.jpg"
+        },
+        {
+            "credit_id": "6679a71cd0e901289b572890",
+            "gender": 2,
+            "id": 101814,
+            "name": "Christopher Ford",
+            "original_name": "Christopher Ford",
+            "profile_path": "/qmEqDJfoQSzWx1pQkXRzXxxDFxp.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2024-12-02",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "https://www.disneyplus.com/series/star-wars-skeleton-crew/5V2Mi4qOaO77",
+    "id": 202879,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2025-01-14",
+    "last_episode_to_air": {
+        "air_date": "2025-01-14",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "id": 5716271,
+        "name": "The Real Good Guys",
+        "overview": "A journey filled with adventure comes to a surprising end.",
+        "production_code": "",
+        "runtime": 39,
+        "season_number": 1,
+        "show_id": 202879,
+        "still_path": "/eouAk5coqRxaW8UZG77q8qaMsUg.jpg",
+        "vote_average": 6.906,
+        "vote_count": 32
+    },
+    "name": "Star Wars: Skeleton Crew",
+    "networks": [
+        {
+            "id": 2739,
+            "logo_path": "/1edZOYAfoyZyZ3rklNSiUpXX30Q.png",
+            "name": "Disney+",
+            "origin_country": ""
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Star Wars: Skeleton Crew",
+    "overview": "Four ordinary kids search for their home planet after getting lost in the Star Wars galaxy.",
+    "popularity": 15.2424,
+    "poster_path": "/srQbJhLRKoAwRrNN5ga7webPHbC.jpg",
+    "production_companies": [
+        {
+            "id": 1,
+            "logo_path": "/tlVSws0RvvtPBwViUyOFAO0vcQS.png",
+            "name": "Lucasfilm Ltd.",
+            "origin_country": "US"
+        },
+        {
+            "id": 141697,
+            "logo_path": "/cfyTfcjSd9njenirn3d07xqwrZQ.png",
+            "name": "Golem Creations",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-12-02",
+            "episode_count": 8,
+            "id": 295165,
+            "name": "Season 1",
+            "overview": "When four kids make a mysterious discovery on their seemingly safe home planet, they get lost in a strange and dangerous galaxy. Finding their way home, meeting unlikely allies and enemies will be a greater adventure than they ever imagined.",
+            "poster_path": "/f05sgCPYJvYcy28xwyGX15OMyLR.jpg",
+            "season_number": 1,
+            "vote_average": 6.9
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "A Star Wars adventure.",
+    "type": "Miniseries",
+    "vote_average": 6.778,
+    "vote_count": 515,
+    "youtube_theme_added": 1795745084,
+    "youtube_theme_added_by": "196570696",
+    "youtube_theme_edited": 1795745084,
+    "youtube_theme_edited_by": "196570696",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=1vkJd_20guc"
+}

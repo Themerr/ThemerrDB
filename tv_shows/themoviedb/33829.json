@@ -1,0 +1,128 @@
+{
+    "adult": false,
+    "backdrop_path": "/74Z2c9eHaZfwDOhaP4OUd5O19R1.jpg",
+    "created_by": [
+        {
+            "credit_id": "584d2be6c3a3682ada009487",
+            "gender": 2,
+            "id": 1613197,
+            "name": "Stefan Golaszewski",
+            "original_name": "Stefan Golaszewski",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2010-09-06",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.him-and-her.com/",
+    "id": 33829,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2013-12-19",
+    "last_episode_to_air": {
+        "air_date": "2013-12-19",
+        "episode_number": 5,
+        "episode_type": "finale",
+        "id": 1190077,
+        "name": "The Disco",
+        "overview": "The wedding disco\u2019s in full swing. Becky\u2019s scared someone will tell Steve her secret. Steve\u2019s scared that Lee will come on to Becky. But everything\u2019s put to the side as they deal with the fallout from the wedding ceremony.",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 4,
+        "show_id": 33829,
+        "still_path": "/9EoXAhX6C5LDF6etX5YPsVDYW8h.jpg",
+        "vote_average": 5.7,
+        "vote_count": 3
+    },
+    "name": "Him & Her",
+    "networks": [
+        {
+            "id": 3,
+            "logo_path": "/s22fRhj8xFPbiexrJwiAOcDEIrS.png",
+            "name": "BBC Three",
+            "origin_country": "GB"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 25,
+    "number_of_seasons": 4,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Him & Her",
+    "overview": "An acutely observed, forensically honest, warts-and-all look at a working-class couple in their mid-20s.",
+    "popularity": 5.5471,
+    "poster_path": "/nce9etCrFq54hlbYH74HlMeXI41.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2010-09-06",
+            "episode_count": 6,
+            "id": 44665,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ojgRQVrHjy8Qp67uPn8no7krKI0.jpg",
+            "season_number": 1,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "2011-11-01",
+            "episode_count": 7,
+            "id": 44666,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/1hETHKMtNRug4YVeVMtUp34ODN4.jpg",
+            "season_number": 2,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "2012-11-18",
+            "episode_count": 7,
+            "id": 44667,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/bZix4N1cTOkWUoOkyvsdS9o1QRy.jpg",
+            "season_number": 3,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "2013-11-21",
+            "episode_count": 5,
+            "id": 76796,
+            "name": "Season 4",
+            "overview": "",
+            "poster_path": "/3jJ0520uLbmKaBGiY6KY3qprpRg.jpg",
+            "season_number": 4,
+            "vote_average": 5.8
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 51,
+    "youtube_theme_added": 1795397404,
+    "youtube_theme_added_by": "52577709",
+    "youtube_theme_edited": 1795397404,
+    "youtube_theme_edited_by": "52577709",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=BTq9T3SbS4M"
+}

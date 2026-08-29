@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/CVldI1pzrg0TNQgXFOc9PMo9nB.jpg",
+    "created_by": [
+        {
+            "credit_id": "58f1d4769251412fdf00553e",
+            "gender": 2,
+            "id": 591600,
+            "name": "Dami\u00e1n Szifron",
+            "original_name": "Dami\u00e1n Szifron",
+            "profile_path": "/zCC1SUcjoDuJui9qgFjJIgr6kDq.jpg"
+        }
+    ],
+    "episode_run_time": [
+        60
+    ],
+    "first_air_date": "2002-03-21",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://telefe.com/los-simuladores/",
+    "id": 332,
+    "in_production": false,
+    "languages": [
+        "es"
+    ],
+    "last_air_date": "2003-08-04",
+    "last_episode_to_air": {
+        "air_date": "2003-08-04",
+        "episode_number": 11,
+        "episode_type": "finale",
+        "id": 17126,
+        "name": "Final Episode",
+        "overview": "",
+        "production_code": "",
+        "runtime": 109,
+        "season_number": 2,
+        "show_id": 332,
+        "still_path": "/ft2kX3nLP0xcEnIYJANrlCA3vFa.jpg",
+        "vote_average": 9.5,
+        "vote_count": 2
+    },
+    "name": "Los simuladores",
+    "networks": [
+        {
+            "id": 96,
+            "logo_path": "/67wZ6aHgQcU5K7qbRCRICiKHeN1.png",
+            "name": "Telefe",
+            "origin_country": "AR"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "AR"
+    ],
+    "original_language": "es",
+    "original_name": "Los simuladores",
+    "overview": "A small team of con artists for hire use their skills to solve common people's life problems.",
+    "popularity": 5.8032,
+    "poster_path": "/xGDNHABcl6x1Ulx7Azxg9Dq0ZHL.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2002-03-21",
+            "episode_count": 13,
+            "id": 978,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jCuIVw4TzqYDVNsPjllyFxVb6bY.jpg",
+            "season_number": 1,
+            "vote_average": 8.7
+        },
+        {
+            "air_date": "2003-05-26",
+            "episode_count": 11,
+            "id": 979,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/eZhz7QlUa7WwwK71RRRdqhAppNv.jpg",
+            "season_number": 2,
+            "vote_average": 8.9
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Espa\u00f1ol"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.711,
+    "vote_count": 171,
+    "youtube_theme_added": 1795282777,
+    "youtube_theme_added_by": "133032847",
+    "youtube_theme_edited": 1795282777,
+    "youtube_theme_edited_by": "133032847",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=7D8z98zL0Dg"
+}

@@ -1,0 +1,150 @@
+{
+    "adult": false,
+    "backdrop_path": "/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
+    "created_by": [
+        {
+            "credit_id": "6a8d62bac29e0849075c9e50",
+            "gender": 2,
+            "id": 10297,
+            "name": "Matthew McConaughey",
+            "original_name": "Matthew McConaughey",
+            "profile_path": "/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+        },
+        {
+            "credit_id": "6ab31752d68137464b5ee5dd",
+            "gender": 2,
+            "id": 57755,
+            "name": "Woody Harrelson",
+            "original_name": "Woody Harrelson",
+            "profile_path": "/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+        },
+        {
+            "credit_id": "6ab317588f69418f6e5ee5cc",
+            "gender": 2,
+            "id": 2942584,
+            "name": "David West Read",
+            "original_name": "David West Read",
+            "profile_path": "/plZzKfgycLlWtZVMC8SrpC6IcVI.jpg"
+        },
+        {
+            "credit_id": "6ab3175b4b6b3a88a3625d89",
+            "gender": 2,
+            "id": 84417,
+            "name": "Lee Eisenberg",
+            "original_name": "Lee Eisenberg",
+            "profile_path": "/qxA2eLl3AmBKfXqeCQy7RDlZSkE.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2026-09-22",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://tv.apple.com/show/umc.cmc.17g1y5mzqp92sc0ge1c0hdorg",
+    "id": 250203,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2026-11-03",
+    "last_episode_to_air": {
+        "air_date": "2026-11-03",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "id": 7402600,
+        "name": "On the Road...Again",
+        "overview": "The gloves come off, the truth comes out\u2014and nothing will ever be the same.",
+        "production_code": "",
+        "runtime": 27,
+        "season_number": 1,
+        "show_id": 250203,
+        "still_path": "/stIpsoQiCZLA2ChFWmo7aHWyxAO.jpg",
+        "vote_average": 8.0,
+        "vote_count": 3
+    },
+    "name": "Brothers",
+    "networks": [
+        {
+            "id": 2552,
+            "logo_path": "/bngHRFi794mnMq34gfVcm9nDxN1.png",
+            "name": "Apple TV",
+            "origin_country": ""
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Brothers",
+    "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
+    "popularity": 17.1332,
+    "poster_path": "/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
+    "production_companies": [
+        {
+            "id": 270146,
+            "logo_path": "/4r6rIxegOrrVeJwqRxpzNrCRQMD.png",
+            "name": "Paramount Television Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 311865,
+            "logo_path": "/Wm03QLmqZYp4q2pJmYNKiszVf3.png",
+            "name": "just keep livin Foundation",
+            "origin_country": "US"
+        },
+        {
+            "id": 310721,
+            "logo_path": null,
+            "name": "Children at Play",
+            "origin_country": "US"
+        },
+        {
+            "id": 176198,
+            "logo_path": "/7KUFE7Ze5u4vfllNGCeowNytwBR.png",
+            "name": "Piece of Work Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2026-09-22",
+            "episode_count": 8,
+            "id": 385483,
+            "name": "Season 1",
+            "overview": "Best friends Matthew McConaughey and Woody Harrelson uncover a shocking family secret.",
+            "poster_path": "/vpr2tUmIpYdVm0EAySs8lwPs0mQ.jpg",
+            "season_number": 1,
+            "vote_average": 7.3
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "Friends. And family?",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 37,
+    "youtube_theme_added": 1795275125,
+    "youtube_theme_added_by": "116924029",
+    "youtube_theme_edited": 1795275125,
+    "youtube_theme_edited_by": "116924029",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=8RLE6FHWl8A"
+}

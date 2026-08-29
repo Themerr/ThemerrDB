@@ -1,0 +1,79 @@
+{
+    "backdrop_path": "/tVgp3Ak1QG6IQqJpFpZSqNNf7Ek.jpg",
+    "id": 8647,
+    "name": "The Skulls Collection",
+    "original_language": "en",
+    "original_name": "The Skulls Collection",
+    "overview": "The Skulls is a 2000 American thriller film directed by Rob Cohen and starring Joshua Jackson, Paul Walker and Leslie Bibb. Its plot is based upon some of the conspiracy theories surrounding Yale University's Skull and Bones student society.  The film was successful enough to spawn two direct-to-video sequels, The Skulls II and The Skulls III, released in 2002 and 2004, respectively.",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/sAFqN4bDfGUBgS6h323F7YcwqPe.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 8460,
+            "media_type": "movie",
+            "original_language": "en",
+            "original_title": "The Skulls II",
+            "overview": "After joining the Skulls, Ryan Sommers (Robin Dunne) is warned not to betray any secrets about the organization or its high-powered members. However, when Ryan witnesses a murder within the Skulls' private chambers, he finds that the closer he gets to revealing the truth - the more dangerous life becomes.",
+            "popularity": 1.272,
+            "poster_path": "/h6atL0SP5qg6TXOXy9DklZgObn2.jpg",
+            "release_date": "2002-04-09",
+            "softcore": false,
+            "title": "The Skulls II",
+            "video": false,
+            "vote_average": 4.6,
+            "vote_count": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uBvqVaD416JNkwOgTUg5IqKMBfS.jpg",
+            "genre_ids": [
+                53
+            ],
+            "id": 10594,
+            "media_type": "movie",
+            "original_language": "en",
+            "original_title": "The Skulls III",
+            "overview": "A young college co-ed tries joining the elite, all-male, secret society, the Skulls, and in so doing, she uncovers some unscrupulous methods used by some of the members to get what they want.",
+            "popularity": 1.445,
+            "poster_path": "/b6ugfuEwEND5UCuf6Hu6XBmWOQP.jpg",
+            "release_date": "2004-03-23",
+            "softcore": false,
+            "title": "The Skulls III",
+            "video": false,
+            "vote_average": 5.063,
+            "vote_count": 48
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4kWVUyJAF9AUrcBlNBOxs4ikcQf.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 11478,
+            "media_type": "movie",
+            "original_language": "en",
+            "original_title": "The Skulls",
+            "overview": "A senior at an Ivy League college, who depends on scholarships and working on the side, gets accepted into the secret society The Skulls. He hopes it betters chances at Harvard but The Skulls is not what he thought and comes at a price.",
+            "popularity": 2.8966,
+            "poster_path": "/pYuggibfzm8LWgjnUKMMtii2430.jpg",
+            "release_date": "2000-03-31",
+            "softcore": false,
+            "title": "The Skulls",
+            "video": false,
+            "vote_average": 5.804,
+            "vote_count": 636
+        }
+    ],
+    "poster_path": "/t2O0jkYLVRBfZpT7btzJv3lzPh1.jpg",
+    "youtube_theme_added": 1795530242,
+    "youtube_theme_added_by": "112124049",
+    "youtube_theme_edited": 1795530242,
+    "youtube_theme_edited_by": "112124049",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=XPlHe8uRpF0"
+}

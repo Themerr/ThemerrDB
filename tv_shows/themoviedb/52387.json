@@ -1,0 +1,127 @@
+{
+    "adult": false,
+    "backdrop_path": "/6N9Rg6Pa3KxMMs6r1wm4lCoA5Kp.jpg",
+    "created_by": [
+        {
+            "credit_id": "525982c5760ee34661aaa0d6",
+            "gender": 2,
+            "id": 1217741,
+            "name": "Alan Spencer",
+            "original_name": "Alan Spencer",
+            "profile_path": "/tWJbbIUH8zITlWa5iFweavLhaf6.jpg"
+        }
+    ],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2012-08-16",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://ifc.com/shows/bullet-in-the-face",
+    "id": 52387,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2012-08-17",
+    "last_episode_to_air": {
+        "air_date": "2012-08-17",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "id": 1011204,
+        "name": "Cradle to Grave",
+        "overview": "Everyone converges on the hospital in which Martine is giving birth. Martine reveals that she's been playing all sides against each other so that she can take control of the underworld. Her pregnancy is revealed to have been a ruse, and she pulls out a submachine gun from the prosthetic belly, killing Racken and his men. While Martine prepares to kill Vogler once again, a bomb planted by Tannh\u00e4user's men counts down to zero. The show fades to black on that cliffhanger.\n\n",
+        "production_code": "",
+        "runtime": 22,
+        "season_number": 1,
+        "show_id": 52387,
+        "still_path": "/qXtdgidI9fo9fnTYRqz1LsYJp6O.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "name": "Bullet in the Face",
+    "networks": [
+        {
+            "id": 124,
+            "logo_path": "/jZYZjulF2FTaAHo5TKBHBC4ihS1.png",
+            "name": "IFC",
+            "origin_country": "US"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "CA",
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Bullet in the Face",
+    "overview": "Following a botched jewel heist, sociopath criminal Gunter Vogler is forced to assume the identity of a cop he shot and work undercover to take down the city\u2019s crime lords.",
+    "popularity": 2.2762,
+    "poster_path": "/xEz8kTez0u8q4R0UEJ8frzDgYL4.jpg",
+    "production_companies": [
+        {
+            "id": 108574,
+            "logo_path": null,
+            "name": "Just For Laughs Television",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-08-16",
+            "episode_count": 6,
+            "id": 62966,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/dZBUzIGUJITMOyaL2NJ9xnddMhb.jpg",
+            "season_number": 1,
+            "vote_average": 4.7
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 20,
+    "youtube_theme_added": 1795530669,
+    "youtube_theme_added_by": "112124049",
+    "youtube_theme_edited": 1795530669,
+    "youtube_theme_edited_by": "112124049",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=TghAmSRQ6xA"
+}

@@ -1,0 +1,81 @@
+{
+    "backdrop_path": "/fosuzKaLA43tcW9gzmW5Tc354hf.jpg",
+    "id": 945475,
+    "name": "Beetlejuice Collection",
+    "original_language": "en",
+    "original_name": "Beetlejuice Collection",
+    "overview": "A series of fantasy comedy films featuring the wacky character of Beetelgeuse, a bio-exorcist who assists a newly deceased couple in scaring away a family that moved into their home.",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/yRKyJJYIzfeiVDHBe4LXguPQCvD.jpg",
+            "genre_ids": [
+                14,
+                35
+            ],
+            "id": 4011,
+            "media_type": "movie",
+            "original_language": "en",
+            "original_title": "Beetlejuice",
+            "overview": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.",
+            "popularity": 11.9389,
+            "poster_path": "/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
+            "release_date": "1988-03-30",
+            "softcore": false,
+            "title": "Beetlejuice",
+            "video": false,
+            "vote_average": 7.367,
+            "vote_count": 8879
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A1dZ6faTjg0e6HYftBmEKujuXGQ.jpg",
+            "genre_ids": [
+                35,
+                14,
+                27
+            ],
+            "id": 917496,
+            "media_type": "movie",
+            "original_language": "en",
+            "original_title": "Beetlejuice Beetlejuice",
+            "overview": "After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Betelgeuse, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Afterlife.",
+            "popularity": 8.7132,
+            "poster_path": "/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
+            "release_date": "2024-09-04",
+            "softcore": false,
+            "title": "Beetlejuice Beetlejuice",
+            "video": false,
+            "vote_average": 6.909,
+            "vote_count": 3478
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                14,
+                27
+            ],
+            "id": 1428221,
+            "media_type": "movie",
+            "original_language": "en",
+            "original_title": "Untitled Beetlejuice 3",
+            "overview": "The third and final installment in the franchise. Plot TBA.",
+            "popularity": 0.8493,
+            "poster_path": null,
+            "release_date": "",
+            "softcore": false,
+            "title": "Untitled Beetlejuice 3",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        }
+    ],
+    "poster_path": "/ilsvBAZHOp91z8J7QVjedr0EokL.jpg",
+    "youtube_theme_added": 1795064373,
+    "youtube_theme_added_by": "168332544",
+    "youtube_theme_edited": 1795064373,
+    "youtube_theme_edited_by": "168332544",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=oZktSPrGSck"
+}

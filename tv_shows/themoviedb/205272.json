@@ -1,0 +1,150 @@
+{
+    "adult": false,
+    "backdrop_path": "/5Nu95w2oWsbmDeAjG2NJF4x33Ud.jpg",
+    "created_by": [
+        {
+            "credit_id": "62c13652c2bcc6004c90630b",
+            "gender": 1,
+            "id": 1798769,
+            "name": "Raamla Mohamed",
+            "original_name": "Raamla Mohamed",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2022-09-27",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.hulu.com/series/reasonable-doubt-226c1cc5-ecc9-4d26-83a6-40131a93ed19",
+    "id": 205272,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2026-11-17",
+    "last_episode_to_air": {
+        "air_date": "2026-11-24",
+        "episode_number": 10,
+        "episode_type": "finale",
+        "id": 7841903,
+        "name": "Moment of Clarity",
+        "overview": "A jaw-dropping discovery has the team racing against the clock \u2013 until the final verdict brings truth to light, closing one chapter and leaving everyone forever changed.",
+        "production_code": "",
+        "runtime": 52,
+        "season_number": 4,
+        "show_id": 205272,
+        "still_path": "/ssoMepKtTnmByMOgUVa7r178b5p.jpg",
+        "vote_average": 9.333,
+        "vote_count": 3
+    },
+    "name": "Reasonable Doubt",
+    "networks": [
+        {
+            "id": 453,
+            "logo_path": "/pqUTCleNUiTLAVlelGxUgWn1ELh.png",
+            "name": "Hulu",
+            "origin_country": "US"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 39,
+    "number_of_seasons": 4,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Reasonable Doubt",
+    "overview": "In this legal drama, you\u2019ll judge Jax Stewart for her questionable ethics and wild interpretations of the law\u2026 until you\u2019re the one in trouble. Then you\u2019ll see her for what she is: the most brilliant and fearless defense attorney in Los Angeles who bucks the justice system at every chance she gets.",
+    "popularity": 25.1293,
+    "poster_path": "/v9p9VbljJdJ9GjLqp3l5YpWJ8HO.jpg",
+    "production_companies": [
+        {
+            "id": 115026,
+            "logo_path": "/2yASkMT2hM6vjz0Bt1TP2gN2Ed2.png",
+            "name": "Simpson Street",
+            "origin_country": "US"
+        },
+        {
+            "id": 163814,
+            "logo_path": null,
+            "name": "Wilmore Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 236613,
+            "logo_path": "/9DTggoZARHzATCRewGRs9XSNOWP.png",
+            "name": "ABC Signature",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-09-26",
+            "episode_count": 9,
+            "id": 299471,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/aRKe0CL8djP3j72Lu8bsod7qaG.jpg",
+            "season_number": 1,
+            "vote_average": 2.3
+        },
+        {
+            "air_date": "2024-08-21",
+            "episode_count": 10,
+            "id": 394282,
+            "name": "Season 2",
+            "overview": "After trying to heal from her wounds from last season's arduous trial and deadly affair, Jax Stewart is attempting to get her life back on track. That is until one of her closest friends reveals that she has killed her husband. Her friend is claiming self-defense, but an uncompromising prosecutor thinks otherwise. Needing all the help she can get, Jax brings in an ambitious defense attorney to lead the case, but things get tense very quickly. Can Jax defend her friend, save her marriage and protect her energy while being catapulted into the biggest case of her career? Or will she lose it all?",
+            "poster_path": "/rg7eeP3fCSfmOpgY62VeYPFh5tG.jpg",
+            "season_number": 2,
+            "vote_average": 1.5
+        },
+        {
+            "air_date": "2025-09-17",
+            "episode_count": 10,
+            "id": 464109,
+            "name": "Season 3",
+            "overview": "After a tumultuous season of fighting to save her best friend from a life sentence while healing from her own deadly affair, Jax Stewart has finally earned some peace in her life...even if she sees it all as a little boring. So, when a former child star finds himself in a heap of trouble, Jax seizes the opportunity to spice up her daily routine. But when her client's personal life turns out to have all the drama and danger of a Hollywood movie and Jax's own professional future comes under threat from a charismatic associate at her firm, can Jax clear her client's name without losing the personal and professional successes she's worked so hard for?",
+            "poster_path": "/3I6GwIbRKlym6hFw1weEUdgTFFT.jpg",
+            "season_number": 3,
+            "vote_average": 1.8
+        },
+        {
+            "air_date": "2026-10-06",
+            "episode_count": 10,
+            "id": 539040,
+            "name": "Season 4",
+            "overview": "After a brutal attack leaves Jax's family and newly minted law firm shaken, nothing feels certain, especially their future. With Jax's most loyal client at the center of a spiraling media disaster, The Stewart Firm is thrust into a high-stakes battle where every move could mean survival ... or collapse of the firm. As grief lingers and pressure mounts, one question looms: Can they rebuild in time, or will the cost of moving forward too quickly be everything they stand to lose?",
+            "poster_path": "/v9p9VbljJdJ9GjLqp3l5YpWJ8HO.jpg",
+            "season_number": 4,
+            "vote_average": 4.1
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "It all comes apart.",
+    "type": "Scripted",
+    "vote_average": 6.2,
+    "vote_count": 70,
+    "youtube_theme_added": 1795744909,
+    "youtube_theme_added_by": "91444298",
+    "youtube_theme_edited": 1795744909,
+    "youtube_theme_edited_by": "91444298",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=2UpTVjugfyg"
+}

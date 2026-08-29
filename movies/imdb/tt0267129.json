@@ -1,0 +1,78 @@
+{
+    "adult": false,
+    "backdrop_path": "/l6zhhG4HR1ovOPkWBXIoXkJyQz5.jpg",
+    "belongs_to_collection": {
+        "backdrop_path": "/brTwRwoszOadojCoRzCbNjbYd9S.jpg",
+        "id": 107471,
+        "name": "Yamakasi Collection",
+        "poster_path": "/jiUYHa7Xq9mutuNCL03gXRd0imy.jpg"
+    },
+    "budget": 15000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 6935,
+    "imdb_id": "tt0267129",
+    "origin_country": [
+        "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Yamakasi - Les samoura\u00efs des temps modernes",
+    "overview": "Yamakasi - Les samoura\u00efs des temps modernes is a 2001 French movie written by Luc Besson. It demonstrates the skills of the Yamakasi, a group of traceurs who battle against injustice in the Paris ghetto. They use parkour to steal from the rich in order to pay off medical bills for a kid injured copying their techniques.",
+    "popularity": 2.3072,
+    "poster_path": "/7INcVJWvyT5pwnGHTYrhZXD7zvS.jpg",
+    "production_companies": [
+        {
+            "id": 6896,
+            "logo_path": "/2Q89KvzxTKB5BAv9RqFIPI1qb7E.png",
+            "name": "EuropaCorp",
+            "origin_country": "FR"
+        },
+        {
+            "id": 121921,
+            "logo_path": "/d1Uk4F63vo3eWlJo1uxMDDfWQIf.png",
+            "name": "Leeloo Productions",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "release_date": "2001-04-04",
+    "revenue": 1297401,
+    "runtime": 90,
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "fran\u00e7ais"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Yamakasi",
+    "video": false,
+    "vote_average": 6.036,
+    "vote_count": 636,
+    "youtube_theme_added": 1795063719,
+    "youtube_theme_added_by": "91066652",
+    "youtube_theme_edited": 1795063719,
+    "youtube_theme_edited_by": "91066652",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=fwnEIgdZFlo"
+}
