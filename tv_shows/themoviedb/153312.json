@@ -35,30 +35,6 @@
     ],
     "last_air_date": "2026-11-06",
     "last_episode_to_air": {
-        "air_date": "2026-11-06",
-        "episode_number": 4,
-        "episode_type": "standard",
-        "id": 7499438,
-        "name": "Square One",
-        "overview": "Dwight regroups as Mitch and Spencer prep for a high stakes score. Bodhi expands a counterfeit scheme, and Tyson tests his rap ambitions.",
-        "production_code": "",
-        "runtime": 44,
-        "season_number": 4,
-        "show_id": 153312,
-        "still_path": "/505bDYzfILnGh9EYvlEffyqdhRt.jpg",
-        "vote_average": 8.308,
-        "vote_count": 13
-    },
-    "name": "Tulsa King",
-    "networks": [
-        {
-            "id": 4330,
-            "logo_path": "/fi83B1oztoS47xxcemFdPMhIzK.png",
-            "name": "Paramount+",
-            "origin_country": "US"
-        }
-    ],
-    "next_episode_to_air": {
         "air_date": "2026-11-13",
         "episode_number": 5,
         "episode_type": "standard",
@@ -70,8 +46,32 @@
         "season_number": 4,
         "show_id": 153312,
         "still_path": "/rkaxaVOrOnw1ke66ioo3SofXOXC.jpg",
-        "vote_average": 9.7,
-        "vote_count": 3
+        "vote_average": 9.1,
+        "vote_count": 5
+    },
+    "name": "Tulsa King",
+    "networks": [
+        {
+            "id": 4330,
+            "logo_path": "/fi83B1oztoS47xxcemFdPMhIzK.png",
+            "name": "Paramount+",
+            "origin_country": "US"
+        }
+    ],
+    "next_episode_to_air": {
+        "air_date": "2026-11-20",
+        "episode_number": 6,
+        "episode_type": "standard",
+        "id": 7499440,
+        "name": "Racket Club",
+        "overview": "Dwight battles Turco's rising demands while racing to protect the ranch from Van Heusen's land grab. Tyson gets a life changing offer.",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 4,
+        "show_id": 153312,
+        "still_path": "/wiEBpxf5Y8hGgLqdRigA552cUSh.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0
     },
     "number_of_episodes": 39,
     "number_of_seasons": 4,
@@ -81,7 +81,7 @@
     "original_language": "en",
     "original_name": "Tulsa King",
     "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-    "popularity": 220.4774,
+    "popularity": 241.7489,
     "poster_path": "/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
     "production_companies": [
         {
@@ -182,7 +182,7 @@
             "overview": "In season four, Dwight fights to legitimize his empire and protect his crew as corrupt politicians, dangerous new enemies, and a crushing personal loss hit from every direction. However, every hard-won gain comes with even harder truths: about loyalty, leadership and the cost of ambition. Each move drags Dwight deeper into the street instincts he left behind in New York - turning Tulsa into a battleground and Dwight into the one threat no one can afford to underestimate.",
             "poster_path": "/aqvDey0veLcY7XkoDWGFOqRAD3I.jpg",
             "season_number": 4,
-            "vote_average": 8.7
+            "vote_average": 8.6
         }
     ],
     "softcore": false,
@@ -196,8 +196,8 @@
     "status": "Returning Series",
     "tagline": "Storms break. Kings don't.",
     "type": "Scripted",
-    "vote_average": 8.319,
-    "vote_count": 2948,
+    "vote_average": 8.32,
+    "vote_count": 2951,
     "youtube_theme_added": 1791746552,
     "youtube_theme_added_by": "7787007",
     "youtube_theme_edited": 1791746552,

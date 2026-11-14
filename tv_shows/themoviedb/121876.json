@@ -20,19 +20,19 @@
     ],
     "last_air_date": "2026-10-23",
     "last_episode_to_air": {
-        "air_date": "2026-11-06",
-        "episode_number": 15,
+        "air_date": "2026-11-13",
+        "episode_number": 16,
         "episode_type": "standard",
-        "id": 7832968,
-        "name": "Episode 15",
+        "id": 7832969,
+        "name": "Episode 16",
         "overview": "",
         "production_code": "",
-        "runtime": 57,
+        "runtime": 103,
         "season_number": 8,
         "show_id": 121876,
-        "still_path": "/37nR1kGYzvGZp2iw5jALZW905Z7.jpg",
-        "vote_average": 5.0,
-        "vote_count": 1
+        "still_path": "/7Q50vCAMgLcE3gCXUw5TIOl2VpT.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0
     },
     "name": "Divas Hit the Road",
     "networks": [
@@ -49,21 +49,7 @@
             "origin_country": "CN"
         }
     ],
-    "next_episode_to_air": {
-        "air_date": "2026-11-13",
-        "episode_number": 16,
-        "episode_type": "standard",
-        "id": 7832969,
-        "name": "Episode 16",
-        "overview": "",
-        "production_code": "",
-        "runtime": 103,
-        "season_number": 8,
-        "show_id": 121876,
-        "still_path": "/7Q50vCAMgLcE3gCXUw5TIOl2VpT.jpg",
-        "vote_average": 0.0,
-        "vote_count": 0
-    },
+    "next_episode_to_air": null,
     "number_of_episodes": 127,
     "number_of_seasons": 8,
     "origin_country": [
@@ -72,7 +58,7 @@
     "original_language": "zh",
     "original_name": "\u82b1\u513f\u4e0e\u5c11\u5e74",
     "overview": "",
-    "popularity": 21.1094,
+    "popularity": 21.3333,
     "poster_path": "/tuVhPysPDyWFfuKu8zwc1x6btwx.jpg",
     "production_companies": [
         {

@@ -25,7 +25,7 @@
     "languages": [
         "en"
     ],
-    "last_air_date": "2026-11-05",
+    "last_air_date": "2026-11-12",
     "last_episode_to_air": {
         "air_date": "2026-11-12",
         "episode_number": 5,
@@ -38,8 +38,8 @@
         "season_number": 23,
         "show_id": 1416,
         "still_path": "/sgRlplGHYm1OCxS7reVhPm9GZ0M.jpg",
-        "vote_average": 0.0,
-        "vote_count": 0
+        "vote_average": 6.0,
+        "vote_count": 1
     },
     "name": "Grey's Anatomy",
     "networks": [
@@ -73,7 +73,7 @@
     "original_language": "en",
     "original_name": "Grey's Anatomy",
     "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-    "popularity": 271.6867,
+    "popularity": 323.7234,
     "poster_path": "/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
     "production_companies": [
         {
@@ -300,7 +300,7 @@
             "overview": "Romance is brewing in ways you did not see coming as doctor Teddy Altman is back in an explosive love triangle. And the drama continues as a windstorm blows through Seattle, causing the power to go out at Grey Sloan, leaving the doctors scrambling to save their patients' lives, including Meredith, who desperately needs to get to her patient for her heart transplant.",
             "poster_path": "/eqgIOObafPJitt8JNh1LuO2fvqu.jpg",
             "season_number": 15,
-            "vote_average": 8.5
+            "vote_average": 8.3
         },
         {
             "air_date": "2019-09-26",
@@ -320,7 +320,7 @@
             "overview": "The seventeenth season of the medical drama series is back in the midst of the early days of the COVID-19 pandemic as Grey Sloan Memorial and its surgeons' lives have been turned upside down. The season picks up one month into the pandemic, and it's all-hands-on-deck as Meredith, Bailey and the rest of the Grey Sloan doctors find themselves on the frontlines of a new era. The doctors will need to face their new reality and deal with a familiar and stubborn patient.",
             "poster_path": "/clnyhPqj1SNgpAdeSS6a6fwE6Bo.jpg",
             "season_number": 17,
-            "vote_average": 8.3
+            "vote_average": 8.2
         },
         {
             "air_date": "2021-09-30",
@@ -380,7 +380,7 @@
             "overview": "",
             "poster_path": "/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
             "season_number": 23,
-            "vote_average": 7.6
+            "vote_average": 7.1
         }
     ],
     "softcore": false,
@@ -395,7 +395,7 @@
     "tagline": "Begin again.",
     "type": "Scripted",
     "vote_average": 8.201,
-    "vote_count": 11133,
+    "vote_count": 11135,
     "youtube_theme_added": 1704918144,
     "youtube_theme_added_by": "42013603",
     "youtube_theme_edited": 1704918144,

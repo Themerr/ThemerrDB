@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "I Still Know What You Did Last Summer",
     "overview": "Ever since killing the Fisherman one year ago, Julie James is still haunted by images of him after her. When her best friend Karla wins free tickets to the Bahamas, Julie finds this a perfect opportunity to finally relax. But someone is waiting for her. Someone who she thought was dead. Someone who is out again for revenge.",
-    "popularity": 4.0676,
+    "popularity": 4.5196,
     "poster_path": "/eg3d6hvTaOmW3lNErFfutBmWmAR.jpg",
     "production_companies": [
         {
@@ -41,22 +41,16 @@
             "origin_country": "US"
         },
         {
-            "id": 1236,
-            "logo_path": "/xkxmDvj3JKohTqHB7QZZIhAqSS2.png",
-            "name": "Mandalay Entertainment",
-            "origin_country": "US"
-        },
-        {
-            "id": 2882,
-            "logo_path": null,
-            "name": "Neal H. Moritz Productions",
-            "origin_country": "US"
-        },
-        {
             "id": 65895,
             "logo_path": null,
             "name": "Global Entertainment Productions",
             "origin_country": "DE"
+        },
+        {
+            "id": 333,
+            "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+            "name": "Original Film",
+            "origin_country": "US"
         }
     ],
     "production_countries": [
@@ -84,8 +78,8 @@
     "tagline": "Someone is dying for a second chance.",
     "title": "I Still Know What You Did Last Summer",
     "video": false,
-    "vote_average": 5.348,
-    "vote_count": 1837,
+    "vote_average": 5.3,
+    "vote_count": 1838,
     "youtube_theme_added": 1719865577,
     "youtube_theme_added_by": "118304977",
     "youtube_theme_edited": 1719865577,

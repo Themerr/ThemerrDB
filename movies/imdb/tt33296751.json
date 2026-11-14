@@ -23,7 +23,7 @@
     "original_language": "en",
     "original_title": "Tuner",
     "overview": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
-    "popularity": 13.5738,
+    "popularity": 13.1903,
     "poster_path": "/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
     "production_companies": [
         {
@@ -69,14 +69,19 @@
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
+        },
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
         }
     ],
     "status": "Released",
     "tagline": "Everybody has one hidden talent.",
     "title": "Tuner",
     "video": false,
-    "vote_average": 7.6,
-    "vote_count": 666,
+    "vote_average": 7.555,
+    "vote_count": 672,
     "youtube_theme_added": 1790726937,
     "youtube_theme_added_by": "1378057",
     "youtube_theme_edited": 1790726937,

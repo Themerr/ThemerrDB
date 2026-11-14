@@ -2,7 +2,7 @@
     "adult": false,
     "backdrop_path": "/j7KqDRzjbvIjDv7cdHz9G3ZYEQy.jpg",
     "belongs_to_collection": null,
-    "budget": 100000000,
+    "budget": 95000000,
     "genres": [
         {
             "id": 27,
@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Sinners",
     "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
-    "popularity": 24.2931,
+    "popularity": 23.6389,
     "poster_path": "/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
     "production_companies": [
         {
@@ -55,7 +55,7 @@
         }
     ],
     "release_date": "2025-04-16",
-    "revenue": 371368759,
+    "revenue": 379749100,
     "runtime": 138,
     "softcore": false,
     "spoken_languages": [
@@ -79,8 +79,8 @@
     "tagline": "Dance with the devil.",
     "title": "Sinners",
     "video": false,
-    "vote_average": 7.519,
-    "vote_count": 5554,
+    "vote_average": 7.518,
+    "vote_count": 5560,
     "youtube_theme_added": 1788428671,
     "youtube_theme_added_by": "111676156",
     "youtube_theme_edited": 1788428671,

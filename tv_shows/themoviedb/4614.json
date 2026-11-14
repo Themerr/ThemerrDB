@@ -1,6 +1,6 @@
 {
     "adult": false,
-    "backdrop_path": "/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+    "backdrop_path": "/rHKRZCBpDFSNc45kzyf665LJYp3.jpg",
     "created_by": [
         {
             "credit_id": "525776ce760ee36aaa5306f0",
@@ -41,7 +41,7 @@
     "languages": [
         "en"
     ],
-    "last_air_date": "2026-10-27",
+    "last_air_date": "2026-11-10",
     "last_episode_to_air": {
         "air_date": "2026-11-10",
         "episode_number": 5,
@@ -81,7 +81,7 @@
         "vote_average": 0.0,
         "vote_count": 0
     },
-    "number_of_episodes": 513,
+    "number_of_episodes": 515,
     "number_of_seasons": 24,
     "origin_country": [
         "US"
@@ -89,7 +89,7 @@
     "original_language": "en",
     "original_name": "NCIS",
     "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-    "popularity": 263.0265,
+    "popularity": 251.9997,
     "poster_path": "/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
     "production_companies": [
         {
@@ -380,7 +380,7 @@
     "status": "Returning Series",
     "tagline": "Back in force.",
     "type": "Scripted",
-    "vote_average": 7.605,
+    "vote_average": 7.6,
     "vote_count": 2618,
     "youtube_theme_added": 1717383878,
     "youtube_theme_added_by": "67849115",

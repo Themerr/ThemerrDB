@@ -35,19 +35,19 @@
     ],
     "last_air_date": "2026-11-06",
     "last_episode_to_air": {
-        "air_date": "2026-11-06",
-        "episode_number": 22,
+        "air_date": "2026-11-13",
+        "episode_number": 24,
         "episode_type": "standard",
-        "id": 7390048,
-        "name": "A Hair Grows on Patrick",
-        "overview": "A hair suddenly sprouts on Patrick\u2019s head that he has trouble getting rid of.",
-        "production_code": "343b",
+        "id": 7404474,
+        "name": "Sounds Like Trouble",
+        "overview": "Patrick accidentally swaps voice boxes with an intimidating mobster.",
+        "production_code": "344b",
         "runtime": 11,
         "season_number": 17,
         "show_id": 387,
-        "still_path": "/b2jZzhLqDErVv0PJXS3vpcWKdfE.jpg",
-        "vote_average": 6.0,
-        "vote_count": 1
+        "still_path": "/kRgA4fjt8HuJQ5kzarPouKnW2qm.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0
     },
     "name": "SpongeBob SquarePants",
     "networks": [
@@ -59,17 +59,17 @@
         }
     ],
     "next_episode_to_air": {
-        "air_date": "2026-11-13",
-        "episode_number": 23,
+        "air_date": "2026-11-20",
+        "episode_number": 25,
         "episode_type": "standard",
-        "id": 7390051,
-        "name": "Yoga Yahoos",
-        "overview": "SpongeBob and Patrick crash Squidward's yoga class.",
-        "production_code": "344a",
+        "id": 7404475,
+        "name": "Upturn's Bunch",
+        "overview": "Lady Upturn is invited to learn the true meaning of friendship by joining the Gal Pals.",
+        "production_code": "345a",
         "runtime": null,
         "season_number": 17,
         "show_id": 387,
-        "still_path": "/p2gJkHxBYVKxK6v4A8OVFxvp6HX.jpg",
+        "still_path": "/95mSS0dVg27WTIqgFpWPPGVbxvI.jpg",
         "vote_average": 0.0,
         "vote_count": 0
     },
@@ -81,7 +81,7 @@
     "original_language": "en",
     "original_name": "SpongeBob SquarePants",
     "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
-    "popularity": 106.072,
+    "popularity": 79.7983,
     "poster_path": "/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
     "production_companies": [
         {
