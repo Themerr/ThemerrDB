@@ -50,8 +50,8 @@
         "season_number": 29,
         "show_id": 2190,
         "still_path": "/x5bVJoepbExF9d9qWZKusyD4RtL.jpg",
-        "vote_average": 3.9,
-        "vote_count": 7
+        "vote_average": 4.5,
+        "vote_count": 9
     },
     "name": "South Park",
     "networks": [
@@ -85,7 +85,7 @@
     "original_language": "en",
     "original_name": "South Park",
     "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-    "popularity": 149.954,
+    "popularity": 148.6354,
     "poster_path": "/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
     "production_companies": [
         {
@@ -424,7 +424,7 @@
             "overview": "Join Stan, Kyle, Cartman and Kenny for the historic 29th season of South America.",
             "poster_path": "/8tIvWw8SFbF1xEQID0VOE9Yx92m.jpg",
             "season_number": 29,
-            "vote_average": 5.4
+            "vote_average": 5.5
         }
     ],
     "softcore": false,
@@ -439,7 +439,7 @@
     "tagline": "Four boys. One f**ked-up town.",
     "type": "Scripted",
     "vote_average": 8.336,
-    "vote_count": 5270,
+    "vote_count": 5273,
     "youtube_theme_added": 1704916549,
     "youtube_theme_added_by": "42013603",
     "youtube_theme_edited": 1704916549,

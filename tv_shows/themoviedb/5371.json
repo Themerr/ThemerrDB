@@ -45,7 +45,7 @@
     "networks": [
         {
             "id": 13,
-            "logo_path": "/i0e7qsKhCcB6EJy0qvjhnFB2lgp.png",
+            "logo_path": "/aYkLXz4dxHgOrFNH7Jv7Cpy56Ms.png",
             "name": "Nickelodeon",
             "origin_country": "US"
         }
@@ -59,7 +59,7 @@
     "original_language": "en",
     "original_name": "iCarly",
     "overview": "Watch Carly, Sam, and Freddie, as they try to balance their everyday 8th grade lives with their newfound fame managing and starring in the most awesome show on the web.",
-    "popularity": 43.8066,
+    "popularity": 45.2884,
     "poster_path": "/zswxst53aM8g2LysdVbtQNJAiKM.jpg",
     "production_companies": [
         {
@@ -164,7 +164,7 @@
     "status": "Ended",
     "tagline": "",
     "type": "Scripted",
-    "vote_average": 7.946,
+    "vote_average": 7.9,
     "vote_count": 1593,
     "youtube_theme_added": 1790703974,
     "youtube_theme_added_by": "93882479",

@@ -43,7 +43,7 @@
         "season_number": 1,
         "show_id": 259140,
         "still_path": "/xyLLukKi0aMlnKXSVr8PvQclxqu.jpg",
-        "vote_average": 7.667,
+        "vote_average": 7.7,
         "vote_count": 3
     },
     "name": "Ranma1/2",
@@ -90,15 +90,15 @@
         "episode_number": 31,
         "episode_type": "standard",
         "id": 7903919,
-        "name": "Episode 31",
-        "overview": "",
+        "name": "Quest for the Hidden Spring",
+        "overview": "Ryoga tells Ranma he will soon part with P-chan after finding a map to the Japanese Spring of the Drowned Man \u2014 but it leads to the girls' locker room?",
         "production_code": "",
         "runtime": 23,
         "season_number": 1,
         "show_id": 259140,
         "still_path": "/hcYXpP2stuk1Mafwu4s0dsSmX6w.jpg",
-        "vote_average": 0.0,
-        "vote_count": 0
+        "vote_average": 8.0,
+        "vote_count": 1
     },
     "number_of_episodes": 36,
     "number_of_seasons": 1,
@@ -108,7 +108,7 @@
     "original_language": "ja",
     "original_name": "\u3089\u3093\u307e1/2",
     "overview": "Akane Tendo meets her new fianc\u00e9, Ranma Saotome, a martial arts prodigy with a twist: he magically transforms into a girl upon touching cold water.",
-    "popularity": 24.6092,
+    "popularity": 26.6235,
     "poster_path": "/cDThx8yRYbdPOSgHbjihS4q7GYc.jpg",
     "production_companies": [
         {
@@ -151,7 +151,7 @@
             "overview": "",
             "poster_path": "/5RUiNJBFufEmpzE5phIjZ3b7c2P.jpg",
             "season_number": 1,
-            "vote_average": 7.8
+            "vote_average": 7.9
         }
     ],
     "softcore": false,

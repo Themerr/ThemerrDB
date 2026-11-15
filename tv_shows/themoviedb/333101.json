@@ -58,12 +58,12 @@
         "name": "A Princesa De Aveiro",
         "overview": "Captive on Skeleton Island, Jim turns the tables in an attempt to catch up to Long John before he can leave with the treasure; back at sea, alliances fracture and reunite, binding the survivors together in a dangerous new partnership.",
         "production_code": "",
-        "runtime": null,
+        "runtime": 49,
         "season_number": 1,
         "show_id": 333101,
         "still_path": "/1VM9sH9hMeMdWEtrQQl9ljzeRU4.jpg",
-        "vote_average": 1.0,
-        "vote_count": 3
+        "vote_average": 2.75,
+        "vote_count": 4
     },
     "number_of_episodes": 6,
     "number_of_seasons": 1,
@@ -73,7 +73,7 @@
     "original_language": "en",
     "original_name": "Treasure Island",
     "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate\u2019s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
-    "popularity": 21.7934,
+    "popularity": 21.0482,
     "poster_path": "/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
     "production_companies": [
         {
@@ -108,7 +108,7 @@
             "overview": "",
             "poster_path": "/mUTIJDtPfXFjF4YYsVBalomi4Ng.jpg",
             "season_number": 1,
-            "vote_average": 3.7
+            "vote_average": 4.1
         }
     ],
     "softcore": false,
