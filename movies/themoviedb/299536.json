@@ -2,7 +2,7 @@
     "adult": false,
     "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
     "belongs_to_collection": {
-        "backdrop_path": "/2UNUv4NJdC36E5myDHACBJ99EwL.jpg",
+        "backdrop_path": "/zuW6fOiusv4X9nnW3paHGfXcSll.jpg",
         "id": 86311,
         "name": "The Avengers Collection",
         "poster_path": "/yFSIUVTCvgYrpalUktulvk3Gi5Y.jpg"
@@ -31,12 +31,12 @@
     "original_language": "en",
     "original_title": "Avengers: Infinity War",
     "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
-    "popularity": 48.7246,
+    "popularity": 51.1705,
     "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
     "production_companies": [
         {
             "id": 420,
-            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "logo_path": "/mIkZDuulwMPzESbzF9lg3rD8CcO.png",
             "name": "Marvel Studios",
             "origin_country": "US"
         }
@@ -68,7 +68,7 @@
     "title": "Avengers: Infinity War",
     "video": false,
     "vote_average": 8.247,
-    "vote_count": 33406,
+    "vote_count": 33416,
     "youtube_theme_added": 1675536561,
     "youtube_theme_added_by": "19782651",
     "youtube_theme_edited": 1675536561,

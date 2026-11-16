@@ -35,19 +35,19 @@
     ],
     "last_air_date": "2026-11-01",
     "last_episode_to_air": {
-        "air_date": "2026-11-01",
-        "episode_number": 5,
+        "air_date": "2026-11-15",
+        "episode_number": 6,
         "episode_type": "standard",
-        "id": 7946420,
-        "name": "Secret Weapon (2)",
-        "overview": "The Marshals hunt for a bomber armed with a massive explosive. The trail leads to the suspect's family whose grievances against government and financial institutions make it difficult to get information out of them.",
+        "id": 7951846,
+        "name": "Roughstock",
+        "overview": "Kayce helps Mo track down a missing family member outside of Marshal jurisdiction creating a tough situation for Andrea who is filling in as interim team leader. Belle joins Cal on his trip to see a cancer specialist in Utah as the two grow closer.",
         "production_code": "",
         "runtime": 43,
         "season_number": 2,
         "show_id": 290856,
-        "still_path": "/3KJT1qYaYCuRY8q1H3nDziv4q2a.jpg",
-        "vote_average": 8.875,
-        "vote_count": 12
+        "still_path": "/jmudf2JwlRSi0f8pbEM8M3nvcIC.jpg",
+        "vote_average": 8.5,
+        "vote_count": 2
     },
     "name": "Marshals",
     "networks": [
@@ -59,12 +59,12 @@
         }
     ],
     "next_episode_to_air": {
-        "air_date": "2026-11-15",
-        "episode_number": 6,
+        "air_date": "2026-11-22",
+        "episode_number": 7,
         "episode_type": "standard",
-        "id": 7951846,
-        "name": "Roughstock",
-        "overview": "With Cal away in Utah seeing a cancer specialist, Andrea steps up as team leader and is instantly tested when Kayce ventures outside Marshals jurisdiction to help Mo track down his missing nephew.",
+        "id": 8084358,
+        "name": "Under the Influence",
+        "overview": "Kayce and Belle go undercover inside a dangerous cult, led by the manipulative Eric Savard, to find a missing federal agent who has gone dark after infiltrating the group.",
         "production_code": "",
         "runtime": null,
         "season_number": 2,
@@ -81,7 +81,7 @@
     "original_language": "en",
     "original_name": "Marshals",
     "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
-    "popularity": 76.3503,
+    "popularity": 76.4154,
     "poster_path": "/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg",
     "production_companies": [
         {
@@ -149,7 +149,7 @@
     "tagline": "A new era of Yellowstone.",
     "type": "Scripted",
     "vote_average": 7.983,
-    "vote_count": 433,
+    "vote_count": 435,
     "youtube_theme_added": 1790208956,
     "youtube_theme_added_by": "50698568",
     "youtube_theme_edited": 1790208956,

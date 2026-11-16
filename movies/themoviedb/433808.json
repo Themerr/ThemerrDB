@@ -1,6 +1,6 @@
 {
     "adult": false,
-    "backdrop_path": "/vaArQHq1lHFNppoJlMlv30Gs2fQ.jpg",
+    "backdrop_path": "/yEbnDH0rCeQgvDVg3y90sUeG9yC.jpg",
     "belongs_to_collection": null,
     "budget": 1000000,
     "genres": [
@@ -22,8 +22,8 @@
     "original_language": "en",
     "original_title": "The Ritual",
     "overview": "A group of university friends reunite for a hiking trip in Sweden, but are stalked by a menacing presence when they're diverted through the woods.",
-    "popularity": 5.6792,
-    "poster_path": "/9022CYEGqYETCeXN1oE3uwYJWub.jpg",
+    "popularity": 6.0554,
+    "poster_path": "/kJoFXZPTDwCy5ekrNV1JygBXvnD.jpg",
     "production_companies": [
         {
             "id": 8147,
@@ -63,7 +63,7 @@
         }
     ],
     "release_date": "2017-10-11",
-    "revenue": 1786396,
+    "revenue": 1785977,
     "runtime": 95,
     "softcore": false,
     "spoken_languages": [
@@ -82,8 +82,8 @@
     "tagline": "Your darkest dream awaits you.",
     "title": "The Ritual",
     "video": false,
-    "vote_average": 6.3,
-    "vote_count": 3666,
+    "vote_average": 6.312,
+    "vote_count": 3669,
     "youtube_theme_added": 1675710814,
     "youtube_theme_added_by": "15357950",
     "youtube_theme_edited": 1675710814,

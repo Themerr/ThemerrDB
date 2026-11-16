@@ -58,7 +58,21 @@
             "origin_country": "AU"
         }
     ],
-    "next_episode_to_air": null,
+    "next_episode_to_air": {
+        "air_date": "2027-01-26",
+        "episode_number": 1,
+        "episode_type": "standard",
+        "id": 8138276,
+        "name": "Episode 1",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 4,
+        "show_id": 157950,
+        "still_path": null,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
     "number_of_episodes": 38,
     "number_of_seasons": 4,
     "origin_country": [
@@ -67,7 +81,7 @@
     "original_language": "en",
     "original_name": "NCIS: Sydney",
     "overview": "The brilliant and eclectic team of U.S. NCIS Agents and the Australian Federal Police (AFP) are grafted into a multi-national taskforce to keep naval crimes in check in the most contested patch of ocean on the planet.",
-    "popularity": 13.8034,
+    "popularity": 12.5125,
     "poster_path": "/6dYDa6h1AOZ7iZ1zv3nlw7qhErX.jpg",
     "production_companies": [
         {
@@ -131,8 +145,8 @@
             "vote_average": 4.3
         },
         {
-            "air_date": null,
-            "episode_count": 0,
+            "air_date": "2027-01-26",
+            "episode_count": 1,
             "id": 531853,
             "name": "Season 4",
             "overview": "In their most adrenaline-fuelled season yet, the NCIS: Sydney team is back to solve the unsolvable and deliver justice in the way that only they can!  From criminal mastermind mermaids to adventures on the high seas, gold heists and the illicit trade of government secrets, life-or-death stakes push our team to breaking point. As professional lines begin to blur, will long-simmering romantic tensions finally reach a fever pitch?",

@@ -17,17 +17,16 @@
             "name": "Action"
         }
     ],
-    "homepage": "",
+    "homepage": "https://www.lionsgate.com/movies/valerian-and-the-city-of-a-thousand-planets",
     "id": 339964,
     "imdb_id": "tt2239822",
     "origin_country": [
-        "FR",
         "US"
     ],
     "original_language": "en",
     "original_title": "Valerian and the City of a Thousand Planets",
     "overview": "In the 28th century, Valerian and Laureline are special operatives charged with keeping order throughout the human territories. On assignment from the Minister of Defense, the two undertake a mission to Alpha, an ever-expanding metropolis where species from across the universe have converged over centuries to share knowledge, intelligence, and cultures. At the center of Alpha is a mysterious dark force which threatens the peaceful existence of the City of a Thousand Planets, and Valerian and Laureline must race to identify the menace and safeguard not just Alpha, but the future of the universe.",
-    "popularity": 8.817,
+    "popularity": 8.3527,
     "poster_path": "/vlc95gl3PtrjxSEuM8RhTtSm2xU.jpg",
     "production_companies": [
         {
@@ -43,34 +42,10 @@
             "origin_country": "US"
         },
         {
-            "id": 6877,
-            "logo_path": null,
-            "name": "Grive Productions",
-            "origin_country": "FR"
-        },
-        {
-            "id": 6896,
-            "logo_path": "/2Q89KvzxTKB5BAv9RqFIPI1qb7E.png",
-            "name": "EuropaCorp",
-            "origin_country": "FR"
-        },
-        {
-            "id": 12372,
-            "logo_path": "/lcQScIQXHQXuLMLFQt0loJl5gWJ.png",
-            "name": "UFA",
-            "origin_country": "DE"
-        },
-        {
             "id": 55244,
             "logo_path": "/6tjtQvghRRXFmCsuN8SsKJW6cIm.png",
             "name": "Fundamental Films",
             "origin_country": "CN"
-        },
-        {
-            "id": 96686,
-            "logo_path": "/6U6ZPi3eVHWvon7ePKACQXca72j.png",
-            "name": "Gulf Film",
-            "origin_country": "AE"
         },
         {
             "id": 96687,
@@ -91,10 +66,22 @@
             "origin_country": "FR"
         },
         {
-            "id": 11997,
-            "logo_path": "/jh15xr7Y10ZrgY1BwE3LGwcseu7.png",
-            "name": "BNP Paribas Fortis",
-            "origin_country": "BE"
+            "id": 318824,
+            "logo_path": "/jPnbFGXbIreYHCzChw3wn3ypwm6.png",
+            "name": "BNP Paribas",
+            "origin_country": "FR"
+        },
+        {
+            "id": 811,
+            "logo_path": "/fkUn0i77o8qdOQJHSMIohSEVIGf.png",
+            "name": "Universum Film",
+            "origin_country": "DE"
+        },
+        {
+            "id": 318827,
+            "logo_path": null,
+            "name": "Valerian",
+            "origin_country": "FR"
         }
     ],
     "production_countries": [
@@ -143,8 +130,8 @@
     "tagline": "A universe without boundaries needs heroes without limits.",
     "title": "Valerian and the City of a Thousand Planets",
     "video": false,
-    "vote_average": 6.655,
-    "vote_count": 8329,
+    "vote_average": 6.7,
+    "vote_count": 8331,
     "youtube_theme_added": 1675107954,
     "youtube_theme_added_by": "15357950",
     "youtube_theme_edited": 1675107954,

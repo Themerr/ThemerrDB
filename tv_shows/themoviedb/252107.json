@@ -62,8 +62,8 @@
         "season_number": 1,
         "show_id": 252107,
         "still_path": "/rt4jhluW04Zbdn47XlaTW6qxTye.jpg",
-        "vote_average": 7.5,
-        "vote_count": 8
+        "vote_average": 7.667,
+        "vote_count": 9
     },
     "name": "Star City",
     "networks": [
@@ -83,7 +83,7 @@
     "original_language": "en",
     "original_name": "Star City",
     "overview": "Step into a thrilling chapter inspired by For All Mankind. Same alt-history universe. Different perspective: the Soviet Union's. Go behind the Iron Curtain with the cosmonauts, engineers, and intelligence officers who risked it all in the race for the Moon.",
-    "popularity": 10.17,
+    "popularity": 10.9709,
     "poster_path": "/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg",
     "production_companies": [
         {
@@ -120,7 +120,7 @@
             "overview": "In this expansion of the For All Mankind universe, experience the \"what if\" take on the global space race from the Soviet Union perspective. Go behind the Iron Curtain, where it's more dangerous on the ground than in space.",
             "poster_path": "/dQEnrwvNfHZrkcHV9eXUGoWVpbF.jpg",
             "season_number": 1,
-            "vote_average": 7.1
+            "vote_average": 7.3
         }
     ],
     "softcore": false,
@@ -134,8 +134,8 @@
     "status": "Returning Series",
     "tagline": "In the race for glory, every secret has gravity.",
     "type": "Scripted",
-    "vote_average": 7.531,
-    "vote_count": 97,
+    "vote_average": 7.6,
+    "vote_count": 98,
     "youtube_theme_added": 1788459660,
     "youtube_theme_added_by": "28492134",
     "youtube_theme_edited": 1788459660,

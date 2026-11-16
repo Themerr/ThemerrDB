@@ -24,7 +24,7 @@
     "languages": [
         "ja"
     ],
-    "last_air_date": "2026-10-26",
+    "last_air_date": "2026-11-09",
     "last_episode_to_air": {
         "air_date": "2026-11-09",
         "episode_number": 5,
@@ -61,9 +61,9 @@
         "episode_type": "standard",
         "id": 7904387,
         "name": "Memory",
-        "overview": "",
+        "overview": "Unless they defeat Tatsuo, they won't make it to the goal. Ageha and Hiryu launch an attack on him together.",
         "production_code": "",
-        "runtime": null,
+        "runtime": 24,
         "season_number": 1,
         "show_id": 297903,
         "still_path": "/cVD2fmVsM5zvkdaxbCI0Cb8tpnV.jpg",
@@ -78,7 +78,7 @@
     "original_language": "ja",
     "original_name": "PSYREN -\u30b5\u30a4\u30ec\u30f3-",
     "overview": "One day, high schooler Ageha Yoshina picks up a mysterious red phone card. Days later, his childhood friend, Sakurako Amamiya, who possessed the same card, suddenly vanishes. In search of her, he's drawn into rumors of a nationwide string of mysterious disappearances by a secret organization known as Psyren. When he accesses the group, a deadly game that changes his fate forever begins.",
-    "popularity": 10.2105,
+    "popularity": 9.9905,
     "poster_path": "/3imj2VLU77bLOyJ4aPnEUlpJZDX.jpg",
     "production_companies": [
         {
@@ -159,8 +159,8 @@
     "status": "Returning Series",
     "tagline": "A PSY\u042fEN echoes through our future.",
     "type": "Scripted",
-    "vote_average": 7.2,
-    "vote_count": 3,
+    "vote_average": 7.3,
+    "vote_count": 5,
     "youtube_theme_added": 1792879558,
     "youtube_theme_added_by": "30657709",
     "youtube_theme_edited": 1792879558,

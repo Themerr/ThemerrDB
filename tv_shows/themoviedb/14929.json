@@ -37,19 +37,19 @@
     ],
     "last_air_date": "2026-11-01",
     "last_episode_to_air": {
-        "air_date": "2026-11-08",
-        "episode_number": 6,
+        "air_date": "2026-11-15",
+        "episode_number": 7,
         "episode_type": "standard",
-        "id": 8011593,
-        "name": "The Extra Mile",
-        "overview": "In the aftermath of the endurance race, Lou and Georgie band together to save Amy's life. Katie and River find themselves caught in a difficult situation. Dex makes a decision about his future.",
+        "id": 8011595,
+        "name": "Steady Grip",
+        "overview": "While on the road to recovery, Amy navigates a painful reality. When the Hudson rodeo is cancelled, Lou decides Heartland should host their own rodeo. Jack supports Dex's first official bull ride.",
         "production_code": "",
         "runtime": 44,
         "season_number": 20,
         "show_id": 14929,
-        "still_path": null,
-        "vote_average": 10.0,
-        "vote_count": 2
+        "still_path": "/axhzsZEPEkqUT7TC5pG7V0wAuTc.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0
     },
     "name": "Heartland",
     "networks": [
@@ -61,12 +61,12 @@
         }
     ],
     "next_episode_to_air": {
-        "air_date": "2026-11-15",
-        "episode_number": 7,
+        "air_date": "2026-11-22",
+        "episode_number": 8,
         "episode_type": "standard",
-        "id": 8011595,
-        "name": "Steady Grip",
-        "overview": "While on the road to recovery, Amy navigates a painful reality. When the Hudson rodeo is cancelled, Lou decides Heartland should host their own rodeo. Jack supports Dex's first official bull ride.",
+        "id": 8011596,
+        "name": "A Ride or Die",
+        "overview": "Amy and Winn embark on a risky journey together. Dex enlists Katie's help to plan the perfect date for River. Meanwhile, Jack uncovers the truth about Georgie's sudden return to Heartland.",
         "production_code": "",
         "runtime": 44,
         "season_number": 20,
@@ -83,7 +83,7 @@
     "original_language": "en",
     "original_name": "Heartland",
     "overview": "Life is hard on the Flemings' ranch in the Alberta foothills where abused or neglected horses find refuge with a kind, hard-working family. Debts abound and the bank is about to foreclose. Can they keep the ranch running?",
-    "popularity": 50.6316,
+    "popularity": 50.8055,
     "poster_path": "/osAYIqIGtnVpqz4FDdGjCezE11z.jpg",
     "production_companies": [
         {
@@ -306,7 +306,7 @@
         },
         {
             "air_date": "2026-10-04",
-            "episode_count": 8,
+            "episode_count": 10,
             "id": 526614,
             "name": "Season 20",
             "overview": "",

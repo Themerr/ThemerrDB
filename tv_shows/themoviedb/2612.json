@@ -51,7 +51,7 @@
         }
     ],
     "next_episode_to_air": null,
-    "number_of_episodes": 386,
+    "number_of_episodes": 389,
     "number_of_seasons": 22,
     "origin_country": [
         "US"
@@ -59,7 +59,7 @@
     "original_language": "en",
     "original_name": "Deadliest Catch",
     "overview": "Forty-foot waves, 700 pound crab pots, freezing temperatures and your mortality staring you in the face\u2026it's all in a day's work for these modern day prospectors. During each episode we will watch crews race to meet their quota and make it home safely.",
-    "popularity": 28.1373,
+    "popularity": 28.3941,
     "poster_path": "/aqF7wHfA2n89zbBqG6DLuDjrHut.jpg",
     "production_companies": [
         {
@@ -148,7 +148,7 @@
         },
         {
             "air_date": "2011-04-12",
-            "episode_count": 16,
+            "episode_count": 17,
             "id": 8432,
             "name": "Season 7",
             "overview": "",
@@ -218,7 +218,7 @@
         },
         {
             "air_date": "2018-04-10",
-            "episode_count": 19,
+            "episode_count": 20,
             "id": 102061,
             "name": "Season 14",
             "overview": "New blood, old wounds and rivalries that never die. After a record breaking, heartbreaking season last year, Deadliest Catch returns for season fourteen. For some it's a season of change; for others, a chance to make a name for themselves, but some things remain constant: the perilous, icy waters of the Bering Sea and most dangerous job in the world.",
@@ -228,7 +228,7 @@
         },
         {
             "air_date": "2019-04-09",
-            "episode_count": 21,
+            "episode_count": 22,
             "id": 121595,
             "name": "Season 15",
             "overview": "",
@@ -264,7 +264,7 @@
             "overview": "",
             "poster_path": "/7MSFWDI1BkMBEL2x4nFFapNvDEO.jpg",
             "season_number": 18,
-            "vote_average": 7.2
+            "vote_average": 7.6
         },
         {
             "air_date": "2023-04-18",

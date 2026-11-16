@@ -64,9 +64,9 @@
         "JP"
     ],
     "original_language": "ja",
-    "original_name": "\u30b0\u30ec\u30fc\u30c8\u30fb\u30c6\u30a3\u30fc\u30c1\u30e3\u30fc\u30fb\u30aa\u30cb\u30c5\u30ab",
+    "original_name": "GTO",
     "overview": "A former gang member wants to be Japan's best teacher. When he's hired to supervise a class of hopeless cases, it's his chance to prove himself.",
-    "popularity": 20.5052,
+    "popularity": 21.7147,
     "poster_path": "/cgcvNzLUQUjkur8zfhHwcadwzVz.jpg",
     "production_companies": [
         {
@@ -96,16 +96,6 @@
     ],
     "seasons": [
         {
-            "air_date": "1994-01-21",
-            "episode_count": 5,
-            "id": 52480,
-            "name": "Specials",
-            "overview": "",
-            "poster_path": "/wxqCamD73nbdaBwu41pPYECrNdC.jpg",
-            "season_number": 0,
-            "vote_average": 0.0
-        },
-        {
             "air_date": "1999-06-30",
             "episode_count": 43,
             "id": 52479,
@@ -127,7 +117,7 @@
     "status": "Ended",
     "tagline": "",
     "type": "Scripted",
-    "vote_average": 8.42,
+    "vote_average": 8.4,
     "vote_count": 294,
     "youtube_theme_added": 1780063704,
     "youtube_theme_added_by": "30657709",

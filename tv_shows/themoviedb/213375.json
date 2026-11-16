@@ -1,6 +1,6 @@
 {
     "adult": false,
-    "backdrop_path": "/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
+    "backdrop_path": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
     "created_by": [
         {
             "credit_id": "681929b5b50b5e2a1dc29f35",
@@ -42,8 +42,8 @@
         "season_number": 1,
         "show_id": 213375,
         "still_path": "/7QkAqbQv2WIvGY4Oak1uG50u2lc.jpg",
-        "vote_average": 7.8,
-        "vote_count": 42
+        "vote_average": 7.772,
+        "vote_count": 46
     },
     "name": "VisionQuest",
     "networks": [
@@ -63,12 +63,12 @@
     "original_language": "en",
     "original_name": "VisionQuest",
     "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-    "popularity": 316.4585,
+    "popularity": 308.67,
     "poster_path": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
     "production_companies": [
         {
             "id": 420,
-            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "logo_path": "/mIkZDuulwMPzESbzF9lg3rD8CcO.png",
             "name": "Marvel Studios",
             "origin_country": "US"
         },
@@ -108,8 +108,8 @@
     "status": "Ended",
     "tagline": "",
     "type": "Miniseries",
-    "vote_average": 8.333,
-    "vote_count": 485,
+    "vote_average": 8.324,
+    "vote_count": 502,
     "youtube_theme_added": 1793022556,
     "youtube_theme_added_by": "318957736",
     "youtube_theme_edited": 1793022556,

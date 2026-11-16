@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "The Adjustment Bureau",
     "overview": "A man glimpses the future Fate has planned for him \u2013 and chooses to fight for his own destiny. Battling the powerful Adjustment Bureau across, under and through the streets of New York, he risks his destined greatness to be with the only woman he's ever loved.",
-    "popularity": 6.1588,
+    "popularity": 6.4587,
     "poster_path": "/5ZzeR8iz1nEFLp94OBnbakLZawo.jpg",
     "production_companies": [
         {
@@ -39,6 +39,18 @@
             "id": 11834,
             "logo_path": "/frof89VbMfnKfuWpBk55d879W2D.png",
             "name": "Electric Shepherd Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 2531,
+            "logo_path": "/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png",
+            "name": "MRC",
+            "origin_country": "US"
+        },
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
             "origin_country": "US"
         }
     ],
@@ -63,8 +75,8 @@
     "tagline": "Your future has been adjusted.",
     "title": "The Adjustment Bureau",
     "video": false,
-    "vote_average": 6.8,
-    "vote_count": 5176,
+    "vote_average": 6.798,
+    "vote_count": 5180,
     "youtube_theme_added": 1696276852,
     "youtube_theme_added_by": "118304977",
     "youtube_theme_edited": 1696276852,

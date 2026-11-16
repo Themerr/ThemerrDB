@@ -1,6 +1,6 @@
 {
     "adult": false,
-    "backdrop_path": "/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
+    "backdrop_path": "/ib8CO2kXlwg9fnauK9HuMkw0oNQ.jpg",
     "created_by": [
         {
             "credit_id": "5c1c6601c3a3685117ebe645",
@@ -35,21 +35,21 @@
     "languages": [
         "en"
     ],
-    "last_air_date": "2025-06-29",
+    "last_air_date": "2026-11-15",
     "last_episode_to_air": {
-        "air_date": "2025-06-29",
-        "episode_number": 8,
-        "episode_type": "finale",
-        "id": 5992644,
-        "name": "The Upper Room (2)",
-        "overview": "Pilate summons Atticus to read him the riot act. The Sanhedrin boils over. The Last Supper ends.",
+        "air_date": "2026-11-15",
+        "episode_number": 3,
+        "episode_type": "standard",
+        "id": 7108084,
+        "name": "4:00am - 5:00am",
+        "overview": "Tension mounts as Caiaphas stages a daring nighttime show trial before an eager jury of Jesus' enemies. As Peter denies Jesus not once, but three times, Judas attempts to set the record straight. Nicodemus prepares his defense-but will he be too late?",
         "production_code": "",
-        "runtime": 66,
-        "season_number": 5,
+        "runtime": 45,
+        "season_number": 6,
         "show_id": 85077,
-        "still_path": "/lafv8JbwffijVKk9twFcp4tI5Wb.jpg",
-        "vote_average": 8.9,
-        "vote_count": 9
+        "still_path": "/9bOjrN7GQHF3E8Y8BEzC9kq0taH.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0
     },
     "name": "The Chosen",
     "networks": [
@@ -79,17 +79,17 @@
         }
     ],
     "next_episode_to_air": {
-        "air_date": "2026-11-15",
-        "episode_number": 1,
+        "air_date": "2026-11-22",
+        "episode_number": 4,
         "episode_type": "standard",
-        "id": 7108081,
-        "name": "Dawning",
-        "overview": "Fear and confusion reign as the disciples struggle to make sense of Jesus' arrest-and Judas' betrayal. While they fight to stay together, Nicodemus stands alone against the High Priest in a heated showdown that throws the council into disorder.",
+        "id": 7108086,
+        "name": "5:00am - 6:00am",
+        "overview": "",
         "production_code": "",
-        "runtime": null,
+        "runtime": 61,
         "season_number": 6,
         "show_id": 85077,
-        "still_path": "/4fURT0JJPAgA0K1QUgjcsuiiNyd.jpg",
+        "still_path": "/ua4PG30UUSgp6qQJ6kf4S5VzoMQ.jpg",
         "vote_average": 0.0,
         "vote_count": 0
     },
@@ -101,7 +101,7 @@
     "original_language": "en",
     "original_name": "The Chosen",
     "overview": "The life of Christ through the eyes of those who encountered him.",
-    "popularity": 67.8008,
+    "popularity": 88.5153,
     "poster_path": "/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
     "production_companies": [
         {
@@ -204,7 +204,7 @@
             "overview": "The hour has come. Season 6 captures Jesus' final day through the eyes of those who love Him-and those who condemn Him. In the face of loneliness and death, He stands resolute in His plan that has always led to one place: the cross.",
             "poster_path": "/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
             "season_number": 6,
-            "vote_average": 0.0
+            "vote_average": 10.0
         }
     ],
     "softcore": false,
@@ -218,8 +218,8 @@
     "status": "Returning Series",
     "tagline": "Rise up.",
     "type": "Scripted",
-    "vote_average": 8.845,
-    "vote_count": 1055,
+    "vote_average": 8.854,
+    "vote_count": 1063,
     "youtube_theme_added": 1719323909,
     "youtube_theme_added_by": "39831475",
     "youtube_theme_edited": 1719323909,
