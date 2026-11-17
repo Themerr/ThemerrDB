@@ -1,6 +1,6 @@
 {
     "adult": false,
-    "backdrop_path": "/jgfmzwfmMh4DTqITVSdtxBKfFE5.jpg",
+    "backdrop_path": "/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
     "created_by": [
         {
             "credit_id": "67bdd41976904c59c85e9f6c",
@@ -46,8 +46,8 @@
         "season_number": 2,
         "show_id": 259909,
         "still_path": "/y19J9vASYTjIFHkZ8o2yJk6BoC0.jpg",
-        "vote_average": 8.273,
-        "vote_count": 11
+        "vote_average": 8.321,
+        "vote_count": 14
     },
     "name": "Dexter: Resurrection",
     "networks": [
@@ -66,7 +66,7 @@
         "name": "Young Blood",
         "overview": "Dexter probes a young killer's notorious legacy and must decide whether the code still applies.",
         "production_code": "",
-        "runtime": null,
+        "runtime": 65,
         "season_number": 2,
         "show_id": 259909,
         "still_path": "/tAX9ecuUfYMwoJZsQlx7yua5yDw.jpg",
@@ -81,7 +81,7 @@
     "original_language": "en",
     "original_name": "Dexter: Resurrection",
     "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-    "popularity": 100.906,
+    "popularity": 97.2705,
     "poster_path": "/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
     "production_companies": [
         {
@@ -164,8 +164,8 @@
     "status": "Returning Series",
     "tagline": "Back and sharper than ever.",
     "type": "Scripted",
-    "vote_average": 8.5,
-    "vote_count": 761,
+    "vote_average": 8.545,
+    "vote_count": 763,
     "youtube_theme_added": 1778727904,
     "youtube_theme_added_by": "6266356",
     "youtube_theme_edited": 1778727904,

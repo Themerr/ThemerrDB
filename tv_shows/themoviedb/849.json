@@ -46,8 +46,8 @@
         "season_number": 4,
         "show_id": 849,
         "still_path": "/zJET0JcMaWP1kK2bFbKjeYVDyN6.jpg",
-        "vote_average": 6.3,
-        "vote_count": 10
+        "vote_average": 6.455,
+        "vote_count": 11
     },
     "name": "Monty Python's Flying Circus",
     "networks": [
@@ -67,7 +67,7 @@
     "original_language": "en",
     "original_name": "Monty Python's Flying Circus",
     "overview": "A British sketch comedy series with the shows being composed of surreality, risqu\u00e9 or innuendo-laden humour, sight gags and observational sketches without punchlines.",
-    "popularity": 14.3789,
+    "popularity": 14.8145,
     "poster_path": "/hZtMtL8Pqv9FAMljN9911U4qBhI.jpg",
     "production_companies": [
         {
@@ -107,7 +107,7 @@
             "overview": "",
             "poster_path": "/qBs6mbx8W91zthYDVNvNjZ7RYgL.jpg",
             "season_number": 2,
-            "vote_average": 7.5
+            "vote_average": 7.6
         },
         {
             "air_date": "1972-10-19",
@@ -141,8 +141,8 @@
     "status": "Ended",
     "tagline": "And now for something completely different...",
     "type": "Scripted",
-    "vote_average": 8.281,
-    "vote_count": 760,
+    "vote_average": 8.283,
+    "vote_count": 762,
     "youtube_theme_added": 1791018644,
     "youtube_theme_added_by": "34431195",
     "youtube_theme_edited": 1791018644,

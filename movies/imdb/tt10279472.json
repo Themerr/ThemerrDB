@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "The Black Demon",
     "overview": "Oilman Paul Sturges' idyllic family vacation turns into a nightmare when they encounter a ferocious megalodon shark that will stop at nothing to protect its territory. Stranded and under constant attack, Paul and his family must somehow find a way to get his family back to shore alive before it strikes again in this epic battle between humans and nature.",
-    "popularity": 2.7131,
+    "popularity": 2.6852,
     "poster_path": "/6ecSjKSjgIULyHfrfyyg9vgAI33.jpg",
     "production_companies": [
         {
@@ -67,6 +67,10 @@
         {
             "iso_3166_1": "DO",
             "name": "Dominican Republic"
+        },
+        {
+            "iso_3166_1": "SI",
+            "name": "Slovenia"
         }
     ],
     "release_date": "2023-04-26",
@@ -89,7 +93,7 @@
     "tagline": "Nature bites back.",
     "title": "The Black Demon",
     "video": false,
-    "vote_average": 5.869,
+    "vote_average": 5.9,
     "vote_count": 739,
     "youtube_theme_added": 1722363144,
     "youtube_theme_added_by": "121977106",

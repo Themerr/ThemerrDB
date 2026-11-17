@@ -1,6 +1,6 @@
 {
     "adult": false,
-    "backdrop_path": "/4840rkbpsiuow5ew155oVKcqJwj.jpg",
+    "backdrop_path": "/pulJ1iY7GVeppMRipiR7ZGDW7EW.jpg",
     "belongs_to_collection": {
         "backdrop_path": "/lpZBhgQDkiQCXZBlQh5pY6KLOtT.jpg",
         "id": 985311,
@@ -23,8 +23,8 @@
     "original_language": "en",
     "original_title": "The Passion of the Christ",
     "overview": "A graphic portrayal of the last twelve hours of Jesus of Nazareth's life.",
-    "popularity": 11.5225,
-    "poster_path": "/rBM5o2HpmCfDejuIPybI09tkY3V.jpg",
+    "popularity": 11.1735,
+    "poster_path": "/v9f9MMrq2nGQrN7cHnQRmEq9lSE.jpg",
     "production_companies": [
         {
             "id": 152,
@@ -60,7 +60,7 @@
     "title": "The Passion of the Christ",
     "video": false,
     "vote_average": 7.537,
-    "vote_count": 5421,
+    "vote_count": 5423,
     "youtube_theme_added": 1721853331,
     "youtube_theme_added_by": "118304977",
     "youtube_theme_edited": 1721853331,

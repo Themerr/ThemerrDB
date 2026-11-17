@@ -7,15 +7,11 @@
         "name": "Friday the 13th Collection",
         "poster_path": "/p3fJC9R4pCj5Vw0gP7Di0GZts9Z.jpg"
     },
-    "budget": 2800000,
+    "budget": 3500000,
     "genres": [
         {
             "id": 27,
             "name": "Horror"
-        },
-        {
-            "id": 53,
-            "name": "Thriller"
         }
     ],
     "homepage": "",
@@ -27,7 +23,7 @@
     "original_language": "en",
     "original_title": "Friday the 13th Part VII - The New Blood",
     "overview": "Tina Shepard, a telekinetic teenage girl, accidentally unchains Jason from his watery grave, allowing him to go on another killing spree in the area.",
-    "popularity": 6.5617,
+    "popularity": 6.1869,
     "poster_path": "/rUzk9Qnyz2FZGxHMBrq6DYIQZkO.jpg",
     "production_companies": [
         {
@@ -65,7 +61,7 @@
     "title": "Friday the 13th Part VII - The New Blood",
     "video": false,
     "vote_average": 5.508,
-    "vote_count": 1296,
+    "vote_count": 1297,
     "youtube_theme_added": 1719335338,
     "youtube_theme_added_by": "118304977",
     "youtube_theme_edited": 1719335338,

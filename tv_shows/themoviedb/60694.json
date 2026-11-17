@@ -40,14 +40,14 @@
         "episode_type": "finale",
         "id": 7876839,
         "name": "November 15, 2026: Alligator Alcatraz",
-        "overview": "John Oliver closes out season 13 by covering the tech CEO having an affair with an alleged Chinese spy, why we shouldn't let the detention center known as \"Alligator Alcatraz\" be swept under the rug, and \u2013 of course \u2013 some closing thoughts on Buc-ee's.",
+        "overview": "John Oliver finishes season 13 by covering the tech CEO having an affair with an alleged Chinese spy, why we shouldn't let the detention center known as \"Alligator Alcatraz\" be swept under the rug, and \u2013 of course \u2013 some closing thoughts on Buc-ee's.",
         "production_code": "",
         "runtime": 44,
         "season_number": 13,
         "show_id": 60694,
         "still_path": "/g269wJVwaet8x3E08PnsQINMNYM.jpg",
-        "vote_average": 6.1,
-        "vote_count": 5
+        "vote_average": 5.929,
+        "vote_count": 7
     },
     "name": "Last Week Tonight with John Oliver",
     "networks": [
@@ -67,7 +67,7 @@
     "original_language": "en",
     "original_name": "Last Week Tonight with John Oliver",
     "overview": "A half-hour satirical look at the week in news, politics and current events.",
-    "popularity": 64.3435,
+    "popularity": 67.9335,
     "poster_path": "/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
     "production_companies": [
         {

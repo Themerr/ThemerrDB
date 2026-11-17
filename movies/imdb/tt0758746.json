@@ -2,15 +2,11 @@
     "adult": false,
     "backdrop_path": "/xECaVCK8nT1KCKdGg01mQgizuOd.jpg",
     "belongs_to_collection": null,
-    "budget": 19000000,
+    "budget": 1700000,
     "genres": [
         {
             "id": 27,
             "name": "Horror"
-        },
-        {
-            "id": 53,
-            "name": "Thriller"
         }
     ],
     "homepage": "http://www.fridaythe13thmovie.com",
@@ -22,7 +18,7 @@
     "original_language": "en",
     "original_title": "Friday the 13th",
     "overview": "A group of young adults visit a boarded up campsite named Crystal Lake where they soon encounter the mysterious Jason Voorhees and his deadly intentions.",
-    "popularity": 15.7264,
+    "popularity": 14.7784,
     "poster_path": "/88wlJ4teYlck4hJ2bnlxBrAVh0m.jpg",
     "production_companies": [
         {
@@ -57,7 +53,7 @@
         }
     ],
     "release_date": "2009-02-11",
-    "revenue": 91509154,
+    "revenue": 92670237,
     "runtime": 97,
     "softcore": false,
     "spoken_languages": [
@@ -71,7 +67,7 @@
     "tagline": "Welcome to Crystal Lake.",
     "title": "Friday the 13th",
     "video": false,
-    "vote_average": 5.788,
+    "vote_average": 5.8,
     "vote_count": 3012,
     "youtube_theme_added": 1719336078,
     "youtube_theme_added_by": "118304977",
