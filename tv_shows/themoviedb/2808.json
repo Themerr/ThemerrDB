@@ -53,7 +53,7 @@
         "episode_number": 13,
         "episode_type": "standard",
         "id": 7663408,
-        "name": "Episode 13",
+        "name": "Homecoming",
         "overview": "",
         "production_code": "813",
         "runtime": 22,
@@ -85,11 +85,11 @@
         "id": 7663409,
         "name": "Episode 14",
         "overview": "",
-        "production_code": "",
+        "production_code": "811",
         "runtime": 22,
         "season_number": 8,
         "show_id": 2808,
-        "still_path": null,
+        "still_path": "/7CDKCBfi5U324FFWNX7dKRJEbgD.jpg",
         "vote_average": 0.0,
         "vote_count": 0
     },
@@ -101,7 +101,7 @@
     "original_language": "fr",
     "original_name": "Totally Spies !",
     "overview": "Totally Spies! depicts three girlfriends 'with an attitude' who have to cope with their daily lives at high school as well as the unpredictable pressures of international espionage. They confront the most intimidating - and demented - of villains, each with their own special agenda for demonic, global rude behavior.",
-    "popularity": 30.5515,
+    "popularity": 29.9041,
     "poster_path": "/w4JZDCrWxDhO5wKUeTvVHSzaTDk.jpg",
     "production_companies": [
         {

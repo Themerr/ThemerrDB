@@ -30,7 +30,7 @@
     "original_language": "en",
     "original_title": "The Exorcism of God",
     "overview": "An American priest working in Mexico is considered a saint by many local parishioners. However, due to a botched exorcism, he carries a secret that\u2019s eating him alive until he gets an opportunity to face his demon one final time.",
-    "popularity": 3.2799,
+    "popularity": 3.4906,
     "poster_path": "/hangTmbxpSV4gpHG7MgSlCWSSFa.jpg",
     "production_companies": [
         {
@@ -68,6 +68,18 @@
             "logo_path": null,
             "name": "Mitos Production Company",
             "origin_country": ""
+        },
+        {
+            "id": 320004,
+            "logo_path": null,
+            "name": "GF Films",
+            "origin_country": ""
+        },
+        {
+            "id": 320005,
+            "logo_path": null,
+            "name": "Mouth of the Devil",
+            "origin_country": ""
         }
     ],
     "production_countries": [
@@ -104,7 +116,7 @@
     "tagline": "God and the Devil cannot exist in the same body.",
     "title": "The Exorcism of God",
     "video": false,
-    "vote_average": 7.067,
+    "vote_average": 7.1,
     "vote_count": 1196,
     "youtube_theme_added": 1700949850,
     "youtube_theme_added_by": "118304977",

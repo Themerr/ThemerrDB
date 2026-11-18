@@ -62,8 +62,8 @@
         "season_number": 6,
         "show_id": 4607,
         "still_path": "/mIjLFpGduTrVNPICf2BXCUUQLwx.jpg",
-        "vote_average": 8.215,
-        "vote_count": 79
+        "vote_average": 8.163,
+        "vote_count": 80
     },
     "name": "Lost",
     "networks": [
@@ -83,7 +83,7 @@
     "original_language": "en",
     "original_name": "Lost",
     "overview": "Stripped of everything, the survivors of a horrific plane crash must work together to stay alive. But the island holds many secrets.",
-    "popularity": 94.3777,
+    "popularity": 101.9528,
     "poster_path": "/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
     "production_companies": [
         {
@@ -160,7 +160,7 @@
             "overview": "Picking up from the shocking Season 3 finale, learn via \"flash forwards\" who from Oceanic Airlines flight 815 gets off the island.",
             "poster_path": "/TOfSxtW76sWrPn3YSm5GooaR3Y.jpg",
             "season_number": 4,
-            "vote_average": 8.3
+            "vote_average": 8.2
         },
         {
             "air_date": "2009-01-21",
@@ -170,7 +170,7 @@
             "overview": "Season 5 finds six survivors of Oceanic Air Flight 815 returning to civilization and wrestling with the memories of those they left behind.",
             "poster_path": "/2OYKA6UIC56loPxgL4IMshg4mVr.jpg",
             "season_number": 5,
-            "vote_average": 8.5
+            "vote_average": 8.4
         },
         {
             "air_date": "2010-02-02",
@@ -180,7 +180,7 @@
             "overview": "After Season 5\u2019s explosive finish, everything is up in the air for the survivors of flight 815. No one knows what \u2014 or who \u2014 the future will hold. Will Juliet\u2019s sacrifice to save her friends work? Can Kate choose, once and for all, between Jack and Sawyer? Will Sun and Jin be reunited? Is it too late to save Claire? Whatever awaits everyone on the island, one thing is for certain \u2014 the moment of truth has arrived.",
             "poster_path": "/xUb57GiEwg6pJpU4F3e01PKRVlc.jpg",
             "season_number": 6,
-            "vote_average": 8.3
+            "vote_average": 8.2
         }
     ],
     "softcore": false,
@@ -194,8 +194,8 @@
     "status": "Ended",
     "tagline": "Everything happens for a reason.",
     "type": "Scripted",
-    "vote_average": 7.96,
-    "vote_count": 5469,
+    "vote_average": 8.0,
+    "vote_count": 5475,
     "youtube_theme_added": 1790719986,
     "youtube_theme_added_by": "273565834",
     "youtube_theme_edited": 1790719986,

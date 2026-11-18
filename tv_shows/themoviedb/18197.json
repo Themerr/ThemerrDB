@@ -42,8 +42,8 @@
         "season_number": 1,
         "show_id": 18197,
         "still_path": "/sqLgtBsv2v4If2KA9HIsnp4euAI.jpg",
-        "vote_average": 6.143,
-        "vote_count": 7
+        "vote_average": 6.0,
+        "vote_count": 8
     },
     "name": "The Langoliers",
     "networks": [
@@ -63,7 +63,7 @@
     "original_language": "en",
     "original_name": "The Langoliers",
     "overview": "A jet leaves on a red-eye flight from Los Angeles to Boston. But early in the flight, ten passengers awaken to a startling realization: All of the other passengers have vanished.",
-    "popularity": 5.1277,
+    "popularity": 5.6827,
     "poster_path": "/xcySnh6hHc98G94dF8sXNJuD0Rp.jpg",
     "production_companies": [
         {
@@ -100,7 +100,7 @@
             "overview": "",
             "poster_path": "/vK2B3VNDW3iHJnpirpvxayLc6b6.jpg",
             "season_number": 1,
-            "vote_average": 6.6
+            "vote_average": 6.4
         }
     ],
     "softcore": false,
@@ -114,8 +114,8 @@
     "status": "Ended",
     "tagline": "",
     "type": "Miniseries",
-    "vote_average": 6.4,
-    "vote_count": 628,
+    "vote_average": 6.385,
+    "vote_count": 629,
     "youtube_theme_added": 1791243860,
     "youtube_theme_added_by": "34431195",
     "youtube_theme_edited": 1791243860,

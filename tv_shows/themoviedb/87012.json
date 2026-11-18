@@ -29,30 +29,6 @@
     ],
     "last_air_date": "2026-11-10",
     "last_episode_to_air": {
-        "air_date": "2026-11-10",
-        "episode_number": 8,
-        "episode_type": "standard",
-        "id": 7767858,
-        "name": "Caramel Week",
-        "overview": "It's a caramel quarter-final, and the bakers make treacle tarts, millionaire shortbread and nougatine showpieces. Who oozes caramel confidence, and who'll crack under pressure?",
-        "production_code": "",
-        "runtime": 58,
-        "season_number": 10,
-        "show_id": 87012,
-        "still_path": "/jFFEiberoJU6XagGgcQ2Su7HZKU.jpg",
-        "vote_average": 0.0,
-        "vote_count": 0
-    },
-    "name": "The Great British Bake Off",
-    "networks": [
-        {
-            "id": 26,
-            "logo_path": "/7Ai64ZDaVbGDtm7f0QSZAKohjk4.png",
-            "name": "Channel 4",
-            "origin_country": "GB"
-        }
-    ],
-    "next_episode_to_air": {
         "air_date": "2026-11-17",
         "episode_number": 9,
         "episode_type": "standard",
@@ -67,6 +43,30 @@
         "vote_average": 0.0,
         "vote_count": 0
     },
+    "name": "The Great British Bake Off",
+    "networks": [
+        {
+            "id": 26,
+            "logo_path": "/7Ai64ZDaVbGDtm7f0QSZAKohjk4.png",
+            "name": "Channel 4",
+            "origin_country": "GB"
+        }
+    ],
+    "next_episode_to_air": {
+        "air_date": "2026-11-24",
+        "episode_number": 10,
+        "episode_type": "finale",
+        "id": 7767863,
+        "name": "The Final",
+        "overview": "The finalists make citrus celebration cakes, cr\u00e8me br\u00fbl\u00e9e doughnuts and a tribute to iconic British landscapes. Who'll be the zest and be crowned the series winner?",
+        "production_code": "",
+        "runtime": 58,
+        "season_number": 10,
+        "show_id": 87012,
+        "still_path": null,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
     "number_of_episodes": 100,
     "number_of_seasons": 10,
     "origin_country": [
@@ -75,7 +75,7 @@
     "original_language": "en",
     "original_name": "The Great British Bake Off",
     "overview": "Britain's best amateur bakers compete in the iconic white tent - all united in their aim to prove their baking skills and impress judges Paul Hollywood and Prue Leith.",
-    "popularity": 16.6027,
+    "popularity": 17.4072,
     "poster_path": "/zZBzkM3XXZHOauKlHSv3Vg6e4iZ.jpg",
     "production_companies": [
         {

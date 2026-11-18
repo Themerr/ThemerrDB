@@ -39,8 +39,8 @@
         "season_number": 1,
         "show_id": 37863,
         "still_path": "/j0dMgg2Cy1beVYm0dRtZ5wC1EFA.jpg",
-        "vote_average": 7.8,
-        "vote_count": 8
+        "vote_average": 7.667,
+        "vote_count": 9
     },
     "name": "Fullmetal Alchemist",
     "networks": [
@@ -60,7 +60,7 @@
     "original_language": "ja",
     "original_name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b",
     "overview": "Two young brothers are raised as alchemists, but when they are severely injured trying to perform a forbidden act, they begin searching for the one thing that can save them; the fabled philosopher's stone.",
-    "popularity": 20.427,
+    "popularity": 20.7026,
     "poster_path": "/kKOQbCKbGB75h1d3Jlx9Gy4ZTfv.jpg",
     "production_companies": [
         {
@@ -107,7 +107,7 @@
             "overview": "",
             "poster_path": "/grcCY5Le3KnYZgL05nkFAIb1K0b.jpg",
             "season_number": 1,
-            "vote_average": 7.5
+            "vote_average": 7.4
         }
     ],
     "softcore": false,
@@ -121,8 +121,8 @@
     "status": "Ended",
     "tagline": "",
     "type": "Scripted",
-    "vote_average": 8.212,
-    "vote_count": 1103,
+    "vote_average": 8.21,
+    "vote_count": 1105,
     "youtube_theme_added": 1791673334,
     "youtube_theme_added_by": "297266467",
     "youtube_theme_edited": 1791673334,

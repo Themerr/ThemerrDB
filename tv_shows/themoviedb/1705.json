@@ -62,8 +62,8 @@
         "season_number": 5,
         "show_id": 1705,
         "still_path": "/uVMhRDMUB5iKW1z5wX5AkVnonR9.jpg",
-        "vote_average": 8.71,
-        "vote_count": 31
+        "vote_average": 8.594,
+        "vote_count": 32
     },
     "name": "Fringe",
     "networks": [
@@ -83,7 +83,7 @@
     "original_language": "en",
     "original_name": "Fringe",
     "overview": "FBI Special Agent Olivia Dunham, brilliant but formerly institutionalized scientist Walter Bishop and his scheming, reluctant son Peter uncover a deadly mystery involving a series of unbelievable events and realize they may be a part of a larger, more disturbing pattern that blurs the line between science fiction and technology.",
-    "popularity": 63.7786,
+    "popularity": 65.4769,
     "poster_path": "/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg",
     "production_companies": [
         {
@@ -134,7 +134,7 @@
             "overview": "Unable to police a world in which science has advanced beyond our wildest dreams \u2014 and nightmares \u2014 FBI Special Agent Olivia Dunham seeks help from brilliant but damaged scientist Dr. Walter Bishop and his estranged son with a dark past, Peter. Under the direction of Agent Phillip Broyles, they solve gruesome mysteries and prevent imminent attacks.",
             "poster_path": "/ziFHhmy2ateqDQ1xxsOPIHtOWsp.jpg",
             "season_number": 2,
-            "vote_average": 7.8
+            "vote_average": 7.7
         },
         {
             "air_date": "2010-09-23",
@@ -179,7 +179,7 @@
     "tagline": "Question the answers.",
     "type": "Scripted",
     "vote_average": 8.126,
-    "vote_count": 2984,
+    "vote_count": 2988,
     "youtube_theme_added": 1719445435,
     "youtube_theme_added_by": "88998541",
     "youtube_theme_edited": 1719445435,

@@ -33,11 +33,11 @@
     ],
     "last_air_date": "2026-10-23",
     "last_episode_to_air": {
-        "air_date": "2026-11-16",
-        "episode_number": 226,
+        "air_date": "2026-11-17",
+        "episode_number": 227,
         "episode_type": "standard",
-        "id": 7804921,
-        "name": "Episode 226",
+        "id": 7804922,
+        "name": "Episode 227",
         "overview": "",
         "production_code": "",
         "runtime": 20,
@@ -57,11 +57,11 @@
         }
     ],
     "next_episode_to_air": {
-        "air_date": "2026-11-17",
-        "episode_number": 227,
+        "air_date": "2026-11-18",
+        "episode_number": 228,
         "episode_type": "standard",
-        "id": 7804922,
-        "name": "Episode 227",
+        "id": 7804923,
+        "name": "Episode 228",
         "overview": "",
         "production_code": "",
         "runtime": 20,
@@ -79,7 +79,7 @@
     "original_language": "fr",
     "original_name": "Plus belle la vie, encore plus belle",
     "overview": "",
-    "popularity": 41.5409,
+    "popularity": 41.0024,
     "poster_path": "/ps0WuyL384MahVCxysxOfF1fhgq.jpg",
     "production_companies": [
         {

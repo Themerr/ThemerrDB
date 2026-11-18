@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Antlers",
     "overview": "A small-town Oregon teacher and her brother, the local sheriff, discover a young student is harbouring a dangerous secret that could have frightening consequences.",
-    "popularity": 3.2161,
+    "popularity": 3.3273,
     "poster_path": "/cMch3tiexw3FdOEeZxMWVel61Xg.jpg",
     "production_companies": [
         {
@@ -59,6 +59,12 @@
             "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
             "name": "TSG Entertainment",
             "origin_country": "US"
+        },
+        {
+            "id": 10678,
+            "logo_path": null,
+            "name": "Demilo Films",
+            "origin_country": "CA"
         }
     ],
     "production_countries": [

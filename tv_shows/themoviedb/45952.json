@@ -47,8 +47,8 @@
         "season_number": 1,
         "show_id": 45952,
         "still_path": "/w2oGJiDZ9R6nXkv154dHF3ZLW76.jpg",
-        "vote_average": 8.0,
-        "vote_count": 5
+        "vote_average": 7.833,
+        "vote_count": 6
     },
     "name": "Hunter x Hunter",
     "networks": [
@@ -68,7 +68,7 @@
     "original_language": "ja",
     "original_name": "HUNTER\u00d7HUNTER",
     "overview": "Gon Freecss discovers that the father he had always been told was dead was actually alive the whole time. Ging is a famous Hunter: an individual who has proven themself an elite member of humanity. Gon becomes determined to follow in his father's footsteps, pass the rigorous Hunter Examination.",
-    "popularity": 30.7495,
+    "popularity": 30.7266,
     "poster_path": "/eobAuhCJA8oRp814V67WhezVXtQ.jpg",
     "production_companies": [
         {
@@ -103,7 +103,7 @@
             "overview": "",
             "poster_path": "/it0QmcDhVRSQn1cdFHseWhZ13i8.jpg",
             "season_number": 1,
-            "vote_average": 7.9
+            "vote_average": 7.8
         }
     ],
     "softcore": false,
@@ -117,8 +117,8 @@
     "status": "Ended",
     "tagline": "",
     "type": "Scripted",
-    "vote_average": 8.369,
-    "vote_count": 237,
+    "vote_average": 8.368,
+    "vote_count": 238,
     "youtube_theme_added": 1791672853,
     "youtube_theme_added_by": "297266467",
     "youtube_theme_edited": 1791672853,

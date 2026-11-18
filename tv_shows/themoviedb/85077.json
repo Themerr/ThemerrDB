@@ -48,8 +48,8 @@
         "season_number": 6,
         "show_id": 85077,
         "still_path": "/9bOjrN7GQHF3E8Y8BEzC9kq0taH.jpg",
-        "vote_average": 0.0,
-        "vote_count": 0
+        "vote_average": 9.0,
+        "vote_count": 1
     },
     "name": "The Chosen",
     "networks": [
@@ -101,7 +101,7 @@
     "original_language": "en",
     "original_name": "The Chosen",
     "overview": "The life of Christ through the eyes of those who encountered him.",
-    "popularity": 101.8037,
+    "popularity": 104.7496,
     "poster_path": "/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
     "production_companies": [
         {
@@ -164,7 +164,7 @@
             "overview": "Tensions rise as Jesus and his disciples take the ministry on the road. With increased fame comes more redemption and healing, but also more enemies.",
             "poster_path": "/h1gDWOLatQBeqYnDLPUXtgFjWXL.jpg",
             "season_number": 2,
-            "vote_average": 7.9
+            "vote_average": 8.1
         },
         {
             "air_date": "2022-12-11",
@@ -174,7 +174,7 @@
             "overview": "Jesus gives a sermon that turns the world upside down, and all 12 disciples are ready to follow him to the ends of the earth.",
             "poster_path": "/j9gxEiXVW15iQBt3A8Bles9pOZC.jpg",
             "season_number": 3,
-            "vote_average": 8.1
+            "vote_average": 8.2
         },
         {
             "air_date": "2024-06-02",
@@ -184,7 +184,7 @@
             "overview": "After preaching to a crowd of more than 5,000 people in Galilee and performing a miracle by walking on water, Jesus\u2019 actions increasingly anger Jewish authorities.",
             "poster_path": "/eFBDG9k86EGzryACIHfZdEaLPp4.jpg",
             "season_number": 4,
-            "vote_average": 7.6
+            "vote_average": 7.7
         },
         {
             "air_date": "2025-06-15",
@@ -204,7 +204,7 @@
             "overview": "The hour has come. Season 6 captures Jesus' final day through the eyes of those who love Him-and those who condemn Him. In the face of loneliness and death, He stands resolute in His plan that has always led to one place: the cross.",
             "poster_path": "/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
             "season_number": 6,
-            "vote_average": 10.0
+            "vote_average": 9.3
         }
     ],
     "softcore": false,
@@ -218,8 +218,8 @@
     "status": "Returning Series",
     "tagline": "Rise up.",
     "type": "Scripted",
-    "vote_average": 8.9,
-    "vote_count": 1066,
+    "vote_average": 8.859,
+    "vote_count": 1072,
     "youtube_theme_added": 1719323909,
     "youtube_theme_added_by": "39831475",
     "youtube_theme_edited": 1719323909,

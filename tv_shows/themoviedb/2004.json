@@ -38,8 +38,8 @@
         "season_number": 7,
         "show_id": 2004,
         "still_path": "/9EArpqGEqAStdHXbedCFjtjpkXM.jpg",
-        "vote_average": 8.6,
-        "vote_count": 16
+        "vote_average": 8.412,
+        "vote_count": 17
     },
     "name": "Malcolm in the Middle",
     "networks": [
@@ -59,7 +59,7 @@
     "original_language": "en",
     "original_name": "Malcolm in the Middle",
     "overview": "A gifted young teen tries to survive life with his dimwitted, dysfunctional family.",
-    "popularity": 305.1552,
+    "popularity": 184.7053,
     "poster_path": "/ckLLIsNy3Z0Go1PYHA2PHzVymUA.jpg",
     "production_companies": [
         {
@@ -112,7 +112,7 @@
             "overview": "Malcolm, a gifted 11-year-old with an IQ of 165, navigates life in a chaotic household with his overbearing mother Lois, quirky father Hal, and mischievous brothers Reese, Dewey, and Francis. As he adjusts to being placed in a class for gifted students, Malcolm deals with the typical trials of adolescence amidst his family\u2019s antics.",
             "poster_path": "/G5EFqmf5rg1fk6ZtA1cfnTiTc3.jpg",
             "season_number": 1,
-            "vote_average": 7.7
+            "vote_average": 7.6
         },
         {
             "air_date": "2000-11-05",
@@ -122,7 +122,7 @@
             "overview": "The family\u2019s misadventures continue as Malcolm faces new challenges at school and home. Reese explores his culinary talents, Dewey\u2019s imagination runs wild, and Francis\u2019s escapades at military school add to the family\u2019s chaos.",
             "poster_path": "/uftxEWbn3OSykTy4DX4BrdVeiuv.jpg",
             "season_number": 2,
-            "vote_average": 7.7
+            "vote_average": 7.6
         },
         {
             "air_date": "2001-11-11",
@@ -132,7 +132,7 @@
             "overview": "Francis leaves military school to work at a resort in Alaska, encountering new challenges under his strict boss, Lavernia. Back home, Malcolm and his brothers continue to stir up trouble, leading to humorous and unpredictable situations.",
             "poster_path": "/lfavii4Auc4DC7nNVhHO8QskthI.jpg",
             "season_number": 3,
-            "vote_average": 7.5
+            "vote_average": 7.4
         },
         {
             "air_date": "2002-11-03",
@@ -152,7 +152,7 @@
             "overview": "Malcolm and his brothers find themselves in various predicaments, from neighborhood block parties to school projects gone awry. Francis\u2019s life on the ranch presents its own set of challenges, adding to the family\u2019s ongoing adventures.",
             "poster_path": "/dF9Q0J90Lfswj30OHPOySZPwAg0.jpg",
             "season_number": 5,
-            "vote_average": 7.3
+            "vote_average": 7.2
         },
         {
             "air_date": "2004-11-07",
@@ -186,8 +186,8 @@
     "status": "Ended",
     "tagline": "Family. The weirdest people you'll ever meet.",
     "type": "Scripted",
-    "vote_average": 8.462,
-    "vote_count": 5044,
+    "vote_average": 8.461,
+    "vote_count": 5046,
     "youtube_theme_added": 1721675703,
     "youtube_theme_added_by": "9526631",
     "youtube_theme_edited": 1721675703,

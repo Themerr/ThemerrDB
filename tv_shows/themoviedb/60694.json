@@ -46,8 +46,8 @@
         "season_number": 13,
         "show_id": 60694,
         "still_path": "/g269wJVwaet8x3E08PnsQINMNYM.jpg",
-        "vote_average": 5.929,
-        "vote_count": 7
+        "vote_average": 5.313,
+        "vote_count": 8
     },
     "name": "Last Week Tonight with John Oliver",
     "networks": [
@@ -67,7 +67,7 @@
     "original_language": "en",
     "original_name": "Last Week Tonight with John Oliver",
     "overview": "A half-hour satirical look at the week in news, politics and current events.",
-    "popularity": 67.9335,
+    "popularity": 68.4111,
     "poster_path": "/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
     "production_companies": [
         {
@@ -136,7 +136,7 @@
             "overview": "",
             "poster_path": "/dfwrnvWvZdpAfijyqwH5A5b2VDK.jpg",
             "season_number": 2,
-            "vote_average": 8.3
+            "vote_average": 8.1
         },
         {
             "air_date": "2016-02-14",
@@ -166,7 +166,7 @@
             "overview": "",
             "poster_path": "/b8Ue9zNjnf9ve6Fh9RZj5K9V6pF.jpg",
             "season_number": 5,
-            "vote_average": 7.8
+            "vote_average": 7.7
         },
         {
             "air_date": "2019-02-17",
@@ -176,7 +176,7 @@
             "overview": "",
             "poster_path": "/9Of6LmkozQl06sVmG3m9uAevwDD.jpg",
             "season_number": 6,
-            "vote_average": 7.8
+            "vote_average": 7.7
         },
         {
             "air_date": "2020-02-16",
@@ -196,7 +196,7 @@
             "overview": "",
             "poster_path": "/hT9ST8ZDZTi94QWfTuYL78Ud8w8.jpg",
             "season_number": 8,
-            "vote_average": 7.5
+            "vote_average": 7.4
         },
         {
             "air_date": "2022-02-20",
@@ -260,8 +260,8 @@
     "status": "Returning Series",
     "tagline": "Please hold.",
     "type": "News",
-    "vote_average": 7.749,
-    "vote_count": 870,
+    "vote_average": 7.746,
+    "vote_count": 873,
     "youtube_theme_added": 1720462085,
     "youtube_theme_added_by": "9321129",
     "youtube_theme_edited": 1720462085,

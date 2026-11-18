@@ -52,8 +52,8 @@
         "season_number": 7,
         "show_id": 655,
         "still_path": "/yBS5Zba5poZ8xzgGZqeLNoelXR2.jpg",
-        "vote_average": 8.531,
-        "vote_count": 64
+        "vote_average": 8.492,
+        "vote_count": 65
     },
     "name": "Star Trek: The Next Generation",
     "networks": [
@@ -73,7 +73,7 @@
     "original_language": "en",
     "original_name": "Star Trek: The Next Generation",
     "overview": "Follow the intergalactic adventures of Capt. Jean-Luc Picard and his loyal crew aboard the all-new USS Enterprise NCC-1701D, as they explore new worlds.",
-    "popularity": 88.9698,
+    "popularity": 90.4671,
     "poster_path": "/vkLzXddgUKH5VcpnYiRzpJFrZhz.jpg",
     "production_companies": [
         {
@@ -144,7 +144,7 @@
             "overview": "As Riker tries to save the Enterprise and the Earth from a powerful alien race, Captain Picard's life hangs in the balance. The crew faces their own demons and must overcome their own obstacles to continue their mission. This leads Data to return to his creator to better understand emotions. Worf must accept his Klingon heritage and face his former family. A power struggle threatens the Federation as the Romulans try to make peace with their universe and the Klingons deal with a potential successor to their empire. Political relations are strained within the Enterprise as a rogue ship attacks former enemies of the Federation, ultimately leading up to a civil war where one member of the Enterprise must decide where his loyalty lies.",
             "poster_path": "/x56cmiHHvKIDRBHSTUohNYxtDHS.jpg",
             "season_number": 4,
-            "vote_average": 7.2
+            "vote_average": 7.1
         },
         {
             "air_date": "1991-09-23",
@@ -154,7 +154,7 @@
             "overview": "In season five, Starfleet becomes involved in a vast conspiracy amidst a Klingon civil war which forces the Enterprise to become an unwilling pawn against the Romulans as Starfleet's motives are unknown. This leads Picard and Data to undertake a journey to seek out a mysterious member who is trying to make peace between the Romulans and the Vulcans. Meanwhile, a visitor from the future arrives on the Enterprise as Wolf struggles with his own handicap. The crew becomes even more conflicted as an injured enemy arrives. Peace is seen on the horizon but at what cost?",
             "poster_path": "/eVlZ16kGyaHMHKc6YwzvoGBmZ1e.jpg",
             "season_number": 5,
-            "vote_average": 7.2
+            "vote_average": 7.1
         },
         {
             "air_date": "1992-09-21",
@@ -188,8 +188,8 @@
     "status": "Ended",
     "tagline": "New stars. New stories. New worlds to explore.",
     "type": "Scripted",
-    "vote_average": 8.384,
-    "vote_count": 1905,
+    "vote_average": 8.383,
+    "vote_count": 1906,
     "youtube_theme_added": 1714079383,
     "youtube_theme_added_by": "12914999",
     "youtube_theme_edited": 1714079383,

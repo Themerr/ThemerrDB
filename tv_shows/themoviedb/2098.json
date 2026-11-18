@@ -58,8 +58,8 @@
         "season_number": 4,
         "show_id": 2098,
         "still_path": "/dar6GdynqqhqvzX8d0cj61RVl4X.jpg",
-        "vote_average": 7.3,
-        "vote_count": 17
+        "vote_average": 7.222,
+        "vote_count": 18
     },
     "name": "Batman: The Animated Series",
     "networks": [
@@ -79,7 +79,7 @@
     "original_language": "en",
     "original_name": "Batman: The Animated Series",
     "overview": "Vowing to avenge the murder of his parents, Bruce Wayne devotes his life to wiping out crime in Gotham City as the masked vigilante \"Batman\".",
-    "popularity": 43.5337,
+    "popularity": 41.5673,
     "poster_path": "/lBomQFW1vlm1yUYMNSbFZ45R4Ox.jpg",
     "production_companies": [
         {
@@ -120,7 +120,7 @@
             "overview": "",
             "poster_path": "/fib3y51N9u3XAlI4urBZ0j8Ea3I.jpg",
             "season_number": 1,
-            "vote_average": 7.7
+            "vote_average": 7.6
         },
         {
             "air_date": "1993-09-13",
@@ -130,7 +130,7 @@
             "overview": "",
             "poster_path": "/cZEIDkLNvc4oI7NV2AFDMCeVrKq.jpg",
             "season_number": 2,
-            "vote_average": 7.8
+            "vote_average": 7.7
         },
         {
             "air_date": "1994-09-10",
@@ -150,7 +150,7 @@
             "overview": "",
             "poster_path": "/v10ynVsjOAuIsveDmxn4GU2Hv2M.jpg",
             "season_number": 4,
-            "vote_average": 7.4
+            "vote_average": 7.3
         }
     ],
     "softcore": false,
@@ -164,8 +164,8 @@
     "status": "Ended",
     "tagline": "",
     "type": "Scripted",
-    "vote_average": 8.6,
-    "vote_count": 1939,
+    "vote_average": 8.592,
+    "vote_count": 1941,
     "youtube_theme_added": 1721342263,
     "youtube_theme_added_by": "99855636",
     "youtube_theme_edited": 1721342263,

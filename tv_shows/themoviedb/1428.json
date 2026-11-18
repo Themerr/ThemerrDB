@@ -68,7 +68,7 @@
     "original_language": "en",
     "original_name": "MythBusters",
     "overview": "MythBusters is a science entertainment television program created and produced by Australia's Beyond Television Productions for the Discovery Channel. The show's hosts, special effects experts Adam Savage and Jamie Hyneman, use elements of the scientific method to test the validity of rumors, myths, movie scenes, adages, Internet videos, and news stories.",
-    "popularity": 39.6969,
+    "popularity": 41.0623,
     "poster_path": "/eQsxq2EZjSlUlafxwUdfGS6TXhu.jpg",
     "production_companies": [
         {
@@ -117,7 +117,7 @@
             "overview": "",
             "poster_path": "/61PS7Mq77X7tfSTDZzzb63vjXNj.jpg",
             "season_number": 1,
-            "vote_average": 8.1
+            "vote_average": 8.0
         },
         {
             "air_date": "2004-01-11",
@@ -127,7 +127,7 @@
             "overview": "Tory Belleci, Scottie Chapman and Mythtern Christine Chamberlain make their first appearances this season. Folklorist Heather Joseph-Witham makes her final appearance this season.",
             "poster_path": "/fLK8aFFK7WHRUxACP2qsRumNm18.jpg",
             "season_number": 2,
-            "vote_average": 7.8
+            "vote_average": 7.7
         },
         {
             "air_date": "2005-02-16",
@@ -137,7 +137,7 @@
             "overview": "Scottie Chapman and Mythtern Christine Chamberlain leave the series this season. Grant Imahara joins the cast.",
             "poster_path": "/jMDfMHnr7V1EeNCZiwEHMpEru36.jpg",
             "season_number": 3,
-            "vote_average": 8.1
+            "vote_average": 7.9
         },
         {
             "air_date": "2006-01-11",
@@ -147,7 +147,7 @@
             "overview": "The cast of the television series MythBusters perform experiments to verify or debunk urban legends, old wives' tales, and the like. The holiday special episode in this season was the first time MythBusters was broadcast in high definition.",
             "poster_path": "/881MYhSxd2xdaewjN3zSjdqpfGz.jpg",
             "season_number": 4,
-            "vote_average": 8.1
+            "vote_average": 7.9
         },
         {
             "air_date": "2007-01-10",
@@ -157,7 +157,7 @@
             "overview": "In another exciting season, Jamie and Adam test the stuff of nightmares in an underwater car, and seek to prove if you can fold paper more than seven times. The team also goes out of this world to put four classic hypnosis hypotheses under the microscope. They even tackle classic western myths: historical and current, horse and car, guns and explosions. What more could you possibly want?",
             "poster_path": "/g6F4tzSGHdH46DSbPt6fwhVxhiJ.jpg",
             "season_number": 5,
-            "vote_average": 8.0
+            "vote_average": 7.9
         },
         {
             "air_date": "2008-01-16",
@@ -167,7 +167,7 @@
             "overview": "",
             "poster_path": "/dqtw9FuV0YKlLRGyBBTdXNxrvAi.jpg",
             "season_number": 6,
-            "vote_average": 8.6
+            "vote_average": 8.2
         },
         {
             "air_date": "2009-04-08",
@@ -177,7 +177,7 @@
             "overview": "",
             "poster_path": "/rnYew0k2t3fM8V437z4MqWKHOOC.jpg",
             "season_number": 7,
-            "vote_average": 8.4
+            "vote_average": 8.0
         },
         {
             "air_date": "2010-01-04",
@@ -187,7 +187,7 @@
             "overview": "",
             "poster_path": "/eLWXrDSvXTzBV2eCW5drvHjwga2.jpg",
             "season_number": 8,
-            "vote_average": 8.7
+            "vote_average": 8.2
         },
         {
             "air_date": "2011-04-06",
@@ -197,7 +197,7 @@
             "overview": "",
             "poster_path": "/3gxJDJ5blN3g1OBqs9kuZvx0U8G.jpg",
             "season_number": 9,
-            "vote_average": 8.9
+            "vote_average": 8.1
         },
         {
             "air_date": "2012-03-25",
@@ -207,7 +207,7 @@
             "overview": "",
             "poster_path": "/zGR09AYbjzHBA1Bz4y3RDt82QsN.jpg",
             "season_number": 10,
-            "vote_average": 8.9
+            "vote_average": 8.0
         },
         {
             "air_date": "2013-05-01",
@@ -217,7 +217,7 @@
             "overview": "",
             "poster_path": "/v6indeJMkZZGEiwJYYGW7oGjBgx.jpg",
             "season_number": 11,
-            "vote_average": 8.5
+            "vote_average": 7.8
         },
         {
             "air_date": "2014-01-04",
@@ -227,7 +227,7 @@
             "overview": "",
             "poster_path": "/hcoATiVG9oopSRcFZ4cpfbcRjX8.jpg",
             "season_number": 12,
-            "vote_average": 8.6
+            "vote_average": 8.0
         },
         {
             "air_date": "2015-01-10",
@@ -237,7 +237,7 @@
             "overview": "",
             "poster_path": "/inyVYnN1jWt80On2n684YC7mj2q.jpg",
             "season_number": 13,
-            "vote_average": 8.5
+            "vote_average": 7.9
         },
         {
             "air_date": "2016-01-02",
@@ -247,7 +247,7 @@
             "overview": "",
             "poster_path": "/tUCb3zqcthgvL0TcdSnmFBnCJwd.jpg",
             "season_number": 14,
-            "vote_average": 8.3
+            "vote_average": 7.9
         },
         {
             "air_date": "2017-11-15",
@@ -281,8 +281,8 @@
     "status": "Ended",
     "tagline": "Failure is always an option.",
     "type": "Scripted",
-    "vote_average": 7.8,
-    "vote_count": 672,
+    "vote_average": 7.825,
+    "vote_count": 673,
     "youtube_theme_added": 1717127848,
     "youtube_theme_added_by": "64153223",
     "youtube_theme_edited": 1717127848,

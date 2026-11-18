@@ -39,8 +39,8 @@
         "season_number": 5,
         "show_id": 40424,
         "still_path": "/siIlMR2F7zcnOWl5AJtiqnxD1ZB.jpg",
-        "vote_average": 8.7,
-        "vote_count": 6
+        "vote_average": 8.0,
+        "vote_count": 7
     },
     "name": "Initial D",
     "networks": [
@@ -66,8 +66,8 @@
     "original_language": "ja",
     "original_name": "\u982d\u6587\u5b57D",
     "overview": "Takumi\u2019s job as a tofu delivery boy has turned him into one of the most formidable drivers around. Behind the wheel of his Eight-Six, he\u2019s one with the road\u2014and his life shifts into high gear when the underground street racing world takes notice. Drivers from across the region are lining up for a shot at the new guy. Takumi\u2019s not just focused on winning\u2014he\u2019s out to prove he\u2019s the best.",
-    "popularity": 47.8169,
-    "poster_path": "/eifuDt7FhmpoqkJQl1vIOyfAkXB.jpg",
+    "popularity": 47.9426,
+    "poster_path": "/2D8hJw0pYMulLgPw9sbRCI6Ox5I.jpg",
     "production_companies": [
         {
             "id": 43723,
@@ -143,7 +143,7 @@
             "overview": "The story begins when street racers called the RedSuns, a team from Mt. Akagi, come to challenge Mt. Akina's local SpeedStars team to a \"friendly\" race. After seeing how skilled the RedSuns are, the SpeedStars treat it as a race for pride, determined not to be humiliated on their home turf. However, the SpeedStars are left in a bind when their team leader and primary downhill driver Iketani has an accident during a practice run.",
             "poster_path": "/cTgC0ZO9GrIwxj69cZWPkrKgK4N.jpg",
             "season_number": 1,
-            "vote_average": 8.2
+            "vote_average": 8.0
         },
         {
             "air_date": "1999-10-14",
@@ -153,7 +153,7 @@
             "overview": "Following his victory over RedSuns leader Ryosuke Takahashi, AE86 driver Takumi Fujiwara is challenged by the Lancer EVO-based \"Emperor,\" a group known for taking decals of racing teams they defeat, cutting them up and placing them on their cars like a fighter plane kill board. Takumi's undefeated streak is on the line as his AE86 is virtually no match against the more powerful and more agile four-wheel-drive EVOs of the Emperor team.",
             "poster_path": "/88uVHP5GqTIPme3CoRIojg88eKE.jpg",
             "season_number": 2,
-            "vote_average": 8.2
+            "vote_average": 7.8
         },
         {
             "air_date": "2004-04-17",
@@ -163,7 +163,7 @@
             "overview": "Takumi Fujiwara and brothers Keisuke and Ryousuke Takahashi have formed \"Project D,\" a racing team aimed at bringing their driving skills to their full potential outside their prefecture. Using the internet, Project D issues challenges to other racing teams and posts results of their races. Managed by Ryousuke, the team has Takumi engaging in downhill battles with his AE86, while Keisuke challenges opponents uphill. Among their rivals are the Seven-Star Leaf (SSR) and Todo-juku.",
             "poster_path": "/3SZow1BeYQii0o0tSEnBRZwQxQP.jpg",
             "season_number": 3,
-            "vote_average": 8.3
+            "vote_average": 8.1
         },
         {
             "air_date": "2012-11-04",
@@ -173,7 +173,7 @@
             "overview": "Still working as part of the Project D driving team, Takumi Fujiwara and Keisuke Takahashi continue to challenge courses and teams in the Kanagawa Prefecture. Meanwhile, a young golf phenom catches Takumi's eye, and Ryosuke Takahashi settles a score from his past.",
             "poster_path": "/ok9ZrV4iaDL7adKV2e38Tukn6oO.jpg",
             "season_number": 4,
-            "vote_average": 8.1
+            "vote_average": 7.8
         },
         {
             "air_date": "2014-05-16",
@@ -183,7 +183,7 @@
             "overview": "After a long break, after every racing team in the prefecture is defeated, everything comes down to one last race. Takumi Fujiwara has never lost a race, but when his opponent is also using an AE86, it turns into a battle of the AE86. Will Project D succeed in the final and most difficult race of Initial D?",
             "poster_path": "/4VxMfWJWZ4X26AQQ8QbVRtIGNAg.jpg",
             "season_number": 5,
-            "vote_average": 8.4
+            "vote_average": 7.7
         }
     ],
     "softcore": false,
@@ -198,7 +198,7 @@
     "tagline": "",
     "type": "Scripted",
     "vote_average": 8.0,
-    "vote_count": 148,
+    "vote_count": 149,
     "youtube_theme_added": 1783456679,
     "youtube_theme_added_by": "275524737",
     "youtube_theme_edited": 1783456679,

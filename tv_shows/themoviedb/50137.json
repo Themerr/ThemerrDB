@@ -75,7 +75,7 @@
     "original_language": "en",
     "original_name": "RWBY",
     "overview": "The future-fantasy world of Remnant is filled with ravenous monsters, treacherous terrain, and more villains than you can shake a sniper-scythe at. Fortunately, Beacon Academy is training Huntsmen and Huntresses to battle the evils of the world, and Ruby, Weiss, Blake, and Yang are ready for their first day of class.",
-    "popularity": 23.9551,
+    "popularity": 23.8384,
     "poster_path": "/pTLBkalS00rc9FSxgdt4bcwWdvH.jpg",
     "production_companies": [
         {
@@ -116,7 +116,7 @@
             "overview": "A young hero, an exalted heiress, a troubled rogue, and a party girl- These are the four members of RWBY, a team brought together and trained for the sole purpose of combating the rampant evils that plague the fantastic world of Remnant. If these four girls want to graduate Beacon Academy they'll have to learn to work together both on the battlefield and in the classroom.",
             "poster_path": "/mURQw54q49KdgbcuvIALZUQdsZw.jpg",
             "season_number": 1,
-            "vote_average": 6.7
+            "vote_average": 6.5
         },
         {
             "air_date": "2014-07-24",
@@ -136,7 +136,7 @@
             "overview": "The Vytal Festival Tournament is the ultimate battle of skill, pitting the world's most powerful Huntsmen and Huntresses in training against one another... and it's finally here! Ruby, Weiss, Blake, and Yang are back for a season of over-the-top action, and they're not alone. New fighters from around Remnant are ready to bring glory to their kingdom, but there are those among them with a far more sinister goal in mind\u2026",
             "poster_path": "/6c54WhF8MoC8whZlbRmYJK5gwYv.jpg",
             "season_number": 3,
-            "vote_average": 10.0
+            "vote_average": 6.0
         },
         {
             "air_date": "2016-10-22",
@@ -210,8 +210,8 @@
     "status": "Returning Series",
     "tagline": "A young hero, an exalted heiress, a troubled rogue, and a party girl...",
     "type": "Scripted",
-    "vote_average": 7.74,
-    "vote_count": 221,
+    "vote_average": 7.723,
+    "vote_count": 222,
     "youtube_theme_added": 1711425596,
     "youtube_theme_added_by": "16854045",
     "youtube_theme_edited": 1711425596,

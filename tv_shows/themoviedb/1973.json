@@ -56,8 +56,8 @@
         "season_number": 9,
         "show_id": 1973,
         "still_path": "/f7zsYCPCuoPUKaeJIIDDLm7VkmQ.jpg",
-        "vote_average": 8.8,
-        "vote_count": 25
+        "vote_average": 8.692,
+        "vote_count": 26
     },
     "name": "24",
     "networks": [
@@ -77,7 +77,7 @@
     "original_language": "en",
     "original_name": "24",
     "overview": "Counterterrorism agent Jack Bauer fights the bad guys of the world, a day at a time. With each week's episode unfolding in real-time, \"24\" covers a single day in the life of Bauer each season.",
-    "popularity": 91.6246,
+    "popularity": 91.3054,
     "poster_path": "/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
     "production_companies": [
         {
@@ -130,7 +130,7 @@
             "overview": "Counter-terrorism agent Jack Bauer attempts to stop the assassination of United States Senator David Palmer on the day of the California presidential primary, while those spearheading the assassination plot stop at nothing to exact revenge on Bauer and Palmer.",
             "poster_path": "/gYbW4kqZFO8SQlgdYeVnnRQNJ6L.jpg",
             "season_number": 1,
-            "vote_average": 8.2
+            "vote_average": 8.1
         },
         {
             "air_date": "2002-10-29",
@@ -160,7 +160,7 @@
             "overview": "The fourth season is set 18 months after season three. Jack is now working for Secretary of Defense James Heller after being fired by CTU due to his heroin addiction. As the day begins, he gets caught up in an elaborate terrorist plot which involves James Heller and his daughter Audrey Raines.",
             "poster_path": "/i72TwDKYNqmpFx4xAtSLw8mHTmk.jpg",
             "season_number": 4,
-            "vote_average": 8.5
+            "vote_average": 8.4
         },
         {
             "air_date": "2006-01-15",
@@ -170,7 +170,7 @@
             "overview": "The fifth season is set 18 months after season four. Former Counter Terrorist Unit agent Jack Bauer begins the season, working as a day-to-day laborer at an oil refinery under the alias \"Frank Flynn\" in Mojave, California. On a monumental day in Charles Logan's presidency, an anti-terrorism treaty with Russian President Yuri Suvarov is about to be signed when events take a tragic turn.",
             "poster_path": "/19QTv89HyyhbcNg1rNRB2CQjkWW.jpg",
             "season_number": 5,
-            "vote_average": 8.7
+            "vote_average": 8.6
         },
         {
             "air_date": "2007-01-14",
@@ -180,7 +180,7 @@
             "overview": "The sixth season is set 20 months after season five. Over the last 11 weeks before Day 6, the United States has been targeted coast-to-coast in a series of suicide bombings. A man named Abu Fayed agrees to give the U.S. the location of Hamri Al-Assad, the supposed terrorist mastermind of these attacks, in exchange for former CTU Agent Jack Bauer with whom he has a personal grudge.",
             "poster_path": "/bl5iHILVsyVBoRWGo8oTIB5lwRy.jpg",
             "season_number": 6,
-            "vote_average": 7.8
+            "vote_average": 7.7
         },
         {
             "air_date": "2009-01-11",
@@ -190,7 +190,7 @@
             "overview": "The seventh season takes place 46 months after season six and two months after 24: Redemption. Jack Bauer is on trial for alleged crimes he committed while working for CTU. Senator Blaine Mayer has disbanded CTU and strengthened the policies of Allison Taylor's administration against torture. Bauer is brought into another counter-terrorist operation when FBI agent Renee Walker interrupts the hearing to tell him about an imminent threat.",
             "poster_path": "/pfpS5G6KWwCrr7ZQzCqgfB41w0u.jpg",
             "season_number": 7,
-            "vote_average": 8.0
+            "vote_average": 7.8
         },
         {
             "air_date": "2010-01-17",
@@ -200,7 +200,7 @@
             "overview": "Set 18 months after season 7, the story arc involves Jack Bauer contending with assassination threats made during a peace conference between President of the United States Allison Taylor and President Omar Hassan of the fictional Islamic Republic of Kamistan (IRK). The season is set in New York City, with CTU's New York City Office having been re-activated,",
             "poster_path": "/mSA0FD1qeagllDYK5cDXMTSttB8.jpg",
             "season_number": 8,
-            "vote_average": 7.6
+            "vote_average": 7.5
         },
         {
             "air_date": "2014-05-05",
@@ -210,7 +210,7 @@
             "overview": "Four years after the events of Day 8, Jack Bauer remains a federal fugitive. Meanwhile, amid growing concerns over the use of US military drones in combat, President James Heller pays a historic visit to London to negotiate a treaty to continue their basing on British soil. Having heard rumors of an imminent attack against Heller, Bauer resurfaces in the city, where he is apprehended by the CIA and forcibly recruited into joining their investigation, with the promise of amnesty in return for his co-operation. As forces within the White House conspire against him, Bauer realizes that the complexity of the plot extends beyond a presidential assassination, and that the consequences of a successful attack will alter the course of history. With the help of a disgraced CIA agent and a hacker collective preaching free information, he must confront an unseen enemy whose personal vendetta threatens to push the world to the brink of war.",
             "poster_path": "/AhHP7AMWmWcRPtAezwAt46nQZTE.jpg",
             "season_number": 9,
-            "vote_average": 8.4
+            "vote_average": 8.3
         }
     ],
     "softcore": false,
@@ -224,8 +224,8 @@
     "status": "Ended",
     "tagline": "A lot can happen in a day.",
     "type": "Scripted",
-    "vote_average": 7.8,
-    "vote_count": 1931,
+    "vote_average": 7.782,
+    "vote_count": 1935,
     "youtube_theme_added": 1719444517,
     "youtube_theme_added_by": "88998541",
     "youtube_theme_edited": 1719444517,

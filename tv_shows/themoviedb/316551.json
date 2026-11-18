@@ -30,18 +30,18 @@
     ],
     "last_air_date": "2026-11-03",
     "last_episode_to_air": {
-        "air_date": "2026-11-10",
-        "episode_number": 6,
+        "air_date": "2026-11-17",
+        "episode_number": 7,
         "episode_type": "standard",
-        "id": 7904494,
-        "name": "You Only Live Once",
-        "overview": "Takasugi is out for blood as he battles Zetsu for revenge.",
+        "id": 7904495,
+        "name": "To Have and Have Not",
+        "overview": "After Zetsu and Takasugi's lethal Battle Spirits game, Takasugi's comrades pay Bashin Temple a visit.",
         "production_code": "",
         "runtime": 24,
         "season_number": 1,
         "show_id": 316551,
-        "still_path": "/AtkoS6LPHBJJck4wi5XEbn3CRKk.jpg",
-        "vote_average": 4.0,
+        "still_path": "/6Pmd7VTNKrdwFlgGY6cwPI5C0kp.jpg",
+        "vote_average": 5.0,
         "vote_count": 1
     },
     "name": "Battle Spirits [Re] ZEKKAI NO KU",
@@ -54,17 +54,17 @@
         }
     ],
     "next_episode_to_air": {
-        "air_date": "2026-11-17",
-        "episode_number": 7,
+        "air_date": "2026-11-24",
+        "episode_number": 8,
         "episode_type": "standard",
-        "id": 7904495,
-        "name": "To Have and Have Not",
-        "overview": "After Zetsu and Takasugi's lethal Battle Spirits game, Takasugi's comrades pay Bashin Temple a visit.",
+        "id": 7904496,
+        "name": "Episode 8",
+        "overview": "",
         "production_code": "",
-        "runtime": 24,
+        "runtime": null,
         "season_number": 1,
         "show_id": 316551,
-        "still_path": "/6Pmd7VTNKrdwFlgGY6cwPI5C0kp.jpg",
+        "still_path": null,
         "vote_average": 0.0,
         "vote_count": 0
     },
@@ -76,7 +76,7 @@
     "original_language": "ja",
     "original_name": "Battle Spirits [Re] \u7d76\u754c\u306e\u7a7a",
     "overview": "Keio 3, Hinomoto, Eito. As the Bakumatsu throws Japan into turmoil, young Kuu Bashin dreams of becoming stronger through Standard Battle Spirits. His world changes when he encounters Ajara Zetsu, a wandering samurai and formidable Eternal Battler pursued by anti-shogunate forces. As the worlds of Standard and Eternal Battle collide, Kuu is pulled into Zetsu's journey\u2014and sets history in motion.",
-    "popularity": 7.5684,
+    "popularity": 8.303,
     "poster_path": "/1lATIjNfnDshZQAElqRJeViqsi3.jpg",
     "production_companies": [
         {
@@ -107,7 +107,7 @@
             "overview": "",
             "poster_path": "/4ScTaJZ4g4ZPQmfxRHe6AyK5S48.jpg",
             "season_number": 1,
-            "vote_average": 5.5
+            "vote_average": 5.4
         }
     ],
     "softcore": false,
@@ -121,7 +121,7 @@
     "status": "Returning Series",
     "tagline": "",
     "type": "Scripted",
-    "vote_average": 7.2,
+    "vote_average": 7.0,
     "vote_count": 4,
     "youtube_theme_added": 1792884376,
     "youtube_theme_added_by": "30657709",

@@ -76,7 +76,7 @@
     "original_language": "en",
     "original_name": "Have I Got News for You",
     "overview": "Hilarious, totally-irreverent, near-slanderous political quiz show, based mainly on news stories from the last week or so, that leaves no party, personality or action unscathed in pursuit of laughs.",
-    "popularity": 67.6154,
+    "popularity": 64.2741,
     "poster_path": "/gYrG6F8OXBa8C0Lfx10XaZsHKaw.jpg",
     "production_companies": [
         {
@@ -147,7 +147,7 @@
             "overview": "",
             "poster_path": null,
             "season_number": 4,
-            "vote_average": 0.0
+            "vote_average": 5.0
         },
         {
             "air_date": "1993-04-16",
@@ -841,8 +841,8 @@
     "status": "Returning Series",
     "tagline": "",
     "type": "Talk Show",
-    "vote_average": 7.1,
-    "vote_count": 83,
+    "vote_average": 7.077,
+    "vote_count": 84,
     "youtube_theme_added": 1791716811,
     "youtube_theme_added_by": "28492134",
     "youtube_theme_edited": 1791716811,

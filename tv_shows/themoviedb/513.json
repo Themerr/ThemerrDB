@@ -39,8 +39,8 @@
         "season_number": 3,
         "show_id": 513,
         "still_path": "/wYeBRl9iRXtww4CCGMgxXXS0Xet.jpg",
-        "vote_average": 8.0,
-        "vote_count": 8
+        "vote_average": 7.778,
+        "vote_count": 9
     },
     "name": "Batman Beyond",
     "networks": [
@@ -66,7 +66,7 @@
     "original_language": "en",
     "original_name": "Batman Beyond",
     "overview": "As new villains overrun Gotham City of the future, the aging Bruce Wayne hangs up the cape of the once invincible Batman. But when troubled teenager Terry McGinnis stumbles upon the Dark Knight's secret, a new alliance is forged. And a triumphant new Batman is born.",
-    "popularity": 24.1193,
+    "popularity": 23.921,
     "poster_path": "/qAcF9tpWip7BGNad0NtUdt2ZWAz.jpg",
     "production_companies": [
         {
@@ -101,7 +101,7 @@
             "overview": "",
             "poster_path": "/rb50VFU4kxJXuSbzIBJn1GVWK4k.jpg",
             "season_number": 1,
-            "vote_average": 8.2
+            "vote_average": 8.1
         },
         {
             "air_date": "1999-09-17",
@@ -121,7 +121,7 @@
             "overview": "",
             "poster_path": "/pa3ovTpcjsWT7YCruXAXc7eFA46.jpg",
             "season_number": 3,
-            "vote_average": 8.3
+            "vote_average": 8.2
         }
     ],
     "softcore": false,
@@ -135,8 +135,8 @@
     "status": "Ended",
     "tagline": "",
     "type": "Scripted",
-    "vote_average": 8.2,
-    "vote_count": 646,
+    "vote_average": 8.165,
+    "vote_count": 648,
     "youtube_theme_added": 1791726136,
     "youtube_theme_added_by": "52173046",
     "youtube_theme_edited": 1791726136,

@@ -50,8 +50,8 @@
         "season_number": 1,
         "show_id": 229544,
         "still_path": "/c1z83dNmsXjvg47jnDGaDND7jXh.jpg",
-        "vote_average": 8.7,
-        "vote_count": 7
+        "vote_average": 8.875,
+        "vote_count": 8
     },
     "name": "Among Us",
     "networks": [
@@ -71,7 +71,7 @@
     "original_language": "en",
     "original_name": "Among Us",
     "overview": "Eccentric, monochromatic crewmates of a ship transporting junk across the galaxy must root out an Impostor in their midst before they fall victim to its villainous designs.",
-    "popularity": 9.5211,
+    "popularity": 10.0896,
     "poster_path": "/ourBbG4B1dAjfFUCzuUYEZpR101.jpg",
     "production_companies": [
         {
@@ -114,7 +114,7 @@
             "overview": "Eccentric, monochromatic crewmates of a ship transporting junk across the galaxy must root out an Impostor in their midst before they fall victim to its villainous designs.",
             "poster_path": "/d9B1PJomFcKTSOghMTKN4fxcPX6.jpg",
             "season_number": 1,
-            "vote_average": 7.9
+            "vote_average": 8.1
         }
     ],
     "softcore": false,

@@ -49,8 +49,8 @@
         "season_number": 5,
         "show_id": 6357,
         "still_path": "/14dGGthtsrdrh6w9104eDJiun95.jpg",
-        "vote_average": 6.1,
-        "vote_count": 10
+        "vote_average": 6.0,
+        "vote_count": 11
     },
     "name": "The Twilight Zone",
     "networks": [
@@ -70,7 +70,7 @@
     "original_language": "en",
     "original_name": "The Twilight Zone",
     "overview": "An anthology series containing drama, psychological thriller, fantasy, science fiction, suspense, and/or horror, often concluding with a macabre or unexpected twist.",
-    "popularity": 39.1783,
+    "popularity": 39.2953,
     "poster_path": "/7uY4pCOxbEdv4M8jTE4uMPVoSIW.jpg",
     "production_companies": [
         {
@@ -131,7 +131,7 @@
             "overview": "The third season of The Twilight Zone aired Fridays at 10:00\u201310:30 pm on CBS from September 15, 1961 to June 1, 1962. There are 37 episodes.\n\nContinuing with Marius Constant's theme music, a different set of graphics was used for the opening, consisting of a rotating cone with concentric circles suggesting a spiral, receding into a star field. Rod Serling's narration from the second season was used, with the verse \"That's the signpost up ahead\" taken out:\n\n\"You're traveling through another dimension. A dimension not only of sight and sound but of mind. A journey into a wondrous land whose boundaries are that of imagination. Your next stop\u2014The Twilight Zone.\" Some subtle changes in the opening's acoustics were made beginning with Person or Persons Unknown.",
             "poster_path": "/1bBd7xSbATm9VfOZWKedkzTWXen.jpg",
             "season_number": 3,
-            "vote_average": 7.0
+            "vote_average": 6.9
         },
         {
             "air_date": "1963-01-03",
@@ -151,7 +151,7 @@
             "overview": "The fifth and final season of The Twilight Zone aired Fridays at 9:30\u201310:00 pm on CBS from September 27, 1963 to June 19, 1964. It featured the same intro as the fourth season, but reverted to the original half-hour format.",
             "poster_path": "/nQwRHZVKS1Pn9xSoTYNJP6Hk8Z3.jpg",
             "season_number": 5,
-            "vote_average": 6.9
+            "vote_average": 6.8
         }
     ],
     "softcore": false,
@@ -165,8 +165,8 @@
     "status": "Ended",
     "tagline": "You are about to enter another dimension.",
     "type": "Scripted",
-    "vote_average": 8.5,
-    "vote_count": 1102,
+    "vote_average": 8.513,
+    "vote_count": 1104,
     "youtube_theme_added": 1790289738,
     "youtube_theme_added_by": "176828345",
     "youtube_theme_edited": 1790289738,

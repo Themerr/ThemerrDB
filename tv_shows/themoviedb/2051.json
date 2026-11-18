@@ -46,11 +46,11 @@
     ],
     "last_air_date": "2026-11-16",
     "last_episode_to_air": {
-        "air_date": "2026-11-16",
-        "episode_number": 41,
+        "air_date": "2026-11-17",
+        "episode_number": 42,
         "episode_type": "standard",
-        "id": 8103831,
-        "name": "Episode 41",
+        "id": 8139574,
+        "name": "Episode 42",
         "overview": "",
         "production_code": "",
         "runtime": 37,
@@ -70,11 +70,11 @@
         }
     ],
     "next_episode_to_air": {
-        "air_date": "2026-11-17",
-        "episode_number": 42,
+        "air_date": "2026-11-18",
+        "episode_number": 43,
         "episode_type": "standard",
-        "id": 8139574,
-        "name": "Episode 42",
+        "id": 8139575,
+        "name": "Episode 43",
         "overview": "",
         "production_code": "",
         "runtime": 37,
@@ -92,7 +92,7 @@
     "original_language": "en",
     "original_name": "The Price Is Right",
     "overview": "\"Come on down!\" The Price Is Right features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items.\u00a0",
-    "popularity": 67.5908,
+    "popularity": 66.1127,
     "poster_path": "/7MSqORrf1RZsmLUTQ2XoEJEtzt5.jpg",
     "production_companies": [
         {

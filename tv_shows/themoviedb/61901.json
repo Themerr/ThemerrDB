@@ -37,8 +37,8 @@
         "season_number": 1,
         "show_id": 61901,
         "still_path": "/399GnguaERok4dieG5Lo9nqxG8g.jpg",
-        "vote_average": 8.0,
-        "vote_count": 7
+        "vote_average": 7.25,
+        "vote_count": 8
     },
     "name": "Death Parade",
     "networks": [
@@ -58,7 +58,7 @@
     "original_language": "ja",
     "original_name": "\u30c7\u30b9\u30fb\u30d1\u30ec\u30fc\u30c9",
     "overview": "There is a place after death that\u2019s neither heaven nor hell. A bar that serves you one chance to win. You cannot leave until the game is over, and when it is, your life may be too.",
-    "popularity": 9.0331,
+    "popularity": 9.0554,
     "poster_path": "/q95PaZEpjfNzmz3c0TFFAG6lc7S.jpg",
     "production_companies": [
         {
@@ -119,7 +119,7 @@
             "overview": "",
             "poster_path": "/qeD9wDenN7CPA99FScSErJCvcWb.jpg",
             "season_number": 1,
-            "vote_average": 6.9
+            "vote_average": 6.8
         }
     ],
     "softcore": false,
@@ -133,8 +133,8 @@
     "status": "Ended",
     "tagline": "",
     "type": "Scripted",
-    "vote_average": 7.971,
-    "vote_count": 640,
+    "vote_average": 7.967,
+    "vote_count": 642,
     "youtube_theme_added": 1779927803,
     "youtube_theme_added_by": "30657709",
     "youtube_theme_edited": 1779927803,

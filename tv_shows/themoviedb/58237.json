@@ -35,8 +35,8 @@
         "season_number": 2,
         "show_id": 58237,
         "still_path": "/nu5UATiUbA819O5v7hfsAHk2jiq.jpg",
-        "vote_average": 8.5,
-        "vote_count": 2
+        "vote_average": 7.0,
+        "vote_count": 3
     },
     "name": "Silver Spoon",
     "networks": [
@@ -56,7 +56,7 @@
     "original_language": "ja",
     "original_name": "\u9280\u306e\u5319 Silver Spoon",
     "overview": "Yuugo Hachiken enrolled in Ooezo Agricultural High School for the reason that he could live in a dorm there. In some ways he chose Ooezo in an effort to escape the highly competitive prep schools he had attended previously, but he was faced with an entirely new set of difficulties at Oezo, surrounded by animals and Mother Nature. After growing up in an average family, he began to encounter clubs and training the likes of which he had never seen before.",
-    "popularity": 7.954,
+    "popularity": 7.8159,
     "poster_path": "/4HiHpVy0OVk5nFl28pjU8gBDA7A.jpg",
     "production_companies": [
         {
@@ -105,7 +105,7 @@
             "overview": "",
             "poster_path": "/zuZS9xQWxruNwCx9g9CCVaqdVoS.jpg",
             "season_number": 1,
-            "vote_average": 7.4
+            "vote_average": 6.2
         },
         {
             "air_date": "2014-01-10",
@@ -115,7 +115,7 @@
             "overview": "",
             "poster_path": "/z901zpDHpdU4lJBEfaXNQUokWva.jpg",
             "season_number": 2,
-            "vote_average": 8.0
+            "vote_average": 6.2
         }
     ],
     "softcore": false,
@@ -129,8 +129,8 @@
     "status": "Ended",
     "tagline": "",
     "type": "Scripted",
-    "vote_average": 7.7,
-    "vote_count": 62,
+    "vote_average": 7.69,
+    "vote_count": 63,
     "youtube_theme_added": 1788424451,
     "youtube_theme_added_by": "275524737",
     "youtube_theme_edited": 1788424451,

@@ -45,8 +45,8 @@
         "season_number": 10,
         "show_id": 1952,
         "still_path": "/piVCJEKft8xdXPS3kENQ2FquEtR.jpg",
-        "vote_average": 8.2,
-        "vote_count": 6
+        "vote_average": 8.143,
+        "vote_count": 7
     },
     "name": "Mystery Science Theater 3000",
     "networks": [
@@ -72,7 +72,7 @@
     "original_language": "en",
     "original_name": "Mystery Science Theater 3000",
     "overview": "A stranded spaceship pilot captured by mad scientists survives a blitz of cheesy B movies by riffing on them with his funny robot pals.",
-    "popularity": 34.5189,
+    "popularity": 35.0653,
     "poster_path": "/nNeb35RFoeLwxu0CFzZ9NAI5UTA.jpg",
     "production_companies": [
         {
@@ -143,7 +143,7 @@
             "overview": "In season 1, trapped by mad scientists Dr. Forrester and Dr. Erhardt, Joel Robinson and his robot pals face off against movies like THE CRAWLING EYE and ROBOT HOLOCAUST.",
             "poster_path": "/miJRxIHJWMWBlB6nffwszkKclUG.jpg",
             "season_number": 1,
-            "vote_average": 7.4
+            "vote_average": 7.0
         },
         {
             "air_date": "1990-09-22",
@@ -153,7 +153,7 @@
             "overview": "In Season 2, Joel Robinson\u2019s torment continues as Dr. Forrester and TV\u2019s Frank inflict such horrors as CATALINA CAPER and THE SIDEHACKERS.",
             "poster_path": "/qvNA3wamAYFblbyMfRU7iZEW23Q.jpg",
             "season_number": 2,
-            "vote_average": 7.3
+            "vote_average": 7.1
         },
         {
             "air_date": "1991-06-01",
@@ -163,7 +163,7 @@
             "overview": "In season 3, Joel and the bots tackle all five original-run GAMERA episodes and the beloved classic POD PEOPLE.",
             "poster_path": "/17eDNVO0qXV9kLDeg97omTJUswX.jpg",
             "season_number": 3,
-            "vote_average": 7.4
+            "vote_average": 7.0
         },
         {
             "air_date": "1992-06-06",
@@ -173,7 +173,7 @@
             "overview": "MST3K shifts into high gear as the unforgettable MANOS: THE HANDS OF FATE makes its indelible mark on Joel, Tom Servo, and Crow. This season also includes THE DAY THE EARTH FROZE, although we never did find out what a Sampo is.",
             "poster_path": "/edxJwBu731kKJcUKAS2jq6xMglh.jpg",
             "season_number": 4,
-            "vote_average": 7.2
+            "vote_average": 7.1
         },
         {
             "air_date": "1993-07-17",
@@ -183,7 +183,7 @@
             "overview": "MST3K changes hosts for the first time when Joel Robinson escapes and is replaced by Mike Nelson. Joel\u2019s departure is marked by the iconic MITCHELL, and Mike enters the arena with THE BRAIN THAT WOULDN'T DIE. Season 5 also includes Joel\u2019s favorite episode, I ACCUSE MY PARENTS.",
             "poster_path": "/7pkJO7ubeNlHHPnHNXKKYdGArWj.jpg",
             "season_number": 5,
-            "vote_average": 7.7
+            "vote_average": 7.5
         },
         {
             "air_date": "1994-07-16",
@@ -193,7 +193,7 @@
             "overview": "Season 6 of MST3K brought the works of Coleman Francis to the Satellite of Love, with RED ZONE CUBA and THE SKYDIVERS. Mike and the bots also suffer a ZOMBIE NIGHTMARE they won\u2019t soon forget.",
             "poster_path": "/xfk9u3Gm5VTVV56V9k6RCNQsmO.jpg",
             "season_number": 6,
-            "vote_average": 7.1
+            "vote_average": 7.0
         },
         {
             "air_date": "1996-02-03",
@@ -223,7 +223,7 @@
             "overview": "In Season 9, Pearl, Bobo, and Brain Guy set up shop in Castle Forrester while Mike, Tom Servo, and Crow continue to suffer under the burden of riffing movies like THE PUMAMAN and WEREWOLF.",
             "poster_path": "/13AivoXCCauohLxV4CmdzbBDuLM.jpg",
             "season_number": 9,
-            "vote_average": 7.4
+            "vote_average": 7.5
         },
         {
             "air_date": "1999-04-11",
@@ -247,8 +247,8 @@
     "status": "Ended",
     "tagline": "We've got Movie Sign!",
     "type": "Scripted",
-    "vote_average": 7.72,
-    "vote_count": 234,
+    "vote_average": 7.717,
+    "vote_count": 235,
     "youtube_theme_added": 1791726880,
     "youtube_theme_added_by": "8563194",
     "youtube_theme_edited": 1791726880,

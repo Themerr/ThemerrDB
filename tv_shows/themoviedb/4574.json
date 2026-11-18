@@ -50,8 +50,8 @@
         "season_number": 5,
         "show_id": 4574,
         "still_path": "/tn3YAq1BO9l1NfkEO4AqekCfSJ4.jpg",
-        "vote_average": 6.5,
-        "vote_count": 11
+        "vote_average": 6.462,
+        "vote_count": 13
     },
     "name": "X-Men",
     "networks": [
@@ -89,7 +89,7 @@
     "original_language": "en",
     "original_name": "X-Men",
     "overview": "The X-Men are an elite team of mutants, genetically gifted human beings with superpowers, sworn to fight for mutant rights against hostile Government agencies, whilst at the same time protecting mankind from mutant supremacist Magneto who seeks to destroy the human race in return for the atrocities committed against mutant kind.",
-    "popularity": 26.248,
+    "popularity": 25.354,
     "poster_path": "/2OFwsFhAobczgJWnVdwd9oZAF2N.jpg",
     "production_companies": [
         {
@@ -136,7 +136,7 @@
             "overview": "",
             "poster_path": "/qVwe6nEnJpJbjisnDka0yoeDaT2.jpg",
             "season_number": 1,
-            "vote_average": 7.1
+            "vote_average": 7.0
         },
         {
             "air_date": "1993-10-23",
@@ -146,7 +146,7 @@
             "overview": "",
             "poster_path": "/eEy7kDNgxsn2IYZad0FCk9uRhpn.jpg",
             "season_number": 2,
-            "vote_average": 6.2
+            "vote_average": 6.1
         },
         {
             "air_date": "1994-07-29",
@@ -190,8 +190,8 @@
     "status": "Ended",
     "tagline": "",
     "type": "Scripted",
-    "vote_average": 8.205,
-    "vote_count": 1435,
+    "vote_average": 8.203,
+    "vote_count": 1436,
     "youtube_theme_added": 1722022511,
     "youtube_theme_added_by": "170429187",
     "youtube_theme_edited": 1722022511,
