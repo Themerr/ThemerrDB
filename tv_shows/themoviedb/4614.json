@@ -53,9 +53,9 @@
         "runtime": 43,
         "season_number": 24,
         "show_id": 4614,
-        "still_path": null,
-        "vote_average": 0.0,
-        "vote_count": 0
+        "still_path": "/8xbJ49Scd2HwOfFk4jeD7JMnnC9.jpg",
+        "vote_average": 8.5,
+        "vote_count": 2
     },
     "name": "NCIS",
     "networks": [
@@ -89,7 +89,7 @@
     "original_language": "en",
     "original_name": "NCIS",
     "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-    "popularity": 241.7022,
+    "popularity": 245.0927,
     "poster_path": "/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
     "production_companies": [
         {
@@ -366,7 +366,7 @@
             "overview": "",
             "poster_path": "/oy8CuB0chcBmnAuzJZA5pB1yEc1.jpg",
             "season_number": 24,
-            "vote_average": 9.0
+            "vote_average": 8.9
         }
     ],
     "softcore": false,
@@ -380,8 +380,8 @@
     "status": "Returning Series",
     "tagline": "Back in force.",
     "type": "Scripted",
-    "vote_average": 7.6,
-    "vote_count": 2623,
+    "vote_average": 7.601,
+    "vote_count": 2625,
     "youtube_theme_added": 1717383878,
     "youtube_theme_added_by": "67849115",
     "youtube_theme_edited": 1717383878,

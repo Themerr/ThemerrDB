@@ -74,12 +74,12 @@
         "episode_type": "standard",
         "id": 7705252,
         "name": "Hivemind",
-        "overview": "",
+        "overview": "Everyone comes home. Not everyone comes back. That's what the therapists are gonna tell you, anyway. Tonight, the team faces an inquisition sooner than they ever imagined.",
         "production_code": "",
         "runtime": null,
         "season_number": 4,
         "show_id": 117488,
-        "still_path": null,
+        "still_path": "/tGlUmesM0g9u53gPIf6y0j4ivf5.jpg",
         "vote_average": 0.0,
         "vote_count": 0
     },
@@ -91,7 +91,7 @@
     "original_language": "en",
     "original_name": "Yellowjackets",
     "overview": "This equal parts survival epic, psychological horror story and coming-of-age drama tells the saga of a team of wildly talented high school girls soccer players who become the (un)lucky survivors of a plane crash deep in the remote northern wilderness. The series chronicles their descent from a complicated but thriving team to savage clans, while also tracking the lives they\u2019ve attempted to piece back together nearly 25 years later.",
-    "popularity": 30.2237,
+    "popularity": 31.126,
     "poster_path": "/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
     "production_companies": [
         {
@@ -198,7 +198,7 @@
     "status": "Returning Series",
     "tagline": "We hear the wilderness and it hears us.",
     "type": "Scripted",
-    "vote_average": 7.425,
+    "vote_average": 7.4,
     "vote_count": 1081,
     "youtube_theme_added": 1790208394,
     "youtube_theme_added_by": "34431195",

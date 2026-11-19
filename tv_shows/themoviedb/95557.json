@@ -41,7 +41,7 @@
         "season_number": 4,
         "show_id": 95557,
         "still_path": "/a103TuPbdItnmw4d4yDFQngJywu.jpg",
-        "vote_average": 7.873,
+        "vote_average": 7.9,
         "vote_count": 51
     },
     "name": "INVINCIBLE",
@@ -53,7 +53,21 @@
             "origin_country": ""
         }
     ],
-    "next_episode_to_air": null,
+    "next_episode_to_air": {
+        "air_date": "2027-02-17",
+        "episode_number": 1,
+        "episode_type": "standard",
+        "id": 8147303,
+        "name": "Episode 1",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 5,
+        "show_id": 95557,
+        "still_path": null,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
     "number_of_episodes": 32,
     "number_of_seasons": 5,
     "origin_country": [
@@ -62,7 +76,7 @@
     "original_language": "en",
     "original_name": "INVINCIBLE",
     "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father's tutelage.",
-    "popularity": 54.4682,
+    "popularity": 58.5503,
     "poster_path": "/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
     "production_companies": [
         {
@@ -158,11 +172,11 @@
             "vote_average": 7.6
         },
         {
-            "air_date": null,
-            "episode_count": 0,
+            "air_date": "2027-02-17",
+            "episode_count": 8,
             "id": 480007,
             "name": "Season 5",
-            "overview": "",
+            "overview": "Still reeling from his role in the Earth-shattering events of last season, in Season Five, Mark searches for a way to make the world better, even if that means risking everything - including the relationships, friends, and allies he holds dear. Mark's forced to decide what kind of hero he is and what he's willing to do to save his planet's future - and if the ends always justify the means when millions of lives hang in the balance.",
             "poster_path": null,
             "season_number": 5,
             "vote_average": 0.0
@@ -180,7 +194,7 @@
     "tagline": "Almost there.",
     "type": "Scripted",
     "vote_average": 8.626,
-    "vote_count": 6172,
+    "vote_count": 6173,
     "youtube_theme_added": 1711468868,
     "youtube_theme_added_by": "28829297",
     "youtube_theme_edited": 1711468868,

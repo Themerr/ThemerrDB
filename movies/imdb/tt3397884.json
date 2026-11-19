@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Sicario",
     "overview": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
-    "popularity": 12.564,
+    "popularity": 11.5836,
     "poster_path": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
     "production_companies": [
         {
@@ -69,14 +69,6 @@
         {
             "iso_3166_1": "US",
             "name": "United States of America"
-        },
-        {
-            "iso_3166_1": "MX",
-            "name": "Mexico"
-        },
-        {
-            "iso_3166_1": "HK",
-            "name": "Hong Kong"
         }
     ],
     "release_date": "2015-09-17",
@@ -100,7 +92,7 @@
     "title": "Sicario",
     "video": false,
     "vote_average": 7.442,
-    "vote_count": 10125,
+    "vote_count": 10130,
     "youtube_theme_added": 1675703911,
     "youtube_theme_added_by": "15357950",
     "youtube_theme_edited": 1675703911,

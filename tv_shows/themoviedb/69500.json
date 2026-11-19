@@ -86,13 +86,43 @@
     "original_language": "ja",
     "original_name": "\u590f\u76ee\u53cb\u4eba\u5e33",
     "overview": "Natsume Takashi has the ability to see spirits, which he has long kept secret. However, once he inherits a strange book that belonged to his deceased grandmother, Reiko, he discovers the reason why spirits surround him.",
-    "popularity": 44.3138,
+    "popularity": 43.5857,
     "poster_path": "/6iIoK9LEM92hBEZD3aVQVCWeaRC.jpg",
     "production_companies": [
         {
             "id": 22602,
             "logo_path": "/8IYhcuLMK8cdzlh3sugyOrWYGKJ.png",
             "name": "Brain's Base",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3034,
+            "logo_path": "/jnuO8pZNEBLEq5YaOP1f5OkmG91.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2883,
+            "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+            "name": "Aniplex",
+            "origin_country": "JP"
+        },
+        {
+            "id": 53504,
+            "logo_path": null,
+            "name": "NAS",
+            "origin_country": "JP"
+        },
+        {
+            "id": 131015,
+            "logo_path": "/1VWKUVt895d6Wwnjxu4I7APPM8X.png",
+            "name": "Hakusensha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 79044,
+            "logo_path": "/vzFrzxqDuMmPvNgrFRxxazRHwRZ.png",
+            "name": "Shuka",
             "origin_country": "JP"
         }
     ],
@@ -196,7 +226,7 @@
     "tagline": "",
     "type": "Scripted",
     "vote_average": 8.2,
-    "vote_count": 117,
+    "vote_count": 118,
     "youtube_theme_added": 1792882593,
     "youtube_theme_added_by": "30657709",
     "youtube_theme_edited": 1792882593,

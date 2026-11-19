@@ -1,6 +1,6 @@
 {
     "adult": false,
-    "backdrop_path": "/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
+    "backdrop_path": "/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
     "created_by": [
         {
             "credit_id": "5c0aa9469251414795047604",
@@ -37,21 +37,21 @@
     "languages": [
         "en"
     ],
-    "last_air_date": "2026-11-11",
+    "last_air_date": "2026-11-18",
     "last_episode_to_air": {
-        "air_date": "2026-11-11",
-        "episode_number": 4,
+        "air_date": "2026-11-18",
+        "episode_number": 6,
         "episode_type": "standard",
-        "id": 7587569,
-        "name": "Gundabad",
-        "overview": "At Gundabad, our heroes find less than they came for and more than they expected. Elrond brings Gil-galad an urgent mission. Durin defends his throne.",
+        "id": 7587572,
+        "name": "From Valinor",
+        "overview": "Galadriel finds unexpected help. Sauron presses his advantage. N\u00famenor's tensions spark a surprising proposal. Thrain grows ruthless in his pursuit.",
         "production_code": "",
-        "runtime": 57,
+        "runtime": 65,
         "season_number": 3,
         "show_id": 84773,
-        "still_path": "/8HFT84AAqfjsqcz1xbx4afQPxQh.jpg",
-        "vote_average": 5.609,
-        "vote_count": 23
+        "still_path": "/qPvN1nNgWwPFdv2twj2tMEohEJ6.jpg",
+        "vote_average": 3.778,
+        "vote_count": 9
     },
     "name": "The Lord of the Rings: The Rings of Power",
     "networks": [
@@ -63,19 +63,19 @@
         }
     ],
     "next_episode_to_air": {
-        "air_date": "2026-11-18",
-        "episode_number": 5,
+        "air_date": "2026-11-25",
+        "episode_number": 7,
         "episode_type": "standard",
-        "id": 7587571,
-        "name": "The Lady of L\u00f3rien",
-        "overview": "Galadriel catches up with a lost love; Sauron catches up to her. Elrond & Gil-galad reach N\u00famenor. Gandalf seeks peace but gets a little carried away.",
+        "id": 7587574,
+        "name": "Episode 7",
+        "overview": "",
         "production_code": "",
-        "runtime": 56,
+        "runtime": null,
         "season_number": 3,
         "show_id": 84773,
-        "still_path": "/a5tktIoqzZH5Xc7yMF7xVECEcpz.jpg",
-        "vote_average": 4.5,
-        "vote_count": 2
+        "still_path": null,
+        "vote_average": 0.0,
+        "vote_count": 0
     },
     "number_of_episodes": 24,
     "number_of_seasons": 3,
@@ -85,7 +85,7 @@
     "original_language": "en",
     "original_name": "The Lord of the Rings: The Rings of Power",
     "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of N\u00famenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-    "popularity": 1865.5108,
+    "popularity": 2163.9704,
     "poster_path": "/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
     "production_companies": [
         {
@@ -146,7 +146,7 @@
             "overview": "Jumping forward several years from the events of Season Two, Season Three takes place at the height of the War of the Elves and Sauron, as the Dark Lord seeks to craft the One Ring that will give him the edge he needs to win the war, bind all peoples to his will - and at last rule all Middle-earth.",
             "poster_path": "/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
             "season_number": 3,
-            "vote_average": 5.6
+            "vote_average": 5.2
         }
     ],
     "softcore": false,
@@ -160,8 +160,8 @@
     "status": "Returning Series",
     "tagline": "Evil has had many names.",
     "type": "Scripted",
-    "vote_average": 7.218,
-    "vote_count": 4102,
+    "vote_average": 7.221,
+    "vote_count": 4110,
     "youtube_theme_added": 1717384793,
     "youtube_theme_added_by": "120731892",
     "youtube_theme_edited": 1717384793,

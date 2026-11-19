@@ -58,16 +58,30 @@
             "origin_country": "US"
         }
     ],
-    "next_episode_to_air": null,
+    "next_episode_to_air": {
+        "air_date": "2027-01-06",
+        "episode_number": 1,
+        "episode_type": "standard",
+        "id": 8146032,
+        "name": "Episode 1",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 3,
+        "show_id": 260471,
+        "still_path": null,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
     "number_of_episodes": 23,
-    "number_of_seasons": 2,
+    "number_of_seasons": 3,
     "origin_country": [
         "US"
     ],
     "original_language": "en",
     "original_name": "Shifting Gears",
     "overview": "Matt is a stubborn, widowed owner of a classic car restoration shop. When Matt's estranged daughter Riley and her teenage kids move into his house, the real restoration begins.",
-    "popularity": 9.5703,
+    "popularity": 8.7887,
     "poster_path": "/tZnI8fWCtmJ9doCYSJwoJBITBiV.jpg",
     "production_companies": [
         {
@@ -115,6 +129,16 @@
             "poster_path": "/tZnI8fWCtmJ9doCYSJwoJBITBiV.jpg",
             "season_number": 2,
             "vote_average": 7.5
+        },
+        {
+            "air_date": "2027-01-06",
+            "episode_count": 1,
+            "id": 558605,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 3,
+            "vote_average": 0.0
         }
     ],
     "softcore": false,
@@ -128,7 +152,7 @@
     "status": "Returning Series",
     "tagline": "Family in mirror is closer than they appear.",
     "type": "Scripted",
-    "vote_average": 6.427,
+    "vote_average": 6.4,
     "vote_count": 82,
     "youtube_theme_added": 1790912929,
     "youtube_theme_added_by": "42013603",

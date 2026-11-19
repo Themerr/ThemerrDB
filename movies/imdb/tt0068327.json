@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Cabaret",
     "overview": "Inside the Kit Kat Club of 1931 Berlin, starry-eyed singer Sally Bowles and an impish emcee sound the clarion call to decadent fun, while outside a certain political party grows into a brutal force.",
-    "popularity": 3.196,
+    "popularity": 3.029,
     "poster_path": "/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
     "production_companies": [
         {
@@ -49,10 +49,6 @@
         }
     ],
     "production_countries": [
-        {
-            "iso_3166_1": "DE",
-            "name": "Germany"
-        },
         {
             "iso_3166_1": "US",
             "name": "United States of America"

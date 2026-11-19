@@ -5,8 +5,16 @@
     "budget": 75000000,
     "genres": [
         {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
             "id": 35,
             "name": "Comedy"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
         },
         {
             "id": 10751,
@@ -27,7 +35,7 @@
     "original_language": "en",
     "original_title": "The Sheep Detectives",
     "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
-    "popularity": 17.1481,
+    "popularity": 15.2428,
     "poster_path": "/iKy5460GdsoknM8ppmGlJbKxAKa.jpg",
     "production_companies": [
         {
@@ -74,8 +82,8 @@
     "tagline": "A new breed of mystery.",
     "title": "The Sheep Detectives",
     "video": false,
-    "vote_average": 7.9,
-    "vote_count": 1943,
+    "vote_average": 7.873,
+    "vote_count": 1944,
     "youtube_theme_added": 1793023226,
     "youtube_theme_added_by": "168332544",
     "youtube_theme_edited": 1793023226,
