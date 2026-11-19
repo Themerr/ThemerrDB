@@ -1,0 +1,152 @@
+{
+    "adult": false,
+    "backdrop_path": "/fJa29nluTKy4qOc5kyyGZfCuDDc.jpg",
+    "created_by": [
+        {
+            "credit_id": "525782e6760ee36aaa605abd",
+            "gender": 2,
+            "id": 12891,
+            "name": "Joss Whedon",
+            "original_name": "Joss Whedon",
+            "profile_path": "/tAcIXWQWgGzoSsw2BUBuDbCGgii.jpg"
+        },
+        {
+            "credit_id": "5cc356ab0e0a264d93ee7f16",
+            "gender": 2,
+            "id": 1130788,
+            "name": "Zack Whedon",
+            "original_name": "Zack Whedon",
+            "profile_path": "/AfEqmIF2uUik9lENjzJbXJqCV1I.jpg"
+        },
+        {
+            "credit_id": "5cc356b19251415cd2f536c7",
+            "gender": 1,
+            "id": 1223883,
+            "name": "Maurissa Tancharoen",
+            "original_name": "Maurissa Tancharoen",
+            "profile_path": "/hbrXaUryDYx5icqd5mF1q4R3Vw6.jpg"
+        },
+        {
+            "credit_id": "5cc356b99251415cd2f536cd",
+            "gender": 2,
+            "id": 76532,
+            "name": "Jed Whedon",
+            "original_name": "Jed Whedon",
+            "profile_path": "/egddFuyBlh8gIMAU8jLH9CXu8ys.jpg"
+        }
+    ],
+    "episode_run_time": [
+        14
+    ],
+    "first_air_date": "2008-07-15",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.drhorrible.com/",
+    "id": 5739,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2008-07-19",
+    "last_episode_to_air": {
+        "air_date": "2008-07-19",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "id": 366719,
+        "name": "Act 3",
+        "overview": "Bad Horse has insisted that only a murder will get Doctor Horrible into the Evil League of Evil, and now that Captain Hammer is dating Penny it seems that his death would be the perfect choice. Will our villain pull off his dastardly plan? And what will Penny think of him if he succeeds?",
+        "production_code": "",
+        "runtime": 14,
+        "season_number": 1,
+        "show_id": 5739,
+        "still_path": "/tPN686pdX1EVLSMiRH6gjsCwHxB.jpg",
+        "vote_average": 8.333,
+        "vote_count": 3
+    },
+    "name": "Dr. Horrible's Sing-Along Blog",
+    "networks": [
+        {
+            "id": 453,
+            "logo_path": "/pqUTCleNUiTLAVlelGxUgWn1ELh.png",
+            "name": "Hulu",
+            "origin_country": "US"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Dr. Horrible's Sing-Along Blog",
+    "overview": "Aspiring super-villain Dr. Horrible wants to join the Evil League of Evil and win the girl of his dreams, but his nemesis, Captain Hammer, stops him at every turn.",
+    "popularity": 4.2184,
+    "poster_path": "/wPXpC4AJHlwnVk5AtlBgsd0497c.jpg",
+    "production_companies": [
+        {
+            "id": 10567,
+            "logo_path": "/kbZu62C3ZwNfOtao1ECIFTzL40Q.png",
+            "name": "Mutant Enemy Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-07-22",
+            "episode_count": 7,
+            "id": 15865,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/931dJQUFCPVFG0BkAK9Iw7CbcZG.jpg",
+            "season_number": 0,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "2008-07-15",
+            "episode_count": 3,
+            "id": 15864,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/v2ZSjQCo98zmHl76soTX0Afvxf2.jpg",
+            "season_number": 1,
+            "vote_average": 8.2
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "For every day, there is a night. For every world, there is an underworld. And for every hero... there's this guy!",
+    "type": "Miniseries",
+    "vote_average": 7.614,
+    "vote_count": 582,
+    "youtube_theme_added": 1795062954,
+    "youtube_theme_added_by": "177166452",
+    "youtube_theme_edited": 1795062954,
+    "youtube_theme_edited_by": "177166452",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=dlONS745QPo"
+}
