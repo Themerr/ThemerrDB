@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/8CdfFZASHRsLzY6yTrjq13sg8Xp.jpg",
+    "belongs_to_collection": {
+        "backdrop_path": "/bUIDdXCeHxED5yjLZa8oncYF0pM.jpg",
+        "id": 245129,
+        "name": "Pumping Iron Collection",
+        "poster_path": "/a8HOLbj8BYgFKhvbZ39cPzqOpHq.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 164753,
+    "imdb_id": "tt0089852",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Pumping Iron II: The Women",
+    "overview": "PUMPING IRON II: THE WOMEN, a film that is changing the way the world views the female physique-creating \"a new definition of the female form.\" Join four women as they prepare for the 1983 Caesars Palace World Cup Championship: the sultry and curvaceous Rachel McLish, the current champion; the super-muscular Bev Francis, Rachel's toughest competition; and newcomers Lori Bowen and Carla Dunlap.",
+    "popularity": 0.6706,
+    "poster_path": "/gWX3HkarmmIEFfTVmFuMBF15bE1.jpg",
+    "production_companies": [
+        {
+            "id": 57417,
+            "logo_path": "/uYCllr5ITgOfJqfPLvuEwCgbxUA.png",
+            "name": "Cinecom Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1985-05-03",
+    "revenue": 628050,
+    "runtime": 107,
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A Story of Strength, Desire, Courage... and a New Definition of Woman.",
+    "title": "Pumping Iron II: The Women",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 11,
+    "youtube_theme_added": 1795119922,
+    "youtube_theme_added_by": "91066652",
+    "youtube_theme_edited": 1795119922,
+    "youtube_theme_edited_by": "91066652",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=BKfSBoITE5s"
+}
