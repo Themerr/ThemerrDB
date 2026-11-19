@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": "/dyjvCBqRDw9KKSCgIJTPEFwGGZe.jpg",
+    "belongs_to_collection": null,
+    "budget": 15000000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "",
+    "id": 61672,
+    "imdb_id": "tt1757912",
+    "origin_country": [
+        "CH"
+    ],
+    "original_language": "fr",
+    "original_title": "Titeuf, le film",
+    "overview": "Titeuf is a comic series created by Swiss draughtsman Zep (real name Philippe Chapuis) depicting the life of a young boy (the title's namesake Titeuf, \"Tootuff\" in the English translation) and his vision of the adult world & themes such as love, sex, seduction and mysteries about the girls.  In this film, Titeuf (Donald Reignoux) is off on a new comedic adventure! Things get complicated when Nadia (Melanie Bernier) doesn\u2019t invite Titeuf to her birthday party, which is surely the most horrible moment of his life. Before long, Titeuf\u2019s whole life is turned upside down when his parents are nearly deported. Everything continues to spiral out of control even in the midst of Titeuf\u2019s exhaustive attempts to make matters right.",
+    "popularity": 1.5093,
+    "poster_path": "/3gNhlzuvJ8TP0utG6fBnqAuuzy2.jpg",
+    "production_companies": [
+        {
+            "id": 3012,
+            "logo_path": "/wF3RSATZ3lfSrQB8DtTw8XbKtgs.png",
+            "name": "Path\u00e9 Distribution",
+            "origin_country": "FR"
+        },
+        {
+            "id": 13668,
+            "logo_path": "/azhapBvZ8g1UWyyQQhhcRR9bM9x.png",
+            "name": "RTS",
+            "origin_country": "CH"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "CH",
+            "name": "Switzerland"
+        }
+    ],
+    "release_date": "2011-04-06",
+    "revenue": 13970489,
+    "runtime": 87,
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Fran\u00e7ais"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Titeuf",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 147,
+    "youtube_theme_added": 1795063808,
+    "youtube_theme_added_by": "91066652",
+    "youtube_theme_edited": 1795063808,
+    "youtube_theme_edited_by": "91066652",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=kJMz5cvjsFg"
+}
