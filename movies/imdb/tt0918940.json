@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "The Legend of Tarzan",
     "overview": "Tarzan, having acclimated to life in London, is called back to his former home in the jungle to investigate the activities at a mining encampment.",
-    "popularity": 7.2168,
+    "popularity": 6.4881,
     "poster_path": "/eJrfz178xBGlxjDGxnBXTzWWa4w.jpg",
     "production_companies": [
         {
@@ -54,12 +54,6 @@
             "origin_country": "US"
         },
         {
-            "id": 41624,
-            "logo_path": "/wzKxIeQKlMP0y5CaAw25MD6EQmf.png",
-            "name": "RatPac Entertainment",
-            "origin_country": "US"
-        },
-        {
             "id": 86565,
             "logo_path": null,
             "name": "Riche Productions",
@@ -69,6 +63,12 @@
             "id": 174,
             "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
             "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 306367,
+            "logo_path": null,
+            "name": "RatPac-Dune Entertainment",
             "origin_country": "US"
         }
     ],
@@ -101,8 +101,8 @@
     "tagline": "Human. Nature.",
     "title": "The Legend of Tarzan",
     "video": false,
-    "vote_average": 5.928,
-    "vote_count": 6694,
+    "vote_average": 5.927,
+    "vote_count": 6696,
     "youtube_theme_added": 1720403253,
     "youtube_theme_added_by": "118304977",
     "youtube_theme_edited": 1720403253,

@@ -43,19 +43,19 @@
     ],
     "last_air_date": "2026-11-05",
     "last_episode_to_air": {
-        "air_date": "2026-11-12",
-        "episode_number": 6,
+        "air_date": "2026-11-19",
+        "episode_number": 7,
         "episode_type": "standard",
-        "id": 8040730,
-        "name": "A Ten-Year Reunion and an Outta-the-Box Thinker",
-        "overview": "Georgie and Ruben butt heads when Georgie crashes Ruben's business class, and Mandy encourages Connor to attend his high school reunion.",
+        "id": 8114541,
+        "name": "A Party Sub and a Six-Legged Fan",
+        "overview": "Mandy's attempt to advance her career as a serious journalist backfires. Meanwhile, Georgie and Jim butt heads over past business arrangements.",
         "production_code": "",
-        "runtime": 20,
+        "runtime": 21,
         "season_number": 3,
         "show_id": 243875,
-        "still_path": "/zJ9Bn62bRs0hBEOHejQXOqAlU1K.jpg",
-        "vote_average": 8.0,
-        "vote_count": 3
+        "still_path": "/nwPPIBN0rl3WQ9wlvHkGddS7ovP.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0
     },
     "name": "Georgie & Mandy's First Marriage",
     "networks": [
@@ -66,21 +66,7 @@
             "origin_country": "US"
         }
     ],
-    "next_episode_to_air": {
-        "air_date": "2026-11-19",
-        "episode_number": 7,
-        "episode_type": "standard",
-        "id": 8114541,
-        "name": "A Party Sub and a Six-Legged Fan",
-        "overview": "Mandy's attempt to advance her career as a serious journalist backfires. Meanwhile, Georgie and Jim butt heads over past business arrangements.",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 3,
-        "show_id": 243875,
-        "still_path": null,
-        "vote_average": 0.0,
-        "vote_count": 0
-    },
+    "next_episode_to_air": null,
     "number_of_episodes": 50,
     "number_of_seasons": 3,
     "origin_country": [
@@ -89,7 +75,7 @@
     "original_language": "en",
     "original_name": "Georgie & Mandy's First Marriage",
     "overview": "Georgie and Mandy raise their young family in Texas while navigating the challenges of adulthood, parenting, and marriage.",
-    "popularity": 40.3608,
+    "popularity": 40.4194,
     "poster_path": "/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
     "production_companies": [
         {
@@ -154,8 +140,8 @@
     "status": "Returning Series",
     "tagline": "The first time's always the hardest.",
     "type": "Scripted",
-    "vote_average": 8.012,
-    "vote_count": 286,
+    "vote_average": 8.009,
+    "vote_count": 288,
     "youtube_theme_added": 1780449119,
     "youtube_theme_added_by": "88799372",
     "youtube_theme_edited": 1780449119,

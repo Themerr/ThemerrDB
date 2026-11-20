@@ -30,7 +30,7 @@
     "original_language": "fr",
     "original_title": "JCVD",
     "overview": "Between his tax problems and his legal battle with his wife for the custody of his daughter, these are hard times for the action movie star who finds that even Steven Seagal has pinched a role from him! This fictionalized version of Jean-Claude Van Damme returns to the country of his birth to seek the peace and tranquility he can no longer enjoy in the United States, but inadvertently gets involved in a bank robbery with hostages.",
-    "popularity": 1.5629,
+    "popularity": 1.4026,
     "poster_path": "/hTvdsXH0jYmQgIbs1eJFM8DnOQg.jpg",
     "production_companies": [
         {
@@ -55,36 +55,6 @@
             "id": 11774,
             "logo_path": null,
             "name": "Bankable",
-            "origin_country": ""
-        },
-        {
-            "id": 11775,
-            "logo_path": null,
-            "name": "La SOFICA Cofinova 4",
-            "origin_country": "FR"
-        },
-        {
-            "id": 6301,
-            "logo_path": "/jma8ZaHq1KAzlXW3v0RswVOWSdn.png",
-            "name": "Cin\u00e9Cin\u00e9ma",
-            "origin_country": "FR"
-        },
-        {
-            "id": 11776,
-            "logo_path": "/33JMuTtwY5UhPwkmCEyH1YaCD23.png",
-            "name": "Film Fund Luxembourg",
-            "origin_country": "LU"
-        },
-        {
-            "id": 11777,
-            "logo_path": null,
-            "name": "Cofinova 4",
-            "origin_country": "FR"
-        },
-        {
-            "id": 104,
-            "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
-            "name": "Canal+",
             "origin_country": "FR"
         },
         {
@@ -128,8 +98,8 @@
     "tagline": "The Biggest Fight of His Life!",
     "title": "JCVD",
     "video": false,
-    "vote_average": 6.612,
-    "vote_count": 608,
+    "vote_average": 6.6,
+    "vote_count": 609,
     "youtube_theme_added": 1791243032,
     "youtube_theme_added_by": "34431195",
     "youtube_theme_edited": 1791243032,

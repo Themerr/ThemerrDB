@@ -46,8 +46,8 @@
         "season_number": 2,
         "show_id": 259909,
         "still_path": "/y19J9vASYTjIFHkZ8o2yJk6BoC0.jpg",
-        "vote_average": 8.1,
-        "vote_count": 18
+        "vote_average": 8.184,
+        "vote_count": 19
     },
     "name": "Dexter: Resurrection",
     "networks": [
@@ -64,12 +64,12 @@
         "episode_type": "standard",
         "id": 7784662,
         "name": "Young Blood",
-        "overview": "Dexter probes a young killer's notorious legacy and must decide whether the code still applies.",
+        "overview": "When Dexter probes a young killer's legacy, he must decide if the code applies.",
         "production_code": "",
-        "runtime": 65,
+        "runtime": 60,
         "season_number": 2,
         "show_id": 259909,
-        "still_path": "/tAX9ecuUfYMwoJZsQlx7yua5yDw.jpg",
+        "still_path": "/wqhcu689MQgvKSh277S7uqph9Cm.jpg",
         "vote_average": 0.0,
         "vote_count": 0
     },
@@ -81,7 +81,7 @@
     "original_language": "en",
     "original_name": "Dexter: Resurrection",
     "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-    "popularity": 87.5873,
+    "popularity": 84.0761,
     "poster_path": "/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
     "production_companies": [
         {
@@ -150,7 +150,7 @@
             "overview": "Season 2 finds Dexter caught between two killers, one notorious and the other terrorizing New York in ways no one ever anticipated, all while battling his greatest enemy yet, a mid-life crisis. Harrison continues his own pursuit of justice as father and son face their darkest chapter.",
             "poster_path": "/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
             "season_number": 2,
-            "vote_average": 7.9
+            "vote_average": 8.0
         }
     ],
     "softcore": false,
@@ -165,7 +165,7 @@
     "tagline": "Back and sharper than ever.",
     "type": "Scripted",
     "vote_average": 8.544,
-    "vote_count": 769,
+    "vote_count": 770,
     "youtube_theme_added": 1778727904,
     "youtube_theme_added_by": "6266356",
     "youtube_theme_edited": 1778727904,

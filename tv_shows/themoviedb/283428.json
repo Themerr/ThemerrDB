@@ -22,21 +22,21 @@
     "languages": [
         "ja"
     ],
-    "last_air_date": "2026-11-12",
+    "last_air_date": "2026-11-19",
     "last_episode_to_air": {
-        "air_date": "2026-11-12",
-        "episode_number": 21,
+        "air_date": "2026-11-19",
+        "episode_number": 22,
         "episode_type": "standard",
-        "id": 7899763,
-        "name": "Misunderstandings",
-        "overview": "Momoka suddenly asks Koyuki to meet \u2014 makes a pointed demand. Later, a surprise visitor at home forces Minato to face the reason for his stress.",
+        "id": 7899765,
+        "name": "Turning Points",
+        "overview": "Autumn arrives. Minato crosses a line he's never dared to, Momoka rethinks what she wants in a relationship and Miki's heart catches up with her.",
         "production_code": "",
         "runtime": 24,
         "season_number": 1,
         "show_id": 283428,
-        "still_path": "/s4iBVBLOkApdtWZACdiKuVQv5ct.jpg",
-        "vote_average": 7.5,
-        "vote_count": 2
+        "still_path": "/cyOFLh6hwEBRptoXlazlFkQuhec.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0
     },
     "name": "The Ramparts of Ice",
     "networks": [
@@ -210,17 +210,17 @@
         }
     ],
     "next_episode_to_air": {
-        "air_date": "2026-11-19",
-        "episode_number": 22,
+        "air_date": "2026-11-26",
+        "episode_number": 23,
         "episode_type": "standard",
-        "id": 7899765,
-        "name": "Episode 22",
+        "id": 7899767,
+        "name": "Episode 23",
         "overview": "",
         "production_code": "",
-        "runtime": 24,
+        "runtime": null,
         "season_number": 1,
         "show_id": 283428,
-        "still_path": "/cyOFLh6hwEBRptoXlazlFkQuhec.jpg",
+        "still_path": null,
         "vote_average": 0.0,
         "vote_count": 0
     },
@@ -232,8 +232,8 @@
     "original_language": "ja",
     "original_name": "\u6c37\u306e\u57ce\u58c1",
     "overview": "Weighed down by memories she can't shake, high schooler Koyuki Hikawa keeps everyone at arm's length \u2014 until three schoolmates draw her out of her shell.",
-    "popularity": 25.6974,
-    "poster_path": "/rke9UC2QrogvxiQD9TGpbvqDosi.jpg",
+    "popularity": 48.1979,
+    "poster_path": "/41FpUJdOq9DBLpNBNGdrWEIKLkU.jpg",
     "production_companies": [
         {
             "id": 125523,
@@ -289,8 +289,8 @@
     "status": "Returning Series",
     "tagline": "",
     "type": "Scripted",
-    "vote_average": 8.588,
-    "vote_count": 80,
+    "vote_average": 8.605,
+    "vote_count": 81,
     "youtube_theme_added": 1792870592,
     "youtube_theme_added_by": "129887843",
     "youtube_theme_edited": 1792870592,

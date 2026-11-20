@@ -24,7 +24,7 @@
     "languages": [
         "ja"
     ],
-    "last_air_date": "2026-10-30",
+    "last_air_date": "2026-11-13",
     "last_episode_to_air": {
         "air_date": "2026-11-13",
         "episode_number": 7,
@@ -55,12 +55,12 @@
         "episode_type": "standard",
         "id": 7901226,
         "name": "One's Own Way",
-        "overview": "",
+        "overview": "By the time Shiki and the others arrive at Kegon Falls, the Oni Brigade has already begun its assault. With no time to wait for reinforcements, they charge into the laboratory alongside Enomoto. Meanwhile, Kusabi spots Mudano and Shiki through his surveillance drone, delighted that such ideal specimens have come to him.",
         "production_code": "",
-        "runtime": null,
+        "runtime": 24,
         "season_number": 2,
         "show_id": 253811,
-        "still_path": null,
+        "still_path": "/2wLJYOudHvPjM8ccJ8LBXh7SV5.jpg",
         "vote_average": 0.0,
         "vote_count": 0
     },
@@ -72,7 +72,7 @@
     "original_language": "ja",
     "original_name": "\u6843\u6e90\u6697\u9b3c",
     "overview": "After a Momotaro assassin suddenly kills his adoptive father, Shiki vows to avenge him. But first, he must learn to control his newly awakened Oni blood.",
-    "popularity": 22.1088,
+    "popularity": 20.573,
     "poster_path": "/vnasRNhwT5M3OvTAMzYn4i5fQcT.jpg",
     "production_companies": [
         {
@@ -155,7 +155,7 @@
     "status": "Returning Series",
     "tagline": "",
     "type": "Scripted",
-    "vote_average": 7.706,
+    "vote_average": 7.7,
     "vote_count": 119,
     "youtube_theme_added": 1792870633,
     "youtube_theme_added_by": "305393226",

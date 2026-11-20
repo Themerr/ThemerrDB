@@ -23,31 +23,31 @@
     "original_language": "fr",
     "original_title": "Camping",
     "overview": "Plastic surgeon Michel Saint-Josse is on his way to Spain where he hopes to spend a stress-free holiday in a luxury hotel with his teenage daughter Vanessa. When his car breaks down near a camping, Michel accepts the offer of help from an extrovert gigolo camper named Patrick Chirac. Whilst their car is being repaired, Michel and Vanessa agree to stay in Patrick\u2019s well proportioned tent, not knowing that, thanks to a series of mishaps, it will be their home for several days...",
-    "popularity": 0.8541,
+    "popularity": 1.1756,
     "poster_path": "/7flI2OwTuWKQdZiWRZ6tw6ijvEB.jpg",
     "production_companies": [
-        {
-            "id": 7981,
-            "logo_path": "/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png",
-            "name": "Path\u00e9",
-            "origin_country": "FR"
-        },
-        {
-            "id": 6301,
-            "logo_path": "/jma8ZaHq1KAzlXW3v0RswVOWSdn.png",
-            "name": "Cin\u00e9Cin\u00e9ma",
-            "origin_country": "FR"
-        },
-        {
-            "id": 104,
-            "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
-            "name": "Canal+",
-            "origin_country": "FR"
-        },
         {
             "id": 591,
             "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
             "name": "France 3 Cin\u00e9ma",
+            "origin_country": "FR"
+        },
+        {
+            "id": 8799,
+            "logo_path": null,
+            "name": "Alic\u00e9l\u00e9o",
+            "origin_country": "FR"
+        },
+        {
+            "id": 3012,
+            "logo_path": "/wF3RSATZ3lfSrQB8DtTw8XbKtgs.png",
+            "name": "Path\u00e9 Distribution",
+            "origin_country": "FR"
+        },
+        {
+            "id": 83,
+            "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+            "name": "France 2 Cin\u00e9ma",
             "origin_country": "FR"
         }
     ],
@@ -72,7 +72,7 @@
     "tagline": "",
     "title": "Camping",
     "video": false,
-    "vote_average": 5.515,
+    "vote_average": 5.5,
     "vote_count": 911,
     "youtube_theme_added": 1791716709,
     "youtube_theme_added_by": "28492134",

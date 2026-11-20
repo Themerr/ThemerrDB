@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "San Andreas",
     "overview": "In the aftermath of a massive earthquake in California, a rescue-chopper pilot makes a dangerous journey across the state in order to rescue his estranged daughter.",
-    "popularity": 8.311,
+    "popularity": 9.0057,
     "poster_path": "/2Gfjn962aaFSD6eST6QU3oLDZTo.jpg",
     "production_companies": [
         {
@@ -48,24 +48,16 @@
             "origin_country": "US"
         },
         {
-            "id": 174,
-            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
-            "name": "Warner Bros. Pictures",
+            "id": 306367,
+            "logo_path": null,
+            "name": "RatPac-Dune Entertainment",
             "origin_country": "US"
         }
     ],
     "production_countries": [
         {
-            "iso_3166_1": "CA",
-            "name": "Canada"
-        },
-        {
             "iso_3166_1": "US",
             "name": "United States of America"
-        },
-        {
-            "iso_3166_1": "AU",
-            "name": "Australia"
         }
     ],
     "release_date": "2015-05-27",
@@ -83,8 +75,8 @@
     "tagline": "We always knew this day would come.",
     "title": "San Andreas",
     "video": false,
-    "vote_average": 6.263,
-    "vote_count": 9356,
+    "vote_average": 6.262,
+    "vote_count": 9358,
     "youtube_theme_added": 1705358304,
     "youtube_theme_added_by": "42013603",
     "youtube_theme_edited": 1705358304,

@@ -35,19 +35,19 @@
     ],
     "last_air_date": "2026-11-12",
     "last_episode_to_air": {
-        "air_date": "2026-11-12",
-        "episode_number": 1,
+        "air_date": "2026-11-19",
+        "episode_number": 2,
         "episode_type": "standard",
-        "id": 8026424,
-        "name": "Episode 1",
-        "overview": "When human remains are found in a car dredged from the sea, Calder and Tosh must find the troubled owner who fled the Isles nine years ago.",
+        "id": 8059966,
+        "name": "Episode 2",
+        "overview": "With the identity of the body confirmed, Calder digs into the theft from the surgery. But everything is put on hold when the team realises Tosh is missing.",
         "production_code": "",
-        "runtime": 58,
+        "runtime": 59,
         "season_number": 11,
         "show_id": 46923,
-        "still_path": "/5R79gaa1hVI8mRs2DlWHnTKrjuW.jpg",
-        "vote_average": 9.0,
-        "vote_count": 1
+        "still_path": "/ln5l64sJDnF4dVvTlPOtosHiP3I.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0
     },
     "name": "Shetland",
     "networks": [
@@ -65,17 +65,17 @@
         }
     ],
     "next_episode_to_air": {
-        "air_date": "2026-11-19",
-        "episode_number": 2,
+        "air_date": "2026-11-26",
+        "episode_number": 3,
         "episode_type": "standard",
-        "id": 8059966,
-        "name": "Episode 2",
-        "overview": "With the identity of the body confirmed, Calder digs into the theft from the surgery. But everything is put on hold when the team realises Tosh is missing.",
+        "id": 8099104,
+        "name": "Episode 3",
+        "overview": "Graeme\u2019s life is turned upside down. The team digs into Paddy Rose, who blames Linden for his father\u2019s death. Jonah turns against his mother.",
         "production_code": "",
-        "runtime": 59,
+        "runtime": 58,
         "season_number": 11,
         "show_id": 46923,
-        "still_path": "/ln5l64sJDnF4dVvTlPOtosHiP3I.jpg",
+        "still_path": "/3iVwdmQ9Z4Ty2wKRNFLUWIrEE44.jpg",
         "vote_average": 0.0,
         "vote_count": 0
     },
@@ -87,7 +87,7 @@
     "original_language": "en",
     "original_name": "Shetland",
     "overview": "Created from the novels by award winning crime writer Ann Cleeves, Shetland follows DI Jimmy Perez and his team as they investigate crime within the close knit island community. In this isolated and sometimes inhospitable environment, the team have to rely on a uniquely resourceful style of policing.",
-    "popularity": 51.7032,
+    "popularity": 543.0217,
     "poster_path": "/rKnxmir8m5I3RdSTdZr3jaQaCZi.jpg",
     "production_companies": [
         {
@@ -208,7 +208,7 @@
             "overview": "When a woman goes missing with her nine-year-old son, Calder and Tosh set out on a case that blurs the line between the personal and professional.",
             "poster_path": "/6TTREk1miB6rep8A1PaFsMgmY71.jpg",
             "season_number": 9,
-            "vote_average": 5.7
+            "vote_average": 5.9
         },
         {
             "air_date": "2025-11-05",

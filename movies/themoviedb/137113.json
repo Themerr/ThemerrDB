@@ -22,15 +22,9 @@
     "original_language": "en",
     "original_title": "Edge of Tomorrow",
     "overview": "Major Bill Cage is an officer who has never seen a day of combat when he is unceremoniously demoted and dropped into combat. Cage is killed within minutes, managing to take an alpha alien down with him. He awakens back at the beginning of the same day and is forced to fight and die again... and again - as physical contact with the alien has thrown him into a time loop.",
-    "popularity": 12.261,
+    "popularity": 12.5968,
     "poster_path": "/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
     "production_companies": [
-        {
-            "id": 41624,
-            "logo_path": "/wzKxIeQKlMP0y5CaAw25MD6EQmf.png",
-            "name": "RatPac Entertainment",
-            "origin_country": "US"
-        },
         {
             "id": 79,
             "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
@@ -53,6 +47,12 @@
             "id": 174,
             "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
             "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 306367,
+            "logo_path": null,
+            "name": "RatPac-Dune Entertainment",
             "origin_country": "US"
         }
     ],
@@ -77,8 +77,8 @@
     "tagline": "Live. Die. Repeat.",
     "title": "Edge of Tomorrow",
     "video": false,
-    "vote_average": 7.644,
-    "vote_count": 15768,
+    "vote_average": 7.6,
+    "vote_count": 15774,
     "youtube_theme_added": 1675723579,
     "youtube_theme_added_by": "87816856",
     "youtube_theme_edited": 1675723579,

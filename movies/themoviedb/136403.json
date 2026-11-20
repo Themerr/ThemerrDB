@@ -20,7 +20,7 @@
     "original_language": "fr",
     "original_title": "Populaire",
     "overview": "An insurance agent and his new secretary become locked in the grip of romance and competition as they train together for a speed-typing contest.",
-    "popularity": 1.1209,
+    "popularity": 1.3387,
     "poster_path": "/4d4a0uDl8tI4EoIjYEyU54Xpkzu.jpg",
     "production_companies": [
         {
@@ -28,12 +28,6 @@
             "logo_path": "/3ulBLchjjnjVmvyLQSwO62MDKLE.png",
             "name": "Les Productions du Tr\u00e9sor",
             "origin_country": "FR"
-        },
-        {
-            "id": 13485,
-            "logo_path": null,
-            "name": "Compagnie Cin\u00e9matographique Europ\u00e9enne",
-            "origin_country": ""
         },
         {
             "id": 12407,
@@ -60,46 +54,10 @@
             "origin_country": "FR"
         },
         {
-            "id": 7131,
-            "logo_path": "/qpFsGoa96SytbWkhtkkpllu5Cch.png",
-            "name": "France T\u00e9l\u00e9visions",
+            "id": 819,
+            "logo_path": "/cEqVIluQuO1ubtID8RvOem4ZiIg.png",
+            "name": "Mars Films",
             "origin_country": "FR"
-        },
-        {
-            "id": 104,
-            "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
-            "name": "Canal+",
-            "origin_country": "FR"
-        },
-        {
-            "id": 10611,
-            "logo_path": "/zQ4fGaEnNkWfSzyygXRcUZwPmDG.png",
-            "name": "Cin\u00e9+",
-            "origin_country": "FR"
-        },
-        {
-            "id": 850,
-            "logo_path": "/aF7qajGJGtMpdrtvssM9g90YanX.png",
-            "name": "Eurimages",
-            "origin_country": "FR"
-        },
-        {
-            "id": 12352,
-            "logo_path": "/fkIacb6MddD6trIWamr33SIcUAn.png",
-            "name": "Wallimage",
-            "origin_country": "BE"
-        },
-        {
-            "id": 8009,
-            "logo_path": "/jMXTbZ35gAiHCjIfdDq1B7On9fv.png",
-            "name": "Belgacom",
-            "origin_country": "BE"
-        },
-        {
-            "id": 792,
-            "logo_path": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
-            "name": "RTBF",
-            "origin_country": "BE"
         },
         {
             "id": 12406,
@@ -108,10 +66,10 @@
             "origin_country": "BE"
         },
         {
-            "id": 819,
-            "logo_path": "/cEqVIluQuO1ubtID8RvOem4ZiIg.png",
-            "name": "Mars Films",
-            "origin_country": "FR"
+            "id": 792,
+            "logo_path": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
+            "name": "RTBF",
+            "origin_country": "BE"
         }
     ],
     "production_countries": [
@@ -164,7 +122,7 @@
     "tagline": "A comedy that strikes all the right keys.",
     "title": "Populaire",
     "video": false,
-    "vote_average": 6.602,
+    "vote_average": 6.6,
     "vote_count": 617,
     "youtube_theme_added": 1710011008,
     "youtube_theme_added_by": "11501201",
