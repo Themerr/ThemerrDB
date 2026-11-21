@@ -1635,7 +1635,7 @@ def test_check_youtube_accepts_accessible_video(tmp_path, monkeypatch, youtube_u
     mock_youtube_build(
         monkeypatch=monkeypatch,
         response={'items': [{
-            'contentDetails': {'duration': 'PT1M'},
+            'contentDetails': {'duration': 'PT15S'},
             'status': {'privacyStatus': privacy},
         }]},
     )

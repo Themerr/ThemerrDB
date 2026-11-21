@@ -97,10 +97,10 @@ class TestIsPublicOrUnlisted:
 
 class TestIsValidDuration:
     def test_too_short(self):
-        content_details = {"duration": "PT10S"}
+        content_details = {"duration": "PT14S"}
         is_valid, seconds = is_valid_duration(content_details)
         assert is_valid is False
-        assert seconds == 10
+        assert seconds == 14
 
     def test_too_long(self):
         content_details = {"duration": "PT10M1S"}
@@ -109,10 +109,10 @@ class TestIsValidDuration:
         assert seconds == 601
 
     def test_min_boundary(self):
-        content_details = {"duration": "PT30S"}
+        content_details = {"duration": "PT15S"}
         is_valid, seconds = is_valid_duration(content_details)
         assert is_valid is True
-        assert seconds == 30
+        assert seconds == 15
 
     def test_max_boundary(self):
         content_details = {"duration": "PT10M"}
@@ -150,10 +150,9 @@ class TestValidateYouTubeRequirements:
         return {"contentDetails": content, "status": status}
 
     def test_short_video(self):
-        item = self.make_item("PT10S")
+        item = self.make_item("PT14S")
         errors = validate_youtube_requirements(item)
-        assert len(errors) == 1
-        assert "too short" in errors[0]
+        assert errors == ["Video is too short: 14s (minimum 15s)."]
 
     def test_long_video(self):
         item = self.make_item("PT10M1S")
@@ -161,7 +160,7 @@ class TestValidateYouTubeRequirements:
         assert errors == ["Video is too long: 601s (maximum 600s)."]
 
     def test_boundary_min_ok(self):
-        item = self.make_item("PT30S")
+        item = self.make_item("PT15S")
         errors = validate_youtube_requirements(item)
         assert len(errors) == 0
 
