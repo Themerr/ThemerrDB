@@ -1,0 +1,71 @@
+{
+    "adult": false,
+    "backdrop_path": "/rjJJ3faKrOrTjGJaRheh7sSLV31.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 26537,
+    "imdb_id": "tt0076448",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Nestor, the Long-Eared Christmas Donkey",
+    "overview": "Nestor the donkey is a bit of an oddity--his long ears are enough for six donkeys and stretch all the way to the ground. One night, when Nestor is locked out in the cold, he begins to wander the desert.",
+    "popularity": 0.9703,
+    "poster_path": "/vx9q5vezpk2PJfMartzwHsMNdIw.jpg",
+    "production_companies": [
+        {
+            "id": 688,
+            "logo_path": "/hiCX3Z5p6sMWi2mF0CpLYHJy6aB.png",
+            "name": "Rankin/Bass Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        },
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1977-12-03",
+    "revenue": 0,
+    "runtime": 25,
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Back in the days of the Roman Empire, a small donkey is born with VERY long ears, that keep getting him into trouble...",
+    "title": "Nestor, the Long-Eared Christmas Donkey",
+    "video": false,
+    "vote_average": 5.98,
+    "vote_count": 49,
+    "youtube_theme_added": 1795235252,
+    "youtube_theme_added_by": "213348271",
+    "youtube_theme_edited": 1795235252,
+    "youtube_theme_edited_by": "213348271",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=3CZAz77sLQI"
+}
