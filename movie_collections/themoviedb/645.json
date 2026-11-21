@@ -26,7 +26,7 @@
             "title": "Live and Let Die",
             "video": false,
             "vote_average": 6.497,
-            "vote_count": 2427
+            "vote_count": 2428
         },
         {
             "adult": false,
@@ -48,7 +48,7 @@
             "title": "Dr. No",
             "video": false,
             "vote_average": 6.985,
-            "vote_count": 4266
+            "vote_count": 4269
         },
         {
             "adult": false,
@@ -70,7 +70,7 @@
             "title": "From Russia with Love",
             "video": false,
             "vote_average": 7.057,
-            "vote_count": 3536
+            "vote_count": 3537
         },
         {
             "adult": false,
@@ -91,8 +91,8 @@
             "softcore": false,
             "title": "Goldfinger",
             "video": false,
-            "vote_average": 7.356,
-            "vote_count": 4182
+            "vote_average": 7.355,
+            "vote_count": 4183
         },
         {
             "adult": false,
@@ -113,8 +113,8 @@
             "softcore": false,
             "title": "Thunderball",
             "video": false,
-            "vote_average": 6.664,
-            "vote_count": 2788
+            "vote_average": 6.663,
+            "vote_count": 2789
         },
         {
             "adult": false,
@@ -135,8 +135,8 @@
             "softcore": false,
             "title": "You Only Live Twice",
             "video": false,
-            "vote_average": 6.588,
-            "vote_count": 2630
+            "vote_average": 6.589,
+            "vote_count": 2631
         },
         {
             "adult": false,
@@ -157,8 +157,8 @@
             "softcore": false,
             "title": "On Her Majesty's Secret Service",
             "video": false,
-            "vote_average": 6.556,
-            "vote_count": 2273
+            "vote_average": 6.554,
+            "vote_count": 2275
         },
         {
             "adult": false,
@@ -179,7 +179,7 @@
             "title": "Diamonds Are Forever",
             "video": false,
             "vote_average": 6.394,
-            "vote_count": 2500
+            "vote_count": 2501
         },
         {
             "adult": false,
@@ -201,7 +201,7 @@
             "title": "The Man with the Golden Gun",
             "video": false,
             "vote_average": 6.466,
-            "vote_count": 2413
+            "vote_count": 2414
         },
         {
             "adult": false,
@@ -222,8 +222,8 @@
             "softcore": false,
             "title": "The Spy Who Loved Me",
             "video": false,
-            "vote_average": 6.818,
-            "vote_count": 2377
+            "vote_average": 6.819,
+            "vote_count": 2378
         },
         {
             "adult": false,
@@ -246,7 +246,7 @@
             "title": "Moonraker",
             "video": false,
             "vote_average": 6.182,
-            "vote_count": 2343
+            "vote_count": 2344
         },
         {
             "adult": false,
@@ -267,8 +267,8 @@
             "softcore": false,
             "title": "For Your Eyes Only",
             "video": false,
-            "vote_average": 6.547,
-            "vote_count": 2208
+            "vote_average": 6.548,
+            "vote_count": 2209
         },
         {
             "adult": false,
@@ -290,7 +290,7 @@
             "title": "Octopussy",
             "video": false,
             "vote_average": 6.357,
-            "vote_count": 2345
+            "vote_count": 2346
         },
         {
             "adult": false,
@@ -312,7 +312,7 @@
             "title": "A View to a Kill",
             "video": false,
             "vote_average": 6.256,
-            "vote_count": 2323
+            "vote_count": 2324
         },
         {
             "adult": false,
@@ -333,8 +333,8 @@
             "softcore": false,
             "title": "Licence to Kill",
             "video": false,
-            "vote_average": 6.433,
-            "vote_count": 2300
+            "vote_average": 6.434,
+            "vote_count": 2301
         },
         {
             "adult": false,
@@ -356,7 +356,7 @@
             "title": "GoldenEye",
             "video": false,
             "vote_average": 6.899,
-            "vote_count": 4578
+            "vote_count": 4579
         },
         {
             "adult": false,
@@ -378,7 +378,7 @@
             "title": "Tomorrow Never Dies",
             "video": false,
             "vote_average": 6.393,
-            "vote_count": 3636
+            "vote_count": 3637
         },
         {
             "adult": false,
@@ -422,7 +422,7 @@
             "title": "Casino Royale",
             "video": false,
             "vote_average": 7.581,
-            "vote_count": 12249
+            "vote_count": 12250
         },
         {
             "adult": false,
@@ -444,7 +444,7 @@
             "title": "The World Is Not Enough",
             "video": false,
             "vote_average": 6.291,
-            "vote_count": 3451
+            "vote_count": 3452
         },
         {
             "adult": false,
@@ -465,8 +465,8 @@
             "softcore": false,
             "title": "Die Another Day",
             "video": false,
-            "vote_average": 6.001,
-            "vote_count": 4079
+            "vote_average": 6.0,
+            "vote_count": 4080
         },
         {
             "adult": false,
@@ -510,7 +510,7 @@
             "title": "Spectre",
             "video": false,
             "vote_average": 6.577,
-            "vote_count": 11651
+            "vote_count": 11652
         },
         {
             "adult": false,
@@ -531,8 +531,8 @@
             "softcore": false,
             "title": "The Living Daylights",
             "video": false,
-            "vote_average": 6.552,
-            "vote_count": 2152
+            "vote_average": 6.553,
+            "vote_count": 2153
         },
         {
             "adult": false,
@@ -553,7 +553,7 @@
             "softcore": false,
             "title": "No Time to Die",
             "video": false,
-            "vote_average": 7.336,
+            "vote_average": 7.3,
             "vote_count": 7581
         },
         {
@@ -575,8 +575,8 @@
             "softcore": false,
             "title": "Never Say Never Again",
             "video": false,
-            "vote_average": 6.081,
-            "vote_count": 1724
+            "vote_average": 6.079,
+            "vote_count": 1725
         },
         {
             "adult": false,

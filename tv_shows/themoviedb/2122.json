@@ -31,10 +31,6 @@
         {
             "id": 35,
             "name": "Comedy"
-        },
-        {
-            "id": 10751,
-            "name": "Family"
         }
     ],
     "homepage": "https://www.hulu.com/series/52b8dd8a-eff2-4ed2-9b8d-7c0039df1c53",
@@ -83,8 +79,8 @@
     "original_language": "en",
     "original_name": "King of the Hill",
     "overview": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
-    "popularity": 81.4198,
-    "poster_path": "/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
+    "popularity": 87.2621,
+    "poster_path": "/lvf0q6kX0NCjFp7VxEuC6ArBa42.jpg",
     "production_companies": [
         {
             "id": 1556,
@@ -302,7 +298,7 @@
     "status": "Returning Series",
     "tagline": "Return of the king.",
     "type": "Scripted",
-    "vote_average": 7.421,
+    "vote_average": 7.4,
     "vote_count": 727,
     "youtube_theme_added": 1704917941,
     "youtube_theme_added_by": "42013603",

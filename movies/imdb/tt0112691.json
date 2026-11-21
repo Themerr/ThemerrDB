@@ -1,11 +1,11 @@
 {
     "adult": false,
-    "backdrop_path": "/aD8ZhhrlJ6PXDiyyIvaMltxfbSz.jpg",
+    "backdrop_path": "/3mbuK1tZ981G9I2Niu522s6y7hG.jpg",
     "belongs_to_collection": {
-        "backdrop_path": "/zFjNVIdhOh8KlJESKXfWXeeQSf6.jpg",
+        "backdrop_path": "/1f2cS2m1sJz6Dy5kVRc7rZxxR54.jpg",
         "id": 529,
         "name": "Wallace & Gromit Collection",
-        "poster_path": "/A8cQotoHR9eHZvRmSuuwTAhJUCB.jpg"
+        "poster_path": "/2FYgPh9UhrJMVR7mxtBvA3g9KrI.jpg"
     },
     "budget": 0,
     "genres": [
@@ -80,7 +80,7 @@
     "tagline": "A cracking wacky adventure.",
     "title": "A Close Shave",
     "video": false,
-    "vote_average": 7.606,
+    "vote_average": 7.6,
     "vote_count": 993,
     "youtube_theme_added": 1711227096,
     "youtube_theme_added_by": "95215142",

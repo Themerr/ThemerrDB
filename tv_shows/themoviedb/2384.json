@@ -48,8 +48,8 @@
         "season_number": 4,
         "show_id": 2384,
         "still_path": "/tducmbGFPVks7mDY4keRTuPjVdC.jpg",
-        "vote_average": 6.0,
-        "vote_count": 1
+        "vote_average": 5.0,
+        "vote_count": 2
     },
     "name": "Knight Rider",
     "networks": [
@@ -69,7 +69,7 @@
     "original_language": "en",
     "original_name": "Knight Rider",
     "overview": "Michael Long, an undercover police officer, is shot while investigating a case and left for dead by his assailants. He is rescued by Wilton Knight, a wealthy, dying millionaire and inventor who arranges life-saving surgery, including a new face and a new identity--that of Michael Knight. Michael is then given a special computerized and indestructible car called the Knight Industries Two Thousand (nicknamed KITT), and a mission: apprehend criminals who are beyond the reach of the law. The series depicts Michael's exploits as he and KITT battle the forces of evil on behalf of the Foundation for Law and Government.",
-    "popularity": 39.2073,
+    "popularity": 40.2965,
     "poster_path": "/t57NXzTrwp5rnPXiaX4BThrDxt1.jpg",
     "production_companies": [
         {
@@ -126,7 +126,7 @@
             "overview": "",
             "poster_path": "/8h8w52nOkMXLurqDmmfxtyIDWcA.jpg",
             "season_number": 2,
-            "vote_average": 7.8
+            "vote_average": 7.7
         },
         {
             "air_date": "1984-09-30",
@@ -136,7 +136,7 @@
             "overview": "",
             "poster_path": "/8x8HVV1DQnJF2Lw3fluYFyAX365.jpg",
             "season_number": 3,
-            "vote_average": 7.6
+            "vote_average": 7.4
         },
         {
             "air_date": "1985-09-20",
@@ -146,7 +146,7 @@
             "overview": "",
             "poster_path": "/1Xo8s9mNcgut0sRSm5QyRTm5MmP.jpg",
             "season_number": 4,
-            "vote_average": 6.5
+            "vote_average": 5.9
         }
     ],
     "softcore": false,
@@ -160,8 +160,8 @@
     "status": "Ended",
     "tagline": "Michael Knight is today's hero! Driving the car of tomorrow! Together, they're the ultimate crimecrashers!",
     "type": "Scripted",
-    "vote_average": 7.534,
-    "vote_count": 1492,
+    "vote_average": 7.533,
+    "vote_count": 1493,
     "youtube_theme_added": 1721676331,
     "youtube_theme_added_by": "49635692",
     "youtube_theme_edited": 1721676331,

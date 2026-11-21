@@ -101,16 +101,6 @@
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
-        },
-        {
-            "english_name": "Italian",
-            "iso_639_1": "it",
-            "name": "Italiano"
-        },
-        {
-            "english_name": "Spanish",
-            "iso_639_1": "es",
-            "name": "Espa\u00f1ol"
         }
     ],
     "status": "Released",

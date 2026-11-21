@@ -54,7 +54,7 @@
         "season_number": 5,
         "show_id": 107113,
         "still_path": "/jBKTVhX4N9hO901Z3lpoSdKJ5Rh.jpg",
-        "vote_average": 9.27,
+        "vote_average": 9.3,
         "vote_count": 89
     },
     "name": "Only Murders in the Building",
@@ -81,7 +81,7 @@
         "vote_average": 0.0,
         "vote_count": 0
     },
-    "number_of_episodes": 51,
+    "number_of_episodes": 60,
     "number_of_seasons": 6,
     "origin_country": [
         "US"
@@ -89,8 +89,8 @@
     "original_language": "en",
     "original_name": "Only Murders in the Building",
     "overview": "Three strangers share an obsession with true crime and suddenly find themselves wrapped up in one.",
-    "popularity": 43.072,
-    "poster_path": "/1yjFVQZuW8aofZ5Cgol8iImsVFp.jpg",
+    "popularity": 45.3359,
+    "poster_path": "/tvdmO28R440JQVdThrNPrOl5vBm.jpg",
     "production_companies": [
         {
             "id": 41131,
@@ -175,12 +175,12 @@
             "vote_average": 9.5
         },
         {
-            "air_date": "2026-12-08",
-            "episode_count": 1,
+            "air_date": "2026-12-07",
+            "episode_count": 10,
             "id": 538684,
             "name": "Season 6: Only Murders in London",
             "overview": "After successfully bringing the guilty to justice once again, Charles, Oliver and Mabel embark on their hardest case yet when the next victim - Cinda Canning - arrives at their doorstep, summoning them to London to catch her killer. Our beloved trio of true crime-solving podcasters must now navigate their way through the home of the cozy murder mystery, replete with a whole new collection of suspicious and particularly English-eccentric characters. But can they follow in the footsteps of the woman whose podcast started it all for them ... without having their story end the same as hers?",
-            "poster_path": "/uSZS0RDdnrilmf2OChhu0EMtJH0.jpg",
+            "poster_path": "/tvdmO28R440JQVdThrNPrOl5vBm.jpg",
             "season_number": 6,
             "vote_average": 0.0
         }

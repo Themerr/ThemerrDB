@@ -43,12 +43,6 @@
             "origin_country": "US"
         },
         {
-            "id": 94431,
-            "logo_path": null,
-            "name": "Kylin Pictures",
-            "origin_country": "CN"
-        },
-        {
             "id": 8186,
             "logo_path": "/exdIeoM9Bk2Vn57WbEN6WOSrOjI.png",
             "name": "Bliss Media",
@@ -61,34 +55,10 @@
             "origin_country": "AU"
         },
         {
-            "id": 290,
-            "logo_path": "/jrgCuaQsY9ouP5ILZf4Dq4ZOkIX.png",
-            "name": "Ingenious Media",
-            "origin_country": "GB"
-        },
-        {
-            "id": 44632,
-            "logo_path": "/neCKH4sJCBhZ1B4QocTM4VXCQOR.png",
-            "name": "Gravitas Ventures",
-            "origin_country": "US"
-        },
-        {
-            "id": 31540,
+            "id": 320797,
             "logo_path": null,
-            "name": "Fame Universal Entertainment",
-            "origin_country": "HK"
-        },
-        {
-            "id": 191183,
-            "logo_path": null,
-            "name": "Interface Productions",
-            "origin_country": "HK"
-        },
-        {
-            "id": 1632,
-            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
-            "name": "Lionsgate",
-            "origin_country": "US"
+            "name": "Exosphere Entertainment",
+            "origin_country": ""
         }
     ],
     "production_countries": [
@@ -103,14 +73,6 @@
         {
             "iso_3166_1": "FR",
             "name": "France"
-        },
-        {
-            "iso_3166_1": "HK",
-            "name": "Hong Kong"
-        },
-        {
-            "iso_3166_1": "GB",
-            "name": "United Kingdom"
         },
         {
             "iso_3166_1": "US",

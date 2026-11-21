@@ -45,12 +45,6 @@
             "logo_path": "/d1Uk4F63vo3eWlJo1uxMDDfWQIf.png",
             "name": "Leeloo Productions",
             "origin_country": "FR"
-        },
-        {
-            "id": 104,
-            "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
-            "name": "Canal+",
-            "origin_country": "FR"
         }
     ],
     "production_countries": [
@@ -74,7 +68,7 @@
     "tagline": "",
     "title": "Yamakasi",
     "video": false,
-    "vote_average": 6.0,
+    "vote_average": 6.035,
     "vote_count": 635,
     "youtube_theme_added": 1795063719,
     "youtube_theme_added_by": "91066652",

@@ -50,21 +50,7 @@
             "origin_country": "US"
         }
     ],
-    "next_episode_to_air": {
-        "air_date": "2027-02-11",
-        "episode_number": 1,
-        "episode_type": "standard",
-        "id": 8139917,
-        "name": "Episode 1",
-        "overview": "",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 21,
-        "show_id": 10222,
-        "still_path": null,
-        "vote_average": 0.0,
-        "vote_count": 0
-    },
+    "next_episode_to_air": null,
     "number_of_episodes": 367,
     "number_of_seasons": 21,
     "origin_country": [
@@ -307,7 +293,7 @@
             "vote_average": 8.7
         },
         {
-            "air_date": "2027-02-11",
+            "air_date": null,
             "episode_count": 1,
             "id": 558107,
             "name": "Season 21",

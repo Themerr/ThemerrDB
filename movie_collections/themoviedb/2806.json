@@ -24,8 +24,8 @@
             "softcore": false,
             "title": "American Pie",
             "video": false,
-            "vote_average": 6.7,
-            "vote_count": 8888
+            "vote_average": 6.691,
+            "vote_count": 8889
         },
         {
             "adult": false,
@@ -87,7 +87,7 @@
             "title": "American Reunion",
             "video": false,
             "vote_average": 6.417,
-            "vote_count": 5066
+            "vote_count": 5067
         }
     ],
     "poster_path": "/twY1eM88fu8CCGVtem5ItlrgeDA.jpg",

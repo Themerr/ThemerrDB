@@ -44,7 +44,7 @@
             "name": "United States of America"
         }
     ],
-    "release_date": "2018-10-10",
+    "release_date": "2018-11-21",
     "revenue": 1140769,
     "runtime": 135,
     "softcore": false,
@@ -58,26 +58,6 @@
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
-        },
-        {
-            "english_name": "Japanese",
-            "iso_639_1": "ja",
-            "name": "\u65e5\u672c\u8a9e"
-        },
-        {
-            "english_name": "German",
-            "iso_639_1": "de",
-            "name": "Deutsch"
-        },
-        {
-            "english_name": "French",
-            "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
-        },
-        {
-            "english_name": "Norwegian",
-            "iso_639_1": "no",
-            "name": "Norsk"
         }
     ],
     "status": "Released",
@@ -85,7 +65,7 @@
     "title": "Roma",
     "video": false,
     "vote_average": 7.6,
-    "vote_count": 4242,
+    "vote_count": 4229,
     "youtube_theme_added": 1675709463,
     "youtube_theme_added_by": "15357950",
     "youtube_theme_edited": 1675709463,

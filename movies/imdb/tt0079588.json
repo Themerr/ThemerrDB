@@ -1,6 +1,6 @@
 {
     "adult": false,
-    "backdrop_path": "/9mbXZSLINbwNQateHLGRhtaZzZB.jpg",
+    "backdrop_path": "/5Z9tVIEGi2YxoQoAnJFlcaujUxD.jpg",
     "belongs_to_collection": null,
     "budget": 8000000,
     "genres": [
@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "The Muppet Movie",
     "overview": "The Muppets gather to watch their newly-finished big-budget rich-and-famous feature film: a talent agent persuades Kermit the Frog to leave the swamp to pursue a career in Hollywood. On his way there, he meets a bear, a pig, a whatever (his future Muppet crew), and some special celebrity guest stars, while being chased by the desperate owner of a frog-leg restaurant!",
-    "popularity": 3.489,
+    "popularity": 4.1844,
     "poster_path": "/8LUjnIW5ph6pHoXDE3Zg4iVi6BV.jpg",
     "production_companies": [
         {
@@ -72,7 +72,7 @@
     "tagline": "More entertaining than humanly possible!",
     "title": "The Muppet Movie",
     "video": false,
-    "vote_average": 7.211,
+    "vote_average": 7.2,
     "vote_count": 737,
     "youtube_theme_added": 1791734211,
     "youtube_theme_added_by": "276664493",

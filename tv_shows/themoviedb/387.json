@@ -46,8 +46,8 @@
         "season_number": 17,
         "show_id": 387,
         "still_path": "/kRgA4fjt8HuJQ5kzarPouKnW2qm.jpg",
-        "vote_average": 0.0,
-        "vote_count": 0
+        "vote_average": 10.0,
+        "vote_count": 1
     },
     "name": "SpongeBob SquarePants",
     "networks": [
@@ -288,11 +288,11 @@
             "overview": "",
             "poster_path": "/yUkDosbFAu7JlapQxyDDeXPokv8.jpg",
             "season_number": 17,
-            "vote_average": 7.1
+            "vote_average": 8.2
         },
         {
             "air_date": "2026-11-27",
-            "episode_count": 3,
+            "episode_count": 5,
             "id": 553212,
             "name": "Season 18",
             "overview": "",

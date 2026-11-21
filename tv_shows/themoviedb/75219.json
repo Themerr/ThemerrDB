@@ -49,7 +49,7 @@
     "languages": [
         "en"
     ],
-    "last_air_date": "2026-11-12",
+    "last_air_date": "2026-11-19",
     "last_episode_to_air": {
         "air_date": "2026-11-19",
         "episode_number": 6,
@@ -95,7 +95,7 @@
         "vote_average": 0.0,
         "vote_count": 0
     },
-    "number_of_episodes": 149,
+    "number_of_episodes": 150,
     "number_of_seasons": 10,
     "origin_country": [
         "US"
@@ -202,7 +202,7 @@
             "overview": "",
             "poster_path": "/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg",
             "season_number": 6,
-            "vote_average": 7.8
+            "vote_average": 7.9
         },
         {
             "air_date": "2024-03-14",
@@ -256,8 +256,8 @@
     "status": "Returning Series",
     "tagline": "Welcome to la-va land.",
     "type": "Scripted",
-    "vote_average": 8.216,
-    "vote_count": 2896,
+    "vote_average": 8.217,
+    "vote_count": 2897,
     "youtube_theme_added": 1780952864,
     "youtube_theme_added_by": "28731732",
     "youtube_theme_edited": 1780952864,

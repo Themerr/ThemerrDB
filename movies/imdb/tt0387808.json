@@ -11,14 +11,6 @@
         {
             "id": 878,
             "name": "Science Fiction"
-        },
-        {
-            "id": 12,
-            "name": "Adventure"
-        },
-        {
-            "id": 53,
-            "name": "Thriller"
         }
     ],
     "homepage": "https://ahighlight.com",
@@ -67,8 +59,8 @@
     "tagline": "In the future, intelligence is extinct.",
     "title": "Idiocracy",
     "video": false,
-    "vote_average": 6.385,
-    "vote_count": 3949,
+    "vote_average": 6.4,
+    "vote_count": 3950,
     "youtube_theme_added": 1674266160,
     "youtube_theme_added_by": 15357950,
     "youtube_theme_edited": 1674266160,

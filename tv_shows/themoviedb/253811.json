@@ -61,8 +61,8 @@
         "season_number": 2,
         "show_id": 253811,
         "still_path": "/2wLJYOudHvPjM8ccJ8LBXh7SV5.jpg",
-        "vote_average": 0.0,
-        "vote_count": 0
+        "vote_average": 8.0,
+        "vote_count": 1
     },
     "number_of_episodes": 48,
     "number_of_seasons": 2,
@@ -141,7 +141,7 @@
             "overview": "Sequel of Tougen Anki.",
             "poster_path": "/wkp5nALg2JP8qlseacdmDL8h2BC.jpg",
             "season_number": 2,
-            "vote_average": 7.3
+            "vote_average": 7.4
         }
     ],
     "softcore": false,

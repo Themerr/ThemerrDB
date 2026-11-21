@@ -4,7 +4,7 @@
     "belongs_to_collection": {
         "backdrop_path": "/efCDZQfylfUbMWtypxhfwyc6lHD.jpg",
         "id": 1701563,
-        "name": "The Hunger Games \u2013 New Trilogy Collection",
+        "name": "The Hunger Games Prequel Collection",
         "poster_path": "/hqwezCz1zjXGnoJvTvurBTLAJxr.jpg"
     },
     "budget": 100000000,
@@ -80,8 +80,8 @@
     "tagline": "Everyone hungers for something.",
     "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
     "video": false,
-    "vote_average": 7.0,
-    "vote_count": 3838,
+    "vote_average": 6.949,
+    "vote_count": 3840,
     "youtube_theme_added": 1703893283,
     "youtube_theme_added_by": "22507692",
     "youtube_theme_edited": 1704056222,

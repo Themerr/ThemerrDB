@@ -76,12 +76,12 @@
         "name": "Hivemind",
         "overview": "Everyone comes home. Not everyone comes back. That's what the therapists are gonna tell you, anyway. Tonight, the team faces an inquisition sooner than they ever imagined.",
         "production_code": "",
-        "runtime": null,
+        "runtime": 60,
         "season_number": 4,
         "show_id": 117488,
-        "still_path": "/hjGPE8StRb7U438TV733TFrkfoO.jpg",
-        "vote_average": 0.0,
-        "vote_count": 0
+        "still_path": "/lqDf2sIttRvdqlkPuvxTtEQsfq.jpg",
+        "vote_average": 10.0,
+        "vote_count": 1
     },
     "number_of_episodes": 39,
     "number_of_seasons": 4,
@@ -91,7 +91,7 @@
     "original_language": "en",
     "original_name": "Yellowjackets",
     "overview": "This equal parts survival epic, psychological horror story and coming-of-age drama tells the saga of a team of wildly talented high school girls soccer players who become the (un)lucky survivors of a plane crash deep in the remote northern wilderness. The series chronicles their descent from a complicated but thriving team to savage clans, while also tracking the lives they\u2019ve attempted to piece back together nearly 25 years later.",
-    "popularity": 31.8161,
+    "popularity": 51.8197,
     "poster_path": "/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
     "production_companies": [
         {
@@ -184,7 +184,7 @@
             "overview": "In Yellowjackets Season 4, rescue draws closer to the teens\u2019 wilderness location, but the survivors\u2019 long-awaited salvation threatens to expose their darkest secrets. In the present-day timeline, an old flame has a homecoming of her own, returning to town with a hidden agenda. Happy returns? Not in the Yellowjackets\u2019 world.",
             "poster_path": "/fW8ZDhrle0t6gQ0FSrIMWqVhbMl.jpg",
             "season_number": 4,
-            "vote_average": 0.0
+            "vote_average": 10.0
         }
     ],
     "softcore": false,
@@ -199,7 +199,7 @@
     "tagline": "We hear the wilderness and it hears us.",
     "type": "Scripted",
     "vote_average": 7.4,
-    "vote_count": 1081,
+    "vote_count": 1082,
     "youtube_theme_added": 1790208394,
     "youtube_theme_added_by": "34431195",
     "youtube_theme_edited": 1790208394,

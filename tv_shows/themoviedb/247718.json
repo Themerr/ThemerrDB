@@ -32,19 +32,19 @@
     ],
     "last_air_date": "2026-11-13",
     "last_episode_to_air": {
-        "air_date": "2026-11-13",
-        "episode_number": 9,
-        "episode_type": "standard",
-        "id": 7492647,
-        "name": "Nervous Breakdown",
-        "overview": "Frankie goes full nuclear, kicking a plan into gear. Eddie is tasked with a final chance to prove his worth as Maeve and Conrad chase one last mad score. Harry stares down a standoff.",
+        "air_date": "2026-11-20",
+        "episode_number": 10,
+        "episode_type": "finale",
+        "id": 7492648,
+        "name": "The Queen Is Dead",
+        "overview": "Coordinated raids set the Harrigans' empire on fire. With Conrad's blessing Harry cuts a savage deal. Meanwhile, Maeve turns the voltage up as Frankie takes a massive gamble and Eddie bottles it again.",
         "production_code": "",
         "runtime": 47,
         "season_number": 2,
         "show_id": 247718,
-        "still_path": "/rRMfPMExTyHhQxKPaCydpDyqVHX.jpg",
-        "vote_average": 8.477,
-        "vote_count": 22
+        "still_path": "/h8SkZGUipXUPuCrHTeIn1A1ff0f.jpg",
+        "vote_average": 9.556,
+        "vote_count": 9
     },
     "name": "MobLand",
     "networks": [
@@ -61,23 +61,9 @@
             "origin_country": "GB"
         }
     ],
-    "next_episode_to_air": {
-        "air_date": "2026-11-20",
-        "episode_number": 10,
-        "episode_type": "finale",
-        "id": 7492648,
-        "name": "The Queen Is Dead",
-        "overview": "Coordinated raids set the Harrigans' empire on fire. With Conrad's blessing Harry cuts a savage deal. Meanwhile, Maeve turns the voltage up as Frankie takes a massive gamble and Eddie bottles it again.",
-        "production_code": "",
-        "runtime": 47,
-        "season_number": 2,
-        "show_id": 247718,
-        "still_path": "/h8SkZGUipXUPuCrHTeIn1A1ff0f.jpg",
-        "vote_average": 8.833,
-        "vote_count": 3
-    },
+    "next_episode_to_air": null,
     "number_of_episodes": 20,
-    "number_of_seasons": 2,
+    "number_of_seasons": 3,
     "origin_country": [
         "GB",
         "US"
@@ -85,7 +71,7 @@
     "original_language": "en",
     "original_name": "MobLand",
     "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-    "popularity": 404.7715,
+    "popularity": 465.5593,
     "poster_path": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
     "production_companies": [
         {
@@ -154,7 +140,17 @@
             "overview": "In the second season, the Harrigans struggle to show a unified front as rising rivals threaten their fractured criminal empire \u2013 and Harry Da Souza, their street-smart and formidable 'fixer', must walk a dangerous tightrope when tensions within the family intensify. As violence spills into every corner of their lives, loyalties snap, safety proves temporary, and the battle for power leaves no room for mercy.",
             "poster_path": "/fTlH5NNTXOP96mElp0DaIStRVvK.jpg",
             "season_number": 2,
-            "vote_average": 8.6
+            "vote_average": 8.7
+        },
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 558925,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/4H0gFRVzHMnS8cKOB6dpperXPBp.jpg",
+            "season_number": 3,
+            "vote_average": 0.0
         }
     ],
     "softcore": false,
@@ -173,8 +169,8 @@
     "status": "Returning Series",
     "tagline": "Chaos reigns.",
     "type": "Scripted",
-    "vote_average": 8.672,
-    "vote_count": 1276,
+    "vote_average": 8.674,
+    "vote_count": 1279,
     "youtube_theme_added": 1790376728,
     "youtube_theme_added_by": "108456101",
     "youtube_theme_edited": 1790376728,
