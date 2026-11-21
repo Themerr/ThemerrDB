@@ -50,8 +50,8 @@
         "season_number": 3,
         "show_id": 84773,
         "still_path": "/qPvN1nNgWwPFdv2twj2tMEohEJ6.jpg",
-        "vote_average": 4.692,
-        "vote_count": 13
+        "vote_average": 5.1,
+        "vote_count": 14
     },
     "name": "The Lord of the Rings: The Rings of Power",
     "networks": [
@@ -74,8 +74,8 @@
         "season_number": 3,
         "show_id": 84773,
         "still_path": null,
-        "vote_average": 3.5,
-        "vote_count": 2
+        "vote_average": 5.667,
+        "vote_count": 3
     },
     "number_of_episodes": 24,
     "number_of_seasons": 3,
@@ -136,7 +136,7 @@
             "overview": "Sauron has returned. Cast out by Galadriel, the Dark Lord must now rely on his own cunning to rebuild his strength and forge the legendary Rings of Power, threatening to bind all peoples of Middle-earth to his sinister will. Season Two plunges its most beloved characters into a rising tide of darkness, challenging each to find his or her place in a world on the brink of calamity.",
             "poster_path": "/eTQLv1sjLhDBPwI2u0qaqV51HWU.jpg",
             "season_number": 2,
-            "vote_average": 6.1
+            "vote_average": 6.0
         },
         {
             "air_date": "2026-11-11",
@@ -146,7 +146,7 @@
             "overview": "Jumping forward several years from the events of Season Two, Season Three takes place at the height of the War of the Elves and Sauron, as the Dark Lord seeks to craft the One Ring that will give him the edge he needs to win the war, bind all peoples to his will - and at last rule all Middle-earth.",
             "poster_path": "/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
             "season_number": 3,
-            "vote_average": 5.1
+            "vote_average": 5.8
         }
     ],
     "softcore": false,
@@ -160,7 +160,7 @@
     "status": "Returning Series",
     "tagline": "Evil has had many names.",
     "type": "Scripted",
-    "vote_average": 7.222,
+    "vote_average": 7.2,
     "vote_count": 4120,
     "youtube_theme_added": 1717384793,
     "youtube_theme_added_by": "120731892",

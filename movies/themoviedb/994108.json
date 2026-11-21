@@ -42,12 +42,6 @@
             "origin_country": "GB"
         },
         {
-            "id": 127929,
-            "logo_path": "/7DLKyL15ETI9645XSr9JcbMV79c.png",
-            "name": "Searchlight Pictures",
-            "origin_country": "US"
-        },
-        {
             "id": 22213,
             "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
             "name": "TSG Entertainment",
@@ -79,7 +73,7 @@
     "tagline": "All of us hurt. All of us hope. All of us love.",
     "title": "All of Us Strangers",
     "video": false,
-    "vote_average": 7.387,
+    "vote_average": 7.4,
     "vote_count": 1133,
     "youtube_theme_added": 1722015979,
     "youtube_theme_added_by": "121977106",

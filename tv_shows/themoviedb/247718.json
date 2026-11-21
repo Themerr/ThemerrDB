@@ -30,7 +30,7 @@
         "af",
         "en"
     ],
-    "last_air_date": "2026-11-13",
+    "last_air_date": "2026-11-20",
     "last_episode_to_air": {
         "air_date": "2026-11-20",
         "episode_number": 10,
@@ -43,7 +43,7 @@
         "season_number": 2,
         "show_id": 247718,
         "still_path": "/h8SkZGUipXUPuCrHTeIn1A1ff0f.jpg",
-        "vote_average": 9.5,
+        "vote_average": 9.633,
         "vote_count": 15
     },
     "name": "MobLand",
@@ -169,8 +169,8 @@
     "status": "Returning Series",
     "tagline": "Chaos reigns.",
     "type": "Scripted",
-    "vote_average": 8.675,
-    "vote_count": 1281,
+    "vote_average": 8.676,
+    "vote_count": 1284,
     "youtube_theme_added": 1790376728,
     "youtube_theme_added_by": "108456101",
     "youtube_theme_edited": 1790376728,
