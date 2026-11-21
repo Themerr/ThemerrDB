@@ -25,8 +25,8 @@
             "softcore": false,
             "title": "Star Wars",
             "video": false,
-            "vote_average": 8.2,
-            "vote_count": 23199
+            "vote_average": 8.207,
+            "vote_count": 23203
         },
         {
             "adult": false,
@@ -47,8 +47,8 @@
             "softcore": false,
             "title": "The Empire Strikes Back",
             "video": false,
-            "vote_average": 8.393,
-            "vote_count": 19152
+            "vote_average": 8.392,
+            "vote_count": 19154
         },
         {
             "adult": false,
@@ -70,7 +70,7 @@
             "title": "Return of the Jedi",
             "video": false,
             "vote_average": 7.912,
-            "vote_count": 17580
+            "vote_count": 17582
         },
         {
             "adult": false,
@@ -91,8 +91,8 @@
             "softcore": false,
             "title": "Star Wars: Episode I - The Phantom Menace",
             "video": false,
-            "vote_average": 6.583,
-            "vote_count": 16453
+            "vote_average": 6.582,
+            "vote_count": 16456
         },
         {
             "adult": false,
@@ -114,7 +114,7 @@
             "title": "Star Wars: Episode II - Attack of the Clones",
             "video": false,
             "vote_average": 6.597,
-            "vote_count": 14916
+            "vote_count": 14919
         },
         {
             "adult": false,
@@ -136,7 +136,7 @@
             "title": "Star Wars: Episode III - Revenge of the Sith",
             "video": false,
             "vote_average": 7.479,
-            "vote_count": 15533
+            "vote_count": 15536
         },
         {
             "adult": false,
@@ -158,7 +158,7 @@
             "title": "Star Wars: The Force Awakens",
             "video": false,
             "vote_average": 7.237,
-            "vote_count": 21156
+            "vote_count": 21158
         },
         {
             "adult": false,
@@ -180,7 +180,7 @@
             "title": "Star Wars: The Rise of Skywalker",
             "video": false,
             "vote_average": 6.236,
-            "vote_count": 11346
+            "vote_count": 11348
         },
         {
             "adult": false,
@@ -202,7 +202,7 @@
             "title": "Star Wars: The Last Jedi",
             "video": false,
             "vote_average": 6.727,
-            "vote_count": 16896
+            "vote_count": 16899
         }
     ],
     "poster_path": "/pWVLFh4OuejTpUaDQbB1C4zoS2p.jpg",

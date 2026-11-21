@@ -26,7 +26,7 @@
             "title": "Spider-Man: Homecoming",
             "video": false,
             "vote_average": 7.3,
-            "vote_count": 24274
+            "vote_count": 24276
         },
         {
             "adult": false,
@@ -47,8 +47,8 @@
             "softcore": false,
             "title": "Spider-Man: Far From Home",
             "video": false,
-            "vote_average": 7.4,
-            "vote_count": 17931
+            "vote_average": 7.384,
+            "vote_count": 17933
         },
         {
             "adult": false,
@@ -69,8 +69,8 @@
             "softcore": false,
             "title": "Spider-Man: No Way Home",
             "video": false,
-            "vote_average": 7.9,
-            "vote_count": 23597
+            "vote_average": 7.945,
+            "vote_count": 23598
         },
         {
             "adult": false,
@@ -91,8 +91,8 @@
             "softcore": false,
             "title": "Spider-Man: Brand New Day",
             "video": false,
-            "vote_average": 8.458,
-            "vote_count": 7006
+            "vote_average": 8.457,
+            "vote_count": 7012
         }
     ],
     "poster_path": "/nogV4th2P5QWYvQIMiWHj4CFLU9.jpg",

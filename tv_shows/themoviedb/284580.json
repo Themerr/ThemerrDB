@@ -30,30 +30,6 @@
     ],
     "last_air_date": "2026-11-13",
     "last_episode_to_air": {
-        "air_date": "2026-11-13",
-        "episode_number": 6,
-        "episode_type": "standard",
-        "id": 7928508,
-        "name": "Colosseum",
-        "overview": "ITEM tracks down their quarry to an empty library where a fighting tournament is held.",
-        "production_code": "",
-        "runtime": 24,
-        "season_number": 1,
-        "show_id": 284580,
-        "still_path": "/u3Ea03yieZvhQSCQ7HeC9QKbjDJ.jpg",
-        "vote_average": 10.0,
-        "vote_count": 1
-    },
-    "name": "A Certain Dark Item",
-    "networks": [
-        {
-            "id": 173,
-            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
-            "name": "AT-X",
-            "origin_country": "JP"
-        }
-    ],
-    "next_episode_to_air": {
         "air_date": "2026-11-20",
         "episode_number": 7,
         "episode_type": "standard",
@@ -68,6 +44,30 @@
         "vote_average": 0.0,
         "vote_count": 0
     },
+    "name": "A Certain Dark Item",
+    "networks": [
+        {
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "name": "AT-X",
+            "origin_country": "JP"
+        }
+    ],
+    "next_episode_to_air": {
+        "air_date": "2026-11-27",
+        "episode_number": 8,
+        "episode_type": "standard",
+        "id": 7928512,
+        "name": "Plan",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 284580,
+        "still_path": null,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
     "number_of_episodes": 11,
     "number_of_seasons": 1,
     "origin_country": [
@@ -76,7 +76,7 @@
     "original_language": "ja",
     "original_name": "\u3068\u3042\u308b\u6697\u90e8\u306e\u5c11\u5973\u5171\u68f2",
     "overview": "In Academy City, psychic powers promise a brighter future. But beneath the city's peaceful surface lurks a merciless dark side. ITEM, an elite team of four girls with deadly abilities, carries out dangerous missions that can never see the light of day. When a fifth girl enters their lives, ITEM is drawn deeper into a world of violence, brutality, and moral corruption.",
-    "popularity": 8.7563,
+    "popularity": 9.3266,
     "poster_path": "/tAGKNFINnkQM73WbLFdQ7CvRdNN.jpg",
     "production_companies": [
         {

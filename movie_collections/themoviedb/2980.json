@@ -24,8 +24,8 @@
             "softcore": false,
             "title": "Ghostbusters",
             "video": false,
-            "vote_average": 7.496,
-            "vote_count": 10171
+            "vote_average": 7.495,
+            "vote_count": 10175
         },
         {
             "adult": false,
@@ -45,8 +45,8 @@
             "softcore": false,
             "title": "Ghostbusters II",
             "video": false,
-            "vote_average": 6.604,
-            "vote_count": 5101
+            "vote_average": 6.605,
+            "vote_count": 5103
         },
         {
             "adult": false,
@@ -68,7 +68,7 @@
             "title": "Ghostbusters: Afterlife",
             "video": false,
             "vote_average": 7.289,
-            "vote_count": 5449
+            "vote_count": 5452
         },
         {
             "adult": false,
@@ -89,8 +89,8 @@
             "softcore": false,
             "title": "Ghostbusters: Frozen Empire",
             "video": false,
-            "vote_average": 6.406,
-            "vote_count": 2386
+            "vote_average": 6.407,
+            "vote_count": 2388
         }
     ],
     "poster_path": "/sctvCtE1M1rDF4f0W2fMrk2BrGB.jpg",

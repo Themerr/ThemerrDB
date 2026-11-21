@@ -26,7 +26,7 @@
             "title": "The Avengers",
             "video": false,
             "vote_average": 8.086,
-            "vote_count": 40427
+            "vote_count": 40433
         },
         {
             "adult": false,
@@ -47,8 +47,8 @@
             "softcore": false,
             "title": "Avengers: Age of Ultron",
             "video": false,
-            "vote_average": 7.3,
-            "vote_count": 25384
+            "vote_average": 7.278,
+            "vote_count": 25387
         },
         {
             "adult": false,
@@ -70,7 +70,7 @@
             "title": "Avengers: Infinity War",
             "video": false,
             "vote_average": 8.247,
-            "vote_count": 33446
+            "vote_count": 33450
         },
         {
             "adult": false,
@@ -92,7 +92,7 @@
             "title": "Avengers: Endgame",
             "video": false,
             "vote_average": 8.247,
-            "vote_count": 29454
+            "vote_count": 29460
         },
         {
             "adult": false,

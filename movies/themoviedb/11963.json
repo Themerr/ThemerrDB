@@ -42,10 +42,6 @@
         {
             "iso_3166_1": "US",
             "name": "United States of America"
-        },
-        {
-            "iso_3166_1": "IT",
-            "name": "Italy"
         }
     ],
     "release_date": "1975-09-24",
@@ -68,7 +64,7 @@
     "tagline": "His CIA code name is Condor. In the next seventy-two hours almost everyone he trusts will try to kill him.",
     "title": "Three Days of the Condor",
     "video": false,
-    "vote_average": 7.255,
+    "vote_average": 7.3,
     "vote_count": 1453,
     "youtube_theme_added": 1791640161,
     "youtube_theme_added_by": "34431195",
