@@ -112,6 +112,7 @@ PNG_CONTENT_TYPE = 'image/png'
 DATABASE_ITEM_ID_PATTERN = re.compile(r'\d+')
 IMDB_ID_PATTERN = re.compile(r'tt\d+')
 APPROVE_THEME_LABEL = 'approve-theme'
+MIN_THEME_DURATION_SECONDS = 15
 ANIME_GENRE_ID = 16
 ANIME_LANGUAGE_CODES = {'ja', 'zh'}
 ANIME_COUNTRY_CODES = {'CN', 'JP'}
@@ -1616,7 +1617,9 @@ def is_public_or_unlisted(status: dict) -> bool:
     return privacy in ('public', 'unlisted')
 
 
-def is_valid_duration(content_details: dict, min_seconds: int = 20, max_seconds: int = 600) -> tuple[bool, int]:
+def is_valid_duration(
+        content_details: dict, min_seconds: int = MIN_THEME_DURATION_SECONDS, max_seconds: int = 600,
+) -> tuple[bool, int]:
     """Check if video duration is within acceptable range.
 
     Returns:
@@ -1628,14 +1631,16 @@ def is_valid_duration(content_details: dict, min_seconds: int = 20, max_seconds:
     return is_valid, total_seconds
 
 
-def validate_youtube_requirements(item: dict, min_seconds: int = 20, max_seconds: int = 600) -> list[str]:
+def validate_youtube_requirements(
+        item: dict, min_seconds: int = MIN_THEME_DURATION_SECONDS, max_seconds: int = 600,
+) -> list[str]:
     """Validate YouTube video against ThemerrDB requirements.
 
     Returns a list of error messages. Empty list means all validations passed.
     Requirements:
       1) no age restriction
       2) available in the USA
-      3) length between 0:20 and 10:00 (inclusive)
+      3) length between 0:15 and 10:00 (inclusive) by default
       4) video is public or unlisted
     """
     errors = []
