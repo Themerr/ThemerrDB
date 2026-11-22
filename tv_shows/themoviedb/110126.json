@@ -1,0 +1,146 @@
+{
+    "adult": false,
+    "backdrop_path": "/khrlmwalDuftxzywQOAyotJfPs5.jpg",
+    "created_by": [
+        {
+            "credit_id": "63bb1990ae6f093cb9de3ebd",
+            "gender": 1,
+            "id": 12949,
+            "name": "Priscilla Presley",
+            "original_name": "Priscilla Presley",
+            "profile_path": "/AkHLzziAPK1NVI5lfELYt6u0kRP.jpg"
+        },
+        {
+            "credit_id": "63bb1b07fc31d300a8de2373",
+            "gender": 0,
+            "id": 3863531,
+            "name": "John Eddie",
+            "original_name": "John Eddie",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2023-03-17",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/80240585",
+    "id": 110126,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-03-17",
+    "last_episode_to_air": {
+        "air_date": "2023-03-17",
+        "episode_number": 10,
+        "episode_type": "finale",
+        "id": 4300259,
+        "name": "Godspeed, Drunk Monkey",
+        "overview": "Elvis tries to stop the mind-control weapon from ruining his \"Aloha from Hawaii Via Satellite\" concert. To help, a stoned Scatter launches into space.",
+        "production_code": "",
+        "runtime": 26,
+        "season_number": 1,
+        "show_id": 110126,
+        "still_path": "/p28CeJLZs4wDBEiTbpkzz3Qugya.jpg",
+        "vote_average": 7.2,
+        "vote_count": 5
+    },
+    "name": "Agent Elvis",
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Agent Elvis",
+    "overview": "Elvis Presley trades in his white jumpsuit for a jet pack when he is covertly inducted into a secret government spy program to help battle the dark forces that threaten the country he loves \u2014 all while holding down his day job as the King of Rock & Roll.",
+    "popularity": 5.859,
+    "poster_path": "/9iFMG4zyAkLnvfEwNqIiiEEQ342.jpg",
+    "production_companies": [
+        {
+            "id": 190091,
+            "logo_path": "/aaVqW1eR6JEErcZDPb4B9cpK2C.png",
+            "name": "Authentic Brands Group",
+            "origin_country": "US"
+        },
+        {
+            "id": 2251,
+            "logo_path": "/5ilV5mH3gxTEU7p5wjxptHvXkyr.png",
+            "name": "Sony Pictures Animation",
+            "origin_country": "US"
+        },
+        {
+            "id": 4152,
+            "logo_path": "/v4eshD4MhQ1gBOBptaYTIuUzzaG.png",
+            "name": "Titmouse",
+            "origin_country": "US"
+        },
+        {
+            "id": 178926,
+            "logo_path": "/stskfPqRyiH7tssi4u2HrAsCfvN.png",
+            "name": "Combo Studio",
+            "origin_country": "BR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        },
+        {
+            "iso_3166_1": "BR",
+            "name": "Brazil"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-03-17",
+            "episode_count": 10,
+            "id": 163157,
+            "name": "Season 1",
+            "overview": "In this adult animated comedy, Elvis trades his jumpsuit for a jetpack when he joins a secret spy program to stop villains from destroying the world.",
+            "poster_path": "/9iFMG4zyAkLnvfEwNqIiiEEQ342.jpg",
+            "season_number": 1,
+            "vote_average": 7.0
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Canceled",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.901,
+    "vote_count": 71,
+    "youtube_theme_added": 1795312046,
+    "youtube_theme_added_by": "104001302",
+    "youtube_theme_edited": 1795312046,
+    "youtube_theme_edited_by": "104001302",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=QIkZBJKNc_c"
+}
