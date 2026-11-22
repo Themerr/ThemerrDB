@@ -33,7 +33,7 @@
     "languages": [
         "en"
     ],
-    "last_air_date": "2026-11-13",
+    "last_air_date": "2026-11-20",
     "last_episode_to_air": {
         "air_date": "2026-11-20",
         "episode_number": 26,
@@ -70,18 +70,18 @@
         "season_number": 18,
         "show_id": 387,
         "still_path": "/pFqSNX3clRC0Aqk5A9KYzKBsxPh.jpg",
-        "vote_average": 0.0,
-        "vote_count": 0
+        "vote_average": 10.0,
+        "vote_count": 1
     },
-    "number_of_episodes": 659,
-    "number_of_seasons": 18,
+    "number_of_episodes": 661,
+    "number_of_seasons": 19,
     "origin_country": [
         "US"
     ],
     "original_language": "en",
     "original_name": "SpongeBob SquarePants",
     "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
-    "popularity": 286.1019,
+    "popularity": 265.286,
     "poster_path": "/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
     "production_companies": [
         {
@@ -271,11 +271,11 @@
             "vote_average": 9.2
         },
         {
-            "air_date": "2025-06-27",
+            "air_date": "2025-06-26",
             "episode_count": 22,
             "id": 456921,
             "name": "Season 16",
-            "overview": "",
+            "overview": "Season 16 takes SpongeBob and friends on bizarre and magical adventures! From a town of doppelgangers and a \"WereDoodle\" curse to time travel chaos and haunted Halloween hijinks, Bikini Bottom is wilder than ever. Squidward faces memory loss and garbage jungles, while Sandy battles to save her tree. Plankton schemes as a figurine and party crasher, Pearl joins the football team, and SpongeBob unleashes magical mayhem. Packed with karate crazes, spooky spirits, and nonstop laughs!",
             "poster_path": "/bu5VX73WlM4ipGNGD5x7JJZzkB3.jpg",
             "season_number": 16,
             "vote_average": 9.2
@@ -296,8 +296,18 @@
             "id": 553212,
             "name": "Season 18",
             "overview": "",
-            "poster_path": null,
+            "poster_path": "/9PfrGVDSMt3xURdmbjw8GJStrqA.jpg",
             "season_number": 18,
+            "vote_average": 10.0
+        },
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 559447,
+            "name": "Season 19",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 19,
             "vote_average": 0.0
         }
     ],
@@ -312,8 +322,8 @@
     "status": "Returning Series",
     "tagline": "Be there and be square!",
     "type": "Scripted",
-    "vote_average": 7.722,
-    "vote_count": 3314,
+    "vote_average": 7.721,
+    "vote_count": 3317,
     "youtube_theme_added": 1715446345,
     "youtube_theme_added_by": "100185670",
     "youtube_theme_edited": 1715446345,

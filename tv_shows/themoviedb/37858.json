@@ -60,7 +60,7 @@
     "original_language": "ja",
     "original_name": "Fate/stay night",
     "overview": "Shirou Emiya lost his parents in a fire when he was young and was later adopted by the sorcerer Kiritsugu Emiya. Shirou is drawn into the Holy Grail War summons a female \"Servant\" known as Saber to protect him and obtain the Holy Grail.",
-    "popularity": 14.6224,
+    "popularity": 14.2124,
     "poster_path": "/x7nYPOveHhINREhTtwBHot9ersB.jpg",
     "production_companies": [
         {
@@ -73,6 +73,36 @@
             "id": 60494,
             "logo_path": null,
             "name": "Notes",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3362,
+            "logo_path": "/mGMVj7tbY41dNXK00X58CQpxbPs.png",
+            "name": "Geneon Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1393,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "name": "TBS",
+            "origin_country": "JP"
+        },
+        {
+            "id": 53787,
+            "logo_path": "/wZ0g1QrGz19fXA2fRzGfqGeMvrC.png",
+            "name": "TYPE-MOON",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5809,
+            "logo_path": "/bViN2LqqtONjOTkYmPtnMNaVOtD.png",
+            "name": "Frontier Works",
+            "origin_country": "JP"
+        },
+        {
+            "id": 113073,
+            "logo_path": null,
+            "name": "CREi",
             "origin_country": "JP"
         }
     ],
@@ -115,7 +145,7 @@
     "status": "Ended",
     "tagline": "The Holy Grail War Begins!",
     "type": "Scripted",
-    "vote_average": 7.239,
+    "vote_average": 7.2,
     "vote_count": 264,
     "youtube_theme_added": 1779969260,
     "youtube_theme_added_by": "30657709",

@@ -30,9 +30,9 @@
     "languages": [
         "ja"
     ],
-    "last_air_date": "2020-08-27",
+    "last_air_date": "2020-08-29",
     "last_episode_to_air": {
-        "air_date": "2020-08-27",
+        "air_date": "2020-08-29",
         "episode_number": 26,
         "episode_type": "finale",
         "id": 2396927,
@@ -49,9 +49,9 @@
     "name": "Gundam Build Divers",
     "networks": [
         {
-            "id": 824,
-            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
-            "name": "TV Osaka",
+            "id": 98,
+            "logo_path": "/jnuO8pZNEBLEq5YaOP1f5OkmG91.png",
+            "name": "TV Tokyo",
             "origin_country": "JP"
         },
         {
@@ -61,16 +61,34 @@
             "origin_country": "JP"
         },
         {
-            "id": 98,
-            "logo_path": "/jnuO8pZNEBLEq5YaOP1f5OkmG91.png",
-            "name": "TV Tokyo",
+            "id": 822,
+            "logo_path": "/gOlBe3BMo5WJHeUlWBBfKawgdiO.png",
+            "name": "TVQ",
             "origin_country": "JP"
         },
         {
-            "id": 247,
-            "logo_path": "/i9YpTodhXMOAYo0TZrP0UrHeunc.png",
-            "name": "YouTube",
-            "origin_country": ""
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "name": "TV Osaka",
+            "origin_country": "JP"
+        },
+        {
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "name": "BS11",
+            "origin_country": "JP"
+        },
+        {
+            "id": 938,
+            "logo_path": "/f12LLqBVFnDVIY8HidhWEitI77c.png",
+            "name": "TVh",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2064,
+            "logo_path": "/qi4L1ffRabF5LJqVimCaaUYpeSj.png",
+            "name": "TSC",
+            "origin_country": "JP"
         }
     ],
     "next_episode_to_air": null,
@@ -82,7 +100,7 @@
     "original_language": "ja",
     "original_name": "\u30ac\u30f3\u30c0\u30e0\u30d3\u30eb\u30c9\u30c0\u30a4\u30d0\u30fc\u30ba",
     "overview": "Gunpla Battle Nexus Online (GBN) is a network game that lets people have adventures with their Gunpla in a virtual cyberspace dimension. Middle-school students Riku Mikami and Yukio Hidaka recruit their classmate Momoka Yashiro and dive together into this vast world. Becoming \"Divers,\" or inhabitants of GBN, they meet a mysterious girl named Sarah who has an amazing sensitivity to Gunpla. As they meet new friends and allies, the force known as Build Divers is born!",
-    "popularity": 9.9388,
+    "popularity": 10.6617,
     "poster_path": "/xncxq5xi391TNVdo9wMRWruY0C.jpg",
     "production_companies": [
         {
@@ -119,7 +137,7 @@
     "seasons": [
         {
             "air_date": "2018-02-02",
-            "episode_count": 2,
+            "episode_count": 4,
             "id": 103572,
             "name": "Specials",
             "overview": "",
@@ -138,7 +156,7 @@
             "vote_average": 0.0
         },
         {
-            "air_date": "2019-10-10",
+            "air_date": "2019-10-12",
             "episode_count": 26,
             "id": 133881,
             "name": "Gundam Build Divers Re:RISE",
@@ -159,7 +177,7 @@
     "status": "Ended",
     "tagline": "",
     "type": "Scripted",
-    "vote_average": 7.289,
+    "vote_average": 7.3,
     "vote_count": 19,
     "youtube_theme_added": 1722022646,
     "youtube_theme_added_by": "78506706",

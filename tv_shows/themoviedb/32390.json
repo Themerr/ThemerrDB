@@ -41,7 +41,21 @@
             "origin_country": "US"
         }
     ],
-    "next_episode_to_air": null,
+    "next_episode_to_air": {
+        "air_date": "2027-02-04",
+        "episode_number": 1,
+        "episode_type": "standard",
+        "id": 8139915,
+        "name": "Episode 1",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 16,
+        "show_id": 32390,
+        "still_path": null,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
     "number_of_episodes": 329,
     "number_of_seasons": 16,
     "origin_country": [
@@ -50,7 +64,7 @@
     "original_language": "en",
     "original_name": "The Real Housewives of Beverly Hills",
     "overview": "A reality series that follows some of the most affluent women in the country as they enjoy the lavish lifestyle that only Beverly Hills can provide.",
-    "popularity": 42.2833,
+    "popularity": 41.2438,
     "poster_path": "/8ktaCSlCgGDMFzgdYc1LYF6CiWq.jpg",
     "production_companies": [
         {
@@ -234,7 +248,7 @@
             "vote_average": 9.9
         },
         {
-            "air_date": null,
+            "air_date": "2027-02-04",
             "episode_count": 1,
             "id": 555472,
             "name": "Season 16",

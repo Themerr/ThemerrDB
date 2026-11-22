@@ -59,7 +59,7 @@
     "original_language": "en",
     "original_name": "Virgin River",
     "overview": "After seeing an ad for a midwife, a recently divorced big-city nurse moves to the redwood forests of California, where she meets an intriguing man.",
-    "popularity": 21.3365,
+    "popularity": 21.1655,
     "poster_path": "/oHEqfmSWR4Ex4V4AJyUn8HGHHnt.jpg",
     "production_companies": [
         {
@@ -77,7 +77,7 @@
     ],
     "seasons": [
         {
-            "air_date": "2019-12-05",
+            "air_date": "2019-12-06",
             "episode_count": 10,
             "id": 122045,
             "name": "Season 1",
@@ -87,7 +87,7 @@
             "vote_average": 7.6
         },
         {
-            "air_date": "2020-11-26",
+            "air_date": "2020-11-27",
             "episode_count": 10,
             "id": 167130,
             "name": "Season 2",
@@ -158,7 +158,7 @@
     "status": "Returning Series",
     "tagline": "Save the date.",
     "type": "Scripted",
-    "vote_average": 7.955,
+    "vote_average": 8.0,
     "vote_count": 623,
     "youtube_theme_added": 1790012482,
     "youtube_theme_added_by": "146159240",

@@ -35,7 +35,7 @@
     "original_language": "en",
     "original_title": "Predator",
     "overview": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
-    "popularity": 14.6384,
+    "popularity": 15.2235,
     "poster_path": "/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg",
     "production_companies": [
         {
@@ -73,12 +73,6 @@
             "logo_path": null,
             "name": "American Entertainment Partners L.P.",
             "origin_country": "US"
-        },
-        {
-            "id": 5153,
-            "logo_path": "/d4BySWBlcGBBY58FG78DWMi9nrs.png",
-            "name": "Estudios Churubusco Azteca",
-            "origin_country": "MX"
         }
     ],
     "production_countries": [
@@ -107,8 +101,8 @@
     "tagline": "Soon the hunt will begin.",
     "title": "Predator",
     "video": false,
-    "vote_average": 7.587,
-    "vote_count": 9700,
+    "vote_average": 7.6,
+    "vote_count": 9702,
     "youtube_theme_added": 1675717709,
     "youtube_theme_added_by": "15357950",
     "youtube_theme_edited": 1675717709,

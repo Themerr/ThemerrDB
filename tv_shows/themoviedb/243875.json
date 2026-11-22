@@ -41,7 +41,7 @@
     "languages": [
         "en"
     ],
-    "last_air_date": "2026-11-05",
+    "last_air_date": "2026-11-19",
     "last_episode_to_air": {
         "air_date": "2026-11-19",
         "episode_number": 7,
@@ -66,8 +66,22 @@
             "origin_country": "US"
         }
     ],
-    "next_episode_to_air": null,
-    "number_of_episodes": 50,
+    "next_episode_to_air": {
+        "air_date": "2026-12-03",
+        "episode_number": 8,
+        "episode_type": "standard",
+        "id": 8157474,
+        "name": "A New Organist and an Apartment with a Pool",
+        "overview": "Georgie and Mandy clash when a business opportunity threatens their plans to move out, while Connor takes a job as the organist at the Baptist church.",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 3,
+        "show_id": 243875,
+        "still_path": null,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "number_of_episodes": 52,
     "number_of_seasons": 3,
     "origin_country": [
         "US"
@@ -75,7 +89,7 @@
     "original_language": "en",
     "original_name": "Georgie & Mandy's First Marriage",
     "overview": "Georgie and Mandy raise their young family in Texas while navigating the challenges of adulthood, parenting, and marriage.",
-    "popularity": 44.6013,
+    "popularity": 42.9944,
     "poster_path": "/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
     "production_companies": [
         {
@@ -120,7 +134,7 @@
         },
         {
             "air_date": "2026-10-08",
-            "episode_count": 7,
+            "episode_count": 8,
             "id": 532135,
             "name": "Season 3",
             "overview": "",
@@ -140,7 +154,7 @@
     "status": "Returning Series",
     "tagline": "The first time's always the hardest.",
     "type": "Scripted",
-    "vote_average": 8.002,
+    "vote_average": 8.0,
     "vote_count": 289,
     "youtube_theme_added": 1780449119,
     "youtube_theme_added_by": "88799372",

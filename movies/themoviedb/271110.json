@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Captain America: Civil War",
     "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
-    "popularity": 22.4089,
+    "popularity": 23.1228,
     "poster_path": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
     "production_companies": [
         {
@@ -39,12 +39,28 @@
             "logo_path": "/mIkZDuulwMPzESbzF9lg3rD8CcO.png",
             "name": "Marvel Studios",
             "origin_country": "US"
+        },
+        {
+            "id": 84424,
+            "logo_path": null,
+            "name": "Vita-Ray Dutch Productions III",
+            "origin_country": "US"
+        },
+        {
+            "id": 264,
+            "logo_path": "/fA90qwUKgPhMONqtwY60GaHRyrW.png",
+            "name": "Studio Babelsberg",
+            "origin_country": "DE"
         }
     ],
     "production_countries": [
         {
             "iso_3166_1": "US",
             "name": "United States of America"
+        },
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
         }
     ],
     "release_date": "2016-04-27",
@@ -77,8 +93,8 @@
     "tagline": "United we stand. Divided we fall.",
     "title": "Captain America: Civil War",
     "video": false,
-    "vote_average": 7.455,
-    "vote_count": 24891,
+    "vote_average": 7.456,
+    "vote_count": 24901,
     "youtube_theme_added": 1674856529,
     "youtube_theme_added_by": "19782651",
     "youtube_theme_edited": 1674856529,

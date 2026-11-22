@@ -2,7 +2,7 @@
     "adult": false,
     "backdrop_path": "/dd31qJxOarrHyGZwYsCzOjobQzP.jpg",
     "belongs_to_collection": null,
-    "budget": 0,
+    "budget": 100000000,
     "genres": [
         {
             "id": 28,
@@ -21,8 +21,8 @@
     ],
     "original_language": "en",
     "original_title": "Tom Clancy's Jack Ryan: Ghost War",
-    "overview": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November & James Greer and sharp MI6 officer Emma Marlowe to battle a rogue black-ops unit in a high-stakes, deeply personal fight.",
-    "popularity": 12.5153,
+    "overview": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November and James Greer, as well as sharp MI6 officer Emma Marlowe, to battle a rogue black-ops unit in a high-stakes, deeply personal fight.",
+    "popularity": 14.0817,
     "poster_path": "/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
     "production_companies": [
         {
@@ -65,7 +65,7 @@
     "tagline": "No operation stays dark forever.",
     "title": "Tom Clancy's Jack Ryan: Ghost War",
     "video": false,
-    "vote_average": 6.893,
+    "vote_average": 6.9,
     "vote_count": 853,
     "youtube_theme_added": 1790704284,
     "youtube_theme_added_by": "93882479",
