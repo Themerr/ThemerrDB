@@ -1,0 +1,34 @@
+{
+    "cover": {
+        "id": 498347,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaoiz.jpg"
+    },
+    "id": 141114,
+    "name": "007 First Light",
+    "release_dates": [
+        {
+            "id": 850109,
+            "y": 2026
+        },
+        {
+            "id": 850110,
+            "y": 2026
+        },
+        {
+            "id": 850111,
+            "y": 2026
+        },
+        {
+            "id": 978156,
+            "y": 2027
+        }
+    ],
+    "slug": "007-first-light",
+    "summary": "007 First Light is a thrilling espionage action-adventure game from IO Interactive. Players follow James Bond as a young, resourceful, and sometimes reckless recruit in MI6's training program and discover an origin story of the world's most famous spy.",
+    "url": "https://www.igdb.com/games/007-first-light",
+    "youtube_theme_added": 1795459695,
+    "youtube_theme_added_by": "42013603",
+    "youtube_theme_edited": 1795459695,
+    "youtube_theme_edited_by": "42013603",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=yFPy8rDmPLM"
+}
