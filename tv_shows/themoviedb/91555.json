@@ -1,0 +1,215 @@
+{
+    "adult": false,
+    "backdrop_path": "/veIrzS2AkYm0UaYYcVw9ziWkJoB.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        86
+    ],
+    "first_air_date": "2019-10-02",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.tbs.com/allelitewrestling",
+    "id": 91555,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2026-11-18",
+    "last_episode_to_air": {
+        "air_date": "2026-11-18",
+        "episode_number": 46,
+        "episode_type": "standard",
+        "id": 7833083,
+        "name": "November 18, 2026",
+        "overview": "Witness the fallout from Full Gear, live from the Mission Ballroom in Denver, Colorado. After making his presence known at the pay-per-view, MJF has something to say. Samoa Joe responds to Jungle Jack Perry's challenges. The Continental Classic kicks off!",
+        "production_code": "",
+        "runtime": 99,
+        "season_number": 8,
+        "show_id": 91555,
+        "still_path": "/mokSFs5zEigQvyHWoXRXhGs2sIe.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "name": "All Elite Wrestling: Dynamite",
+    "networks": [
+        {
+            "id": 41,
+            "logo_path": "/6ISsKwa2XUhSC6oBtHZjYf6xFqv.png",
+            "name": "TNT",
+            "origin_country": "US"
+        },
+        {
+            "id": 68,
+            "logo_path": "/65r0kR6MfOBYF0gEQsJGM6v5fEG.png",
+            "name": "TBS",
+            "origin_country": "US"
+        }
+    ],
+    "next_episode_to_air": {
+        "air_date": "2026-11-25",
+        "episode_number": 47,
+        "episode_type": "standard",
+        "id": 7833085,
+        "name": "November 25, 2026: Thanksgiving Eve",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 8,
+        "show_id": 91555,
+        "still_path": "/3Z295TkihRpDf3BMrCfkse3Iq4e.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "number_of_episodes": 384,
+    "number_of_seasons": 9,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "All Elite Wrestling: Dynamite",
+    "overview": "A world-class roster of diverse male and female wrestlers give fans a new wrestling experience for the first time in 20 years.",
+    "popularity": 88.41,
+    "poster_path": "/uXst536FXtszhbUJzFikifRKvrK.jpg",
+    "production_companies": [
+        {
+            "id": 119828,
+            "logo_path": "/qfdbfqR69oiLhq3E27zzHQQBuZI.png",
+            "name": "All Elite Wrestling",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-08-30",
+            "episode_count": 12,
+            "id": 208718,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/9btvoirCr7P5VzbJdOOSRB2qjfo.jpg",
+            "season_number": 0,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "2019-10-02",
+            "episode_count": 12,
+            "id": 128405,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/x9FLFcbTUVzdr0QB3XniMJMVNN8.jpg",
+            "season_number": 1,
+            "vote_average": 7.7
+        },
+        {
+            "air_date": "2019-12-30",
+            "episode_count": 53,
+            "id": 138958,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/c4LYK0dY2ffT4MP45P6owPZ2EpX.jpg",
+            "season_number": 2,
+            "vote_average": 7.3
+        },
+        {
+            "air_date": "2021-01-01",
+            "episode_count": 52,
+            "id": 172534,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/9HHBpBDeU09eqT1aYoFqJpqqu3x.jpg",
+            "season_number": 3,
+            "vote_average": 7.3
+        },
+        {
+            "air_date": "2022-01-05",
+            "episode_count": 52,
+            "id": 237455,
+            "name": "Season 4",
+            "overview": "",
+            "poster_path": "/9Fpv6uaez8WsVIi0kG1a1iPi1HF.jpg",
+            "season_number": 4,
+            "vote_average": 8.0
+        },
+        {
+            "air_date": "2023-01-03",
+            "episode_count": 52,
+            "id": 321205,
+            "name": "Season 5",
+            "overview": "",
+            "poster_path": "/17pMJwrsyvu320p4mbd3MHoXbXF.jpg",
+            "season_number": 5,
+            "vote_average": 7.9
+        },
+        {
+            "air_date": "2024-01-02",
+            "episode_count": 52,
+            "id": 371079,
+            "name": "Season 6",
+            "overview": "",
+            "poster_path": "/dHvZITPqxACRvT3ibNxJGFbOphF.jpg",
+            "season_number": 6,
+            "vote_average": 8.1
+        },
+        {
+            "air_date": "2024-12-31",
+            "episode_count": 53,
+            "id": 433874,
+            "name": "Season 7",
+            "overview": "",
+            "poster_path": "/fbECmnEBucTNvixUUrtNcspGsXR.jpg",
+            "season_number": 7,
+            "vote_average": 8.8
+        },
+        {
+            "air_date": "2026-01-07",
+            "episode_count": 51,
+            "id": 489200,
+            "name": "Season 8",
+            "overview": "",
+            "poster_path": "/j5M4bTggyrCDJR9xarGl4FtkSR6.jpg",
+            "season_number": 8,
+            "vote_average": 9.0
+        },
+        {
+            "air_date": "2027-01-01",
+            "episode_count": 7,
+            "id": 556734,
+            "name": "Season 9",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 9,
+            "vote_average": 0.0
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.9,
+    "vote_count": 91,
+    "youtube_theme_added": 1795463152,
+    "youtube_theme_added_by": "246855873",
+    "youtube_theme_edited": 1795463152,
+    "youtube_theme_edited_by": "246855873",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=UdMcaJyxez0"
+}
