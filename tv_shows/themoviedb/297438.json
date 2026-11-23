@@ -177,7 +177,21 @@
             "origin_country": "JP"
         }
     ],
-    "next_episode_to_air": null,
+    "next_episode_to_air": {
+        "air_date": "2027-01-09",
+        "episode_number": 1,
+        "episode_type": "standard",
+        "id": 8165133,
+        "name": "TBA",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 2,
+        "show_id": 297438,
+        "still_path": null,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
     "number_of_episodes": 12,
     "number_of_seasons": 2,
     "origin_country": [
@@ -250,8 +264,8 @@
             "vote_average": 7.5
         },
         {
-            "air_date": null,
-            "episode_count": 0,
+            "air_date": "2027-01-09",
+            "episode_count": 1,
             "id": 523595,
             "name": "Season 2",
             "overview": "",

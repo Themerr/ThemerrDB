@@ -26,7 +26,7 @@
             "title": "The Mummy",
             "video": false,
             "vote_average": 7.005,
-            "vote_count": 10619
+            "vote_count": 10620
         },
         {
             "adult": false,
@@ -47,8 +47,8 @@
             "softcore": false,
             "title": "The Mummy Returns",
             "video": false,
-            "vote_average": 6.4,
-            "vote_count": 8041
+            "vote_average": 6.418,
+            "vote_count": 8043
         },
         {
             "adult": false,
@@ -70,7 +70,7 @@
             "title": "The Mummy: Tomb of the Dragon Emperor",
             "video": false,
             "vote_average": 5.524,
-            "vote_count": 5030
+            "vote_count": 5031
         },
         {
             "adult": false,

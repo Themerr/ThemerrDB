@@ -24,8 +24,8 @@
             "softcore": false,
             "title": "Raiders of the Lost Ark",
             "video": false,
-            "vote_average": 7.9,
-            "vote_count": 14256
+            "vote_average": 7.928,
+            "vote_count": 14257
         },
         {
             "adult": false,
@@ -46,7 +46,7 @@
             "title": "Indiana Jones and the Temple of Doom",
             "video": false,
             "vote_average": 7.31,
-            "vote_count": 10553
+            "vote_count": 10554
         },
         {
             "adult": false,
@@ -88,7 +88,7 @@
             "title": "Indiana Jones and the Kingdom of the Crystal Skull",
             "video": false,
             "vote_average": 6.028,
-            "vote_count": 9404
+            "vote_count": 9405
         },
         {
             "adult": false,
@@ -108,8 +108,8 @@
             "softcore": false,
             "title": "Indiana Jones and the Dial of Destiny",
             "video": false,
-            "vote_average": 6.5,
-            "vote_count": 4506
+            "vote_average": 6.487,
+            "vote_count": 4507
         }
     ],
     "poster_path": "/lpxDrACKJhbbGOlwVMNz5YCj6SI.jpg",

@@ -39,8 +39,8 @@
         "season_number": 2,
         "show_id": 73223,
         "still_path": "/cAmUPl9Xf1SoQyMfyoDTkIFJtFm.jpg",
-        "vote_average": 5.5,
-        "vote_count": 2
+        "vote_average": 6.7,
+        "vote_count": 3
     },
     "name": "Black Clover",
     "networks": [
@@ -173,7 +173,7 @@
             "overview": "",
             "poster_path": "/k7XtJOiflFofEOP8l5i75y4p5po.jpg",
             "season_number": 2,
-            "vote_average": 8.0
+            "vote_average": 8.1
         }
     ],
     "softcore": false,

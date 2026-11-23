@@ -26,8 +26,8 @@
             "softcore": false,
             "title": "The Maze Runner",
             "video": false,
-            "vote_average": 7.2,
-            "vote_count": 18684
+            "vote_average": 7.187,
+            "vote_count": 18685
         },
         {
             "adult": false,
@@ -50,7 +50,7 @@
             "title": "Maze Runner: The Scorch Trials",
             "video": false,
             "vote_average": 6.727,
-            "vote_count": 11373
+            "vote_count": 11374
         },
         {
             "adult": false,
@@ -73,7 +73,7 @@
             "title": "Maze Runner: The Death Cure",
             "video": false,
             "vote_average": 7.068,
-            "vote_count": 8679
+            "vote_count": 8680
         }
     ],
     "poster_path": "/beR71cbwXH0vySlTMPZo0GQ54Q9.jpg",

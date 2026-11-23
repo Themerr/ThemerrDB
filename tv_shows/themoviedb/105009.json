@@ -43,8 +43,8 @@
         "season_number": 1,
         "show_id": 105009,
         "still_path": "/hSWL6iMM5QKtIchSyyvHRgENJm2.jpg",
-        "vote_average": 0.0,
-        "vote_count": 0
+        "vote_average": 8.5,
+        "vote_count": 2
     },
     "name": "Tokyo Revengers",
     "networks": [
@@ -167,7 +167,7 @@
             "overview": "",
             "poster_path": "/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
             "season_number": 1,
-            "vote_average": 7.3
+            "vote_average": 7.5
         }
     ],
     "softcore": false,

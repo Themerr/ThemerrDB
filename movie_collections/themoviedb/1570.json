@@ -45,8 +45,8 @@
             "softcore": false,
             "title": "Live Free or Die Hard",
             "video": false,
-            "vote_average": 6.6,
-            "vote_count": 6639
+            "vote_average": 6.644,
+            "vote_count": 6640
         },
         {
             "adult": false,
@@ -66,8 +66,8 @@
             "softcore": false,
             "title": "Die Hard: With a Vengeance",
             "video": false,
-            "vote_average": 7.3,
-            "vote_count": 6975
+            "vote_average": 7.29,
+            "vote_count": 6976
         },
         {
             "adult": false,
@@ -88,7 +88,7 @@
             "title": "Die Hard 2",
             "video": false,
             "vote_average": 6.973,
-            "vote_count": 6732
+            "vote_count": 6733
         },
         {
             "adult": false,
@@ -108,8 +108,8 @@
             "softcore": false,
             "title": "A Good Day to Die Hard",
             "video": false,
-            "vote_average": 5.3,
-            "vote_count": 6949
+            "vote_average": 5.321,
+            "vote_count": 6950
         }
     ],
     "poster_path": "/xhnb5lVfwE7NHycdPNdIxHx7kZi.jpg",

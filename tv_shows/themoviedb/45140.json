@@ -59,7 +59,7 @@
     ],
     "next_episode_to_air": null,
     "number_of_episodes": 454,
-    "number_of_seasons": 9,
+    "number_of_seasons": 10,
     "origin_country": [
         "US"
     ],
@@ -194,6 +194,16 @@
             "poster_path": "/73y5Vvp8WTEEDyGwJJTySz82TOI.jpg",
             "season_number": 9,
             "vote_average": 7.2
+        },
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 559850,
+            "name": "Season 10",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 10,
+            "vote_average": 0.0
         }
     ],
     "softcore": false,
@@ -207,7 +217,7 @@
     "status": "Returning Series",
     "tagline": "",
     "type": "Scripted",
-    "vote_average": 6.411,
+    "vote_average": 6.4,
     "vote_count": 750,
     "youtube_theme_added": 1788460519,
     "youtube_theme_added_by": "4711931",

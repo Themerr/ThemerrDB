@@ -93,8 +93,8 @@
             "softcore": false,
             "title": "Toy Story 4",
             "video": false,
-            "vote_average": 7.5,
-            "vote_count": 11176
+            "vote_average": 7.459,
+            "vote_count": 11177
         },
         {
             "adult": false,
@@ -116,7 +116,7 @@
             "softcore": false,
             "title": "Toy Story 5",
             "video": false,
-            "vote_average": 8.2,
+            "vote_average": 8.238,
             "vote_count": 2912
         }
     ],

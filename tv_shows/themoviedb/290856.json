@@ -40,14 +40,14 @@
         "episode_type": "standard",
         "id": 8084358,
         "name": "Under the Influence",
-        "overview": "Kayce and Belle go undercover inside a dangerous cult, led by the manipulative Eric Savard, to find a missing federal agent who has gone dark after infiltrating the group.",
+        "overview": "Kayce and Belle go undercover inside a dangerous cult to find a missing federal agent who infiltrated the group and has suddenly gone dark. Meanwhile, Miles travels to Helena to demonstrate how the Marshals can secure an unprecedented trial.",
         "production_code": "",
         "runtime": 43,
         "season_number": 2,
         "show_id": 290856,
         "still_path": "/bl7eP6XOtQ8D3vtZGjUr7MdCdxh.jpg",
-        "vote_average": 8.2,
-        "vote_count": 2
+        "vote_average": 7.4,
+        "vote_count": 4
     },
     "name": "Marshals",
     "networks": [
@@ -134,7 +134,7 @@
             "overview": "",
             "poster_path": "/wJUJ6vTSq7qUSXkht2NcwnxVm8x.jpg",
             "season_number": 2,
-            "vote_average": 8.4
+            "vote_average": 8.3
         }
     ],
     "softcore": false,
@@ -148,8 +148,8 @@
     "status": "Returning Series",
     "tagline": "A new era of Yellowstone.",
     "type": "Scripted",
-    "vote_average": 7.99,
-    "vote_count": 447,
+    "vote_average": 7.985,
+    "vote_count": 448,
     "youtube_theme_added": 1790208956,
     "youtube_theme_added_by": "50698568",
     "youtube_theme_edited": 1790208956,

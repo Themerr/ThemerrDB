@@ -28,7 +28,7 @@
             "title": "Despicable Me",
             "video": false,
             "vote_average": 7.264,
-            "vote_count": 16601
+            "vote_count": 16602
         },
         {
             "adult": false,
@@ -51,7 +51,7 @@
             "title": "Despicable Me 2",
             "video": false,
             "vote_average": 6.95,
-            "vote_count": 12391
+            "vote_count": 12392
         },
         {
             "adult": false,
@@ -74,8 +74,8 @@
             "softcore": false,
             "title": "Despicable Me 3",
             "video": false,
-            "vote_average": 6.5,
-            "vote_count": 7892
+            "vote_average": 6.466,
+            "vote_count": 7893
         },
         {
             "adult": false,
@@ -99,7 +99,7 @@
             "title": "Despicable Me 4",
             "video": false,
             "vote_average": 6.948,
-            "vote_count": 3466
+            "vote_count": 3467
         }
     ],
     "poster_path": "/xIXhIlZDRmSSfNbpN7kBCm5hg39.jpg",

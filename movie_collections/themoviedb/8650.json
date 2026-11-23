@@ -25,8 +25,8 @@
             "softcore": false,
             "title": "Transformers",
             "video": false,
-            "vote_average": 6.854,
-            "vote_count": 12760
+            "vote_average": 6.855,
+            "vote_count": 12762
         },
         {
             "adult": false,
@@ -47,8 +47,8 @@
             "softcore": false,
             "title": "Transformers: Revenge of the Fallen",
             "video": false,
-            "vote_average": 6.229,
-            "vote_count": 9555
+            "vote_average": 6.23,
+            "vote_count": 9557
         },
         {
             "adult": false,
@@ -92,7 +92,7 @@
             "title": "Transformers: Age of Extinction",
             "video": false,
             "vote_average": 5.975,
-            "vote_count": 9079
+            "vote_count": 9080
         },
         {
             "adult": false,
@@ -114,7 +114,7 @@
             "title": "Transformers: The Last Knight",
             "video": false,
             "vote_average": 6.06,
-            "vote_count": 6987
+            "vote_count": 6988
         }
     ],
     "poster_path": "/nnFgBA6nR0pHorxdFaDvdY4nVHL.jpg",
