@@ -1,0 +1,71 @@
+{
+    "adult": false,
+    "backdrop_path": "/wIE436lMvXpLByb2lz01gnVJGfi.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "",
+    "id": 73924,
+    "imdb_id": "tt0239096",
+    "origin_country": [
+        "SU"
+    ],
+    "original_language": "ru",
+    "original_title": "\u041a\u043e\u043d\u0451\u043a-\u0413\u043e\u0440\u0431\u0443\u043d\u043e\u043a",
+    "overview": "Remake of the 1947 Soviet film directed by Ivan Ivanov-Vano and produced by the Soyuzmultfilm studio in Moscow.",
+    "popularity": 0.8537,
+    "poster_path": "/5QRDGh7qVn6L3NiHpeGzfOmhZk8.jpg",
+    "production_companies": [
+        {
+            "id": 14599,
+            "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
+            "name": "Soyuzmultfilm",
+            "origin_country": "SU"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "SU",
+            "name": "Soviet Union"
+        }
+    ],
+    "release_date": "1975-10-24",
+    "revenue": 0,
+    "runtime": 67,
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Humpbacked Horse",
+    "video": false,
+    "vote_average": 6.347,
+    "vote_count": 49,
+    "youtube_theme_added": 1795455560,
+    "youtube_theme_added_by": "168332544",
+    "youtube_theme_edited": 1795455560,
+    "youtube_theme_edited_by": "168332544",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=uqOsN8W220U"
+}
