@@ -32,19 +32,19 @@
     ],
     "last_air_date": "2026-11-15",
     "last_episode_to_air": {
-        "air_date": "2026-11-15",
-        "episode_number": 31,
+        "air_date": "2026-11-22",
+        "episode_number": 32,
         "episode_type": "standard",
-        "id": 7903919,
-        "name": "Quest for the Hidden Spring",
-        "overview": "Ryoga tells Ranma he will soon part with P-chan after finding a map to the Japanese Spring of the Drowned Man \u2014 but it leads to the girls' locker room?",
+        "id": 7903921,
+        "name": "Tsubasa Kurenai Busts Loose!",
+        "overview": "Ranma receives a challenge letter from the unknown Tsubasa Kurenai and is ambushed by her, disguised as a mailbox! What is Tsubasa's true identity?",
         "production_code": "",
         "runtime": 23,
         "season_number": 1,
         "show_id": 259140,
-        "still_path": "/hcYXpP2stuk1Mafwu4s0dsSmX6w.jpg",
-        "vote_average": 8.5,
-        "vote_count": 2
+        "still_path": "/A7Rp5m6d4dwsmxXOFCLMz6NPAb9.jpg",
+        "vote_average": 8.0,
+        "vote_count": 1
     },
     "name": "Ranma1/2",
     "networks": [
@@ -86,19 +86,19 @@
         }
     ],
     "next_episode_to_air": {
-        "air_date": "2026-11-22",
-        "episode_number": 32,
+        "air_date": "2026-11-29",
+        "episode_number": 33,
         "episode_type": "standard",
-        "id": 7903921,
-        "name": "Tsubasa Kurenai Busts Loose!",
-        "overview": "Ranma receives a challenge letter from the unknown Tsubasa Kurenai and is ambushed by her, disguised as a mailbox! What is Tsubasa's true identity?",
+        "id": 7903922,
+        "name": "Episode 33",
+        "overview": "",
         "production_code": "",
-        "runtime": 23,
+        "runtime": null,
         "season_number": 1,
         "show_id": 259140,
-        "still_path": "/A7Rp5m6d4dwsmxXOFCLMz6NPAb9.jpg",
-        "vote_average": 8.0,
-        "vote_count": 1
+        "still_path": null,
+        "vote_average": 0.0,
+        "vote_count": 0
     },
     "number_of_episodes": 36,
     "number_of_seasons": 1,
@@ -108,7 +108,7 @@
     "original_language": "ja",
     "original_name": "\u3089\u3093\u307e1/2",
     "overview": "Akane Tendo meets her new fianc\u00e9, Ranma Saotome, a martial arts prodigy with a twist: he magically transforms into a girl upon touching cold water.",
-    "popularity": 27.8518,
+    "popularity": 33.0194,
     "poster_path": "/cDThx8yRYbdPOSgHbjihS4q7GYc.jpg",
     "production_companies": [
         {

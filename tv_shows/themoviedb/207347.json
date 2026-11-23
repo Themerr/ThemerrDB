@@ -24,19 +24,19 @@
     ],
     "last_air_date": "2026-11-15",
     "last_episode_to_air": {
-        "air_date": "2026-11-15",
-        "episode_number": 31,
+        "air_date": "2026-11-22",
+        "episode_number": 32,
         "episode_type": "standard",
-        "id": 7906175,
-        "name": "Christmas Eve",
-        "overview": "Chinatsu returns to school after the match to thank Taiki for everything. A quiet moment between them in the gym sends his heart racing like never before.",
+        "id": 7906177,
+        "name": "I Need to Tell You Something",
+        "overview": "Taiki rings in the new year with friends, but his mind keeps drifting to Chinatsu. A fortune at the shrine tells him exactly what he needs to hear.",
         "production_code": "",
         "runtime": 24,
         "season_number": 1,
         "show_id": 207347,
-        "still_path": "/qNIVIR40JchFf6hSL1igIDIFkm9.jpg",
-        "vote_average": 8.0,
-        "vote_count": 1
+        "still_path": "/S2QfFGwXoN27RhIzuawhSuDH4K.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0
     },
     "name": "Blue Box",
     "networks": [
@@ -210,17 +210,17 @@
         }
     ],
     "next_episode_to_air": {
-        "air_date": "2026-11-22",
-        "episode_number": 32,
+        "air_date": "2026-11-29",
+        "episode_number": 33,
         "episode_type": "standard",
-        "id": 7906177,
-        "name": "I Need to Tell You Something",
-        "overview": "Taiki rings in the new year with friends, but his mind keeps drifting to Chinatsu. A fortune at the shrine tells him exactly what he needs to hear.",
+        "id": 7906179,
+        "name": "Episode 33",
+        "overview": "",
         "production_code": "",
-        "runtime": 24,
+        "runtime": null,
         "season_number": 1,
         "show_id": 207347,
-        "still_path": "/S2QfFGwXoN27RhIzuawhSuDH4K.jpg",
+        "still_path": null,
         "vote_average": 0.0,
         "vote_count": 0
     },
@@ -232,7 +232,7 @@
     "original_language": "ja",
     "original_name": "\u30a2\u30aa\u306e\u30cf\u30b3",
     "overview": "Taiki Inomata loves badminton, but he has a long way to go before he can reach nationals. When Taiki sees upperclassman Chinatsu Kano practicing her heart out on the girls\u2019 basketball team, he falls for her hard. After an unexpected turn of events brings the two closer together, sports might not be the first thing on their minds anymore!",
-    "popularity": 24.1934,
+    "popularity": 30.1495,
     "poster_path": "/mVAWCCNBxPX3EUf9XhcFff4wW5V.jpg",
     "production_companies": [
         {

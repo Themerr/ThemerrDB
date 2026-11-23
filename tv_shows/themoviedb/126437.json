@@ -20,30 +20,6 @@
     ],
     "last_air_date": "2026-11-15",
     "last_episode_to_air": {
-        "air_date": "2026-11-15",
-        "episode_number": 7,
-        "episode_type": "standard",
-        "id": 7424789,
-        "name": "Notebook",
-        "overview": "Fukuda suggests a drill with ropes at the nighttime practice. Then, Kuribayashi gives a notebook to Ashito.",
-        "production_code": "",
-        "runtime": 25,
-        "season_number": 2,
-        "show_id": 126437,
-        "still_path": "/cY6mw4zAayQZUfHWkp0NGu41YaD.jpg",
-        "vote_average": 0.0,
-        "vote_count": 0
-    },
-    "name": "Aoashi",
-    "networks": [
-        {
-            "id": 622,
-            "logo_path": "/uWDPIxVAZltqyPG4NQZL6D38d1F.png",
-            "name": "NHK Educational TV",
-            "origin_country": "JP"
-        }
-    ],
-    "next_episode_to_air": {
         "air_date": "2026-11-22",
         "episode_number": 8,
         "episode_type": "standard",
@@ -58,6 +34,30 @@
         "vote_average": 0.0,
         "vote_count": 0
     },
+    "name": "Aoashi",
+    "networks": [
+        {
+            "id": 622,
+            "logo_path": "/uWDPIxVAZltqyPG4NQZL6D38d1F.png",
+            "name": "NHK Educational TV",
+            "origin_country": "JP"
+        }
+    ],
+    "next_episode_to_air": {
+        "air_date": "2026-11-29",
+        "episode_number": 9,
+        "episode_type": "standard",
+        "id": 7424791,
+        "name": "Premier League Match 13: Tokyo VANS Youth",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 2,
+        "show_id": 126437,
+        "still_path": "/p1sQ6LR7IW9Z8WhoKZZNiEhcsXJ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
     "number_of_episodes": 48,
     "number_of_seasons": 2,
     "origin_country": [
@@ -66,7 +66,7 @@
     "original_language": "ja",
     "original_name": "\u30a2\u30aa\u30a2\u30b7",
     "overview": "Ashito Aoi is a young, aspiring soccer player from a backwater town in Japan. His hopes of getting into a high school with a good soccer club are dashed when he causes an incident during a critical match for his team, which results in their loss and elimination from the tournament. Nevertheless, he catches the eye of someone important who happened to be visiting from Tokyo. How will things turn out for Ashito?",
-    "popularity": 33.4417,
+    "popularity": 35.1678,
     "poster_path": "/uvWHFUtgD0V8Xy5lolwijRAN82O.jpg",
     "production_companies": [
         {

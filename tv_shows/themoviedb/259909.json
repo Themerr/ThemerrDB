@@ -33,21 +33,21 @@
     "languages": [
         "en"
     ],
-    "last_air_date": "2026-11-15",
+    "last_air_date": "2026-11-22",
     "last_episode_to_air": {
-        "air_date": "2026-11-15",
-        "episode_number": 3,
+        "air_date": "2026-11-22",
+        "episode_number": 4,
         "episode_type": "standard",
-        "id": 7784661,
-        "name": "Live Free and Die",
-        "overview": "Dexter closes in on a ruthless killer terrorizing the city, but a fleeting clue is all he has to go on.",
+        "id": 7784662,
+        "name": "Young Blood",
+        "overview": "Dexter probes a young killer's legacy and must decide if the Code applies.",
         "production_code": "",
-        "runtime": 55,
+        "runtime": 60,
         "season_number": 2,
         "show_id": 259909,
-        "still_path": "/y19J9vASYTjIFHkZ8o2yJk6BoC0.jpg",
-        "vote_average": 8.167,
-        "vote_count": 21
+        "still_path": "/wqhcu689MQgvKSh277S7uqph9Cm.jpg",
+        "vote_average": 8.136,
+        "vote_count": 11
     },
     "name": "Dexter: Resurrection",
     "networks": [
@@ -59,19 +59,19 @@
         }
     ],
     "next_episode_to_air": {
-        "air_date": "2026-11-22",
-        "episode_number": 4,
+        "air_date": "2026-11-29",
+        "episode_number": 5,
         "episode_type": "standard",
-        "id": 7784662,
-        "name": "Young Blood",
-        "overview": "When Dexter probes a young killer's legacy, he must decide if the code applies.",
+        "id": 7784664,
+        "name": "Out Of The Past",
+        "overview": "A familiar face from Dexter's past resurfaces, challenging him intensely. The hunt for The Five Borough Killer intensifies across New York.",
         "production_code": "",
-        "runtime": 60,
+        "runtime": null,
         "season_number": 2,
         "show_id": 259909,
-        "still_path": "/wqhcu689MQgvKSh277S7uqph9Cm.jpg",
-        "vote_average": 7.333,
-        "vote_count": 6
+        "still_path": "/a7Ofz6lgowoSVajts2FhhQOpNJK.jpg",
+        "vote_average": 10.0,
+        "vote_count": 1
     },
     "number_of_episodes": 20,
     "number_of_seasons": 2,
@@ -81,7 +81,7 @@
     "original_language": "en",
     "original_name": "Dexter: Resurrection",
     "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-    "popularity": 102.6758,
+    "popularity": 102.5621,
     "poster_path": "/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
     "production_companies": [
         {
@@ -150,7 +150,7 @@
             "overview": "Season 2 finds Dexter caught between two killers, one notorious and the other terrorizing New York in ways no one ever anticipated, all while battling his greatest enemy yet, a mid-life crisis. Harrison continues his own pursuit of justice as father and son face their darkest chapter.",
             "poster_path": "/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
             "season_number": 2,
-            "vote_average": 7.8
+            "vote_average": 8.5
         }
     ],
     "softcore": false,
@@ -164,8 +164,8 @@
     "status": "Returning Series",
     "tagline": "Back and sharper than ever.",
     "type": "Scripted",
-    "vote_average": 8.539,
-    "vote_count": 774,
+    "vote_average": 8.5,
+    "vote_count": 777,
     "youtube_theme_added": 1778727904,
     "youtube_theme_added_by": "6266356",
     "youtube_theme_edited": 1778727904,
