@@ -1,0 +1,128 @@
+{
+    "adult": false,
+    "backdrop_path": "/fn2wQKo2pfavlTGsFSxgimAx24Q.jpg",
+    "created_by": [
+        {
+            "credit_id": "54354ee5c3a36811ef00b625",
+            "gender": 2,
+            "id": 9156,
+            "name": "Andrew Davies",
+            "original_name": "Andrew Davies",
+            "profile_path": "/gOxUTVdqNinS2KQvEyIAMKPKt6s.jpg"
+        }
+    ],
+    "episode_run_time": [
+        55
+    ],
+    "first_air_date": "1990-11-18",
+    "genres": [
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.bbc.co.uk/programmes/b0082dzs",
+    "id": 21720,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "1990-12-09",
+    "last_episode_to_air": {
+        "air_date": "1990-12-09",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "id": 599348,
+        "name": "Part 4",
+        "overview": "Urquhart\u2019s ruthless scheming has worked. As the leadership election looms, all his leading rivals have been discredited. But even though the obstacles in his way have been erased, there is still no guarantee of his winning. Meanwhile, by the process of reason and elimination, the truth is beginning to dawn on Mattie, though she can hardly bring herself to believe that \u201cDaddy\u201d is not what he seems. As for Urquhart, he has too much to lose now to let sentiment stand in his way. He will go to any lengths to prevent her, or anyone else, from finding out just what he has done to gain power.",
+        "production_code": "",
+        "runtime": 57,
+        "season_number": 1,
+        "show_id": 21720,
+        "still_path": "/5BQhWNPgQVUAyMyih89gjRxUq45.jpg",
+        "vote_average": 9.111,
+        "vote_count": 9
+    },
+    "name": "House of Cards",
+    "networks": [
+        {
+            "id": 4,
+            "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+            "name": "BBC One",
+            "origin_country": "GB"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "House of Cards",
+    "overview": "Frustrated at a new moderate Conservative government and deprived of a promotion to a senior position, chief whip Francis Urquhart prepares a meticulous plot to bring down the Prime Minister then to take his place.",
+    "popularity": 5.4581,
+    "poster_path": "/rkCSSr8iWecBWPszKenxnytetLs.jpg",
+    "production_companies": [
+        {
+            "id": 3324,
+            "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+            "name": "BBC",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-11-16",
+            "episode_count": 1,
+            "id": 323269,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "1990-11-18",
+            "episode_count": 4,
+            "id": 31497,
+            "name": "Miniseries",
+            "overview": "",
+            "poster_path": "/tUc1F8jq1QlaQlSqq5Q7onIOvZn.jpg",
+            "season_number": 1,
+            "vote_average": 8.7
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "He had Number 10 Downing Street in his hand!",
+    "type": "Miniseries",
+    "vote_average": 8.052,
+    "vote_count": 173,
+    "youtube_theme_added": 1795453857,
+    "youtube_theme_added_by": "79805213",
+    "youtube_theme_edited": 1795453857,
+    "youtube_theme_edited_by": "79805213",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=bhLN0L5JdD4"
+}
