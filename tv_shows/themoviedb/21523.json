@@ -1,0 +1,127 @@
+{
+    "adult": false,
+    "backdrop_path": "/631J5xZt4bVNtSQWIKAzUFQmHfu.jpg",
+    "created_by": [
+        {
+            "credit_id": "5598794e9251413d99001e43",
+            "gender": 0,
+            "id": 1484670,
+            "name": "Alexis Dolivet",
+            "original_name": "Alexis Dolivet",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        1
+    ],
+    "first_air_date": "1998-06-21",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 21523,
+    "in_production": false,
+    "languages": [
+        "fr"
+    ],
+    "last_air_date": "2007-10-12",
+    "last_episode_to_air": {
+        "air_date": "2007-10-12",
+        "episode_number": 30,
+        "episode_type": "finale",
+        "id": 596428,
+        "name": "Episode 30",
+        "overview": "",
+        "production_code": "",
+        "runtime": 2,
+        "season_number": 2,
+        "show_id": 21523,
+        "still_path": null,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "name": "Lascars",
+    "networks": [
+        {
+            "id": 285,
+            "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+            "name": "Canal+",
+            "origin_country": "FR"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 60,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "FR"
+    ],
+    "original_language": "fr",
+    "original_name": "Lascars",
+    "overview": "Lascars is a French animated series created by Boris Dolivet, aka El Diablo, it was aired on the French channel Canal + for the first time in 1998. This series spawned two seasons, the first one in 1998 and the second in 2007, a pilot for a project of a 20 minute series, a comic and a movie. The episodes follow the mishaps of young men living in a district, the series is rife with hip-hop culture, most of the voice cast are French rappers.\n\nLascars shorts aired in Canada on Teletoon under the title Homiez in English.",
+    "popularity": 4.3174,
+    "poster_path": "/b45bxHEPMPsUrGlSyfo6p099b4J.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2001-09-18",
+            "episode_count": 4,
+            "id": 31268,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/b4a9lLf03bSY1to0Kvi1iyGrOcA.jpg",
+            "season_number": 0,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "1998-06-21",
+            "episode_count": 30,
+            "id": 31269,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/s8u9Gt4QCuGcAwJxYdVCx76DakV.jpg",
+            "season_number": 1,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "2007-09-03",
+            "episode_count": 30,
+            "id": 31270,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/r1oI6Fax1FniyXLjmA3dPB8hrhX.jpg",
+            "season_number": 2,
+            "vote_average": 0.0
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Fran\u00e7ais"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 19,
+    "youtube_theme_added": 1795460390,
+    "youtube_theme_added_by": "91066652",
+    "youtube_theme_edited": 1795460390,
+    "youtube_theme_edited_by": "91066652",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=PEF9DKgQ7nY"
+}
