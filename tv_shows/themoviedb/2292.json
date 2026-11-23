@@ -1,0 +1,136 @@
+{
+    "adult": false,
+    "backdrop_path": "/mE2U8VWud8wUWda2hIHXcQkwagv.jpg",
+    "created_by": [
+        {
+            "credit_id": "52572f61760ee3776a326480",
+            "gender": 2,
+            "id": 18910,
+            "name": "Dick Clement",
+            "original_name": "Dick Clement",
+            "profile_path": "/aTg0CgC98AtByASkrxuJs2FlT28.jpg"
+        },
+        {
+            "credit_id": "52572f61760ee3776a326486",
+            "gender": 2,
+            "id": 38937,
+            "name": "Ian La Frenais",
+            "original_name": "Ian La Frenais",
+            "profile_path": "/ypNRbGKAZMfzdEt6rHY4VjBCTgx.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1974-09-05",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.bbc.co.uk/programmes/b006m9kn",
+    "id": 2292,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "1977-03-25",
+    "last_episode_to_air": {
+        "air_date": "1977-03-25",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "id": 168649,
+        "name": "Final Stretch",
+        "overview": "Godber is due to appear before the parole board, but a fight with another inmate puts his parole in jeopardy. It's up to Fletcher to save the day.",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 3,
+        "show_id": 2292,
+        "still_path": "/52eCpW3IzTZZDk70ikmsiCADnHu.jpg",
+        "vote_average": 9.0,
+        "vote_count": 1
+    },
+    "name": "Porridge",
+    "networks": [
+        {
+            "id": 4,
+            "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+            "name": "BBC One",
+            "origin_country": "GB"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 18,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Porridge",
+    "overview": "Porridge is a British situation comedy broadcast on BBC1 from 1974 to 1977, running for three series, two Christmas specials and a feature film also titled Porridge. Written by Dick Clement and Ian La Frenais, it stars Ronnie Barker and Richard Beckinsale as two inmates at the fictional HMP Slade in Cumberland. \"Doing porridge\" is British slang for serving a prison sentence, porridge once being the traditional breakfast in UK prisons.\n\nThe series was followed by a 1978 sequel, Going Straight, which established that Fletcher would not be going back to prison again. Porridge was voted number seven in a 2004 BBC poll of the 100 greatest British sitcoms.",
+    "popularity": 7.0337,
+    "poster_path": "/qSoHitLrJLNALUAcG4XHhqd1v0F.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1973-04-01",
+            "episode_count": 10,
+            "id": 7153,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/eRXxxBGdCLOcqMCaEaeO3s8tlSi.jpg",
+            "season_number": 0,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "1974-09-05",
+            "episode_count": 6,
+            "id": 7150,
+            "name": "Series 1",
+            "overview": "",
+            "poster_path": "/jzzorcXMcvRMilEndAyyAP4YXUq.jpg",
+            "season_number": 1,
+            "vote_average": 8.1
+        },
+        {
+            "air_date": "1975-10-24",
+            "episode_count": 6,
+            "id": 7151,
+            "name": "Series 2",
+            "overview": "",
+            "poster_path": "/jG9eDCDPRNICfauyuqCWy6PQASp.jpg",
+            "season_number": 2,
+            "vote_average": 7.6
+        },
+        {
+            "air_date": "1977-02-18",
+            "episode_count": 6,
+            "id": 7152,
+            "name": "Series 3",
+            "overview": "",
+            "poster_path": "/dySq2XPQ6mJLrZVSUAiVEj9KRpo.jpg",
+            "season_number": 3,
+            "vote_average": 8.5
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.112,
+    "vote_count": 58,
+    "youtube_theme_added": 1795454171,
+    "youtube_theme_added_by": "79805213",
+    "youtube_theme_edited": 1795454171,
+    "youtube_theme_edited_by": "79805213",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=BfdeaBN8iNE"
+}
