@@ -1,0 +1,106 @@
+{
+    "adult": false,
+    "backdrop_path": "/wQTMJN1l1eTHK5Svx9m0WV8EhV9.jpg",
+    "created_by": [
+        {
+            "credit_id": "52571618760ee3776a13d8fa",
+            "gender": 2,
+            "id": 38937,
+            "name": "Ian La Frenais",
+            "original_name": "Ian La Frenais",
+            "profile_path": "/ypNRbGKAZMfzdEt6rHY4VjBCTgx.jpg"
+        },
+        {
+            "credit_id": "52571618760ee3776a13d8ce",
+            "gender": 2,
+            "id": 18910,
+            "name": "Dick Clement",
+            "original_name": "Dick Clement",
+            "profile_path": "/aTg0CgC98AtByASkrxuJs2FlT28.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1978-02-24",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 1821,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "1978-04-07",
+    "last_episode_to_air": {
+        "air_date": "1978-04-07",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "id": 110219,
+        "name": "Going off the Rails",
+        "overview": "Fletch is almost tempted off the straight and narrow on the day Ingrid is to marry Godber. He has a change of heart before it's too late but almost gets into trouble with a walkie talkie. Godber married Ingrid with Fletch giving away the bride and acting as best man.",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 1821,
+        "still_path": "/o40zw7BcFQjK1Ty3EA6BEADtpqA.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "name": "Going Straight",
+    "networks": [
+        {
+            "id": 4,
+            "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+            "name": "BBC One",
+            "origin_country": "GB"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Going Straight",
+    "overview": "Going Straight is a BBC sitcom which was a direct spin-off from Porridge, starring Ronnie Barker as Norman Stanley Fletcher, newly released from the fictional Slade Prison where the earlier series had been set.\n\nIt sees Fletcher trying to become an honest member of society, having vowed to stay away from crime on his release. The title refers to his attempt, 'straight' being a slang term meaning being honest, in contrast to 'bent', i.e., dishonest.\n\nAlso re-appearing was Richard Beckinsale as Lennie Godber, who was Fletcher's na\u00efve young cellmate and was now in a relationship with his daughter Ingrid. Her brother Raymond was played by a teenage Nicholas Lyndhurst.\n\nOnly one series, of six episodes, was made in 1978. It attracted an audience of over 15 million viewers and won a BAFTA award in March 1979, but hopes of a further series had already been dashed by Beckinsale's premature death earlier in the same month.",
+    "popularity": 2.5306,
+    "poster_path": "/ci67n6soEZmTRpy2t15gvSOhNwl.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1978-02-24",
+            "episode_count": 6,
+            "id": 5162,
+            "name": "Series 1",
+            "overview": "",
+            "poster_path": "/kEjyg29pKeVQ5AD2y8sVaRkfSWl.jpg",
+            "season_number": 1,
+            "vote_average": 0.0
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 16,
+    "youtube_theme_added": 1795453612,
+    "youtube_theme_added_by": "79805213",
+    "youtube_theme_edited": 1795453612,
+    "youtube_theme_edited_by": "79805213",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=PTMcTMckHwE"
+}
