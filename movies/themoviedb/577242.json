@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/avVKoXUcYF0Cum0r9jsyboCyG4M.jpg",
+    "belongs_to_collection": {
+        "backdrop_path": "/9Er1PLD7lTzc9PyERsKpTbEDRuj.jpg",
+        "id": 1076903,
+        "name": "Kaamelott Collection",
+        "poster_path": "/4kSGIZfmm3NXkIV5RJtYrOXVO92.jpg"
+    },
+    "budget": 17516235,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 577242,
+    "imdb_id": "tt9844322",
+    "origin_country": [
+        "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Kaamelott : Premier Volet",
+    "overview": "Hidden in Rome, King Arthur is planning his return to oppose the army of his former friend Lancelot.",
+    "popularity": 1.9054,
+    "poster_path": "/hfq2Wgm86DeXGxcBrrpk9EShAZ8.jpg",
+    "production_companies": [
+        {
+            "id": 2902,
+            "logo_path": "/vFmmYSgFp8eE6C34JVCXy9bJFmc.png",
+            "name": "SND",
+            "origin_country": "FR"
+        },
+        {
+            "id": 310,
+            "logo_path": "/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png",
+            "name": "CNC",
+            "origin_country": "FR"
+        },
+        {
+            "id": 11699,
+            "logo_path": "/83QgqlqE0sqlpyDNfelHdUlkw6E.png",
+            "name": "Sacem",
+            "origin_country": "FR"
+        },
+        {
+            "id": 1115,
+            "logo_path": "/ntH7T5gsN6wtyrfHGHJDTuneQ7o.png",
+            "name": "M6 Films",
+            "origin_country": "FR"
+        },
+        {
+            "id": 22764,
+            "logo_path": "/8MvPL85VXyoa1BE9Li2s5VTTH3N.png",
+            "name": "Calt Production",
+            "origin_country": "FR"
+        },
+        {
+            "id": 155805,
+            "logo_path": "/2LTSRDnEGwmExRL4Oy7V4RHow5I.png",
+            "name": "Dies Irae",
+            "origin_country": "FR"
+        },
+        {
+            "id": 78298,
+            "logo_path": "/9U7x4fLDn8EVEZTc4usYeJV1uHF.png",
+            "name": "Belga Productions",
+            "origin_country": "BE"
+        },
+        {
+            "id": 109756,
+            "logo_path": "/sudlIoNIIrKmVWaYD2ZVo9HGogW.png",
+            "name": "Auvergne-Rh\u00f4ne-Alpes Cin\u00e9ma",
+            "origin_country": "FR"
+        },
+        {
+            "id": 135234,
+            "logo_path": "/qB39HrFJ596fL6IYwQVr0JMtjDN.png",
+            "name": "R\u00e9gion Auvergne-Rh\u00f4ne-Alpes",
+            "origin_country": "FR"
+        },
+        {
+            "id": 177176,
+            "logo_path": "/wzGPCbmoNDhwKDhsxtRSgoAjib0.png",
+            "name": "Regular Production",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "release_date": "2021-07-21",
+    "revenue": 19002036,
+    "runtime": 120,
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Fran\u00e7ais"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Patience is better served with sauce",
+    "title": "Kaamelott: The First Chapter",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 773,
+    "youtube_theme_added": 1795553158,
+    "youtube_theme_added_by": "224398041",
+    "youtube_theme_edited": 1795553158,
+    "youtube_theme_edited_by": "224398041",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=lVoLqas1T_o"
+}
