@@ -1,0 +1,145 @@
+{
+    "adult": false,
+    "backdrop_path": "/41udu0L3wBxuptivy5icnwToOHK.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2022-02-13",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "",
+    "id": 133193,
+    "in_production": true,
+    "languages": [
+        "no"
+    ],
+    "last_air_date": "2026-03-26",
+    "last_episode_to_air": {
+        "air_date": "2026-03-26",
+        "episode_number": 18,
+        "episode_type": "standard",
+        "id": 7033648,
+        "name": "Episode 18",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 5,
+        "show_id": 133193,
+        "still_path": null,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "name": "71\u00b0 nord - team",
+    "networks": [
+        {
+            "id": 157,
+            "logo_path": "/lrgdVKA0aNbAYzCRebIPZwLRDEv.png",
+            "name": "TVNorge",
+            "origin_country": "NO"
+        },
+        {
+            "id": 4784,
+            "logo_path": "/ref0ZuHyD70R1i0cd3EJG2oBAK0.png",
+            "name": "discovery+",
+            "origin_country": "NO"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 107,
+    "number_of_seasons": 5,
+    "origin_country": [
+        "NO"
+    ],
+    "original_language": "no",
+    "original_name": "71\u00b0 nord - team",
+    "overview": "",
+    "popularity": 2.9457,
+    "poster_path": "/6kgMdhJQ2UiYOrdLo4o30WSV2Qh.jpg",
+    "production_companies": [
+        {
+            "id": 218286,
+            "logo_path": "/oE2ap5dGvQpsA28lWiP4UyUIHyJ.png",
+            "name": "Nordisk Banijay",
+            "origin_country": "NO"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "NO",
+            "name": "Norway"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-02-13",
+            "episode_count": 21,
+            "id": 210160,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/A3h8knGuCGaszKoBLUE1iFhoA9R.jpg",
+            "season_number": 1,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "2023-01-19",
+            "episode_count": 22,
+            "id": 320665,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/hEF3fUvTIvR0Y6wnqOd3ZkulFrs.jpg",
+            "season_number": 2,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "2024-01-07",
+            "episode_count": 23,
+            "id": 370936,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/vl6Br3zmA4imyXxcqdmf7yrr71f.jpg",
+            "season_number": 3,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "2025-01-23",
+            "episode_count": 23,
+            "id": 437241,
+            "name": "Season 4",
+            "overview": "",
+            "poster_path": "/6NTyvKaKJ8Hcn88gJ4JaHpVfBCG.jpg",
+            "season_number": 4,
+            "vote_average": 0.0
+        },
+        {
+            "air_date": "2026-01-25",
+            "episode_count": 18,
+            "id": 494186,
+            "name": "Season 5",
+            "overview": "",
+            "poster_path": "/AmSFHItSZowzkoQNErcv7cC7zf4.jpg",
+            "season_number": 5,
+            "vote_average": 0.0
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "Norwegian",
+            "iso_639_1": "no",
+            "name": "Norsk"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 6.0,
+    "vote_count": 1,
+    "youtube_theme_added": 1795495286,
+    "youtube_theme_added_by": "78762281",
+    "youtube_theme_edited": 1795495286,
+    "youtube_theme_edited_by": "78762281",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=h9OZj4lMvLI"
+}
