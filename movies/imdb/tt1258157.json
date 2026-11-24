@@ -1,0 +1,72 @@
+{
+    "adult": false,
+    "backdrop_path": "/cMdzPC7K1FmKNOBMVnqyyfEfxSI.jpg",
+    "belongs_to_collection": {
+        "backdrop_path": "/tkdIAO8euvwgniAVPSVjWIrZibj.jpg",
+        "id": 633815,
+        "name": "Scooby-Doo! (TV Movie) Collection",
+        "poster_path": "/t521Y86CyjdPQIckEPC0laqCwb.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 22620,
+    "imdb_id": "tt1258157",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Scooby-Doo! The Mystery Begins",
+    "overview": "Unjustly accused of staging a spooky practical joke complete with ghosts, Daphne, Velma, Fred and Shaggy are suspended from Coolsville High. To clear their names, they team up to solve the supernatural mystery\u2026and head straight into nonstop laughs and adventure.",
+    "popularity": 2.7531,
+    "poster_path": "/fUbx2NFwRTmRMtwcTbzEd804WQj.jpg",
+    "production_companies": [
+        {
+            "id": 4811,
+            "logo_path": "/7xym5CnL4LcMPaWpp51cN1v73AR.png",
+            "name": "Warner Premiere",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2009-09-13",
+    "revenue": 13000000,
+    "runtime": 82,
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The greatest mystery is how it all began.",
+    "title": "Scooby-Doo! The Mystery Begins",
+    "video": false,
+    "vote_average": 6.394,
+    "vote_count": 752,
+    "youtube_theme_added": 1795496481,
+    "youtube_theme_added_by": "49812856",
+    "youtube_theme_edited": 1795496481,
+    "youtube_theme_edited_by": "49812856",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=YcieZCf8U-o"
+}
