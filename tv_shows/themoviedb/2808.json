@@ -50,16 +50,16 @@
     "last_air_date": "2026-11-18",
     "last_episode_to_air": {
         "air_date": "2026-11-18",
-        "episode_number": 11,
+        "episode_number": 14,
         "episode_type": "standard",
-        "id": 7663405,
-        "name": "Static Shock Shutdown",
+        "id": 7663409,
+        "name": "Episode 14",
         "overview": "",
-        "production_code": "814",
+        "production_code": "811",
         "runtime": 22,
         "season_number": 8,
         "show_id": 2808,
-        "still_path": "/tiyeJ8P1YPMe6YNyeN61XTIi1sT.jpg",
+        "still_path": "/7CDKCBfi5U324FFWNX7dKRJEbgD.jpg",
         "vote_average": 0.0,
         "vote_count": 0
     },
@@ -101,7 +101,7 @@
     "original_language": "fr",
     "original_name": "Totally Spies !",
     "overview": "Totally Spies! depicts three girlfriends 'with an attitude' who have to cope with their daily lives at high school as well as the unpredictable pressures of international espionage. They confront the most intimidating - and demented - of villains, each with their own special agenda for demonic, global rude behavior.",
-    "popularity": 32.0293,
+    "popularity": 30.9302,
     "poster_path": "/w4JZDCrWxDhO5wKUeTvVHSzaTDk.jpg",
     "production_companies": [
         {
@@ -199,7 +199,7 @@
             "vote_average": 10.0
         },
         {
-            "air_date": "2026-08-26",
+            "air_date": "2026-08-19",
             "episode_count": 26,
             "id": 521025,
             "name": "Season 8",

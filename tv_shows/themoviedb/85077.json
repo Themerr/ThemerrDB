@@ -48,8 +48,8 @@
         "season_number": 6,
         "show_id": 85077,
         "still_path": "/ua4PG30UUSgp6qQJ6kf4S5VzoMQ.jpg",
-        "vote_average": 10.0,
-        "vote_count": 2
+        "vote_average": 9.667,
+        "vote_count": 3
     },
     "name": "The Chosen",
     "networks": [
@@ -101,7 +101,7 @@
     "original_language": "en",
     "original_name": "The Chosen",
     "overview": "The life of Christ through the eyes of those who encountered him.",
-    "popularity": 128.364,
+    "popularity": 128.8702,
     "poster_path": "/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
     "production_companies": [
         {
@@ -204,7 +204,7 @@
             "overview": "The hour has come. Season 6 captures Jesus' final day through the eyes of those who love Him-and those who condemn Him. In the face of loneliness and death, He stands resolute in His plan that has always led to one place: the cross.",
             "poster_path": "/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
             "season_number": 6,
-            "vote_average": 9.6
+            "vote_average": 9.5
         }
     ],
     "softcore": false,
@@ -218,8 +218,8 @@
     "status": "Returning Series",
     "tagline": "Rise up.",
     "type": "Scripted",
-    "vote_average": 8.9,
-    "vote_count": 1086,
+    "vote_average": 8.866,
+    "vote_count": 1090,
     "youtube_theme_added": 1719323909,
     "youtube_theme_added_by": "39831475",
     "youtube_theme_edited": 1719323909,

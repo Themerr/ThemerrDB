@@ -1,12 +1,7 @@
 {
     "adult": false,
     "backdrop_path": "/o2eG4ugPId4cY6gp2C1MBm33UG.jpg",
-    "belongs_to_collection": {
-        "backdrop_path": null,
-        "id": 1836962,
-        "name": "Death Trilogy - Collection",
-        "poster_path": null
-    },
+    "belongs_to_collection": null,
     "budget": 25000000,
     "genres": [
         {
@@ -23,7 +18,7 @@
     "original_language": "en",
     "original_title": "Babel",
     "overview": "Tragedy strikes a married couple vacationing in the Moroccan desert, which jumpstarts an interlocking story involving four different families.",
-    "popularity": 5.8984,
+    "popularity": 5.4418,
     "poster_path": "/fCHqcBl1LFDIGurUDEdFCpkYTnH.jpg",
     "production_companies": [
         {
@@ -99,7 +94,7 @@
     "tagline": "If you want to be understood... listen.",
     "title": "Babel",
     "video": false,
-    "vote_average": 7.167,
+    "vote_average": 7.2,
     "vote_count": 4268,
     "youtube_theme_added": 1684686092,
     "youtube_theme_added_by": "28462047",

@@ -64,8 +64,8 @@
         "season_number": 2,
         "show_id": 2784,
         "still_path": "/zi2BGQAImupags4J1IfkZA1pwem.jpg",
-        "vote_average": 5.0,
-        "vote_count": 1
+        "vote_average": 7.5,
+        "vote_count": 2
     },
     "name": "Donkey Kong Country",
     "networks": [
@@ -104,7 +104,7 @@
     "original_language": "fr",
     "original_name": "Donkey Kong Country",
     "overview": "Taking place on Kongo Bongo Island, the show focuses on Donkey Kong, the island's resident hero. Before the series' events, he was chosen as the island's future ruler by a magical artifact known as the Crystal Coconut, which is connected to a spirit known as Inka Dinka Doo. In the present, Donkey Kong must prove he deserves the role through his heroics and by simply guarding the coconut.\n\nAlongside various allies such as his best friend and sidekick Diddy Kong and his mentor Cranky Kong, he must protect the Crystal Coconut from various threats, most notably the villainous King K. Rool and his Kremling army who long to steal it in order to rule Kongo Bongo. Oftentimes, Donkey Kong has to juggle his guardian duties with his social life, his relationship with Candy Kong, and his love of gorging on bananas.",
-    "popularity": 7.9654,
+    "popularity": 8.1601,
     "poster_path": "/dsCtiINqakGe9USWTJQzYE5v53y.jpg",
     "production_companies": [
         {
@@ -171,7 +171,7 @@
             "overview": "",
             "poster_path": null,
             "season_number": 2,
-            "vote_average": 4.9
+            "vote_average": 5.5
         }
     ],
     "softcore": false,

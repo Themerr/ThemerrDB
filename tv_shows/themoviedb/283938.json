@@ -22,7 +22,7 @@
     "languages": [
         "ja"
     ],
-    "last_air_date": "2026-11-15",
+    "last_air_date": "2026-11-22",
     "last_episode_to_air": {
         "air_date": "2026-11-22",
         "episode_number": 8,
@@ -30,7 +30,7 @@
         "id": 7799401,
         "name": "A Day in Satomi\u2019s Life / Cleanup Duty and Boobs / Get Well Soon! / Ume\u2019s Playboy Allegations / Tan\u2019s Scheme / Cold Alone, Warm Together",
         "overview": "On a cold winter day, Tan manages to fleece Ume out of some money under the pretense of giving him a hand warmer! Arisu sees this and thinks there's something more to the story, so she and Ume start to follow Tan around!",
-        "production_code": "",
+        "production_code": null,
         "runtime": 24,
         "season_number": 1,
         "show_id": 283938,
@@ -88,7 +88,7 @@
     "original_language": "ja",
     "original_name": "\u751f\u5f92\u4f1a\u306b\u3082\u7a74\u306f\u3042\u308b\uff01",
     "overview": "In a student council filled with weirdos, one new member is about to have a hell of a school year! Mizunoe Ume just wanted to avoid repeating a grade when he joined the student council. After all, it seemed like an easy fix to his current academic problems. But then, he met his fellow council members. Each of them is eccentric in their own way\u2014one's an airhead, another's scary, one's secretly a pervert, but all in all, they're just really weird! Yet somehow, they're also oddly cute and endearing. Which means Mizunoe is stuck with them and all the chaos they bring to the table. Get ready for a slice-of-life story that's irresistibly charming, quirky, and a little bit naughty!",
-    "popularity": 17.934,
+    "popularity": 16.9732,
     "poster_path": "/lpjQKu1KfceCLeO8ga71gwJMieg.jpg",
     "production_companies": [
         {
@@ -151,7 +151,7 @@
     "status": "Returning Series",
     "tagline": "",
     "type": "Scripted",
-    "vote_average": 8.625,
+    "vote_average": 8.6,
     "vote_count": 8,
     "youtube_theme_added": 1792880329,
     "youtube_theme_added_by": "30657709",

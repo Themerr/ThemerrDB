@@ -28,7 +28,7 @@
     "languages": [
         "ja"
     ],
-    "last_air_date": "2026-11-14",
+    "last_air_date": "2026-11-21",
     "last_episode_to_air": {
         "air_date": "2026-11-21",
         "episode_number": 20,
@@ -60,7 +60,7 @@
         "id": 7908013,
         "name": "The Vampire Princess, Benetnasch Appeared!",
         "overview": "Lufas meets with Benetnasch. Sei's party investigates the centaurs. The Twelve Heavenly Stars fight Leon.",
-        "production_code": "",
+        "production_code": null,
         "runtime": 24,
         "season_number": 1,
         "show_id": 280042,
@@ -76,7 +76,7 @@
     "original_language": "ja",
     "original_name": "\u91ce\u751f\u306e\u30e9\u30b9\u30dc\u30b9\u304c\u73fe\u308c\u305f\uff01",
     "overview": "An MMO gamer awakens as the Black-Winged Tyrant, Lufas Maphaahl, rising from her sealed fate\u2014only to find this is very real. Her defeat 200 years ago unleashed monsters of death, and the legend is one of terror. Now, trapped in the body of history's most feared conqueror, he must survive a world that wants her dead\u2026and uncover why he's here.",
-    "popularity": 12.2141,
+    "popularity": 11.6958,
     "poster_path": "/xh9lu8gDgzwMBiByTRtTsclluZf.jpg",
     "production_companies": [
         {

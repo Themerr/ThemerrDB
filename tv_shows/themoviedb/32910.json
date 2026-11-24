@@ -82,12 +82,6 @@
             "logo_path": "/4EZgFLjkBgDF93UUtP1Nw3BcGqE.png",
             "name": "Hub Network",
             "origin_country": "US"
-        },
-        {
-            "id": 5266,
-            "logo_path": "/7OTHJT2mOnMWFCwS7Qjc154IDAx.png",
-            "name": "The Hub",
-            "origin_country": ""
         }
     ],
     "next_episode_to_air": null,
@@ -99,7 +93,7 @@
     "original_language": "en",
     "original_name": "Transformers: Prime",
     "overview": "Roll out with Optimus Prime, Bumblebee, Arcee, Ratchet, Bulkhead, and the rest of the heroic Autobots as they battle the evil Decepticons. Now that big bad Megatron has returned with a mysterious and dangerous element, Team Prime must prepare for an epic battle.",
-    "popularity": 24.5756,
+    "popularity": 26.1553,
     "poster_path": "/ilOKsGRHYc78R2tSMusAd3xGJWq.jpg",
     "production_companies": [
         {
@@ -186,7 +180,7 @@
     "status": "Ended",
     "tagline": "",
     "type": "Scripted",
-    "vote_average": 8.098,
+    "vote_average": 8.1,
     "vote_count": 491,
     "youtube_theme_added": 1788460275,
     "youtube_theme_added_by": "15265925",

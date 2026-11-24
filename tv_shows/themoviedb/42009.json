@@ -41,12 +41,12 @@
         "id": 6085099,
         "name": "USS Callister: Into Infinity",
         "overview": "Nanette Cole and the crew of the USS Callister are stranded in an infinite virtual universe, fighting for survival against 30 million players.",
-        "production_code": "",
-        "runtime": 90,
+        "production_code": null,
+        "runtime": 91,
         "season_number": 7,
         "show_id": 42009,
         "still_path": "/6JxoU4B1VMYf2tt8VPpNl8juKwm.jpg",
-        "vote_average": 7.782,
+        "vote_average": 7.8,
         "vote_count": 133
     },
     "name": "Black Mirror",
@@ -73,7 +73,7 @@
     "original_language": "en",
     "original_name": "Black Mirror",
     "overview": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.",
-    "popularity": 2459.6753,
+    "popularity": 2831.5941,
     "poster_path": "/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
     "production_companies": [
         {
@@ -185,7 +185,7 @@
     "tagline": "The future is bright.",
     "type": "Scripted",
     "vote_average": 8.295,
-    "vote_count": 6727,
+    "vote_count": 6729,
     "youtube_theme_added": 1710008895,
     "youtube_theme_added_by": "6182107",
     "youtube_theme_edited": 1710008895,

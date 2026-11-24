@@ -40,8 +40,8 @@
         "season_number": 10,
         "show_id": 87012,
         "still_path": "/7KZ0OvLpJ4MiaD070v7gW2qXNud.jpg",
-        "vote_average": 0.0,
-        "vote_count": 0
+        "vote_average": 7.0,
+        "vote_count": 1
     },
     "name": "The Great British Bake Off",
     "networks": [
@@ -75,7 +75,7 @@
     "original_language": "en",
     "original_name": "The Great British Bake Off",
     "overview": "Britain's best amateur bakers compete in the iconic white tent - all united in their aim to prove their baking skills and impress judges Paul Hollywood and Prue Leith.",
-    "popularity": 16.982,
+    "popularity": 18.1127,
     "poster_path": "/zZBzkM3XXZHOauKlHSv3Vg6e4iZ.jpg",
     "production_companies": [
         {
@@ -200,7 +200,7 @@
             "overview": "Twelve new bakers and a brand-new judge... Nigella Lawson joins Paul Hollywood, Noel Fielding and Alison Hammond for more salivating Signatures, tantalising Technicals and sensational Showstoppers.",
             "poster_path": "/eOUpWMwYufgCN0AUIWwIyTyoWvI.jpg",
             "season_number": 10,
-            "vote_average": 7.6
+            "vote_average": 7.5
         }
     ],
     "softcore": false,

@@ -38,8 +38,8 @@
         "season_number": 1,
         "show_id": 333101,
         "still_path": "/1VM9sH9hMeMdWEtrQQl9ljzeRU4.jpg",
-        "vote_average": 4.286,
-        "vote_count": 7
+        "vote_average": 4.625,
+        "vote_count": 8
     },
     "name": "Treasure Island",
     "networks": [
@@ -59,7 +59,7 @@
     "original_language": "en",
     "original_name": "Treasure Island",
     "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate\u2019s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
-    "popularity": 23.0301,
+    "popularity": 19.9369,
     "poster_path": "/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
     "production_companies": [
         {
@@ -94,7 +94,7 @@
             "overview": "",
             "poster_path": "/mUTIJDtPfXFjF4YYsVBalomi4Ng.jpg",
             "season_number": 1,
-            "vote_average": 3.8
+            "vote_average": 4.1
         }
     ],
     "softcore": false,
