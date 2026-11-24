@@ -1,0 +1,205 @@
+{
+    "adult": false,
+    "backdrop_path": "/geoJ7FkV4NXAhZ7pYNCOWGYEBLV.jpg",
+    "created_by": [
+        {
+            "credit_id": "571a7e44c3a368525c002b86",
+            "gender": 2,
+            "id": 109542,
+            "name": "Christopher L. Yost",
+            "original_name": "Christopher L. Yost",
+            "profile_path": "/wPZAV6uK5t3MRd2gBt5AqBTzCsa.jpg"
+        },
+        {
+            "credit_id": "602c5e4097fdec003ef56c74",
+            "gender": 0,
+            "id": 1825129,
+            "name": "Romain Van Liemt",
+            "original_name": "Romain Van Liemt",
+            "profile_path": null
+        },
+        {
+            "credit_id": "602c5e2e713ed4003d4ec709",
+            "gender": 2,
+            "id": 58255,
+            "name": "Alexandre de La Patelli\u00e8re",
+            "original_name": "Alexandre de La Patelli\u00e8re",
+            "profile_path": "/er7ZbU5inozZfFmvpwswjujxBos.jpg"
+        },
+        {
+            "credit_id": "602c5e33c3bffe003e331bce",
+            "gender": 2,
+            "id": 87173,
+            "name": "Craig Kyle",
+            "original_name": "Craig Kyle",
+            "profile_path": "/kXtY46kM9bS8AlTXC2rD4u58v58.jpg"
+        }
+    ],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2009-04-24",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "http://www.dataquestinfoway.com/Website/3d_ironman.html",
+    "id": 7330,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2012-07-25",
+    "last_episode_to_air": {
+        "air_date": "2012-07-25",
+        "episode_number": 26,
+        "episode_type": "finale",
+        "id": 966823,
+        "name": "The Makluan Invasion Part 2: Unite!",
+        "overview": "Iron Man, War Machine and Rescue must unite Nick Fury, Hawkeye, Black Widow, Black Panther and the Hulk to stop the Makluan Overlord from destroying the Earth.",
+        "production_code": "",
+        "runtime": 22,
+        "season_number": 2,
+        "show_id": 7330,
+        "still_path": "/kQrmb5dOHgxh41au8ZjA5Co79KQ.jpg",
+        "vote_average": 4.0,
+        "vote_count": 1
+    },
+    "name": "Iron Man: Armored Adventures",
+    "networks": [
+        {
+            "id": 224,
+            "logo_path": "/xlUUkgMevNvnKXcZ5z7F6R2CaGw.png",
+            "name": "Nicktoons",
+            "origin_country": "US"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 52,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "CA",
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Iron Man: Armored Adventures",
+    "overview": "As Iron Man, teenage child prodigy Tony Stark uses his technological inventions to fight various similarly technologically advanced threats. His friends, James \"Rhodey\" Rhodes and Pepper Potts, help him on his courageous and dangerous adventures.",
+    "popularity": 9.8391,
+    "poster_path": "/kIJGgBwh37V2nfgnJFaN7zDIjdv.jpg",
+    "production_companies": [
+        {
+            "id": 7505,
+            "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
+            "name": "Marvel Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 13252,
+            "logo_path": "/aGeUvfSNA8gRl6ZjvmLQOsb7PMw.png",
+            "name": "Marvel Animation",
+            "origin_country": "US"
+        },
+        {
+            "id": 35136,
+            "logo_path": "/lhGOKiuEls3KiWigu1hbvrqUP68.png",
+            "name": "Method Animation",
+            "origin_country": "FR"
+        },
+        {
+            "id": 69349,
+            "logo_path": "/vsQwkM9yChCYrpR5fHeYlFM7FVm.png",
+            "name": "DQ Entertainment",
+            "origin_country": "IN"
+        },
+        {
+            "id": 31374,
+            "logo_path": "/fpTYf7mYfJUlPJ4SUKIxho9r6X8.png",
+            "name": "LuxAnimation",
+            "origin_country": "LU"
+        },
+        {
+            "id": 50164,
+            "logo_path": null,
+            "name": "Fabrique d'images",
+            "origin_country": "LU"
+        },
+        {
+            "id": 4608,
+            "logo_path": null,
+            "name": "New World Television",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IN",
+            "name": "India"
+        },
+        {
+            "iso_3166_1": "LU",
+            "name": "Luxembourg"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        },
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-04-24",
+            "episode_count": 26,
+            "id": 17510,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xCL3turAIJufCtrbcZcnGdPHL72.jpg",
+            "season_number": 1,
+            "vote_average": 5.7
+        },
+        {
+            "air_date": "2011-07-13",
+            "episode_count": 26,
+            "id": 17511,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/sBims3imQuR9OuSxfXlSqJoLkvV.jpg",
+            "season_number": 2,
+            "vote_average": 4.0
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.341,
+    "vote_count": 167,
+    "youtube_theme_added": 1795495956,
+    "youtube_theme_added_by": "91066652",
+    "youtube_theme_edited": 1795495956,
+    "youtube_theme_edited_by": "91066652",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=iWpiAG1f3JA"
+}
