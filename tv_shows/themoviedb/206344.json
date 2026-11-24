@@ -1,0 +1,150 @@
+{
+    "adult": false,
+    "backdrop_path": "/kRunIIWwTQDttT6PR5mHrM79zak.jpg",
+    "created_by": [
+        {
+            "credit_id": "62d7ead0caa508004f002625",
+            "gender": 2,
+            "id": 1014778,
+            "name": "Franck Thilliez",
+            "original_name": "Franck Thilliez",
+            "profile_path": "/r96sMI7f6uiXskjWQJm7UFYZOOq.jpg"
+        },
+        {
+            "credit_id": "62d7eadb2f8d090050eeecd3",
+            "gender": 0,
+            "id": 1652582,
+            "name": "Camille Couasse",
+            "original_name": "Camille Couasse",
+            "profile_path": null
+        },
+        {
+            "credit_id": "62d7eae7abf8e2004dfcbd2e",
+            "gender": 1,
+            "id": 3474499,
+            "name": "Sarah Farkas",
+            "original_name": "Sarah Farkas",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        52
+    ],
+    "first_air_date": "2023-01-02",
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.france.tv/france-2/vortex/",
+    "id": 206344,
+    "in_production": false,
+    "languages": [
+        "fr"
+    ],
+    "last_air_date": "2023-01-16",
+    "last_episode_to_air": {
+        "air_date": "2023-01-16",
+        "episode_number": 6,
+        "episode_type": "standard",
+        "id": 4113521,
+        "name": "Episode 6",
+        "overview": "In 1998, a panicked M\u00e9lanie is on the run from both Ludovic and Nathan. She seeks refuge in a place she thinks she is safe, but soon realizes what a mistake she has made, and in a last burst of energy and hope, flees and runs to the beach. Will she be able to escape her terrible fate?...",
+        "production_code": "",
+        "runtime": 54,
+        "season_number": 1,
+        "show_id": 206344,
+        "still_path": "/jN6Rgo1Qfk8Qk0loyb9tv8Av53y.jpg",
+        "vote_average": 7.8,
+        "vote_count": 4
+    },
+    "name": "Vortex",
+    "networks": [
+        {
+            "id": 361,
+            "logo_path": "/b1cFa5FcHHnpejKiPybXSPcqKjT.png",
+            "name": "France 2",
+            "origin_country": "FR"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "FR"
+    ],
+    "original_language": "fr",
+    "original_name": "Vortex",
+    "overview": "Two mysterious deaths. A rift in time. Sci-fi thriller about policeman Ludovic who risks everything when he tries to change the past.",
+    "popularity": 3.1841,
+    "poster_path": "/oYzNhRU2TFWrqeW6umtdhv11ePH.jpg",
+    "production_companies": [
+        {
+            "id": 792,
+            "logo_path": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
+            "name": "RTBF",
+            "origin_country": "BE"
+        },
+        {
+            "id": 14027,
+            "logo_path": null,
+            "name": "AT-Production",
+            "origin_country": "BE"
+        },
+        {
+            "id": 183632,
+            "logo_path": null,
+            "name": "Quad Drama",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "BE",
+            "name": "Belgium"
+        },
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-01-02",
+            "episode_count": 6,
+            "id": 301443,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 7.6
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Fran\u00e7ais"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 6.841,
+    "vote_count": 66,
+    "youtube_theme_added": 1795494748,
+    "youtube_theme_added_by": "220218854",
+    "youtube_theme_edited": 1795494748,
+    "youtube_theme_edited_by": "220218854",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=NLzQd72w8e0"
+}
