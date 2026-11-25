@@ -6,10 +6,12 @@ from dataclasses import dataclass
 from datetime import datetime, timezone
 from html import escape
 import json
+from math import floor
 from operator import itemgetter
 import os
 from queue import Queue
 import re
+from statistics import mean
 import sys
 import threading
 import time
@@ -21,6 +23,7 @@ from urllib.parse import quote
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 from igdb.wrapper import IGDBWrapper
+from iso3166 import countries_by_numeric
 import isodate
 import requests
 import matplotlib
@@ -117,6 +120,8 @@ ANIME_GENRE_ID = 16
 ANIME_LANGUAGE_CODES = {'ja', 'zh'}
 ANIME_COUNTRY_CODES = {'CN', 'JP'}
 ANIME_MARKER_FILENAME = 'anime'
+ISSUE_LABELS_FILENAME = 'issue-labels.json'
+IGDB_ISSUE_GAME_FIELDS = ('involved_companies.company.country', 'involved_companies.developer', 'total_rating')
 ISSUE_AUTHOR_BADGE_STYLE = 'for-the-badge'
 ISSUE_AUTHOR_BADGES = {
     'contributions': {
@@ -983,6 +988,9 @@ def _load_igdb_item_data(item_type: str, item_id: int | str) -> tuple[str, int |
 
     endpoint = databases[item_type]['api_endpoint']
     fields = databases[item_type]['api_fields']
+    if getattr(args, 'issue_update', False):
+        prefix = '' if item_type == 'game' else 'games.'
+        fields = fields + [f'{prefix}{field}' for field in IGDB_ISSUE_GAME_FIELDS]
 
     igdb_limiter.wait()  # Apply IGDB rate limiting
     byte_array = get_igdb_wrapper().api_request(
@@ -1262,6 +1270,22 @@ def _string_values(value: object) -> set[str]:
     return set()
 
 
+def _metadata_objects(value: object) -> list[dict]:
+    """Return expanded metadata objects from a provider's list field."""
+    if isinstance(value, list):
+        return [entry for entry in value if isinstance(entry, dict)]
+    return []
+
+
+def _tmdb_production_country_codes(item: dict) -> set[str]:
+    """Return TMDB's production country codes."""
+    return {
+        country['iso_3166_1']
+        for country in _metadata_objects(item.get('production_countries'))
+        if isinstance(country.get('iso_3166_1'), str)
+    }
+
+
 def _is_anime(item_type: str, json_data: dict) -> bool:
     """Return whether TMDB metadata identifies an animated Japanese or Chinese item."""
     if item_type not in {'movie', 'tv_show'}:
@@ -1292,11 +1316,7 @@ def _is_anime(item_type: str, json_data: dict) -> bool:
         code.upper()
         for code in (
             _string_values(json_data.get('origin_country')) |
-            {
-                country.get('iso_3166_1')
-                for country in json_data.get('production_countries', [])
-                if isinstance(country, dict) and isinstance(country.get('iso_3166_1'), str)
-            }
+            _tmdb_production_country_codes(json_data)
         )
     }
 
@@ -1310,8 +1330,47 @@ def _write_anime_marker(item_type: str, json_data: dict) -> None:
             anime_f.write('true\n')
 
 
+def _igdb_developer_country_codes(game: dict) -> set[str]:
+    """Convert the countries of a game's developers to two-letter ISO codes."""
+    countries = set()
+    for involvement in _metadata_objects(game.get('involved_companies')):
+        company = involvement.get('company')
+        if involvement.get('developer') is True and isinstance(company, dict):
+            country = countries_by_numeric.get(str(company.get('country')).zfill(3))
+            if country:
+                countries.add(country.alpha2)
+    return countries
+
+
+def _build_issue_labels(item_type: str, item: dict, title: str) -> list[str]:
+    """Build labels from the generated title and the provider's available metadata."""
+    labels = [f"type:{title.split(']', 1)[0][1:]}"]
+
+    if item_type.startswith('game'):
+        games = [item] if item_type == 'game' else _metadata_objects(item.get('games'))
+        countries = {code for game in games for code in _igdb_developer_country_codes(game)}
+        ratings = [game.get('total_rating') for game in games]
+        scale = 10
+    else:
+        members = [item, *_metadata_objects(item.get('parts'))]
+        countries = {
+            code.upper()
+            for member in members
+            for code in (_string_values(member.get('origin_country')) or _tmdb_production_country_codes(member))
+            if re.fullmatch(r'[a-zA-Z]{2}', code)
+        }
+        ratings = [member.get('vote_average') for member in members if member.get('vote_count') != 0]
+        scale = 1
+
+    labels.extend(f'country:{code}' for code in sorted(countries))
+    scores = [rating / scale for rating in ratings if type(rating) in (int, float) and 0 <= rating <= 10 * scale]
+    if scores:
+        labels.append(f'rating:{floor(mean(scores) + 0.5)}')
+    return labels
+
+
 def _write_issue_metadata_files(item_type: str, json_data: dict, youtube_url: Optional[str]) -> None:
-    """Write the issue comment and title files for an issue update."""
+    """Write the issue comment, title, and labels for an issue update."""
     metadata = _build_issue_metadata(item_type=item_type, json_data=json_data)
     issue_comment = f"""
 | Property | Value |
@@ -1328,6 +1387,9 @@ def _write_issue_metadata_files(item_type: str, json_data: dict, youtube_url: Op
 
     with open("title.md", "w") as title_f:
         title_f.write(metadata['issue_title'])
+
+    with open(ISSUE_LABELS_FILENAME, 'w', encoding='utf-8') as labels_file:
+        json.dump(_build_issue_labels(item_type=item_type, item=json_data, title=metadata['issue_title']), labels_file)
 
 
 def _has_replacement_request(issue_submission: Optional[dict]) -> bool:
@@ -1456,6 +1518,10 @@ def process_item_id(item_type: str,
                     youtube_url=youtube_url,
                     issue_submission=issue_submission,
                 )
+                if item_type.startswith('game'):
+                    # IGDB's expanded label metadata is only used by the request workflow.
+                    for field in ('games', 'involved_companies', 'total_rating'):
+                        json_data.pop(field, None)
 
         # update the existing dictionary with new values from json_data
         og_data.update(json_data)

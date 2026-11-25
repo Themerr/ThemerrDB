@@ -37,18 +37,30 @@ def mock_igdb_api(monkeypatch):
         'release_dates': [{'y': 1997}],
         'cover': {'url': '//images.igdb.com/igdb/image/upload/t_thumb/co1.jpg'},
         'summary': 'A game summary.',
+        'total_rating': 85,
+        'involved_companies': [
+            {'developer': True, 'company': {'country': 826}},
+            {'developer': True, 'company': {'country': 826}},
+            {'developer': True, 'company': {'country': 392}},
+            {'developer': True, 'company': {'country': 999}},
+            {'developer': True, 'company': 2},
+            {'publisher': True, 'company': {'country': 840}},
+            1,
+        ],
         'url': 'https://www.igdb.com/games/goldeneye-007',
     }
     collection = {
         'id': 326,
         'name': 'James Bond',
         'slug': 'james-bond',
+        'games': [game, {'total_rating': 75}, 1],
         'url': 'https://www.igdb.com/collections/james-bond',
     }
     franchise = {
         'id': 37,
         'name': 'James Bond',
         'slug': 'james-bond',
+        'games': [game, {'total_rating': 100}, {'total_rating': 100}, {'total_rating': None}, {'total_rating': 101}],
         'url': 'https://www.igdb.com/franchises/james-bond',
     }
     response_by_endpoint = {
@@ -81,6 +93,9 @@ def mock_tmdb_api(monkeypatch):
             'release_date': '1995-11-16',
             'poster_path': '/goldeneye.jpg',
             'overview': 'A movie summary.',
+            'origin_country': ['gb', 'GB', 'US', None, 'invalid'],
+            'production_countries': [{'iso_3166_1': 'JP'}],
+            'vote_average': 6.5,
         },
         'movie/10378': {
             'id': 10378,
@@ -95,6 +110,11 @@ def mock_tmdb_api(monkeypatch):
             'name': 'James Bond Collection',
             'poster_path': '/james-bond.jpg',
             'overview': 'A collection summary.',
+            'parts': [
+                {'vote_average': 7.8, 'vote_count': 100},
+                {'vote_average': 8.4, 'vote_count': 150},
+                {'vote_average': 0, 'vote_count': 0},
+            ],
         },
         'tv/1930': {
             'id': 1930,
@@ -102,6 +122,9 @@ def mock_tmdb_api(monkeypatch):
             'first_air_date': '1962-09-26',
             'poster_path': '/beverly-hillbillies.jpg',
             'overview': 'A TV summary.',
+            'production_countries': [{'iso_3166_1': 'US'}],
+            'vote_average': 0.2,
+            'vote_count': 3,
         },
     }
 
@@ -582,18 +605,23 @@ def test_match_database_url_returns_all_misses_for_unsupported_url():
     assert [exception[0] for exception in exceptions] == list(updater.DATABASE_URL_PATTERNS)
 
 
-@pytest.mark.parametrize('db_url, db_type', [
-    # url, expected item type
-    ('https://www.igdb.com/games/goldeneye-007', 'game'),
-    ('https://www.igdb.com/collections/james-bond', 'game_collection'),
-    ('https://www.igdb.com/franchises/james-bond', 'game_franchise'),
-    ('https://www.themoviedb.org/movie/10378-big-buck-bunny', 'movie'),
-    ('https://www.themoviedb.org/collection/645-james-bond-collection', 'movie_collection'),
-    ('https://www.themoviedb.org/tv/1930-the-beverly-hillbillies', 'tv_show'),
+@pytest.mark.parametrize('db_url, db_type, expected_labels', [
+    ('https://www.igdb.com/games/goldeneye-007', 'game', ['type:GAME', 'country:GB', 'country:JP', 'rating:9']),
+    ('https://www.igdb.com/collections/james-bond', 'game_collection',
+     ['type:GAME COLLECTION', 'country:GB', 'country:JP', 'rating:8']),
+    ('https://www.igdb.com/franchises/james-bond', 'game_franchise',
+     ['type:GAME FRANCHISE', 'country:GB', 'country:JP', 'rating:10']),
+    ('https://www.themoviedb.org/movie/710-goldeneye', 'movie', ['type:MOVIE', 'country:GB', 'country:US', 'rating:7']),
+    ('https://www.themoviedb.org/movie/10378-big-buck-bunny', 'movie', ['type:MOVIE']),
+    ('https://www.themoviedb.org/collection/645-james-bond-collection', 'movie_collection',
+     ['type:MOVIE COLLECTION', 'rating:8']),
+    ('https://www.themoviedb.org/tv/1930-the-beverly-hillbillies', 'tv_show',
+     ['type:TV SHOW', 'country:US', 'rating:0']),
 ])
 def test_process_issue_update(
         db_url,
         db_type,
+        expected_labels,
         issue_update_args,
         mock_igdb_api,
         mock_tmdb_api,
@@ -602,18 +630,21 @@ def test_process_issue_update(
         tmp_path,
         monkeypatch,
 ):
-    """Test the provided submission urls and verify they are the correct item type."""
+    """Test submission routing and the workflow's generated metadata labels."""
     monkeypatch.chdir(tmp_path)
 
     data = updater.process_issue_update(database_url=db_url, youtube_url=youtube_url)
 
     assert data == db_type
+    assert json.loads((tmp_path / 'issue-labels.json').read_text(encoding='utf-8')) == expected_labels
     comment = (tmp_path / 'comment.md').read_text(encoding='utf-8')
     assert f'| youtube_theme_url | {youtube_url} |' in comment
 
     generated_theme_urls = []
     for item_file in (tmp_path / 'database').rglob('*.json'):
         item_data = json.loads(item_file.read_text(encoding='utf-8'))
+        if db_type.startswith('game'):
+            assert not item_data.keys() & {'games', 'involved_companies', 'total_rating'}
         if 'youtube_theme_url' in item_data:
             generated_theme_urls.append(item_data['youtube_theme_url'])
 
@@ -1306,6 +1337,10 @@ def test_process_item_id_igdb_issue_update_writes_metadata(
     def api_request(endpoint, query):
         assert endpoint == expected_endpoint
         assert item_id in query
+        prefix = '' if item_type == 'game' else 'games.'
+        assert f'{prefix}involved_companies.company.country' in query
+        assert f'{prefix}involved_companies.developer' in query
+        assert f'{prefix}total_rating' in query
         return json.dumps([response])
 
     monkeypatch.setattr(updater, 'wrapper', type('Wrapper', (), {'api_request': staticmethod(api_request)})())
