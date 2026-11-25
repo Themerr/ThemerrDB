@@ -1437,6 +1437,25 @@ def _update_issue_audit_data(og_data: dict,
         _write_auto_close_message(message=DUPLICATE_NO_REPLACEMENT_REASON_CLOSE_MESSAGE)
 
 
+def _apply_issue_update(item_type: str,
+                        json_data: dict,
+                        og_data: dict,
+                        youtube_url: Optional[str],
+                        issue_submission: Optional[dict]) -> None:
+    """Write request artifacts and audit data, then remove request-only IGDB fields."""
+    _write_anime_marker(item_type=item_type, json_data=json_data)
+    _write_issue_metadata_files(item_type=item_type, json_data=json_data, youtube_url=youtube_url)
+    _update_issue_audit_data(
+        og_data=og_data,
+        item_type=item_type,
+        youtube_url=youtube_url,
+        issue_submission=issue_submission,
+    )
+    if item_type.startswith('game'):
+        for field in ('games', 'involved_companies', 'total_rating'):
+            json_data.pop(field, None)
+
+
 def _build_database_json_path(base_dir: str, item_id: int | str, pattern: re.Pattern, label: str) -> str:
     """Build a database JSON path from an expected identifier format."""
     item_id_text = str(item_id)
@@ -1506,22 +1525,13 @@ def process_item_id(item_type: str,
             pass
         else:
             if args.issue_update:
-                _write_anime_marker(item_type=item_type, json_data=json_data)
-                _write_issue_metadata_files(
+                _apply_issue_update(
                     item_type=item_type,
                     json_data=json_data,
-                    youtube_url=youtube_url,
-                )
-                _update_issue_audit_data(
                     og_data=og_data,
-                    item_type=item_type,
                     youtube_url=youtube_url,
                     issue_submission=issue_submission,
                 )
-                if item_type.startswith('game'):
-                    # IGDB's expanded label metadata is only used by the request workflow.
-                    for field in ('games', 'involved_companies', 'total_rating'):
-                        json_data.pop(field, None)
 
         # update the existing dictionary with new values from json_data
         og_data.update(json_data)
