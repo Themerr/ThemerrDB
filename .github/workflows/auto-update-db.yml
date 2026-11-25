@@ -133,6 +133,10 @@ jobs:
           fi
           echo "anime=${anime}" >> "${GITHUB_OUTPUT}"
 
+          if [ -f issue-labels.json ]; then
+            echo "metadata_labels=$(cat issue-labels.json)" >> "${GITHUB_OUTPUT}"
+          fi
+
           # if auto_close.md file exists, then set output to true
           auto_close=false
           if [ -f auto_close.md ]; then
@@ -193,6 +197,7 @@ jobs:
           AUTO_CLOSE: ${{ steps.outputs.outputs.auto_close == 'true' || steps.open_duplicate.outputs.result == 'true' }}
           DUPLICATE: ${{ steps.outputs.outputs.duplicate == 'true' || steps.open_duplicate.outputs.result == 'true' }}
           EXCEPTION: ${{ steps.outputs.outputs.exception }}
+          METADATA_LABELS: ${{ steps.outputs.outputs.metadata_labels }}
         with:
           github-token: ${{ secrets.GH_BOT_TOKEN }}
           result-encoding: string

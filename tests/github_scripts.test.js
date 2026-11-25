@@ -1272,6 +1272,94 @@ describe('update labels script', () => {
     }))
   })
 
+  test('refreshes metadata labels while preserving workflow and manual labels', async () => {
+    const metadata = ['type:TV SHOW', 'country:CA', 'country:US', 'rating:9']
+    process.env.METADATA_LABELS = JSON.stringify(metadata)
+    const github = {
+      rest: {
+        issues: {
+          listLabelsOnIssue: jest.fn(async () => labels(
+            'request-theme', 'custom', 'type:MOVIE', 'country:GB', 'country:US', 'rating:7'
+          )),
+          getLabel: jest.fn(async ({name}) => {
+            if (name === 'country:CA') {
+              throw Object.assign(new Error('Missing label'), {status: 404})
+            }
+          }),
+          createLabel: jest.fn(),
+          setLabels: jest.fn()
+        }
+      }
+    }
+
+    await updateLabels.run({github, context})
+
+    expect(github.rest.issues.getLabel).toHaveBeenCalledTimes(3)
+    expect(github.rest.issues.createLabel).toHaveBeenCalledTimes(1)
+    expect(github.rest.issues.createLabel).toHaveBeenCalledWith(expect.objectContaining({
+      name: 'country:CA',
+      color: '0e8a16'
+    }))
+    expect(github.rest.issues.setLabels).toHaveBeenCalledWith(expect.objectContaining({
+      labels: ['request-theme', 'custom', ...metadata]
+    }))
+  })
+
+  test('reuses a repository label created by a concurrent run', async () => {
+    process.env.METADATA_LABELS = '["type:MOVIE"]'
+    const github = {
+      rest: {
+        issues: {
+          listLabelsOnIssue: jest.fn(async () => labels()),
+          getLabel: jest.fn()
+            .mockRejectedValueOnce(Object.assign(new Error('Missing label'), {status: 404}))
+            .mockResolvedValueOnce({}),
+          createLabel: jest.fn().mockRejectedValueOnce(Object.assign(new Error('Already exists'), {status: 422})),
+          setLabels: jest.fn()
+        }
+      }
+    }
+
+    await updateLabels.run({github, context})
+
+    expect(github.rest.issues.getLabel).toHaveBeenCalledTimes(2)
+    expect(github.rest.issues.setLabels).toHaveBeenCalledWith(expect.objectContaining({labels: ['type:MOVIE']}))
+  })
+
+  test.each([['getLabel', 403], ['createLabel', 500]])('propagates %s errors with status %s', async (method, status) => {
+    process.env.METADATA_LABELS = '["type:MOVIE"]'
+    const error = Object.assign(new Error('GitHub request failed'), {status})
+    const issues = {
+      listLabelsOnIssue: jest.fn(async () => labels()),
+      getLabel: jest.fn().mockRejectedValueOnce(Object.assign(new Error('Missing label'), {status: 404})),
+      createLabel: jest.fn(),
+      setLabels: jest.fn()
+    }
+    issues[method] = jest.fn().mockRejectedValueOnce(error)
+
+    await expect(updateLabels.run({github: {rest: {issues}}, context})).rejects.toBe(error)
+    expect(issues.setLabels).not.toHaveBeenCalled()
+  })
+
+  test('keeps existing metadata labels when the updater generates no label artifact', async () => {
+    delete process.env.METADATA_LABELS
+    process.env.EXCEPTION = 'true'
+    const github = {
+      rest: {
+        issues: {
+          listLabelsOnIssue: jest.fn(async () => labels('request-theme', 'country:US', 'rating:9')),
+          setLabels: jest.fn()
+        }
+      }
+    }
+
+    await updateLabels.run({github, context})
+
+    expect(github.rest.issues.setLabels).toHaveBeenCalledWith(expect.objectContaining({
+      labels: ['request-theme', 'country:US', 'rating:9', 'exception']
+    }))
+  })
+
   test('removes approval label when auto-close is active', async () => {
     process.env.AUTO_CLOSE = 'true'
     process.env.EXCEPTION = 'false'

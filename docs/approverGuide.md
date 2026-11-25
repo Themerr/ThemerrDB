@@ -19,6 +19,12 @@ The following guide is meant for authorized Themerr approvers to use when approv
     - The title of the item should follow it. If it is a Movie, TV Show, or Game, it will have the year in parenthesis.
       Collections and Franchises will not have the year.
 
+    - Use labels such as `type:MOVIE`, `country:US`, and `rating:9` to filter the queue. Requests can have several
+      country labels. Movies and TV shows use TMDB origin countries, with production countries as a fallback.
+      Games use the countries of their developers in IGDB.
+    - Ratings use TMDB vote averages or IGDB total ratings, rounded to a whole number out of 10. Collections and
+      franchises use the average of their rated members. Country and rating labels appear when that metadata is available.
+
 3. Check if the issue has an exception
 
     - An exception is indicated a couple ways:
