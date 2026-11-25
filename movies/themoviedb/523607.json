@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Maestro",
     "overview": "A towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
-    "popularity": 3.5548,
+    "popularity": 3.9602,
     "poster_path": "/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg",
     "production_companies": [
         {
@@ -57,7 +57,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2023-11-22",
@@ -73,7 +73,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "Spanish",

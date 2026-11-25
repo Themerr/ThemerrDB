@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Deadpool 2",
     "overview": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
-    "popularity": 17.7882,
+    "popularity": 19.1351,
     "poster_path": "/gyfPKfFYcVW54MoqhYlwwDDIfJR.jpg",
     "production_companies": [
         {
@@ -62,7 +62,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2018-05-15",
@@ -83,7 +83,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "Spanish",
@@ -95,8 +95,8 @@
     "tagline": "Prepare for the Second Coming.",
     "title": "Deadpool 2",
     "video": false,
-    "vote_average": 7.487,
-    "vote_count": 19968,
+    "vote_average": 7.5,
+    "vote_count": 19969,
     "youtube_theme_added": 1675721471,
     "youtube_theme_added_by": "87816856",
     "youtube_theme_edited": 1792696441,

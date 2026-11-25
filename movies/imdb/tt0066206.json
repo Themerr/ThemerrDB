@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Patton",
     "overview": "\"Patton\" tells the tale of General George S. Patton, famous tank commander of World War II. The film begins with Patton's career in North Africa and progresses through the invasion of Germany and the fall of the Third Reich. Side plots also speak of Patton's numerous faults such his temper and habit towards insubordination.",
-    "popularity": 4.771,
+    "popularity": 4.7885,
     "poster_path": "/rLM7jIEPTjj4CF7F1IrzzNjLUCu.jpg",
     "production_companies": [
         {
@@ -44,7 +44,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1970-01-25",
@@ -65,12 +65,12 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Italian",

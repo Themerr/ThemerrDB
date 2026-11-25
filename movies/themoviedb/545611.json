@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Everything Everywhere All at Once",
     "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
-    "popularity": 20.3678,
+    "popularity": 20.4433,
     "poster_path": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
     "production_companies": [
         {
@@ -63,7 +63,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2022-03-24",
@@ -77,9 +77,9 @@
             "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
         },
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         },
         {
             "english_name": "English",
@@ -91,8 +91,8 @@
     "tagline": "The universe is so much bigger than you realize.",
     "title": "Everything Everywhere All at Once",
     "video": false,
-    "vote_average": 7.7,
-    "vote_count": 8701,
+    "vote_average": 7.712,
+    "vote_count": 8702,
     "youtube_theme_added": 1675723817,
     "youtube_theme_added_by": "87816856",
     "youtube_theme_edited": 1675723817,

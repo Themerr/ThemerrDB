@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Fast & Furious 6",
     "overview": "Hobbs has Dominic and Brian reassemble their crew to take down a team of mercenaries; Dominic unexpectedly gets sidetracked with facing his presumed deceased girlfriend, Letty.",
-    "popularity": 1.1993,
+    "popularity": 1.1551,
     "poster_path": "/thSmnRdrzPBBospIOJjLZBReqzo.jpg",
     "production_companies": [
         {
@@ -62,7 +62,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2013-05-21",
@@ -76,7 +76,7 @@
             "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
         },
         {
-            "english_name": "Dutch",
+            "english_name": "Dutch; Flemish",
             "iso_639_1": "nl",
             "name": "Nederlands"
         },
@@ -93,7 +93,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "Spanish",
@@ -106,7 +106,7 @@
     "title": "Fast & Furious 6",
     "video": false,
     "vote_average": 6.812,
-    "vote_count": 11504,
+    "vote_count": 11505,
     "youtube_theme_added": 1707540181,
     "youtube_theme_added_by": "138120670",
     "youtube_theme_edited": 1707540181,

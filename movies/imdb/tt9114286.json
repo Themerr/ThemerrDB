@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Black Panther: Wakanda Forever",
     "overview": "Queen Ramonda, Shuri, M\u2019Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T\u2019Challa\u2019s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
-    "popularity": 20.098,
+    "popularity": 21.4787,
     "poster_path": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
     "production_companies": [
         {
@@ -44,7 +44,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2022-11-09",
@@ -60,10 +60,10 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
-            "english_name": "Haitian; Haitian Creole",
+            "english_name": "Haitian",
             "iso_639_1": "ht",
             "name": ""
         },
@@ -82,8 +82,8 @@
     "tagline": "Forever.",
     "title": "Black Panther: Wakanda Forever",
     "video": false,
-    "vote_average": 7.0,
-    "vote_count": 7973,
+    "vote_average": 6.977,
+    "vote_count": 7974,
     "youtube_theme_added": 1675725987,
     "youtube_theme_added_by": "77867056",
     "youtube_theme_edited": 1675725987,

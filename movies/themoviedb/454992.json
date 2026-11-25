@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "The Spy Who Dumped Me",
     "overview": "A couple of thirtysomething best friends unwittingly become entangled in an international conspiracy when one\u2019s ex-boyfriend shows up at their apartment with a team of deadly assassins on his trail.",
-    "popularity": 5.3502,
+    "popularity": 5.283,
     "poster_path": "/szEKivKPOdRyogROoQIldwbMl.jpg",
     "production_companies": [
         {
@@ -45,7 +45,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2018-08-02",
@@ -61,7 +61,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "German",
@@ -76,7 +76,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         }
     ],
     "status": "Released",

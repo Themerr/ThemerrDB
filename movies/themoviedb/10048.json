@@ -18,7 +18,7 @@
     "original_language": "en",
     "original_title": "Stealth",
     "overview": "Deeply ensconced in a top-secret military program, three pilots struggle to bring an artificial intelligence program under control ... before it initiates the next world war.",
-    "popularity": 3.8112,
+    "popularity": 3.9957,
     "poster_path": "/cVtQHyTwaDhYFVRFXSuDthC2bXH.jpg",
     "production_companies": [
         {
@@ -43,7 +43,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2005-07-27",
@@ -59,12 +59,12 @@
         {
             "english_name": "Korean",
             "iso_639_1": "ko",
-            "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+            "name": "\ud55c\uad6d\uc5b4"
         },
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "Spanish",
@@ -76,8 +76,8 @@
     "tagline": "Fear the sky",
     "title": "Stealth",
     "video": false,
-    "vote_average": 5.5,
-    "vote_count": 1232,
+    "vote_average": 5.464,
+    "vote_count": 1233,
     "youtube_theme_added": 1723057768,
     "youtube_theme_added_by": "118304977",
     "youtube_theme_edited": 1723057768,

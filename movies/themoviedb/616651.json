@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Stillwater",
     "overview": "Bill Baker, an American oil-rig roughneck from Oklahoma, travels to Marseille to visit his estranged daughter, Allison, who is in prison for a murder she claims she did not commit. Confronted with language barriers, cultural differences, and a complicated legal system, Bill builds a new life for himself in France as he makes it his personal mission to exonerate his daughter.",
-    "popularity": 4.7878,
+    "popularity": 4.8034,
     "poster_path": "/1lrPR7ah1KElPKnCsxmIRE1OlIh.jpg",
     "production_companies": [
         {
@@ -85,7 +85,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2021-07-29",
@@ -101,7 +101,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Spanish",

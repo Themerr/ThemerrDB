@@ -35,7 +35,7 @@
     "original_language": "en",
     "original_title": "The Hitman's Bodyguard",
     "overview": "The world\u2019s top bodyguard gets a new client, a hitman who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.",
-    "popularity": 10.2347,
+    "popularity": 10.7076,
     "poster_path": "/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg",
     "production_companies": [
         {
@@ -108,11 +108,11 @@
         },
         {
             "iso_3166_1": "HK",
-            "name": "Hong Kong"
+            "name": "Hong Kong SAR China"
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         },
         {
             "iso_3166_1": "GB",
@@ -127,7 +127,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "English",
@@ -137,15 +137,15 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         }
     ],
     "status": "Released",
     "tagline": "Everyone's out to get them... If they don't kill each other first.",
     "title": "The Hitman's Bodyguard",
     "video": false,
-    "vote_average": 6.894,
-    "vote_count": 6928,
+    "vote_average": 6.895,
+    "vote_count": 6929,
     "youtube_theme_added": 1715724866,
     "youtube_theme_added_by": "24813161",
     "youtube_theme_edited": 1715724866,

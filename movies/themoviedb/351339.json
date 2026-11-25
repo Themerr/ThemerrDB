@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Anthropoid",
     "overview": "In December 1941, Czech soldiers Jozef Gab\u010d\u00edk and Jan Kubi\u0161 parachute into their occupied homeland to assassinate Nazi officer Reinhard Heydrich.",
-    "popularity": 3.0988,
+    "popularity": 3.39,
     "poster_path": "/5hUghRVVkBYufftfNQkGevY5AmE.jpg",
     "production_companies": [
         {
@@ -66,7 +66,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         },
         {
             "iso_3166_1": "GB",
@@ -81,7 +81,7 @@
         {
             "english_name": "Czech",
             "iso_639_1": "cs",
-            "name": "\u010cesk\u00fd"
+            "name": "\u010de\u0161tina"
         },
         {
             "english_name": "German",

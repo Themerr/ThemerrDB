@@ -22,7 +22,7 @@
     "original_language": "en",
     "original_title": "Syriana",
     "overview": "The Middle Eastern oil industry is the backdrop of this tense drama, which weaves together numerous story lines. Bennett Holiday is an American lawyer in charge of facilitating a dubious merger of oil companies, while Bryan Woodman, a Switzerland-based energy analyst, experiences both personal tragedy and opportunity during a visit with Arabian royalty. Meanwhile, veteran CIA agent Bob Barnes uncovers an assassination plot with unsettling origins.",
-    "popularity": 3.6486,
+    "popularity": 3.3439,
     "poster_path": "/mO3hWUTOxmLJxihvDU0YFkb0Mb5.jpg",
     "production_companies": [
         {
@@ -65,7 +65,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2005-11-23",
@@ -96,12 +96,12 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         }
     ],
     "status": "Released",

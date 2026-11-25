@@ -26,7 +26,7 @@
     "original_language": "ko",
     "original_title": "\uc124\uad6d\uc5f4\ucc28",
     "overview": "In a future where a failed global-warming experiment kills off most life on the planet, a class system evolves aboard the Snowpiercer; a train that travels around the globe via a perpetual-motion engine.",
-    "popularity": 14.1442,
+    "popularity": 14.7236,
     "poster_path": "/kw6YQudA0TMcNmGUGy5XIw7zbnV.jpg",
     "production_companies": [
         {
@@ -73,7 +73,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Japanese",
@@ -83,7 +83,7 @@
         {
             "english_name": "Korean",
             "iso_639_1": "ko",
-            "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+            "name": "\ud55c\uad6d\uc5b4"
         }
     ],
     "status": "Released",
@@ -91,7 +91,7 @@
     "title": "Snowpiercer",
     "video": false,
     "vote_average": 6.91,
-    "vote_count": 10860,
+    "vote_count": 10861,
     "youtube_theme_added": 1675702486,
     "youtube_theme_added_by": "15357950",
     "youtube_theme_edited": 1675702486,

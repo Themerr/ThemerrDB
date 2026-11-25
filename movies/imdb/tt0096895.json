@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Batman",
     "overview": "Having witnessed his parents' brutal murder as a child, millionaire philanthropist Bruce Wayne fights crime in Gotham City disguised as Batman, a costumed hero who strikes fear into the hearts of villains. But when a deformed madman known as 'The Joker' seizes control of Gotham's criminal underworld, Batman must face his most ruthless nemesis ever while protecting both his identity and his love interest, reporter Vicki Vale.",
-    "popularity": 11.2657,
+    "popularity": 10.8621,
     "poster_path": "/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
     "production_companies": [
         {
@@ -56,7 +56,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1989-06-21",
@@ -72,7 +72,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",

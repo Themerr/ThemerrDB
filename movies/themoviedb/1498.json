@@ -39,7 +39,7 @@
     "original_language": "en",
     "original_title": "Teenage Mutant Ninja Turtles",
     "overview": "A quartet of humanoid turtles, trained by their mentor in Ninjutsu, must learn to work together to face the menace of Shredder and the Foot Clan.",
-    "popularity": 8.0969,
+    "popularity": 7.934,
     "poster_path": "/shfAU6xIIEAEtsloIT3n9Fscz2E.jpg",
     "production_companies": [
         {
@@ -58,11 +58,11 @@
     "production_countries": [
         {
             "iso_3166_1": "HK",
-            "name": "Hong Kong"
+            "name": "Hong Kong SAR China"
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1990-03-30",
@@ -73,7 +73,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "English",

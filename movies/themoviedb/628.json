@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Interview with the Vampire",
     "overview": "A vampire relates his epic life story of love, betrayal, loneliness, and dark hunger to an over-curious reporter.",
-    "popularity": 9.2732,
+    "popularity": 9.4448,
     "poster_path": "/t7NU8IcmcNBrlunCxiycX9JV7Rp.jpg",
     "production_companies": [
         {
@@ -44,7 +44,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1994-11-11",
@@ -60,7 +60,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",

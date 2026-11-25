@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Firefox",
     "overview": "The Soviets have developed a revolutionary new jet fighter, called 'Firefox'. Worried that the jet will be used as a first-strike weapon\u2014as there are rumours that it is undetectable by radar\u2014the British send ex-Vietnam War pilot, Mitchell Gant on a covert mission into the Soviet Union to steal the Firefox.",
-    "popularity": 3.32,
+    "popularity": 3.6686,
     "poster_path": "/xP6VaKdFEriMzPXe3j5YyDF3ryS.jpg",
     "production_companies": [
         {
@@ -39,7 +39,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1982-06-18",
@@ -50,7 +50,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "English",

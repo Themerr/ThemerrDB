@@ -64,7 +64,7 @@
     "original_language": "fr",
     "original_name": "Has Fallen",
     "overview": "A protection officer and an MI6 operative team up after a terrorist attack. They suspect a mole as they race to thwart a larger conspiracy threatening Paris.",
-    "popularity": 16.1276,
+    "popularity": 16.8045,
     "poster_path": "/eyK6fy2NWfjmyBjUvRAR14FynPK.jpg",
     "production_companies": [
         {
@@ -113,7 +113,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "seasons": [
@@ -143,7 +143,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "English",

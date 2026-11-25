@@ -22,7 +22,7 @@
     "original_language": "en",
     "original_title": "Moonfall",
     "overview": "A mysterious force knocks the moon from its orbit around Earth and sends it hurtling on a collision course with life as we know it.",
-    "popularity": 6.1803,
+    "popularity": 6.6898,
     "poster_path": "/odVv1sqVs0KxBXiA8bhIBlPgalx.jpg",
     "production_companies": [
         {
@@ -65,7 +65,7 @@
     "production_countries": [
         {
             "iso_3166_1": "HK",
-            "name": "Hong Kong"
+            "name": "Hong Kong SAR China"
         },
         {
             "iso_3166_1": "GB",
@@ -73,7 +73,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2022-02-02",
@@ -84,7 +84,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "English",
@@ -92,9 +92,9 @@
             "name": "English"
         },
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         }
     ],
     "status": "Released",

@@ -35,7 +35,7 @@
     "original_language": "en",
     "original_title": "Blade II",
     "overview": "Blade forms an uneasy alliance with the vampire council in order to combat the Reapers, who are feeding on vampires.",
-    "popularity": 7.7553,
+    "popularity": 7.4954,
     "poster_path": "/wAn6VYamKbnOtfyTZ6arVtkMzDv.jpg",
     "production_companies": [
         {
@@ -60,7 +60,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2002-03-22",
@@ -71,7 +71,7 @@
         {
             "english_name": "Czech",
             "iso_639_1": "cs",
-            "name": "\u010cesk\u00fd"
+            "name": "\u010de\u0161tina"
         },
         {
             "english_name": "Romanian",
@@ -88,8 +88,8 @@
     "tagline": "Faster. Sharper. Deadlier.",
     "title": "Blade II",
     "video": false,
-    "vote_average": 6.577,
-    "vote_count": 5518,
+    "vote_average": 6.576,
+    "vote_count": 5520,
     "youtube_theme_added": 1715362623,
     "youtube_theme_added_by": "165321137",
     "youtube_theme_edited": 1715362623,

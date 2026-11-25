@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Red Dragon",
     "overview": "Former FBI Agent Will Graham, who was once almost killed by the savage Hannibal 'The Cannibal' Lecter, now has no choice but to face him again, as it seems Lecter is the only one who can help Graham track down a new serial killer.",
-    "popularity": 1.5759,
+    "popularity": 1.7464,
     "poster_path": "/ou9ZKA2cms02b7CdCdVqGkKu0O0.jpg",
     "production_companies": [
         {
@@ -70,7 +70,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2002-10-02",
@@ -86,7 +86,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "German",
@@ -98,7 +98,7 @@
     "tagline": "To understand the origin of evil, you must go back to the beginning.",
     "title": "Red Dragon",
     "video": false,
-    "vote_average": 7.052,
+    "vote_average": 7.1,
     "vote_count": 4975,
     "youtube_theme_added": 1705358717,
     "youtube_theme_added_by": "42013603",

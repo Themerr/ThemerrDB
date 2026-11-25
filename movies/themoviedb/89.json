@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Indiana Jones and the Last Crusade",
     "overview": "In 1938, an art collector appeals to eminent archaeologist Dr. Indiana Jones to embark on a search for the Holy Grail. Indy learns that a medieval historian has vanished while searching for it, and the missing man is his own father, Dr. Henry Jones Sr.. He sets out to rescue his father by following clues in the old man's notebook, which his father had mailed to him before he went missing. Indy arrives in Venice, where he enlists the help of a beautiful academic, Dr. Elsa Schneider, along with Marcus Brody and Sallah. Together they must stop the Nazis from recovering the power of eternal life and taking over the world!",
-    "popularity": 11.0671,
+    "popularity": 10.6267,
     "poster_path": "/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
     "production_companies": [
         {
@@ -46,7 +46,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1989-05-24",
@@ -72,7 +72,7 @@
         {
             "english_name": "Greek",
             "iso_639_1": "el",
-            "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+            "name": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
         }
     ],
     "status": "Released",
@@ -80,7 +80,7 @@
     "title": "Indiana Jones and the Last Crusade",
     "video": false,
     "vote_average": 7.859,
-    "vote_count": 11570,
+    "vote_count": 11571,
     "youtube_theme_added": 1694725607,
     "youtube_theme_added_by": "88998541",
     "youtube_theme_edited": 1694725607,

@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Empire of the Sun",
     "overview": "Jamie Graham, a privileged English boy, is living in Shanghai when the Japanese invade and force all foreigners into prison camps. Jamie is captured with an American sailor, who looks out for him while they are in the camp together. Even though he is separated from his parents and in a hostile environment, Jamie maintains his dignity and youthful spirit, providing a beacon of hope for the others held captive with him.",
-    "popularity": 5.5989,
+    "popularity": 5.5746,
     "poster_path": "/gEaCzjwHoPgyQFcwHql7o5YLHAU.jpg",
     "production_companies": [
         {
@@ -45,7 +45,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1987-12-09",
@@ -64,9 +64,9 @@
             "name": "\u65e5\u672c\u8a9e"
         },
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         }
     ],
     "status": "Released",

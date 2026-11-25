@@ -84,7 +84,7 @@
     "original_language": "de",
     "original_name": "1899",
     "overview": "When mysterious events change the course of an immigrant ship headed for New York in 1899, a mind-bending riddle unfolds for its bewildered passengers.",
-    "popularity": 7.423,
+    "popularity": 8.0077,
     "poster_path": "/gZleGu1MQVBArH2dlpZ9CGi0hhy.jpg",
     "production_companies": [
         {
@@ -127,12 +127,12 @@
         {
             "english_name": "Danish",
             "iso_639_1": "da",
-            "name": "Dansk"
+            "name": "dansk"
         },
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "English",
@@ -147,12 +147,12 @@
         {
             "english_name": "Swedish",
             "iso_639_1": "sv",
-            "name": "svenska"
+            "name": "Svenska"
         },
         {
             "english_name": "Polish",
             "iso_639_1": "pl",
-            "name": "Polski"
+            "name": "polski"
         },
         {
             "english_name": "Norwegian",

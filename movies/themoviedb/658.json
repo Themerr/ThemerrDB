@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Goldfinger",
     "overview": "Special agent 007 comes face to face with one of the most notorious villains of all time, and now he must outwit and outgun the powerful tycoon to prevent him from cashing in on a devious scheme to raid Fort Knox\u2014and obliterate the world's economy.",
-    "popularity": 10.7229,
+    "popularity": 10.1239,
     "poster_path": "/aKNFzaqQgPzsGXnsMc4kJH5hFIV.jpg",
     "production_companies": [
         {
@@ -54,7 +54,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1964-09-20",
@@ -63,9 +63,9 @@
     "softcore": false,
     "spoken_languages": [
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         },
         {
             "english_name": "English",
@@ -83,7 +83,7 @@
     "title": "Goldfinger",
     "video": false,
     "vote_average": 7.355,
-    "vote_count": 4188,
+    "vote_count": 4190,
     "youtube_theme_added": 1701573985,
     "youtube_theme_added_by": "10240016",
     "youtube_theme_edited": 1701573985,

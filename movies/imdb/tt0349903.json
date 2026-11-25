@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Ocean's Twelve",
     "overview": "Despite pulling off one of the biggest heists in Las Vegas history and splitting the $160 million take, each of the infamous Ocean's crew have tried to go straight, lay low and live a legit life... but that's proven to be a challenge. Casino owner Terry Benedict demands that Danny Ocean return the money, plus millions more in interest. Unable to come up the cash, the crew is forced to come together to pull off another series of heists, this time in Rome, Paris, and Amsterdam \u2013 but a Europol agent is hot on their heels.",
-    "popularity": 9.6059,
+    "popularity": 8.7502,
     "poster_path": "/pE5anFf7nf6ah7V3VRezQ1KSovi.jpg",
     "production_companies": [
         {
@@ -58,7 +58,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2004-12-09",
@@ -69,7 +69,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Italian",
@@ -77,14 +77,14 @@
             "name": "Italiano"
         },
         {
-            "english_name": "Dutch",
+            "english_name": "Dutch; Flemish",
             "iso_639_1": "nl",
             "name": "Nederlands"
         },
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         },
         {
             "english_name": "English",

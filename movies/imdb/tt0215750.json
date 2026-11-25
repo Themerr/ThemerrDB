@@ -24,7 +24,7 @@
     "original_language": "en",
     "original_title": "Enemy at the Gates",
     "overview": "A Russian and a German sniper play a game of cat-and-mouse during the Battle of Stalingrad in WWII.",
-    "popularity": 7.4076,
+    "popularity": 7.6255,
     "poster_path": "/cHRAbVdsCWFaQrswRsBP7Bn255W.jpg",
     "production_companies": [
         {
@@ -85,7 +85,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         },
         {
             "iso_3166_1": "FR",
@@ -122,7 +122,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         }
     ],
     "status": "Released",

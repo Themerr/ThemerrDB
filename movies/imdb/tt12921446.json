@@ -23,7 +23,7 @@
     "original_language": "en",
     "original_title": "The Exorcist: Believer",
     "overview": "Since his wife's death, Victor has raised his daughter Angela alone. After she and her friend return from a three-day disappearance with missing memories, they begin displaying frightening behavior reminiscent of the MacNeil possession fifty years prior.",
-    "popularity": 12.6875,
+    "popularity": 13.3463,
     "poster_path": "/fFXkAlMH2iQrNknv4eq7LGTkcti.jpg",
     "production_companies": [
         {
@@ -54,7 +54,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2023-10-04",
@@ -68,7 +68,7 @@
             "name": "English"
         },
         {
-            "english_name": "Haitian; Haitian Creole",
+            "english_name": "Haitian",
             "iso_639_1": "ht",
             "name": ""
         },

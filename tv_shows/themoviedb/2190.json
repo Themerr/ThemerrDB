@@ -85,7 +85,7 @@
     "original_language": "en",
     "original_name": "South Park",
     "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-    "popularity": 144.9285,
+    "popularity": 155.6239,
     "poster_path": "/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
     "production_companies": [
         {
@@ -122,13 +122,13 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "seasons": [
         {
             "air_date": "1992-12-08",
-            "episode_count": 33,
+            "episode_count": 32,
             "id": 6718,
             "name": "Specials",
             "overview": "The specials cover a wide range of extras as well as one-off episodes released outside of the normal season.",
@@ -438,8 +438,8 @@
     "status": "Returning Series",
     "tagline": "Four boys. One f**ked-up town.",
     "type": "Scripted",
-    "vote_average": 8.334,
-    "vote_count": 5295,
+    "vote_average": 8.3,
+    "vote_count": 5296,
     "youtube_theme_added": 1704916549,
     "youtube_theme_added_by": "42013603",
     "youtube_theme_edited": 1704916549,

@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Inferno",
     "overview": "After waking up in a hospital with amnesia, professor Robert Langdon and a doctor must race against time to foil a deadly global plot.",
-    "popularity": 7.0244,
+    "popularity": 6.5551,
     "poster_path": "/5T6iVetK5AB1kgwAEKbDM2hTZJU.jpg",
     "production_companies": [
         {
@@ -46,7 +46,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2016-10-13",
@@ -62,7 +62,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Italian",

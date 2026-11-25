@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "The Dark Knight",
     "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
-    "popularity": 46.6935,
+    "popularity": 47.2613,
     "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
     "production_companies": [
         {
@@ -66,7 +66,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2008-07-16",
@@ -80,9 +80,9 @@
             "name": "English"
         },
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         }
     ],
     "status": "Released",
@@ -90,7 +90,7 @@
     "title": "The Dark Knight",
     "video": false,
     "vote_average": 8.54,
-    "vote_count": 37470,
+    "vote_count": 37472,
     "youtube_theme_added": 1674853207,
     "youtube_theme_added_by": "19782651",
     "youtube_theme_edited": 1674853207,

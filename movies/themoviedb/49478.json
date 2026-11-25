@@ -34,7 +34,7 @@
     "original_language": "en",
     "original_title": "Warriors of Virtue",
     "overview": "A young boy is whisked away to the mythical land of Tao where he becomes the center of a conflict between an evil lord and a group of animal warriors.",
-    "popularity": 1.2742,
+    "popularity": 1.6291,
     "poster_path": "/3wR9rxqZsVe5YGXYCsVAn1fl9RY.jpg",
     "production_companies": [
         {
@@ -73,11 +73,11 @@
         },
         {
             "iso_3166_1": "HK",
-            "name": "Hong Kong"
+            "name": "Hong Kong SAR China"
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1997-05-02",
@@ -86,9 +86,9 @@
     "softcore": false,
     "spoken_languages": [
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         },
         {
             "english_name": "English",

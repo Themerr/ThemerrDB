@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Murder on the Orient Express",
     "overview": "Genius Belgian detective Hercule Poirot investigates the murder of an American tycoon aboard the Orient Express train.",
-    "popularity": 11.7197,
+    "popularity": 11.662,
     "poster_path": "/7GtdJU6iAg6fjQu3E3zta3bIAQh.jpg",
     "production_companies": [
         {
@@ -62,7 +62,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2017-11-03",
@@ -83,7 +83,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "German",

@@ -1,6 +1,6 @@
 {
     "adult": false,
-    "backdrop_path": "/jsMViXpdIBm7HY6XkInbQ1PU1OC.jpg",
+    "backdrop_path": "/j9rtQwtx9mj0UhQOdO4f12iLugl.jpg",
     "belongs_to_collection": {
         "backdrop_path": null,
         "id": 215326,
@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "The Bad News Bears",
     "overview": "An aging, down-on-his-luck ex-minor leaguer coaches a team of misfits in an ultra-competitive California little league.",
-    "popularity": 2.4055,
+    "popularity": 2.1477,
     "poster_path": "/kJNXMni0ObOXLth6v9xpUhWbtrp.jpg",
     "production_companies": [
         {
@@ -44,7 +44,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1976-04-06",

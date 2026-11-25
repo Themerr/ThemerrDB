@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "The Living Daylights",
     "overview": "After a defecting Russian general reveals a plot to assassinate foreign spies, James Bond is assigned a secret mission to dispatch the new head of the KGB to prevent an escalation of tensions between the Soviet Union and the West.",
-    "popularity": 7.8455,
+    "popularity": 7.5172,
     "poster_path": "/1oRlmWX9hewpn2B44wawBjHd7dx.jpg",
     "production_companies": [
         {
@@ -54,7 +54,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1987-06-29",
@@ -75,7 +75,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "German",
@@ -85,25 +85,25 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "Czech",
             "iso_639_1": "cs",
-            "name": "\u010cesk\u00fd"
+            "name": "\u010de\u0161tina"
         },
         {
             "english_name": "Slovak",
             "iso_639_1": "sk",
-            "name": "Sloven\u010dina"
+            "name": "sloven\u010dina"
         }
     ],
     "status": "Released",
     "tagline": "The new James Bond...living on the edge.",
     "title": "The Living Daylights",
     "video": false,
-    "vote_average": 6.6,
-    "vote_count": 2155,
+    "vote_average": 6.552,
+    "vote_count": 2156,
     "youtube_theme_added": 1701573607,
     "youtube_theme_added_by": "10240016",
     "youtube_theme_edited": 1701573607,

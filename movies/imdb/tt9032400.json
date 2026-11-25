@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Eternals",
     "overview": "The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind\u2019s most ancient enemy, the Deviants.",
-    "popularity": 14.4981,
+    "popularity": 14.7194,
     "poster_path": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
     "production_companies": [
         {
@@ -39,7 +39,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2021-11-03",
@@ -60,7 +60,7 @@
         {
             "english_name": "Hindi",
             "iso_639_1": "hi",
-            "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+            "name": "\u0939\u093f\u0902\u0926\u0940"
         },
         {
             "english_name": "Latin",
@@ -77,8 +77,8 @@
     "tagline": "In the beginning...",
     "title": "Eternals",
     "video": false,
-    "vote_average": 6.736,
-    "vote_count": 9604,
+    "vote_average": 6.7,
+    "vote_count": 9605,
     "youtube_theme_added": 1700186595,
     "youtube_theme_added_by": "118304977",
     "youtube_theme_edited": 1700186595,

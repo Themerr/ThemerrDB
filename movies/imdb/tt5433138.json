@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "F9",
     "overview": "Dominic Toretto and his crew battle the most skilled assassin and high-performance driver they've ever encountered: his forsaken brother.",
-    "popularity": 7.468,
+    "popularity": 7.5435,
     "poster_path": "/deEmLILTPejEb6OGsXRJ5MCvyDW.jpg",
     "production_companies": [
         {
@@ -68,7 +68,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2021-05-19",
@@ -84,7 +84,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "German",
@@ -102,7 +102,7 @@
     "title": "F9",
     "video": false,
     "vote_average": 6.961,
-    "vote_count": 7983,
+    "vote_count": 7984,
     "youtube_theme_added": 1715443769,
     "youtube_theme_added_by": "59452141",
     "youtube_theme_edited": 1715443769,

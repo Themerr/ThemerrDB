@@ -22,7 +22,7 @@
     "original_language": "en",
     "original_title": "Casablanca",
     "overview": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
-    "popularity": 11.7779,
+    "popularity": 11.4634,
     "poster_path": "/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
     "production_companies": [
         {
@@ -35,7 +35,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1943-01-15",
@@ -51,7 +51,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Italian",

@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Star Wars",
     "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
-    "popularity": 28.9635,
+    "popularity": 30.8131,
     "poster_path": "/fai0rspsNeJCS69wHNjOdWxcI7P.jpg",
     "production_companies": [
         {
@@ -44,7 +44,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1977-05-25",
@@ -63,7 +63,7 @@
     "title": "Star Wars",
     "video": false,
     "vote_average": 8.206,
-    "vote_count": 23221,
+    "vote_count": 23222,
     "youtube_theme_added": 1675726777,
     "youtube_theme_added_by": "2319445",
     "youtube_theme_edited": 1675726777,

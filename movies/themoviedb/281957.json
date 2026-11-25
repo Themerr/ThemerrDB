@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "The Revenant",
     "overview": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
-    "popularity": 16.0715,
+    "popularity": 15.7338,
     "poster_path": "/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
     "production_companies": [
         {
@@ -91,7 +91,7 @@
         },
         {
             "iso_3166_1": "HK",
-            "name": "Hong Kong"
+            "name": "Hong Kong SAR China"
         },
         {
             "iso_3166_1": "TW",
@@ -99,7 +99,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2015-12-25",
@@ -115,15 +115,15 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",
     "tagline": "Blood lost. Life found.",
     "title": "The Revenant",
     "video": false,
-    "vote_average": 7.542,
-    "vote_count": 19976,
+    "vote_average": 7.543,
+    "vote_count": 19978,
     "youtube_theme_added": 1675713430,
     "youtube_theme_added_by": "15357950",
     "youtube_theme_edited": 1675713430,

@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Charlie Wilson's War",
     "overview": "A Texas congressman sets a series of events in motion when he conspires with a CIA operative to aid Afghan mujahideen rebels fighting the Soviets.",
-    "popularity": 4.0118,
+    "popularity": 4.5771,
     "poster_path": "/45FghqcdSYRWK7PsHUInaFPNd8l.jpg",
     "production_companies": [
         {
@@ -67,7 +67,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2007-12-19",
@@ -88,7 +88,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "Urdu",
@@ -98,15 +98,15 @@
         {
             "english_name": "Hebrew",
             "iso_639_1": "he",
-            "name": "\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea"
+            "name": "\u05e2\u05d1\u05e8\u05d9\u05ea"
         }
     ],
     "status": "Released",
     "tagline": "A stiff drink. A little mascara. A lot of nerve. Who said they couldn't bring down the Soviet empire.",
     "title": "Charlie Wilson's War",
     "video": false,
-    "vote_average": 6.548,
-    "vote_count": 1757,
+    "vote_average": 6.547,
+    "vote_count": 1759,
     "youtube_theme_added": 1697901618,
     "youtube_theme_added_by": "118304977",
     "youtube_theme_edited": 1697901618,

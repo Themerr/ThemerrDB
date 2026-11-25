@@ -19,7 +19,7 @@
     "original_language": "en",
     "original_title": "Enter the Dragon",
     "overview": "A martial artist agrees to spy on a reclusive crime lord using his invitation to a tournament there as cover.",
-    "popularity": 7.4987,
+    "popularity": 7.4025,
     "poster_path": "/vtoCU1PfAZSNTgt6uXnBOTLfpOk.jpg",
     "production_companies": [
         {
@@ -50,11 +50,11 @@
     "production_countries": [
         {
             "iso_3166_1": "HK",
-            "name": "Hong Kong"
+            "name": "Hong Kong SAR China"
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1973-08-17",

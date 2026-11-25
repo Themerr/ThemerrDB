@@ -24,30 +24,6 @@
     ],
     "last_air_date": "2026-11-17",
     "last_episode_to_air": {
-        "air_date": "2026-11-17",
-        "episode_number": 7,
-        "episode_type": "standard",
-        "id": 7895726,
-        "name": "The Lovers' Lock",
-        "overview": "Koharu gets motivated to enjoy the beach with Sota after talking to Madoka.",
-        "production_code": "",
-        "runtime": 24,
-        "season_number": 1,
-        "show_id": 316891,
-        "still_path": "/8ftWb74ftK0etbKzj2HIWEhOtwI.jpg",
-        "vote_average": 0.0,
-        "vote_count": 0
-    },
-    "name": "The Cold Sato-san Is Only Sweet to Me",
-    "networks": [
-        {
-            "id": 173,
-            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
-            "name": "AT-X",
-            "origin_country": "JP"
-        }
-    ],
-    "next_episode_to_air": {
         "air_date": "2026-11-24",
         "episode_number": 8,
         "episode_type": "standard",
@@ -62,6 +38,30 @@
         "vote_average": 0.0,
         "vote_count": 0
     },
+    "name": "The Cold Sato-san Is Only Sweet to Me",
+    "networks": [
+        {
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "name": "AT-X",
+            "origin_country": "JP"
+        }
+    ],
+    "next_episode_to_air": {
+        "air_date": "2026-12-01",
+        "episode_number": 9,
+        "episode_type": "standard",
+        "id": 7895728,
+        "name": "Because I'm Your Boyfriend",
+        "overview": "",
+        "production_code": null,
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 316891,
+        "still_path": null,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
     "number_of_episodes": 12,
     "number_of_seasons": 1,
     "origin_country": [
@@ -70,7 +70,7 @@
     "original_language": "ja",
     "original_name": "\u5869\u5bfe\u5fdc\u306e\u4f50\u85e4\u3055\u3093\u304c\u4ffa\u306b\u3060\u3051\u7518\u3044",
     "overview": "Sato may be the most beautiful girl in school but she's also the coldest, never smiling at anyone. When her classmate Oshio spots her at a caf\u00e9, he learns Sato's secret: she's actually just shy and clumsy. As Sato and Oshio bond over their shared interests in photography and desserts, a sweet romance starts to blossom between two socially awkward people.",
-    "popularity": 10.2273,
+    "popularity": 11.1378,
     "poster_path": "/eInC49veg0lHg13BaBiKmQiPk6U.jpg",
     "production_companies": [
         {

@@ -30,7 +30,7 @@
     "original_language": "en",
     "original_title": "Fantastic Mr. Fox",
     "overview": "The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.",
-    "popularity": 9.9669,
+    "popularity": 9.4183,
     "poster_path": "/bOVr292mwn3jxr1e0NmUPM1rcjo.jpg",
     "production_companies": [
         {
@@ -55,7 +55,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2009-10-14",
@@ -71,7 +71,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Latin",
@@ -84,7 +84,7 @@
     "title": "Fantastic Mr. Fox",
     "video": false,
     "vote_average": 7.829,
-    "vote_count": 6475,
+    "vote_count": 6476,
     "youtube_theme_added": 1694870863,
     "youtube_theme_added_by": "5408803",
     "youtube_theme_edited": 1694870863,

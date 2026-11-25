@@ -23,7 +23,7 @@
     "original_language": "en",
     "original_title": "Triangle of Sadness",
     "overview": "A celebrity model couple are invited on a luxury cruise for the uber-rich, helmed by an unhinged, alcoholic captain. What first appears Instagrammable ends catastrophically, leaving the survivors stranded on a desert island in a struggle of hierarchy.",
-    "popularity": 7.2017,
+    "popularity": 6.9184,
     "poster_path": "/k9eLozCgCed5FGTSdHu0bBElAV8.jpg",
     "production_companies": [
         {
@@ -162,7 +162,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2022-09-18",
@@ -183,17 +183,17 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Greek",
             "iso_639_1": "el",
-            "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+            "name": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
         },
         {
             "english_name": "Swedish",
             "iso_639_1": "sv",
-            "name": "svenska"
+            "name": "Svenska"
         },
         {
             "english_name": "Tagalog",

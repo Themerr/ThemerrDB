@@ -35,30 +35,6 @@
     ],
     "last_air_date": "2026-11-04",
     "last_episode_to_air": {
-        "air_date": "2026-11-17",
-        "episode_number": 185,
-        "episode_type": "standard",
-        "id": 5822128,
-        "name": "Episode 185",
-        "overview": "",
-        "production_code": "",
-        "runtime": 22,
-        "season_number": 1,
-        "show_id": 107371,
-        "still_path": "/nhBy9wB8lXm0TQMYC1zmxAuHuAN.jpg",
-        "vote_average": 0.0,
-        "vote_count": 0
-    },
-    "name": "A Will Eternal",
-    "networks": [
-        {
-            "id": 2007,
-            "logo_path": "/6Lfll43wYG2eyereOBjpYFRSGs4.png",
-            "name": "Tencent Video",
-            "origin_country": "CN"
-        }
-    ],
-    "next_episode_to_air": {
         "air_date": "2026-11-24",
         "episode_number": 186,
         "episode_type": "standard",
@@ -73,6 +49,30 @@
         "vote_average": 0.0,
         "vote_count": 0
     },
+    "name": "A Will Eternal",
+    "networks": [
+        {
+            "id": 2007,
+            "logo_path": "/6Lfll43wYG2eyereOBjpYFRSGs4.png",
+            "name": "Tencent Video",
+            "origin_country": "CN"
+        }
+    ],
+    "next_episode_to_air": {
+        "air_date": "2026-12-01",
+        "episode_number": 187,
+        "episode_type": "standard",
+        "id": 5822130,
+        "name": "Episode 187",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 107371,
+        "still_path": null,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
     "number_of_episodes": 200,
     "number_of_seasons": 1,
     "origin_country": [
@@ -81,7 +81,7 @@
     "original_language": "zh",
     "original_name": "\u4e00\u5ff5\u6c38\u6052",
     "overview": "One will to create oceans. One will to summon the mulberry fields. One will to slaughter countless devils. One will to eradicate innumerable immortals. Only my will... is eternal. A Will Eternal tells the tale of Bai Xiaochun, an endearing but exasperating young man who is driven primarily by his fear of death and desire to live forever, but who deeply values friendship and family.",
-    "popularity": 24.6997,
+    "popularity": 24.9645,
     "poster_path": "/1ZUiYywoHiNTgzIN8vBOxxcxzj0.jpg",
     "production_companies": [
         {
@@ -112,9 +112,9 @@
     "softcore": false,
     "spoken_languages": [
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         }
     ],
     "status": "Returning Series",

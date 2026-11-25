@@ -45,7 +45,7 @@
     "languages": [
         "en"
     ],
-    "last_air_date": "2026-06-08",
+    "last_air_date": "2026-11-23",
     "last_episode_to_air": {
         "air_date": "2026-11-23",
         "episode_number": 14,
@@ -135,7 +135,7 @@
     "original_language": "en",
     "original_name": "Sesame Street",
     "overview": "On a special inner city street, the inhabitants\u2014human and muppet\u2014teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
-    "popularity": 138.2142,
+    "popularity": 140.4939,
     "poster_path": "/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
     "production_companies": [
         {
@@ -154,7 +154,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "seasons": [

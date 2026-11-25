@@ -87,7 +87,7 @@
     "original_language": "zh",
     "original_name": "\u5149\u9732\u71df\u5c31\u5f88\u5fd9\u4e86",
     "overview": "Featuring the popular cast of \"Light the Night\", a reality show gathers up the friends from the hit drama series for a camping adventure together.",
-    "popularity": 2.45,
+    "popularity": 2.4144,
     "poster_path": "/85j9omI7MKyqKPCcNz93qLFs8YL.jpg",
     "production_companies": [
         {
@@ -113,9 +113,9 @@
     "softcore": false,
     "spoken_languages": [
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         }
     ],
     "status": "Ended",

@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Jumper",
     "overview": "David Rice is a man who knows no boundaries, a Jumper, born with the uncanny ability to teleport instantly to anywhere on Earth. When he discovers others like himself, David is thrust into a dangerous and bloodthirsty war while being hunted by a sinister and determined group of zealots who have sworn to destroy all Jumpers. Now, David\u2019s extraordinary gift may be his only hope for survival!",
-    "popularity": 7.0409,
+    "popularity": 6.8243,
     "poster_path": "/3pPZ9JhNz3VMmASVir5SMHvTDUU.jpg",
     "production_companies": [
         {
@@ -51,7 +51,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2008-02-13",
@@ -67,7 +67,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",
@@ -75,7 +75,7 @@
     "title": "Jumper",
     "video": false,
     "vote_average": 6.181,
-    "vote_count": 6552,
+    "vote_count": 6553,
     "youtube_theme_added": 1676063771,
     "youtube_theme_added_by": "88998541",
     "youtube_theme_edited": 1676063771,

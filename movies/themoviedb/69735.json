@@ -34,7 +34,7 @@
     "original_language": "en",
     "original_title": "Batman: Year One",
     "overview": "A wealthy playboy named Bruce Wayne and a Chicago cop named Jim Gordon both return to Gotham City where their lives unexpectedly intersect.",
-    "popularity": 2.5732,
+    "popularity": 3.0279,
     "poster_path": "/mLZRhulJcDsxZWTdfx0trtk6y07.jpg",
     "production_companies": [
         {
@@ -59,7 +59,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2011-09-27",
@@ -75,7 +75,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Spanish",
@@ -87,8 +87,8 @@
     "tagline": "A merciless crime turns a man into an outlaw.",
     "title": "Batman: Year One",
     "video": false,
-    "vote_average": 7.251,
-    "vote_count": 1102,
+    "vote_average": 7.252,
+    "vote_count": 1103,
     "youtube_theme_added": 1697057408,
     "youtube_theme_added_by": "133672088",
     "youtube_theme_edited": 1697057408,

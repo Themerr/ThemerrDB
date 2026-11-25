@@ -30,7 +30,7 @@
     "original_language": "en",
     "original_title": "Fallen",
     "overview": "Homicide detective John Hobbes witnesses the execution of serial killer Edgar Reese. Soon after the execution the killings start again, and they are very similar to Reese's style.",
-    "popularity": 5.7126,
+    "popularity": 6.6035,
     "poster_path": "/sWGqNkWVr6JWL4grHFFGV3datuQ.jpg",
     "production_companies": [
         {
@@ -49,7 +49,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1998-01-16",
@@ -63,7 +63,7 @@
             "name": "English"
         },
         {
-            "english_name": "Dutch",
+            "english_name": "Dutch; Flemish",
             "iso_639_1": "nl",
             "name": "Nederlands"
         }

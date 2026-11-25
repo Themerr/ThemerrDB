@@ -23,7 +23,7 @@
     "original_language": "en",
     "original_title": "The Nun",
     "overview": "A priest with a dark past and a novice nearing her final vows are sent by the Vatican to Romania to investigate a nun's death and face a demonic force.",
-    "popularity": 12.5384,
+    "popularity": 12.2086,
     "poster_path": "/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg",
     "production_companies": [
         {
@@ -48,7 +48,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2018-09-05",
@@ -64,12 +64,12 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         },
         {
             "english_name": "Romanian",
@@ -87,7 +87,7 @@
     "title": "The Nun",
     "video": false,
     "vote_average": 5.907,
-    "vote_count": 7410,
+    "vote_count": 7411,
     "youtube_theme_added": 1704262189,
     "youtube_theme_added_by": "22507692",
     "youtube_theme_edited": 1704262189,

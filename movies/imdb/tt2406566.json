@@ -22,7 +22,7 @@
     "original_language": "en",
     "original_title": "Atomic Blonde",
     "overview": "An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.",
-    "popularity": 7.4159,
+    "popularity": 7.0488,
     "poster_path": "/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x.jpg",
     "production_companies": [
         {
@@ -83,7 +83,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2017-07-26",
@@ -94,7 +94,7 @@
         {
             "english_name": "Swedish",
             "iso_639_1": "sv",
-            "name": "svenska"
+            "name": "Svenska"
         },
         {
             "english_name": "English",
@@ -109,7 +109,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         }
     ],
     "status": "Released",

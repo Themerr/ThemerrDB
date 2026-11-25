@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Clue",
     "overview": "Clue finds six colorful dinner guests gathered at the mansion of their host, Mr. Boddy -- who turns up dead after his secret is exposed: He was blackmailing all of them. With the killer among them, the guests and Boddy's chatty butler must suss out the culprit before the body count rises.",
-    "popularity": 6.4709,
+    "popularity": 6.4682,
     "poster_path": "/aRxbYOYHS8T73nzR8hsLousoplR.jpg",
     "production_companies": [
         {
@@ -57,7 +57,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1985-12-13",
@@ -68,7 +68,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "English",

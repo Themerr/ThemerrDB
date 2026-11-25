@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "X-Men: Days of Future Past",
     "overview": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past \u2013 to save our future.",
-    "popularity": 15.2157,
+    "popularity": 15.9941,
     "poster_path": "/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
     "production_companies": [
         {
@@ -74,7 +74,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2014-05-15",
@@ -90,12 +90,12 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "Vietnamese",
@@ -107,8 +107,8 @@
     "tagline": "To save the future, they must alter the past.",
     "title": "X-Men: Days of Future Past",
     "video": false,
-    "vote_average": 7.5,
-    "vote_count": 16923,
+    "vote_average": 7.54,
+    "vote_count": 16927,
     "youtube_theme_added": 1674860607,
     "youtube_theme_added_by": "15357950",
     "youtube_theme_edited": 1674860607,

@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "The Librarian: The Curse of the Judas Chalice",
     "overview": "While on a dangerous mission to recover the historic Judas Chalice, Flynn is saved by Simone. But when double-crossed by a respected professor and ambushed by a ruthless gang, Flynn realizes Simone's secret, his true mission and a shocking discovery are all lying within a decaying New Orleans crypt.",
-    "popularity": 2.4914,
+    "popularity": 2.8169,
     "poster_path": "/qzpTcjPdhmKmEYx9oJO8y4ZZLU6.jpg",
     "production_companies": [
         {
@@ -44,7 +44,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2008-10-25",
@@ -60,7 +60,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Latin",
@@ -75,7 +75,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         }
     ],
     "status": "Released",

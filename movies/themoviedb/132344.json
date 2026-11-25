@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Before Midnight",
     "overview": "It has been nine years since we last met Jesse and Celine, the French-American couple who once met on a train in Vienna. They now live in Paris with twin daughters but have spent a summer in Greece at the invitation of an author colleague of Jesse's. When the vacation is over and Jesse must send his teenage son off to the States, he begins to question his life decisions, and his relationship with Celine is at risk.",
-    "popularity": 4.0602,
+    "popularity": 3.8732,
     "poster_path": "/qbGKJmNUroDz75kh5Oafoall89e.jpg",
     "production_companies": [
         {
@@ -68,7 +68,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2013-04-05",
@@ -84,12 +84,12 @@
         {
             "english_name": "Greek",
             "iso_639_1": "el",
-            "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+            "name": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
         },
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",

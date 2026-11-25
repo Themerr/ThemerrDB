@@ -29,30 +29,6 @@
     ],
     "last_air_date": "2026-11-17",
     "last_episode_to_air": {
-        "air_date": "2026-11-17",
-        "episode_number": 9,
-        "episode_type": "standard",
-        "id": 7767859,
-        "name": "Patisserie Week",
-        "overview": "It's the semi-final and time for the bakers to showcase their patisserie prowess. With a place in the final tantalisingly close, it's no time to flake out...",
-        "production_code": "",
-        "runtime": 58,
-        "season_number": 10,
-        "show_id": 87012,
-        "still_path": "/7KZ0OvLpJ4MiaD070v7gW2qXNud.jpg",
-        "vote_average": 7.0,
-        "vote_count": 1
-    },
-    "name": "The Great British Bake Off",
-    "networks": [
-        {
-            "id": 26,
-            "logo_path": "/7Ai64ZDaVbGDtm7f0QSZAKohjk4.png",
-            "name": "Channel 4",
-            "origin_country": "GB"
-        }
-    ],
-    "next_episode_to_air": {
         "air_date": "2026-11-24",
         "episode_number": 10,
         "episode_type": "finale",
@@ -63,10 +39,20 @@
         "runtime": 58,
         "season_number": 10,
         "show_id": 87012,
-        "still_path": null,
+        "still_path": "/vv8A1pF67Lxpekks5MPQ3Movchs.jpg",
         "vote_average": 0.0,
         "vote_count": 0
     },
+    "name": "The Great British Bake Off",
+    "networks": [
+        {
+            "id": 26,
+            "logo_path": "/7Ai64ZDaVbGDtm7f0QSZAKohjk4.png",
+            "name": "Channel 4",
+            "origin_country": "GB"
+        }
+    ],
+    "next_episode_to_air": null,
     "number_of_episodes": 100,
     "number_of_seasons": 10,
     "origin_country": [
@@ -75,7 +61,7 @@
     "original_language": "en",
     "original_name": "The Great British Bake Off",
     "overview": "Britain's best amateur bakers compete in the iconic white tent - all united in their aim to prove their baking skills and impress judges Paul Hollywood and Prue Leith.",
-    "popularity": 18.1127,
+    "popularity": 17.9053,
     "poster_path": "/zZBzkM3XXZHOauKlHSv3Vg6e4iZ.jpg",
     "production_companies": [
         {

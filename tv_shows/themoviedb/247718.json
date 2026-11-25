@@ -39,12 +39,12 @@
         "name": "The Queen Is Dead",
         "overview": "Coordinated raids set the Harrigans' empire on fire. With Conrad's blessing Harry cuts a savage deal. Meanwhile, Maeve turns the voltage up as Frankie takes a massive gamble and Eddie bottles it again.",
         "production_code": "",
-        "runtime": 46,
+        "runtime": 47,
         "season_number": 2,
         "show_id": 247718,
         "still_path": "/h8SkZGUipXUPuCrHTeIn1A1ff0f.jpg",
-        "vote_average": 9.071,
-        "vote_count": 35
+        "vote_average": 9.0,
+        "vote_count": 39
     },
     "name": "MobLand",
     "networks": [
@@ -71,7 +71,7 @@
     "original_language": "en",
     "original_name": "MobLand",
     "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-    "popularity": 755.8379,
+    "popularity": 1445.7555,
     "poster_path": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
     "production_companies": [
         {
@@ -114,7 +114,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         },
         {
             "iso_3166_1": "GB",
@@ -169,8 +169,8 @@
     "status": "Returning Series",
     "tagline": "Chaos reigns.",
     "type": "Scripted",
-    "vote_average": 8.679,
-    "vote_count": 1306,
+    "vote_average": 8.7,
+    "vote_count": 1312,
     "youtube_theme_added": 1790376728,
     "youtube_theme_added_by": "108456101",
     "youtube_theme_edited": 1790376728,

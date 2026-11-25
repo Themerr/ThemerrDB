@@ -30,7 +30,7 @@
     "original_language": "en",
     "original_title": "Ratatouille",
     "overview": "In one of Paris's finest restaurants, Remy, a determined young rat, dreams of becoming a renowned French chef. Torn between his family's wishes and his true calling, Remy and his pal Linguini set in motion a hilarious chain of events that turns the City of Lights upside down.",
-    "popularity": 23.7191,
+    "popularity": 24.4687,
     "poster_path": "/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
     "production_companies": [
         {
@@ -43,7 +43,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2007-06-28",
@@ -59,7 +59,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",
@@ -67,7 +67,7 @@
     "title": "Ratatouille",
     "video": false,
     "vote_average": 7.851,
-    "vote_count": 19256,
+    "vote_count": 19257,
     "youtube_theme_added": 1675715083,
     "youtube_theme_added_by": "15357950",
     "youtube_theme_edited": 1675715083,

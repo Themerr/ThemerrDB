@@ -22,7 +22,7 @@
     "original_language": "en",
     "original_title": "Fiddler on the Roof",
     "overview": "In a pre-revolutionary Russia, a poor Jewish milkman struggles with the challenges of a changing world as his daughters fall in love and antisemitism grows.",
-    "popularity": 3.2248,
+    "popularity": 3.5774,
     "poster_path": "/qXIv5P7hUroBgn5lLkRcXYe7W4n.jpg",
     "production_companies": [
         {
@@ -47,7 +47,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1971-11-03",
@@ -58,7 +58,7 @@
         {
             "english_name": "Hebrew",
             "iso_639_1": "he",
-            "name": "\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea"
+            "name": "\u05e2\u05d1\u05e8\u05d9\u05ea"
         },
         {
             "english_name": "English",
@@ -68,15 +68,15 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         }
     ],
     "status": "Released",
     "tagline": "To Life!",
     "title": "Fiddler on the Roof",
     "video": false,
-    "vote_average": 7.731,
-    "vote_count": 691,
+    "vote_average": 7.733,
+    "vote_count": 692,
     "youtube_theme_added": 1697856570,
     "youtube_theme_added_by": "133672088",
     "youtube_theme_edited": 1697856570,

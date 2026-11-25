@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Fantastic Four: Rise of the Silver Surfer",
     "overview": "The Fantastic Four return to the big screen as a new and all powerful enemy threatens the Earth. The seemingly unstoppable 'Silver Surfer', but all is not what it seems and there are old and new enemies that pose a greater threat than the intrepid superheroes realize.",
-    "popularity": 10.1511,
+    "popularity": 10.097,
     "poster_path": "/9wRfzTcMyyzkQxVDqBHv8RwuZOv.jpg",
     "production_companies": [
         {
@@ -82,7 +82,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2007-06-13",
@@ -106,17 +106,17 @@
             "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
         },
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         }
     ],
     "status": "Released",
     "tagline": "Discover the secret of the Surfer.",
     "title": "Fantastic Four: Rise of the Silver Surfer",
     "video": false,
-    "vote_average": 5.64,
-    "vote_count": 8700,
+    "vote_average": 5.641,
+    "vote_count": 8701,
     "youtube_theme_added": 1702515096,
     "youtube_theme_added_by": "42013603",
     "youtube_theme_edited": 1702515096,

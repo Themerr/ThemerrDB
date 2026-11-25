@@ -24,7 +24,7 @@
     "original_language": "en",
     "original_title": "Hostel",
     "overview": "Three backpackers head to a Slovakian city that promises to meet their hedonistic expectations, with no idea of the hell that awaits them.",
-    "popularity": 5.6101,
+    "popularity": 5.3409,
     "poster_path": "/dDrtuWUKhgUGp12kgUWuP0NpTdF.jpg",
     "production_companies": [
         {
@@ -55,7 +55,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         },
         {
             "iso_3166_1": "CZ",
@@ -90,22 +90,22 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "Slovak",
             "iso_639_1": "sk",
-            "name": "Sloven\u010dina"
+            "name": "sloven\u010dina"
         },
         {
-            "english_name": "Dutch",
+            "english_name": "Dutch; Flemish",
             "iso_639_1": "nl",
             "name": "Nederlands"
         },
         {
             "english_name": "Czech",
             "iso_639_1": "cs",
-            "name": "\u010cesk\u00fd"
+            "name": "\u010de\u0161tina"
         },
         {
             "english_name": "Spanish",
@@ -117,8 +117,8 @@
     "tagline": "Welcome to your worst nightmare.",
     "title": "Hostel",
     "video": false,
-    "vote_average": 6.0,
-    "vote_count": 4163,
+    "vote_average": 5.969,
+    "vote_count": 4164,
     "youtube_theme_added": 1719867240,
     "youtube_theme_added_by": "118304977",
     "youtube_theme_edited": 1719867240,

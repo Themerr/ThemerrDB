@@ -22,7 +22,7 @@
     "original_language": "en",
     "original_title": "Bram Stoker's Dracula",
     "overview": "Count Dracula, a 15th-century prince, is condemned to live off the blood of the living for eternity. Young lawyer Jonathan Harker is sent to Dracula's castle to finalise a land deal, but when the Count sees a photo of Harker's fianc\u00e9e, Mina, the spitting image of his dead wife, he imprisons him and sets off for London to track her down.",
-    "popularity": 10.3087,
+    "popularity": 10.1191,
     "poster_path": "/wpRrdm6g8zWtJnzVqME5QwSKkn7.jpg",
     "production_companies": [
         {
@@ -47,7 +47,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1992-11-13",
@@ -68,12 +68,12 @@
         {
             "english_name": "Bulgarian",
             "iso_639_1": "bg",
-            "name": "\u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438 \u0435\u0437\u0438\u043a"
+            "name": "\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438"
         },
         {
             "english_name": "Greek",
             "iso_639_1": "el",
-            "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+            "name": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
         },
         {
             "english_name": "English",
@@ -85,8 +85,8 @@
     "tagline": "Love never dies.",
     "title": "Bram Stoker's Dracula",
     "video": false,
-    "vote_average": 7.439,
-    "vote_count": 6070,
+    "vote_average": 7.438,
+    "vote_count": 6072,
     "youtube_theme_added": 1697902345,
     "youtube_theme_added_by": "118304977",
     "youtube_theme_edited": 1697902345,

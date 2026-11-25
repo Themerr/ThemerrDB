@@ -28,7 +28,7 @@
     "original_language": "en",
     "original_title": "Mamma Mia!",
     "overview": "A spirited young bride-to-be living with her single mother on a small Greek island secretly invites three of her mother's ex-boyfriends in hope of finding her biological father to walk her down the aisle.",
-    "popularity": 8.0117,
+    "popularity": 8.038,
     "poster_path": "/xYLiCWmAMHJubx5jNZ7HuXKjAbV.jpg",
     "production_companies": [
         {
@@ -61,7 +61,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2008-07-03",
@@ -77,7 +77,7 @@
         {
             "english_name": "Greek",
             "iso_639_1": "el",
-            "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+            "name": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
         }
     ],
     "status": "Released",

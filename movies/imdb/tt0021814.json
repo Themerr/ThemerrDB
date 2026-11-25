@@ -23,7 +23,7 @@
     "original_language": "en",
     "original_title": "Dracula",
     "overview": "A British estate agent travels to Transylvania to meet with the mysterious Count Dracula, who is interested in leasing a London castle. After Dracula enslaves and drives the agent to insanity, the pair return to London together, where Dracula, a secret bloodsucker, begins preying on socialites.",
-    "popularity": 4.7844,
+    "popularity": 4.9822,
     "poster_path": "/ueVSPt7vAba0XScHWTDWS5tNxYX.jpg",
     "production_companies": [
         {
@@ -36,7 +36,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1931-02-12",
@@ -52,7 +52,7 @@
         {
             "english_name": "Hungarian",
             "iso_639_1": "hu",
-            "name": "Magyar"
+            "name": "magyar"
         },
         {
             "english_name": "Latin",

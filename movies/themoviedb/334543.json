@@ -18,7 +18,7 @@
     "original_language": "en",
     "original_title": "Lion",
     "overview": "A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia; 25 years later, he sets out to find his lost family.",
-    "popularity": 12.4654,
+    "popularity": 11.3821,
     "poster_path": "/kCELJH1tCmaRLqvwIgKDb09aEaw.jpg",
     "production_companies": [
         {
@@ -63,7 +63,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2016-11-24",
@@ -84,7 +84,7 @@
         {
             "english_name": "Hindi",
             "iso_639_1": "hi",
-            "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+            "name": "\u0939\u093f\u0902\u0926\u0940"
         }
     ],
     "status": "Released",

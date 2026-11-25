@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Rush Hour 3",
     "overview": "After a botched assassination attempt, the mismatched duo finds themselves in Paris, struggling to retrieve a precious list of names, as the murderous crime syndicate's henchmen try their best to stop them. Once more, Lee and Carter must fight their way through dangerous gangsters; however, this time, the past has come back to haunt Lee. Will the boys get the job done once and for all?",
-    "popularity": 8.9608,
+    "popularity": 8.5988,
     "poster_path": "/mp9CzKxLa2i7yblMXUrzVfGqsCo.jpg",
     "production_companies": [
         {
@@ -68,7 +68,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         },
         {
             "iso_3166_1": "DE",
@@ -76,7 +76,7 @@
         },
         {
             "iso_3166_1": "HK",
-            "name": "Hong Kong"
+            "name": "Hong Kong SAR China"
         },
         {
             "iso_3166_1": "FR",
@@ -101,7 +101,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Japanese",
@@ -109,9 +109,9 @@
             "name": "\u65e5\u672c\u8a9e"
         },
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         }
     ],
     "status": "Released",

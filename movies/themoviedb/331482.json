@@ -22,7 +22,7 @@
     "original_language": "en",
     "original_title": "Little Women",
     "overview": "Four sisters come of age in America in the aftermath of the Civil War.",
-    "popularity": 17.6644,
+    "popularity": 17.9358,
     "poster_path": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
     "production_companies": [
         {
@@ -47,7 +47,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2019-12-25",
@@ -58,7 +58,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "English",
@@ -71,7 +71,7 @@
     "title": "Little Women",
     "video": false,
     "vote_average": 7.854,
-    "vote_count": 7162,
+    "vote_count": 7163,
     "youtube_theme_added": 1703893692,
     "youtube_theme_added_by": "22507692",
     "youtube_theme_edited": 1703893692,

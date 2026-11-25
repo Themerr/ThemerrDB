@@ -22,7 +22,7 @@
     "original_language": "fr",
     "original_title": "Grave",
     "overview": "Stringent vegetarian Justine encounters a decadent, merciless, and dangerously seductive world during her first week at veterinary school. Desperate to fit in, she strays from her principles and eats raw meat for the first time. She soon experiences terrible and unexpected consequences as her true self begins to emerge.",
-    "popularity": 3.4265,
+    "popularity": 3.6601,
     "poster_path": "/kc8jT1MAiKM0iwdjAwC5lQrTNry.jpg",
     "production_companies": [
         {
@@ -85,7 +85,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2017-03-10",
@@ -96,14 +96,14 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",
     "tagline": "What are you hungry for?",
     "title": "Raw",
     "video": false,
-    "vote_average": 7.019,
+    "vote_average": 7.0,
     "vote_count": 3544,
     "youtube_theme_added": 1675714994,
     "youtube_theme_added_by": "15357950",

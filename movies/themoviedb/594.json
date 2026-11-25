@@ -22,7 +22,7 @@
     "original_language": "en",
     "original_title": "The Terminal",
     "overview": "An Eastern European tourist unexpectedly finds himself stranded in JFK airport, and must take up temporary residence there.",
-    "popularity": 8.9563,
+    "popularity": 9.8052,
     "poster_path": "/cPB3ZMM4UdsSAhNdS4c7ps5nypY.jpg",
     "production_companies": [
         {
@@ -47,7 +47,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2004-06-17",
@@ -58,7 +58,7 @@
         {
             "english_name": "Bulgarian",
             "iso_639_1": "bg",
-            "name": "\u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438 \u0435\u0437\u0438\u043a"
+            "name": "\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438"
         },
         {
             "english_name": "English",
@@ -68,12 +68,12 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "Spanish",
@@ -86,7 +86,7 @@
     "title": "The Terminal",
     "video": false,
     "vote_average": 7.355,
-    "vote_count": 9135,
+    "vote_count": 9138,
     "youtube_theme_added": 1700582363,
     "youtube_theme_added_by": "4533568",
     "youtube_theme_edited": 1700582363,

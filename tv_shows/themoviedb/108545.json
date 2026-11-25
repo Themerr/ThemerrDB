@@ -98,7 +98,7 @@
     "original_language": "en",
     "original_name": "3 Body Problem",
     "overview": "Across continents and decades, five brilliant friends make earth-shattering discoveries as the laws of science unravel and an existential threat emerges.",
-    "popularity": 34.8929,
+    "popularity": 34.8577,
     "poster_path": "/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg",
     "production_companies": [
         {
@@ -143,7 +143,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "seasons": [
@@ -171,9 +171,9 @@
     "softcore": false,
     "spoken_languages": [
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         },
         {
             "english_name": "English",
@@ -185,7 +185,7 @@
     "tagline": "They are here.",
     "type": "Scripted",
     "vote_average": 7.5,
-    "vote_count": 1769,
+    "vote_count": 1770,
     "youtube_theme_added": 1711327774,
     "youtube_theme_added_by": "68001202",
     "youtube_theme_edited": 1717117645,

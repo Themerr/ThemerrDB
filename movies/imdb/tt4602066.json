@@ -30,7 +30,7 @@
     "original_language": "en",
     "original_title": "The Catcher Was a Spy",
     "overview": "Former major league baseball player Moe Berg lives a double life working for the Office of Strategic Services in World War II Europe.",
-    "popularity": 3.0518,
+    "popularity": 3.02,
     "poster_path": "/3aBv9Oln0aoBrEbkMabHIVat6CY.jpg",
     "production_companies": [
         {
@@ -67,7 +67,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2018-06-22",
@@ -78,7 +78,7 @@
         {
             "english_name": "Hebrew",
             "iso_639_1": "he",
-            "name": "\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea"
+            "name": "\u05e2\u05d1\u05e8\u05d9\u05ea"
         },
         {
             "english_name": "German",
@@ -98,7 +98,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "English",

@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "The Shape of Water",
     "overview": "An other-worldly story, set against the backdrop of Cold War era America circa 1962, where a mute janitor working at a lab falls in love with an amphibious man being held captive there and devises a plan to help him escape.",
-    "popularity": 10.137,
+    "popularity": 10.4514,
     "poster_path": "/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
     "production_companies": [
         {
@@ -57,7 +57,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2017-12-01",
@@ -73,7 +73,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         }
     ],
     "status": "Released",

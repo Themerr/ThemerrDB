@@ -18,7 +18,7 @@
     "original_language": "en",
     "original_title": "Babel",
     "overview": "Tragedy strikes a married couple vacationing in the Moroccan desert, which jumpstarts an interlocking story involving four different families.",
-    "popularity": 5.4418,
+    "popularity": 5.5863,
     "poster_path": "/fCHqcBl1LFDIGurUDEdFCpkYTnH.jpg",
     "production_companies": [
         {
@@ -51,7 +51,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2006-10-26",
@@ -77,7 +77,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Japanese",
@@ -87,7 +87,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         }
     ],
     "status": "Released",

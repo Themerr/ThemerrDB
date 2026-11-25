@@ -33,13 +33,13 @@
     ],
     "last_air_date": "2026-10-23",
     "last_episode_to_air": {
-        "air_date": "2026-11-23",
-        "episode_number": 231,
+        "air_date": "2026-11-24",
+        "episode_number": 232,
         "episode_type": "standard",
-        "id": 7804926,
-        "name": "Episode 231",
+        "id": 7804927,
+        "name": "Episode 232",
         "overview": "",
-        "production_code": "",
+        "production_code": null,
         "runtime": 20,
         "season_number": 3,
         "show_id": 243117,
@@ -57,13 +57,13 @@
         }
     ],
     "next_episode_to_air": {
-        "air_date": "2026-11-24",
-        "episode_number": 232,
+        "air_date": "2026-11-25",
+        "episode_number": 233,
         "episode_type": "standard",
-        "id": 7804927,
-        "name": "Episode 232",
+        "id": 7804928,
+        "name": "Episode 233",
         "overview": "",
-        "production_code": "",
+        "production_code": null,
         "runtime": 20,
         "season_number": 3,
         "show_id": 243117,
@@ -79,7 +79,7 @@
     "original_language": "fr",
     "original_name": "Plus belle la vie, encore plus belle",
     "overview": "",
-    "popularity": 38.816,
+    "popularity": 41.1193,
     "poster_path": "/ps0WuyL384MahVCxysxOfF1fhgq.jpg",
     "production_companies": [
         {
@@ -134,7 +134,7 @@
         },
         {
             "air_date": "2026-01-05",
-            "episode_count": 245,
+            "episode_count": 250,
             "id": 490219,
             "name": "Season 3",
             "overview": "",
@@ -148,7 +148,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Returning Series",

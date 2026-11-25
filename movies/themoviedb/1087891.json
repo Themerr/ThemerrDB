@@ -22,7 +22,7 @@
     "original_language": "en",
     "original_title": "The Amateur",
     "overview": "After his life is turned upside down when his wife is killed in a London terrorist attack, a brilliant but introverted CIA decoder takes matters into his own hands when his supervisors refuse to take action.",
-    "popularity": 7.0862,
+    "popularity": 6.9611,
     "poster_path": "/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg",
     "production_companies": [
         {
@@ -53,7 +53,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2025-04-09",
@@ -69,7 +69,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "German",
@@ -79,7 +79,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "Spanish",
@@ -97,7 +97,7 @@
     "title": "The Amateur",
     "video": false,
     "vote_average": 6.911,
-    "vote_count": 1884,
+    "vote_count": 1885,
     "youtube_theme_added": 1790207799,
     "youtube_theme_added_by": "34431195",
     "youtube_theme_edited": 1790207799,

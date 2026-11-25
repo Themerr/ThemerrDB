@@ -64,7 +64,7 @@
     "original_language": "en",
     "original_name": "We Were the Lucky Ones",
     "overview": "The true story of one Jewish family separated at the start of World War II, determined to survive\u2014and to reunite.",
-    "popularity": 8.0408,
+    "popularity": 8.1336,
     "poster_path": "/rRv6Lji53tXnP1h6UGYDQVx4FGg.jpg",
     "production_companies": [
         {
@@ -83,7 +83,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "seasons": [
@@ -108,7 +108,7 @@
         {
             "english_name": "Hungarian",
             "iso_639_1": "hu",
-            "name": "Magyar"
+            "name": "magyar"
         },
         {
             "english_name": "German",
@@ -118,7 +118,7 @@
         {
             "english_name": "Polish",
             "iso_639_1": "pl",
-            "name": "Polski"
+            "name": "polski"
         },
         {
             "english_name": "English",

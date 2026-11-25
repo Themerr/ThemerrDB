@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "The Mitchells vs. the Machines",
     "overview": "A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.",
-    "popularity": 9.6215,
+    "popularity": 9.2781,
     "poster_path": "/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
     "production_companies": [
         {
@@ -62,11 +62,11 @@
     "production_countries": [
         {
             "iso_3166_1": "HK",
-            "name": "Hong Kong"
+            "name": "Hong Kong SAR China"
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2021-04-22",
@@ -84,7 +84,7 @@
     "tagline": "Saving the world can be a trip.",
     "title": "The Mitchells vs. the Machines",
     "video": false,
-    "vote_average": 7.8,
+    "vote_average": 7.816,
     "vote_count": 3597,
     "youtube_theme_added": 1719251422,
     "youtube_theme_added_by": "39831475",

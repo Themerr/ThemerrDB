@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Moulin Rouge!",
     "overview": "A celebration of love and creative inspiration takes place in the infamous, gaudy and glamorous Parisian nightclub, at the cusp of the 20th century. A young poet, who is plunged into the heady world of Moulin Rouge, begins a passionate affair with the club's most notorious and beautiful star.",
-    "popularity": 6.8561,
+    "popularity": 7.1852,
     "poster_path": "/2kjM5CUZRIU5yOANUowrbJcRL9L.jpg",
     "production_companies": [
         {
@@ -49,7 +49,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2001-05-18",
@@ -60,7 +60,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Spanish",
@@ -78,7 +78,7 @@
     "title": "Moulin Rouge!",
     "video": false,
     "vote_average": 7.517,
-    "vote_count": 5022,
+    "vote_count": 5023,
     "youtube_theme_added": 1720809096,
     "youtube_theme_added_by": "118304977",
     "youtube_theme_edited": 1720809096,

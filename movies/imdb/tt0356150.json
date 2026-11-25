@@ -18,7 +18,7 @@
     "original_language": "en",
     "original_title": "EuroTrip",
     "overview": "When Scott learns that his longtime cyber-buddy from Berlin is a gorgeous young woman, he and his friends embark on a trip across Europe.",
-    "popularity": 7.0931,
+    "popularity": 7.2258,
     "poster_path": "/iLdO4PwbZCCQSa9rchZMwuJm9xe.jpg",
     "production_companies": [
         {
@@ -43,7 +43,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         },
         {
             "iso_3166_1": "CZ",
@@ -63,7 +63,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Italian",

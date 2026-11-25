@@ -23,7 +23,7 @@
     "original_language": "en",
     "original_title": "Mr. Holmes",
     "overview": "In 1947, long-retired and near the end of his life, Sherlock Holmes grapples with an unreliable memory and must rely on his housekeeper's son as he revisits the still-unsolved case that led to his retirement.",
-    "popularity": 3.6188,
+    "popularity": 3.8573,
     "poster_path": "/iNnHMoj2oldH7O9uL08iGhfHzh.jpg",
     "production_companies": [
         {
@@ -70,7 +70,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2015-06-19",
@@ -81,7 +81,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "English",

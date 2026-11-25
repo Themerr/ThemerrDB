@@ -18,7 +18,7 @@
     "original_language": "fr",
     "original_title": "Trafic",
     "overview": "Mr. Hulot is the head designer of the Altra Automotive Co. His latest invention is a newfangled camper car loaded with outrageous extra features. Along with the company's manager and publicity model, Hulot sets out from Paris with the intention of debuting the car at the annual auto show in Amsterdam. The going isn't easy, however, and the group encounters an increasingly bizarre series of hurdles and setbacks en route.",
-    "popularity": 1.373,
+    "popularity": 1.413,
     "poster_path": "/7BaARzxivOQ5172ao39qoofEmVm.jpg",
     "production_companies": [
         {
@@ -58,10 +58,10 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
-            "english_name": "Dutch",
+            "english_name": "Dutch; Flemish",
             "iso_639_1": "nl",
             "name": "Nederlands"
         },

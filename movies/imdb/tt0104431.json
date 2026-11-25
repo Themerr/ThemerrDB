@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Home Alone 2: Lost in New York",
     "overview": "Instead of flying to Florida with his folks, Kevin ends up alone in New York, where he gets a hotel room with his dad's credit card\u2014despite problems from a clerk and meddling bellboy. But when Kevin runs into his old nemeses, the Wet Bandits, he's determined to foil their plans to rob a toy store on Christmas Eve.",
-    "popularity": 37.9589,
+    "popularity": 39.4743,
     "poster_path": "/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
     "production_companies": [
         {
@@ -50,7 +50,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1992-11-15",
@@ -66,7 +66,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",

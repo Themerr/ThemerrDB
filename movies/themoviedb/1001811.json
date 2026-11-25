@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "My Big Fat Greek Wedding 3",
     "overview": "Following the death of their patriarch Gus, the Portokalos family travels to Greece for a family reunion, and to deliver Gus' journal to his old friends.",
-    "popularity": 3.0368,
+    "popularity": 3.411,
     "poster_path": "/8yO8okCs9iohJ0iDVls6QYfu6l6.jpg",
     "production_companies": [
         {
@@ -58,7 +58,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2023-09-07",
@@ -74,7 +74,7 @@
         {
             "english_name": "Greek",
             "iso_639_1": "el",
-            "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+            "name": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
         }
     ],
     "status": "Released",

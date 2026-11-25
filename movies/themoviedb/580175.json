@@ -18,7 +18,7 @@
     "original_language": "da",
     "original_title": "Druk",
     "overview": "Four stagnant high school teachers decide to test out a theory that maintaining a constant level of intoxication will improve their overall lives.",
-    "popularity": 6.8464,
+    "popularity": 6.8396,
     "poster_path": "/aDcIt4NHURLKnAEu7gow51Yd00Q.jpg",
     "production_companies": [
         {
@@ -74,12 +74,12 @@
         {
             "english_name": "Danish",
             "iso_639_1": "da",
-            "name": "Dansk"
+            "name": "dansk"
         },
         {
             "english_name": "Swedish",
             "iso_639_1": "sv",
-            "name": "svenska"
+            "name": "Svenska"
         }
     ],
     "status": "Released",

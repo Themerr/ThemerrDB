@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "My Spy",
     "overview": "A hardened CIA operative finds himself at the mercy of a precocious 9-year-old girl, having been sent undercover to surveil her family.",
-    "popularity": 4.1585,
+    "popularity": 4.1073,
     "poster_path": "/n2C6jRK9PtPIs99RQhKtqGlsnsO.jpg",
     "production_companies": [
         {
@@ -56,7 +56,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         },
         {
             "iso_3166_1": "CA",
@@ -71,7 +71,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "English",

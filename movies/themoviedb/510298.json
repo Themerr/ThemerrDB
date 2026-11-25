@@ -22,7 +22,7 @@
     "original_language": "en",
     "original_title": "Seberg",
     "overview": "An ambitious young FBI agent is assigned to investigate iconic actress Jean Seberg when she becomes embroiled in the tumultuous civil rights movement in late 1960s Los Angeles.",
-    "popularity": 1.7473,
+    "popularity": 1.9478,
     "poster_path": "/kv78WJ2YvWyk3c32sbOGFh64xcs.jpg",
     "production_companies": [
         {
@@ -47,7 +47,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         },
         {
             "iso_3166_1": "GB",
@@ -67,7 +67,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",

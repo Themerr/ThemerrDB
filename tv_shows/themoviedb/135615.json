@@ -68,7 +68,7 @@
     "original_language": "en",
     "original_name": "American Born Chinese",
     "overview": "Average teenager Jin Wang juggles his high school social life with his immigrant home life. When he meets a new foreign student on the first day of the school year, even more worlds collide as Jin is unwittingly entangled in a battle of Chinese mythological gods.",
-    "popularity": 8.0121,
+    "popularity": 8.4624,
     "poster_path": "/cwTYt6DKuMY6RSmQ269fpYH9ELN.jpg",
     "production_companies": [
         {
@@ -99,7 +99,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "seasons": [
@@ -122,9 +122,9 @@
             "name": "English"
         },
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         }
     ],
     "status": "Canceled",

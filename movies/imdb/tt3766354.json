@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "The Equalizer 2",
     "overview": "Robert McCall, who serves an unflinching justice for the exploited and oppressed, embarks on a relentless, globe-trotting quest for vengeance when his former partner is murdered.",
-    "popularity": 13.0788,
+    "popularity": 12.9612,
     "poster_path": "/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg",
     "production_companies": [
         {
@@ -74,7 +74,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2018-07-19",
@@ -95,12 +95,12 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Hebrew",
             "iso_639_1": "he",
-            "name": "\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea"
+            "name": "\u05e2\u05d1\u05e8\u05d9\u05ea"
         },
         {
             "english_name": "Spanish",

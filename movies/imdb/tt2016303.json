@@ -22,7 +22,7 @@
     "original_language": "en",
     "original_title": "The Bricklayer",
     "overview": "Someone is blackmailing the CIA by assassinating foreign journalists and making it look like the agency is responsible. As the world begins to unite against the U.S., the CIA must lure its most brilliant \u2013 and rebellious \u2013 operative out of retirement, forcing him to confront his checkered past while unraveling an international conspiracy.",
-    "popularity": 3.9797,
+    "popularity": 3.9173,
     "poster_path": "/36pYugctLa70NmwMEgXTR1G31Kq.jpg",
     "production_companies": [
         {
@@ -41,7 +41,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2023-12-14",
@@ -52,7 +52,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "English",
@@ -64,7 +64,7 @@
     "tagline": "Some secrets are deadly.",
     "title": "The Bricklayer",
     "video": false,
-    "vote_average": 5.746,
+    "vote_average": 5.7,
     "vote_count": 431,
     "youtube_theme_added": 1722444878,
     "youtube_theme_added_by": "121977106",

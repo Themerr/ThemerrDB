@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "The American President",
     "overview": "Widowed U.S. president Andrew Shepherd, one of the world's most powerful men, can have anything he wants -- and what he covets most is Sydney Ellen Wade, a Washington lobbyist. But Shepherd's attempts at courting her spark wild rumors and decimate his approval ratings.",
-    "popularity": 3.291,
+    "popularity": 3.2318,
     "poster_path": "/hudVVQa0jCspRPYGLJwUVsteKsk.jpg",
     "production_companies": [
         {
@@ -51,7 +51,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1995-11-17",
@@ -62,7 +62,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "English",

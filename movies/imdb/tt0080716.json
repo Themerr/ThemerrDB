@@ -22,7 +22,7 @@
     "original_language": "en",
     "original_title": "Fame",
     "overview": "A chronicle of the lives of several teenagers who attend a New York high school for students gifted in the performing arts.",
-    "popularity": 3.681,
+    "popularity": 3.818,
     "poster_path": "/ewuGn4kxsqbYfgSO8Y5kzYlBcKE.jpg",
     "production_companies": [
         {
@@ -35,7 +35,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1980-05-16",
@@ -46,7 +46,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "English",
@@ -61,7 +61,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",

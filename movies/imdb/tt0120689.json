@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "The Green Mile",
     "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
-    "popularity": 27.7806,
+    "popularity": 29.1252,
     "poster_path": "/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
     "production_companies": [
         {
@@ -45,7 +45,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1999-12-10",
@@ -56,7 +56,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "English",
@@ -69,7 +69,7 @@
     "title": "The Green Mile",
     "video": false,
     "vote_average": 8.504,
-    "vote_count": 20188,
+    "vote_count": 20192,
     "youtube_theme_added": 1701991595,
     "youtube_theme_added_by": "88998541",
     "youtube_theme_edited": 1701991595,

@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "The Avengers",
     "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
-    "popularity": 44.5454,
+    "popularity": 45.7711,
     "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
     "production_companies": [
         {
@@ -44,7 +44,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2012-04-25",
@@ -60,20 +60,20 @@
         {
             "english_name": "Hindi",
             "iso_639_1": "hi",
-            "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+            "name": "\u0939\u093f\u0902\u0926\u0940"
         },
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         }
     ],
     "status": "Released",
     "tagline": "Some assembly required.",
     "title": "The Avengers",
     "video": false,
-    "vote_average": 8.1,
-    "vote_count": 40461,
+    "vote_average": 8.086,
+    "vote_count": 40466,
     "youtube_theme_added": 1675536243,
     "youtube_theme_added_by": "19782651",
     "youtube_theme_edited": 1675536243,

@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Shang-Chi and the Legend of the Ten Rings",
     "overview": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
-    "popularity": 25.2593,
+    "popularity": 27.0635,
     "poster_path": "/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
     "production_companies": [
         {
@@ -39,7 +39,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2021-09-01",
@@ -53,9 +53,9 @@
             "name": "English"
         },
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         }
     ],
     "status": "Released",
@@ -63,7 +63,7 @@
     "title": "Shang-Chi and the Legend of the Ten Rings",
     "video": false,
     "vote_average": 7.476,
-    "vote_count": 10996,
+    "vote_count": 10997,
     "youtube_theme_added": 1675705877,
     "youtube_theme_added_by": "15357950",
     "youtube_theme_edited": 1792696676,

@@ -69,7 +69,7 @@
     "original_language": "cs",
     "original_name": "Trabantem z Austr\u00e1lie do Asie",
     "overview": "",
-    "popularity": 0.96,
+    "popularity": 0.8215,
     "poster_path": "/hC2qSDOPxrpMISRh7SIhBTiuNzJ.jpg",
     "production_companies": [],
     "production_countries": [
@@ -95,12 +95,12 @@
         {
             "english_name": "Czech",
             "iso_639_1": "cs",
-            "name": "\u010cesk\u00fd"
+            "name": "\u010de\u0161tina"
         },
         {
             "english_name": "Slovak",
             "iso_639_1": "sk",
-            "name": "Sloven\u010dina"
+            "name": "sloven\u010dina"
         }
     ],
     "status": "Ended",

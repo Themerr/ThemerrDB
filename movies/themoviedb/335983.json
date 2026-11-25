@@ -5,7 +5,7 @@
         "backdrop_path": "/vq340s8DxA5Q209FT8PHA6CXYOx.jpg",
         "id": 558216,
         "name": "Venom Collection",
-        "poster_path": "/unpRHoS5df7VEukeukCAgHU1sV2.jpg"
+        "poster_path": "/t3MtZy5ZoiiZomB42QQWdxLZ6Di.jpg"
     },
     "budget": 116000000,
     "genres": [
@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Venom",
     "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
-    "popularity": 12.7362,
+    "popularity": 12.9218,
     "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
     "production_companies": [
         {
@@ -74,7 +74,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2018-09-28",
@@ -83,9 +83,9 @@
     "softcore": false,
     "spoken_languages": [
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         },
         {
             "english_name": "English",
@@ -103,7 +103,7 @@
     "title": "Venom",
     "video": false,
     "vote_average": 6.819,
-    "vote_count": 17836,
+    "vote_count": 17838,
     "youtube_theme_added": 1675106799,
     "youtube_theme_added_by": "15357950",
     "youtube_theme_edited": 1675106799,

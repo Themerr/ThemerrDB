@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "The Devil Wears Prada",
     "overview": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
-    "popularity": 22.0241,
+    "popularity": 21.1826,
     "poster_path": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
     "production_companies": [
         {
@@ -58,7 +58,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2006-06-29",
@@ -74,7 +74,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",

@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "The Bourne Legacy",
     "overview": "New CIA operative Aaron Cross experiences life-or-death stakes that have been triggered by the previous actions of Jason Bourne.",
-    "popularity": 8.238,
+    "popularity": 8.4837,
     "poster_path": "/1aExL5DTGHj25ZfIC3dDwS84RWi.jpg",
     "production_companies": [
         {
@@ -58,7 +58,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2012-08-08",
@@ -74,7 +74,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         }
     ],
     "status": "Released",
@@ -82,7 +82,7 @@
     "title": "The Bourne Legacy",
     "video": false,
     "vote_average": 6.257,
-    "vote_count": 6386,
+    "vote_count": 6387,
     "youtube_theme_added": 1697351927,
     "youtube_theme_added_by": "118304977",
     "youtube_theme_edited": 1697351927,

@@ -34,7 +34,7 @@
     "original_language": "en",
     "original_title": "Patriots Day",
     "overview": "In the aftermath of an unspeakable act of terror, Police Sergeant Tommy Saunders joins courageous survivors, first responders and investigators in a race against the clock to hunt down the Boston Marathon bombers before they strike again.",
-    "popularity": 3.9896,
+    "popularity": 4.5298,
     "poster_path": "/mIDxsJTrOC7NhgOo3GziiHyKfsQ.jpg",
     "production_companies": [
         {
@@ -83,11 +83,11 @@
     "production_countries": [
         {
             "iso_3166_1": "HK",
-            "name": "Hong Kong"
+            "name": "Hong Kong SAR China"
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2016-12-12",
@@ -106,9 +106,9 @@
             "name": "English"
         },
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         }
     ],
     "status": "Released",

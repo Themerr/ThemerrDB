@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Iron Man 2",
     "overview": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances \u2013 and confront powerful enemies.",
-    "popularity": 23.6903,
+    "popularity": 23.9221,
     "poster_path": "/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
     "production_companies": [
         {
@@ -56,7 +56,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2010-04-28",
@@ -72,20 +72,20 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",
     "tagline": "It's not the armor that makes the hero, but the man inside.",
     "title": "Iron Man 2",
     "video": false,
-    "vote_average": 6.856,
-    "vote_count": 23272,
+    "vote_average": 6.857,
+    "vote_count": 23278,
     "youtube_theme_added": 1674855087,
     "youtube_theme_added_by": "19782651",
     "youtube_theme_edited": 1674855087,

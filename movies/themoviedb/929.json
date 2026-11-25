@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Godzilla",
     "overview": "French nuclear tests irradiate an iguana into a giant monster that viciously attacks freighter ships in the Pacific Ocean. A team of experts, including Niko Tatopoulos, conclude that the oversized reptile is the culprit. Before long, the giant lizard is loose in Manhattan as the US military races to destroy the monster before it reproduces and it's spawn takes over the world.",
-    "popularity": 11.4402,
+    "popularity": 11.8178,
     "poster_path": "/xJVl1I95StraYAwaNbBkVoWE2qA.jpg",
     "production_companies": [
         {
@@ -57,7 +57,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1998-05-20",
@@ -73,7 +73,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Japanese",
@@ -83,7 +83,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "Spanish",
@@ -95,7 +95,7 @@
     "tagline": "Size does matter.",
     "title": "Godzilla",
     "video": false,
-    "vote_average": 5.663,
+    "vote_average": 5.7,
     "vote_count": 4450,
     "youtube_theme_added": 1719369309,
     "youtube_theme_added_by": "118304977",

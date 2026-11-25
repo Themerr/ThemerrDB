@@ -22,7 +22,7 @@
     "original_language": "en",
     "original_title": "Hancock",
     "overview": "Hancock is a down-and-out superhero who's forced to employ a PR expert to help repair his image when the public grows weary of all the damage he's inflicted during his lifesaving heroics. The agent's idea of imprisoning the antihero to make the world miss him proves successful, but will Hancock stick to his new sense of purpose or slip back into old habits?",
-    "popularity": 8.1668,
+    "popularity": 7.3861,
     "poster_path": "/7DyuV2G0hLEqHeueDfOqhZ2DVut.jpg",
     "production_companies": [
         {
@@ -59,7 +59,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2008-07-01",
@@ -75,7 +75,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Japanese",
@@ -93,7 +93,7 @@
     "title": "Hancock",
     "video": false,
     "vote_average": 6.358,
-    "vote_count": 10657,
+    "vote_count": 10658,
     "youtube_theme_added": 1719858806,
     "youtube_theme_added_by": "118304977",
     "youtube_theme_edited": 1719858806,

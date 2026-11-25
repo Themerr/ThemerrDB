@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Creed II",
     "overview": "Between personal obligations and training for his next big fight against an opponent with ties to his family's past, Adonis Creed is up against the challenge of his life.",
-    "popularity": 8.4537,
+    "popularity": 8.528,
     "poster_path": "/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",
     "production_companies": [
         {
@@ -52,7 +52,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2018-11-21",
@@ -68,7 +68,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         }
     ],
     "status": "Released",
@@ -76,7 +76,7 @@
     "title": "Creed II",
     "video": false,
     "vote_average": 7.034,
-    "vote_count": 6001,
+    "vote_count": 6002,
     "youtube_theme_added": 1675720626,
     "youtube_theme_added_by": "87816856",
     "youtube_theme_edited": 1675720626,

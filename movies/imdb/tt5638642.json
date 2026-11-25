@@ -22,7 +22,7 @@
     "original_language": "en",
     "original_title": "The Ritual",
     "overview": "A group of university friends reunite for a hiking trip in Sweden, but are stalked by a menacing presence when they're diverted through the woods.",
-    "popularity": 6.0429,
+    "popularity": 5.9881,
     "poster_path": "/kJoFXZPTDwCy5ekrNV1JygBXvnD.jpg",
     "production_companies": [
         {
@@ -55,7 +55,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         },
         {
             "iso_3166_1": "RO",
@@ -75,7 +75,7 @@
         {
             "english_name": "Swedish",
             "iso_639_1": "sv",
-            "name": "svenska"
+            "name": "Svenska"
         }
     ],
     "status": "Released",

@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Sinners",
     "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
-    "popularity": 21.9063,
+    "popularity": 22.2151,
     "poster_path": "/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
     "production_companies": [
         {
@@ -51,7 +51,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2025-04-16",
@@ -60,14 +60,14 @@
     "softcore": false,
     "spoken_languages": [
         {
-            "english_name": "Mandarin",
-            "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
-        },
-        {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
+        },
+        {
+            "english_name": "Chinese",
+            "iso_639_1": "zh",
+            "name": "\u6c49\u8bed"
         },
         {
             "english_name": "Yoruba",
@@ -79,7 +79,7 @@
     "tagline": "Dance with the devil.",
     "title": "Sinners",
     "video": false,
-    "vote_average": 7.522,
+    "vote_average": 7.5,
     "vote_count": 5614,
     "youtube_theme_added": 1788428671,
     "youtube_theme_added_by": "111676156",

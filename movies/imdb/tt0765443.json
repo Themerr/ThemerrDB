@@ -28,7 +28,7 @@
     "original_language": "en",
     "original_title": "Eastern Promises",
     "overview": "A Russian teenager living in London dies during childbirth but leaves clues in her diary that could tie her child to a rape involving a violent Russian mob family.",
-    "popularity": 5.2555,
+    "popularity": 5.7795,
     "poster_path": "/nLwv1pxRCRZucQaqs6oPkq7HH3K.jpg",
     "production_companies": [
         {
@@ -97,7 +97,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2007-09-14",
@@ -113,7 +113,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "Turkish",
@@ -123,7 +123,7 @@
         {
             "english_name": "Ukrainian",
             "iso_639_1": "uk",
-            "name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439"
+            "name": "\u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430"
         },
         {
             "english_name": "Urdu",
@@ -135,8 +135,8 @@
     "tagline": "Every sin leaves a mark.",
     "title": "Eastern Promises",
     "video": false,
-    "vote_average": 7.346,
-    "vote_count": 3931,
+    "vote_average": 7.347,
+    "vote_count": 3932,
     "youtube_theme_added": 1675723498,
     "youtube_theme_added_by": "87816856",
     "youtube_theme_edited": 1675723498,

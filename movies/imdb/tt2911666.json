@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "John Wick",
     "overview": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
-    "popularity": 12.5822,
+    "popularity": 13.6239,
     "poster_path": "/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
     "production_companies": [
         {
@@ -58,7 +58,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2014-10-16",
@@ -69,7 +69,7 @@
         {
             "english_name": "Hungarian",
             "iso_639_1": "hu",
-            "name": "Magyar"
+            "name": "magyar"
         },
         {
             "english_name": "English",
@@ -79,7 +79,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         }
     ],
     "status": "Released",
@@ -87,7 +87,7 @@
     "title": "John Wick",
     "video": false,
     "vote_average": 7.468,
-    "vote_count": 21660,
+    "vote_count": 21665,
     "youtube_theme_added": 1675910398,
     "youtube_theme_added_by": "87816856",
     "youtube_theme_edited": 1675910398,

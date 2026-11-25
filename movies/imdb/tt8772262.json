@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Midsommar",
     "overview": "Several friends travel to Sweden to study as anthropologists a summer festival that is held every ninety years in the remote hometown of one of them. What begins as a dream vacation in a place where the sun never sets, gradually turns into a dark nightmare as the mysterious inhabitants invite them to participate in their disturbing festive activities.",
-    "popularity": 14.1288,
+    "popularity": 13.7696,
     "poster_path": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
     "production_companies": [
         {
@@ -49,7 +49,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2019-07-03",
@@ -65,7 +65,7 @@
         {
             "english_name": "Swedish",
             "iso_639_1": "sv",
-            "name": "svenska"
+            "name": "Svenska"
         }
     ],
     "status": "Released",

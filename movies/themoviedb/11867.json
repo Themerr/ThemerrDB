@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Barb Wire",
     "overview": "A sexy nightclub owner, Barb Wire moonlights as a mercenary in Steel Harbor, one of the last free zones in the now fascist United States. When scientist Cora Devonshire wanders into Barb's establishment, she gets roped into a top-secret government plot involving biological weapons. Soon Barb is reunited with her old flame Axel Hood, who is now Cora's husband and a guerrilla fighter, resulting in plenty of tense action.",
-    "popularity": 3.4916,
+    "popularity": 3.2304,
     "poster_path": "/eACq1joafhQTD12gGXNS13J06B.jpg",
     "production_companies": [
         {
@@ -51,7 +51,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1996-05-02",
@@ -65,9 +65,9 @@
             "name": "English"
         },
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         },
         {
             "english_name": "German",
@@ -77,7 +77,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",

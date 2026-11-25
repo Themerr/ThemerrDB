@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Mission: Impossible - The Final Reckoning",
     "overview": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity \u2014 which has infiltrated intelligence networks all over the globe \u2014 with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
-    "popularity": 20.1205,
+    "popularity": 20.3099,
     "poster_path": "/iKPsC9EFUafRP9SrUznI61getVP.jpg",
     "production_companies": [
         {
@@ -56,7 +56,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2025-05-17",
@@ -72,7 +72,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Inuktitut",
@@ -82,7 +82,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         }
     ],
     "status": "Released",
@@ -90,7 +90,7 @@
     "title": "Mission: Impossible - The Final Reckoning",
     "video": false,
     "vote_average": 7.166,
-    "vote_count": 3353,
+    "vote_count": 3356,
     "youtube_theme_added": 1788551068,
     "youtube_theme_added_by": "34431195",
     "youtube_theme_edited": 1788551068,

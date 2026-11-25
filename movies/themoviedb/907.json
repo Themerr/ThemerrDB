@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Doctor Zhivago",
     "overview": "The life of a Russian physician and poet who, although married to another, falls in love with a political activist's wife and experiences hardship during World War I and then the October Revolution.",
-    "popularity": 4.6868,
+    "popularity": 5.7463,
     "poster_path": "/r0Iv2BiCFYDnzc6uU1q3AJ56igT.jpg",
     "production_companies": [
         {
@@ -54,7 +54,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1965-12-22",
@@ -70,7 +70,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         }
     ],
     "status": "Released",

@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Spy",
     "overview": "A desk-bound CIA analyst volunteers to go undercover to infiltrate the world of a deadly arms dealer, and prevent diabolical global disaster.",
-    "popularity": 7.0532,
+    "popularity": 6.8363,
     "poster_path": "/vPBmfMHxQvRRNGYD5S5ko2KnX56.jpg",
     "production_companies": [
         {
@@ -57,7 +57,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2015-05-06",
@@ -78,7 +78,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Italian",

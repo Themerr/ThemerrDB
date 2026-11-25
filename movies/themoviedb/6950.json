@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Outbreak",
     "overview": "A deadly airborne virus finds its way into the USA and starts killing off people at an epidemic rate. Col. Sam Daniels' job is to stop the virus spreading from a small town, which must be quarantined, and to prevent an over reaction by the White House.",
-    "popularity": 5.3481,
+    "popularity": 5.7821,
     "poster_path": "/4KymNvlWR0XF0sqX2BWRd9Z3yXR.jpg",
     "production_companies": [
         {
@@ -57,7 +57,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1995-03-10",
@@ -73,19 +73,19 @@
         {
             "english_name": "Korean",
             "iso_639_1": "ko",
-            "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+            "name": "\ud55c\uad6d\uc5b4"
         },
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",
     "tagline": "Try to remain calm.",
     "title": "Outbreak",
     "video": false,
-    "vote_average": 6.6,
+    "vote_average": 6.591,
     "vote_count": 2640,
     "youtube_theme_added": 1721851634,
     "youtube_theme_added_by": "118304977",

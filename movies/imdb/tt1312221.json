@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Frankenstein",
     "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
-    "popularity": 15.41,
+    "popularity": 15.1205,
     "poster_path": "/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
     "production_companies": [
         {
@@ -51,7 +51,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         },
         {
             "iso_3166_1": "CA",
@@ -66,7 +66,7 @@
         {
             "english_name": "Danish",
             "iso_639_1": "da",
-            "name": "Dansk"
+            "name": "dansk"
         },
         {
             "english_name": "English",
@@ -76,15 +76,15 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",
     "tagline": "Only monsters play God.",
     "title": "Frankenstein",
     "video": false,
-    "vote_average": 7.589,
-    "vote_count": 4102,
+    "vote_average": 7.59,
+    "vote_count": 4104,
     "youtube_theme_added": 1790291960,
     "youtube_theme_added_by": "177166452",
     "youtube_theme_edited": 1790291960,

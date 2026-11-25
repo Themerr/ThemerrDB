@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Greenland 2: Migration",
     "overview": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
-    "popularity": 23.3699,
+    "popularity": 23.5,
     "poster_path": "/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
     "production_companies": [
         {
@@ -78,7 +78,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2026-01-07",
@@ -94,7 +94,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",
@@ -102,7 +102,7 @@
     "title": "Greenland 2: Migration",
     "video": false,
     "vote_average": 6.365,
-    "vote_count": 1673,
+    "vote_count": 1674,
     "youtube_theme_added": 1790722255,
     "youtube_theme_added_by": "93882479",
     "youtube_theme_edited": 1790722255,

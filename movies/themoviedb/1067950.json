@@ -26,7 +26,7 @@
     "original_language": "de",
     "original_title": "Girl You Know It's True",
     "overview": "The rise and fall of Milli Vanilli, a studio group assembled by German producer Frank Farian and fronted by nightclub dancers Robert Pilatus and Fabrice Morvan. After a string of worldwide hit singles, awards and performances, it was revealed that the duo never sang a note of their songs, leading to one of the biggest scandals in music history.",
-    "popularity": 2.0177,
+    "popularity": 1.8713,
     "poster_path": "/yKYSHULhVfFzibLmWyJfUiwsFkR.jpg",
     "production_companies": [
         {
@@ -83,7 +83,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2023-12-06",
@@ -104,7 +104,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",

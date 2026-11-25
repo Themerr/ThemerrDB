@@ -22,30 +22,6 @@
     ],
     "last_air_date": "2026-11-17",
     "last_episode_to_air": {
-        "air_date": "2026-11-17",
-        "episode_number": 7,
-        "episode_type": "standard",
-        "id": 7894940,
-        "name": "Infiltrating the Umbral Arena",
-        "overview": "The Umbral Arena is everything Nia had hoped for. But there's one thing she didn't expect: she recognizes one of the fighters.",
-        "production_code": null,
-        "runtime": 25,
-        "season_number": 1,
-        "show_id": 312850,
-        "still_path": "/ebfiDpZ2JeNCZsyLYeksaa7gwQn.jpg",
-        "vote_average": 5.5,
-        "vote_count": 2
-    },
-    "name": "Nia Liston: The Merciless Maiden",
-    "networks": [
-        {
-            "id": 614,
-            "logo_path": "/hSdroyVthq3CynxTIIY7lnS8w1.png",
-            "name": "TOKYO MX",
-            "origin_country": "JP"
-        }
-    ],
-    "next_episode_to_air": {
         "air_date": "2026-11-24",
         "episode_number": 8,
         "episode_type": "standard",
@@ -57,6 +33,30 @@
         "season_number": 1,
         "show_id": 312850,
         "still_path": "/cNUfxmhKyCZKYoemjD5zSdL6Bs0.jpg",
+        "vote_average": 10.0,
+        "vote_count": 1
+    },
+    "name": "Nia Liston: The Merciless Maiden",
+    "networks": [
+        {
+            "id": 614,
+            "logo_path": "/hSdroyVthq3CynxTIIY7lnS8w1.png",
+            "name": "TOKYO MX",
+            "origin_country": "JP"
+        }
+    ],
+    "next_episode_to_air": {
+        "air_date": "2026-12-01",
+        "episode_number": 9,
+        "episode_type": "standard",
+        "id": 7894942,
+        "name": "The Restless Summer Break",
+        "overview": "",
+        "production_code": null,
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 312850,
+        "still_path": null,
         "vote_average": 0.0,
         "vote_count": 0
     },
@@ -68,7 +68,7 @@
     "original_language": "ja",
     "original_name": "\u51f6\u4e71\u4ee4\u5b22\u30cb\u30a2\u2027\u30ea\u30b9\u30c8\u30f3 \u75c5\u5f31\u4ee4\u5b22\u306b\u8ee2\u751f\u3057\u305f\u795e\u6bba\u3057\u306e\u6b66\u4eba\u306e\u83ef\u9e97\u306a\u308b\u7121\u53cc\u9332",
     "overview": "A dying girl is saved when a fallen warrior\u2019s soul is placed in her body, giving her new life, healing powers, and an unstoppable thirst for battle that brings chaos in its wake.",
-    "popularity": 10.5642,
+    "popularity": 14.0491,
     "poster_path": "/vsEJaex0keh3dmBC9sVymiKfSwA.jpg",
     "production_companies": [
         {
@@ -163,7 +163,7 @@
             "overview": "",
             "poster_path": "/qcD7qC8i69yIwHmxv2FO185kd8k.jpg",
             "season_number": 1,
-            "vote_average": 6.2
+            "vote_average": 6.7
         }
     ],
     "softcore": false,

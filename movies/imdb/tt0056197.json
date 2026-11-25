@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "The Longest Day",
     "overview": "The retelling of June 6, 1944, from the perspectives of the Germans, US, British, Canadians, and the Free French. Marshall Erwin Rommel, touring the defenses being established as part of the Reich's Atlantic Wall, notes to his officers that when the Allied invasion comes they must be stopped on the beach. \"For the Allies as well as the Germans, it will be the longest day\"",
-    "popularity": 4.0547,
+    "popularity": 4.6669,
     "poster_path": "/5zmvEofdIlgXrQl9A7e5IOzlnFU.jpg",
     "production_companies": [
         {
@@ -45,7 +45,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1962-09-25",
@@ -66,7 +66,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",

@@ -81,7 +81,7 @@
     "original_language": "en",
     "original_name": "Warrior",
     "overview": "A gritty, action-packed crime drama set during the brutal Tong Wars of San Francisco\u2019s Chinatown in the second half of the 19th century. The series follows Ah Sahm, a martial arts prodigy who immigrates from China to San Francisco under mysterious circumstances, and becomes a hatchet man for one of Chinatown\u2019s most powerful tongs.",
-    "popularity": 21.8615,
+    "popularity": 22.9663,
     "poster_path": "/hR9qPFMI6BoR63XK6BBX5Ueghan.jpg",
     "production_companies": [
         {
@@ -106,7 +106,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         },
         {
             "iso_3166_1": "DK",
@@ -160,7 +160,7 @@
         {
             "english_name": "Danish",
             "iso_639_1": "da",
-            "name": "Dansk"
+            "name": "dansk"
         },
         {
             "english_name": "English",
@@ -168,9 +168,9 @@
             "name": "English"
         },
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         }
     ],
     "status": "Canceled",

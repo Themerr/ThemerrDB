@@ -35,7 +35,7 @@
     "original_language": "en",
     "original_title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
     "overview": "After years of being sheltered from the human world, the Turtle brothers set out to win the hearts of New Yorkers and be accepted as normal teenagers through heroic acts. Their new friend April O'Neil helps them take on a mysterious crime syndicate, but they soon get in over their heads when an army of mutants is unleashed upon them.",
-    "popularity": 6.8376,
+    "popularity": 7.0779,
     "poster_path": "/gyh0eECE2IqrW8GWl3KoHBfc45j.jpg",
     "production_companies": [
         {
@@ -80,7 +80,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2023-07-31",
@@ -94,9 +94,9 @@
             "name": "English"
         },
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         }
     ],
     "status": "Released",

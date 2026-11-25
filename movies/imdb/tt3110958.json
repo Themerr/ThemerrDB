@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Now You See Me 2",
     "overview": "One year after outwitting the FBI and winning the public\u2019s adulation with their mind-bending spectacles, the Four Horsemen resurface only to find themselves face to face with a new enemy who enlists them to pull off their most dangerous heist yet.",
-    "popularity": 9.7098,
+    "popularity": 9.4174,
     "poster_path": "/A81kDB6a1K86YLlcOtZB27jriJh.jpg",
     "production_companies": [
         {
@@ -52,11 +52,11 @@
     "production_countries": [
         {
             "iso_3166_1": "HK",
-            "name": "Hong Kong"
+            "name": "Hong Kong SAR China"
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2016-06-02",
@@ -70,9 +70,9 @@
             "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
         },
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         },
         {
             "english_name": "English",
@@ -85,7 +85,7 @@
     "title": "Now You See Me 2",
     "video": false,
     "vote_average": 6.817,
-    "vote_count": 11977,
+    "vote_count": 11979,
     "youtube_theme_added": 1701573457,
     "youtube_theme_added_by": "10240016",
     "youtube_theme_edited": 1701573457,

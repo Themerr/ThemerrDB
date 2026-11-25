@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "The Whole Ten Yards",
     "overview": "Jimmy \"The Tulip\" Tudeski now spends his days compulsively cleaning his house and perfecting his culinary skills with his wife, Jill, a purported assassin who has yet to pull off a clean hit. Suddenly, an uninvited and unwelcome connection to their past unexpectedly shows up on Jimmy and Jill's doorstep; it's Oz, and he's begging them to help him rescue his wife, Cynthia.",
-    "popularity": 3.0844,
+    "popularity": 3.2782,
     "poster_path": "/4fbglyCpPqK1u40fhncLXKAF74A.jpg",
     "production_companies": [
         {
@@ -68,7 +68,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2004-04-07",
@@ -84,12 +84,12 @@
         {
             "english_name": "Hebrew",
             "iso_639_1": "he",
-            "name": "\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea"
+            "name": "\u05e2\u05d1\u05e8\u05d9\u05ea"
         },
         {
             "english_name": "Hungarian",
             "iso_639_1": "hu",
-            "name": "Magyar"
+            "name": "magyar"
         }
     ],
     "status": "Released",

@@ -32,7 +32,7 @@
     "original_language": "en",
     "original_title": "Hotel Mumbai",
     "overview": "Mumbai, India, November 26, 2008. While several terrorists spread hatred and death through the city, others attack the Taj Mahal Palace Hotel. Both hotel staff and guests risk their lives, making unthinkable sacrifices to protect themselves and keep everyone safe while help arrives.",
-    "popularity": 3.2729,
+    "popularity": 3.2188,
     "poster_path": "/v32SC4HFZtlDRWXMaR2V2dWqAXJ.jpg",
     "production_companies": [
         {
@@ -107,7 +107,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         },
         {
             "iso_3166_1": "GB",
@@ -132,17 +132,17 @@
         {
             "english_name": "Hindi",
             "iso_639_1": "hi",
-            "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+            "name": "\u0939\u093f\u0902\u0926\u0940"
         },
         {
             "english_name": "Marathi",
             "iso_639_1": "mr",
-            "name": ""
+            "name": "\u092e\u0930\u093e\u0920\u0940"
         },
         {
             "english_name": "Greek",
             "iso_639_1": "el",
-            "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+            "name": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
         },
         {
             "english_name": "Punjabi",
@@ -157,7 +157,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "Urdu",

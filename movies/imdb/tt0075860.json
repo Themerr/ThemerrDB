@@ -22,7 +22,7 @@
     "original_language": "en",
     "original_title": "Close Encounters of the Third Kind",
     "overview": "After an encounter with UFOs, an electricity linesman feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.",
-    "popularity": 7.9352,
+    "popularity": 9.0769,
     "poster_path": "/dTWvLWur0XM7YezSTSoZxZ7gDfM.jpg",
     "production_companies": [
         {
@@ -51,7 +51,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1977-12-14",
@@ -62,7 +62,7 @@
         {
             "english_name": "Hindi",
             "iso_639_1": "hi",
-            "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+            "name": "\u0939\u093f\u0902\u0926\u0940"
         },
         {
             "english_name": "English",
@@ -72,7 +72,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Spanish",
@@ -85,7 +85,7 @@
     "title": "Close Encounters of the Third Kind",
     "video": false,
     "vote_average": 7.352,
-    "vote_count": 4928,
+    "vote_count": 4929,
     "youtube_theme_added": 1700582467,
     "youtube_theme_added_by": "4533568",
     "youtube_theme_edited": 1700582467,

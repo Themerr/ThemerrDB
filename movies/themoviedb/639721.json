@@ -35,7 +35,7 @@
     "original_language": "en",
     "original_title": "The Addams Family 2",
     "overview": "The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters.",
-    "popularity": 4.5079,
+    "popularity": 5.0643,
     "poster_path": "/ld7YB9vBRp1GM1DT3KmFWSmtBPB.jpg",
     "production_companies": [
         {
@@ -82,7 +82,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2021-10-01",
@@ -108,14 +108,14 @@
         {
             "english_name": "Ukrainian",
             "iso_639_1": "uk",
-            "name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439"
+            "name": "\u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430"
         }
     ],
     "status": "Released",
     "tagline": "Unhappy to see you again.",
     "title": "The Addams Family 2",
     "video": false,
-    "vote_average": 6.917,
+    "vote_average": 6.9,
     "vote_count": 1468,
     "youtube_theme_added": 1701629404,
     "youtube_theme_added_by": "100123062",

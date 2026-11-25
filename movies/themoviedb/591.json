@@ -30,7 +30,7 @@
     "original_language": "en",
     "original_title": "The Da Vinci Code",
     "overview": "A murder in Paris\u2019 Louvre Museum and cryptic clues in some of Leonardo da Vinci\u2019s most famous paintings lead to the discovery of a religious mystery. For 2,000 years a secret society closely guards information that \u2014 should it come to light \u2014 could rock the very foundations of Christianity.",
-    "popularity": 11.9136,
+    "popularity": 11.5899,
     "poster_path": "/9ejKfNk0LBhSI9AahH4f9NJNZNM.jpg",
     "production_companies": [
         {
@@ -49,7 +49,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2006-05-17",
@@ -65,7 +65,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Latin",

@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Army of Thieves",
     "overview": "A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspiring thieves on a top-secret heist during the early stages of the zombie apocalypse.",
-    "popularity": 6.538,
+    "popularity": 5.9179,
     "poster_path": "/j04Oepj3LGTWSb1ltXm0pcy50Xq.jpg",
     "production_companies": [
         {
@@ -54,7 +54,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2021-10-27",
@@ -70,7 +70,7 @@
         {
             "english_name": "Czech",
             "iso_639_1": "cs",
-            "name": "\u010cesk\u00fd"
+            "name": "\u010de\u0161tina"
         },
         {
             "english_name": "Georgian",
@@ -80,7 +80,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "English",

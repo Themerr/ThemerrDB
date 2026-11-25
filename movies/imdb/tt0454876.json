@@ -22,7 +22,7 @@
     "original_language": "en",
     "original_title": "Life of Pi",
     "overview": "The story of an Indian boy named Pi, a zookeeper's son who finds himself in the company of a hyena, zebra, orangutan, and a Bengal tiger after a shipwreck sets them adrift in the Pacific Ocean.",
-    "popularity": 10.1022,
+    "popularity": 9.9752,
     "poster_path": "/iLgRu4hhSr6V1uManX6ukDriiSc.jpg",
     "production_companies": [
         {
@@ -65,7 +65,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         },
         {
             "iso_3166_1": "GB",
@@ -89,12 +89,12 @@
         {
             "english_name": "Hindi",
             "iso_639_1": "hi",
-            "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+            "name": "\u0939\u093f\u0902\u0926\u0940"
         },
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "English",
@@ -112,7 +112,7 @@
     "title": "Life of Pi",
     "video": false,
     "vote_average": 7.419,
-    "vote_count": 14233,
+    "vote_count": 14235,
     "youtube_theme_added": 1675912131,
     "youtube_theme_added_by": "87816856",
     "youtube_theme_edited": 1675912131,

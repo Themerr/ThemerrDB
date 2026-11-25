@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Willy Wonka & the Chocolate Factory",
     "overview": "When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a tour of his chocolate factory to five lucky kids, penniless Charlie Bucket seeks the golden ticket that will make him a winner.",
-    "popularity": 8.4757,
+    "popularity": 8.6916,
     "poster_path": "/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
     "production_companies": [
         {
@@ -39,7 +39,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1971-06-29",
@@ -50,7 +50,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "English",

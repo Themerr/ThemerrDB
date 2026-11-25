@@ -26,7 +26,7 @@
     "original_language": "ko",
     "original_title": "\ud5e4\uc5b4\uc9c8 \uacb0\uc2ec",
     "overview": "From a mountain peak in South Korea, a man plummets to his death. Did he jump, or was he pushed? When detective Hae-joon arrives on the scene, he begins to suspect the dead man\u2019s wife Seo-rae. But as he digs deeper into the investigation, he finds himself trapped in a web of deception and desire.",
-    "popularity": 9.5619,
+    "popularity": 8.9728,
     "poster_path": "/zI8KZ4EdLUymWKX1YEkpZ0gtPUa.jpg",
     "production_companies": [
         {
@@ -60,9 +60,9 @@
     "softcore": false,
     "spoken_languages": [
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         },
         {
             "english_name": "English",
@@ -72,7 +72,7 @@
         {
             "english_name": "Korean",
             "iso_639_1": "ko",
-            "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+            "name": "\ud55c\uad6d\uc5b4"
         }
     ],
     "status": "Released",

@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "An American in Paris",
     "overview": "Jerry Mulligan is an exuberant American expatriate in Paris trying to make a reputation as a painter. His friend Adam is a struggling concert pianist who's a long time associate of a famous French singer, Henri Baurel. A lonely society woman, Milo Roberts, takes Jerry under her wing and supports him, but is interested in more than his art.",
-    "popularity": 3.0497,
+    "popularity": 3.0965,
     "poster_path": "/lyDXkvG53ldz6Cf7dbjJl7TaoP5.jpg",
     "production_companies": [
         {
@@ -39,7 +39,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1951-09-26",
@@ -55,7 +55,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "German",

@@ -30,7 +30,7 @@
     "original_language": "en",
     "original_title": "The Wrecking Crew",
     "overview": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
-    "popularity": 19.9344,
+    "popularity": 20.0348,
     "poster_path": "/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
     "production_companies": [
         {
@@ -73,7 +73,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         },
         {
             "iso_3166_1": "CA",
@@ -86,9 +86,9 @@
     "softcore": false,
     "spoken_languages": [
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         },
         {
             "english_name": "English",
@@ -98,7 +98,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Japanese",
@@ -120,7 +120,7 @@
     "tagline": "They fight like brothers. They wreck like legends.",
     "title": "The Wrecking Crew",
     "video": false,
-    "vote_average": 7.068,
+    "vote_average": 7.07,
     "vote_count": 1365,
     "youtube_theme_added": 1788552215,
     "youtube_theme_added_by": "93882479",

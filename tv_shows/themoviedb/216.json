@@ -72,7 +72,7 @@
     "original_language": "en",
     "original_name": "Duck Dodgers",
     "overview": "Duck Dodgers battles evil in the 24th century.",
-    "popularity": 21.4638,
+    "popularity": 23.4111,
     "poster_path": "/d2PpdUKSTHSLsnlkScMyHkAxC2i.jpg",
     "production_companies": [
         {
@@ -91,7 +91,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "seasons": [
@@ -141,7 +141,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Ended",

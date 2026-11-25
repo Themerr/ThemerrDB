@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Mission: Impossible - Rogue Nation",
     "overview": "Ethan and team take on their most impossible mission yet\u2014eradicating 'The Syndicate', an International and highly-skilled rogue organization committed to destroying the IMF.",
-    "popularity": 8.8881,
+    "popularity": 8.9256,
     "poster_path": "/mXwC63mlpijqllhoeGnKBGgPtBa.jpg",
     "production_companies": [
         {
@@ -70,7 +70,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         },
         {
             "iso_3166_1": "CN",
@@ -95,7 +95,7 @@
         {
             "english_name": "Swedish",
             "iso_639_1": "sv",
-            "name": "svenska"
+            "name": "Svenska"
         }
     ],
     "status": "Released",
@@ -103,7 +103,7 @@
     "title": "Mission: Impossible - Rogue Nation",
     "video": false,
     "vote_average": 7.227,
-    "vote_count": 10123,
+    "vote_count": 10125,
     "youtube_theme_added": 1676063398,
     "youtube_theme_added_by": "88998541",
     "youtube_theme_edited": 1676063398,

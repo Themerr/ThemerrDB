@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "The Muppet Movie",
     "overview": "The Muppets gather to watch their newly-finished big-budget rich-and-famous feature film: a talent agent persuades Kermit the Frog to leave the swamp to pursue a career in Hollywood. On his way there, he meets a bear, a pig, a whatever (his future Muppet crew), and some special celebrity guest stars, while being chased by the desperate owner of a frog-leg restaurant!",
-    "popularity": 4.1134,
+    "popularity": 5.3046,
     "poster_path": "/8LUjnIW5ph6pHoXDE3Zg4iVi6BV.jpg",
     "production_companies": [
         {
@@ -49,7 +49,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1979-06-22",
@@ -60,7 +60,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "English",
@@ -72,7 +72,7 @@
     "tagline": "More entertaining than humanly possible!",
     "title": "The Muppet Movie",
     "video": false,
-    "vote_average": 7.2,
+    "vote_average": 7.211,
     "vote_count": 737,
     "youtube_theme_added": 1791734211,
     "youtube_theme_added_by": "276664493",

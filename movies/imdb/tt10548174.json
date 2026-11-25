@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "28 Years Later",
     "overview": "Twenty-eight years after the Rage virus outbreak, a heavily-defended island survives connected to the mainland by a single causeway. When one of the group leaves the island into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well.",
-    "popularity": 18.3952,
+    "popularity": 18.4464,
     "poster_path": "/n5FygjEppOvac6yEaowi26nTyw3.jpg",
     "production_companies": [
         {
@@ -66,7 +66,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2025-06-18",
@@ -82,15 +82,15 @@
         {
             "english_name": "Swedish",
             "iso_639_1": "sv",
-            "name": "svenska"
+            "name": "Svenska"
         }
     ],
     "status": "Released",
     "tagline": "Time didn't heal anything.",
     "title": "28 Years Later",
     "video": false,
-    "vote_average": 6.593,
-    "vote_count": 3182,
+    "vote_average": 6.6,
+    "vote_count": 3181,
     "youtube_theme_added": 1779719654,
     "youtube_theme_added_by": "30657709",
     "youtube_theme_edited": 1779719654,

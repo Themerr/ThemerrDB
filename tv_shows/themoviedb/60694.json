@@ -46,7 +46,7 @@
         "season_number": 13,
         "show_id": 60694,
         "still_path": "/g269wJVwaet8x3E08PnsQINMNYM.jpg",
-        "vote_average": 5.625,
+        "vote_average": 5.6,
         "vote_count": 12
     },
     "name": "Last Week Tonight with John Oliver",
@@ -67,7 +67,7 @@
     "original_language": "en",
     "original_name": "Last Week Tonight with John Oliver",
     "overview": "A half-hour satirical look at the week in news, politics and current events.",
-    "popularity": 79.1423,
+    "popularity": 83.0667,
     "poster_path": "/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
     "production_companies": [
         {
@@ -104,7 +104,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "seasons": [
@@ -261,7 +261,7 @@
     "tagline": "Please hold.",
     "type": "News",
     "vote_average": 7.745,
-    "vote_count": 877,
+    "vote_count": 878,
     "youtube_theme_added": 1720462085,
     "youtube_theme_added_by": "9321129",
     "youtube_theme_edited": 1720462085,

@@ -67,7 +67,7 @@
     "original_language": "en",
     "original_name": "Young Sherlock",
     "overview": "Sherlock Holmes is a disgraced young man, raw and unfiltered, when he finds himself wrapped up in a murder case that threatens his liberty. His first ever case unravels a globe-trotting conspiracy that changes his life forever.",
-    "popularity": 20.7825,
+    "popularity": 20.4842,
     "poster_path": "/h3s0Cd2JppeWA4UjTuSRauL52P7.jpg",
     "production_companies": [
         {
@@ -102,7 +102,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "seasons": [
@@ -130,9 +130,9 @@
     "softcore": false,
     "spoken_languages": [
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         },
         {
             "english_name": "English",
@@ -142,7 +142,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Turkish",

@@ -32,7 +32,7 @@
     "original_language": "cn",
     "original_title": "\u8449\u554f",
     "overview": "A semi-biographical account of Yip Man, the first martial arts master to teach the Chinese martial art of Wing Chun. The film focuses on events surrounding Ip that took place in the city of Foshan between the 1930s to 1940s during the Second Sino-Japanese War. Directed by Wilson Yip, the film stars Donnie Yen in the lead role, and features fight choreography by Sammo Hung.",
-    "popularity": 4.9028,
+    "popularity": 4.6847,
     "poster_path": "/9bUIrDKnesNbBL1nAl1nt7gtocE.jpg",
     "production_companies": [
         {
@@ -91,7 +91,7 @@
         },
         {
             "iso_3166_1": "HK",
-            "name": "Hong Kong"
+            "name": "Hong Kong SAR China"
         }
     ],
     "release_date": "2008-12-12",
@@ -100,9 +100,9 @@
     "softcore": false,
     "spoken_languages": [
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         },
         {
             "english_name": "Japanese",
@@ -120,7 +120,7 @@
     "title": "Ip Man",
     "video": false,
     "vote_average": 7.767,
-    "vote_count": 4338,
+    "vote_count": 4339,
     "youtube_theme_added": 1712032113,
     "youtube_theme_added_by": "112841659",
     "youtube_theme_edited": 1712032113,

@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Midway",
     "overview": "The story of the Battle of Midway, and the leaders and soldiers who used their instincts, fortitude and bravery to overcome massive odds.",
-    "popularity": 7.2489,
+    "popularity": 6.9883,
     "poster_path": "/hj8pyoNnynGeJTAbl7jcLZO8Uhx.jpg",
     "production_companies": [
         {
@@ -74,11 +74,11 @@
         },
         {
             "iso_3166_1": "HK",
-            "name": "Hong Kong"
+            "name": "Hong Kong SAR China"
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2019-11-06",
@@ -87,9 +87,9 @@
     "softcore": false,
     "spoken_languages": [
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         },
         {
             "english_name": "English",

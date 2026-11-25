@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "The Suicide Squad",
     "overview": "Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
-    "popularity": 15.2363,
+    "popularity": 16.2511,
     "poster_path": "/q61qEyssk2ku3okWICKArlAdhBn.jpg",
     "production_companies": [
         {
@@ -62,7 +62,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2021-07-28",
@@ -78,7 +78,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Spanish",
@@ -90,8 +90,8 @@
     "tagline": "They\u2019re dying to save the world.",
     "title": "The Suicide Squad",
     "video": false,
-    "vote_average": 7.432,
-    "vote_count": 10120,
+    "vote_average": 7.431,
+    "vote_count": 10121,
     "youtube_theme_added": 1675697508,
     "youtube_theme_added_by": "15357950",
     "youtube_theme_edited": 1675697508,

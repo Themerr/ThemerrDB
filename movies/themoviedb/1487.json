@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Hellboy",
     "overview": "In the final days of World War II, the Nazis attempt to use black magic to aid their dying cause. The Allies raid the camp where the ceremony is taking place, but not before they summon a baby demon who is rescued by Allied forces and dubbed \"Hellboy\". Sixty years later, Hellboy serves the cause of good rather than evil as an agent in the Bureau of Paranormal Research & Defense, along with Abe Sapien - a merman with psychic powers, and Liz Sherman - a woman with pyrokinesis, protecting America against dark forces.",
-    "popularity": 7.0144,
+    "popularity": 6.5912,
     "poster_path": "/21hS8mD8uxBVvf8xVYR30LbbmPO.jpg",
     "production_companies": [
         {
@@ -52,7 +52,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2004-04-02",
@@ -63,7 +63,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "English",
@@ -76,7 +76,7 @@
     "title": "Hellboy",
     "video": false,
     "vote_average": 6.679,
-    "vote_count": 7743,
+    "vote_count": 7744,
     "youtube_theme_added": 1715465895,
     "youtube_theme_added_by": "147501187",
     "youtube_theme_edited": 1790909416,

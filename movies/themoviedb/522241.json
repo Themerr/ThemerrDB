@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "The Courier",
     "overview": "Cold War spy Greville Wynne and his Russian source try to put an end to the Cuban Missile Crisis.",
-    "popularity": 4.3709,
+    "popularity": 4.3321,
     "poster_path": "/zFIjKtZrzhmc7HecdFXXjsLR2Ig.jpg",
     "production_companies": [
         {
@@ -56,7 +56,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2020-01-24",
@@ -72,7 +72,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         }
     ],
     "status": "Released",

@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "The 13th Warrior",
     "overview": "A Muslim ambassador exiled from his homeland joins a group of Vikings, initially offended by their behavior but growing to respect them. As they travel together, they learn of a legendary evil closing in and must unite to confront this formidable force.",
-    "popularity": 5.4465,
+    "popularity": 5.6514,
     "poster_path": "/pj1IQQ7ajwaOrjjTCxyM1L4mSnX.jpg",
     "production_companies": [
         {
@@ -45,7 +45,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1999-08-13",
@@ -61,7 +61,7 @@
         {
             "english_name": "Danish",
             "iso_639_1": "da",
-            "name": "Dansk"
+            "name": "dansk"
         },
         {
             "english_name": "English",
@@ -86,7 +86,7 @@
         {
             "english_name": "Swedish",
             "iso_639_1": "sv",
-            "name": "svenska"
+            "name": "Svenska"
         }
     ],
     "status": "Released",

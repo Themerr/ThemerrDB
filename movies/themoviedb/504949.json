@@ -29,7 +29,7 @@
     "original_language": "en",
     "original_title": "The King",
     "overview": "England, 15th century. Hal, a capricious prince who lives among the populace far from court, is forced by circumstances to reluctantly accept the throne and become Henry V.",
-    "popularity": 5.7309,
+    "popularity": 6.0566,
     "poster_path": "/8u0QBGUbZcBW59VEAdmeFl9g98N.jpg",
     "production_companies": [
         {
@@ -64,7 +64,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2019-10-11",
@@ -80,7 +80,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Latin",

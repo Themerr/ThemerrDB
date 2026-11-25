@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "The Wolf of Wall Street",
     "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
-    "popularity": 25.5621,
+    "popularity": 26.1796,
     "poster_path": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
     "production_companies": [
         {
@@ -57,7 +57,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2013-12-25",
@@ -73,7 +73,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",
@@ -81,7 +81,7 @@
     "title": "The Wolf of Wall Street",
     "video": false,
     "vote_average": 8.027,
-    "vote_count": 27004,
+    "vote_count": 27008,
     "youtube_theme_added": 1674866386,
     "youtube_theme_added_by": "15357950",
     "youtube_theme_edited": 1674866386,

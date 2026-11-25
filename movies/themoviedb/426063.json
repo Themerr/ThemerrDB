@@ -22,7 +22,7 @@
     "original_language": "en",
     "original_title": "Nosferatu",
     "overview": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
-    "popularity": 13.009,
+    "popularity": 13.703,
     "poster_path": "/d0B8xDdqBZlzlPEzES8lu5LlNQn.jpg",
     "production_companies": [
         {
@@ -53,7 +53,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2024-12-25",
@@ -84,7 +84,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         }
     ],
     "status": "Released",
@@ -92,7 +92,7 @@
     "title": "Nosferatu",
     "video": false,
     "vote_average": 6.731,
-    "vote_count": 4191,
+    "vote_count": 4192,
     "youtube_theme_added": 1788551112,
     "youtube_theme_added_by": "34431195",
     "youtube_theme_edited": 1788551112,

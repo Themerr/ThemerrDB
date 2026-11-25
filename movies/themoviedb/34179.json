@@ -26,7 +26,7 @@
     "original_language": "zh",
     "original_title": "\u9326\u8863\u885b",
     "overview": "Commander Qinglong is the loyal leader of the assassin group that serves the emperor. But when his allies plan a rebellion against the ruler, he finds himself in danger.",
-    "popularity": 3.3928,
+    "popularity": 3.1517,
     "poster_path": "/y1VWOEN0UXFiSgCNvWO3lQuzLx.jpg",
     "production_companies": [
         {
@@ -63,7 +63,7 @@
     "production_countries": [
         {
             "iso_3166_1": "HK",
-            "name": "Hong Kong"
+            "name": "Hong Kong SAR China"
         },
         {
             "iso_3166_1": "CN",
@@ -85,9 +85,9 @@
             "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
         },
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         }
     ],
     "status": "Released",

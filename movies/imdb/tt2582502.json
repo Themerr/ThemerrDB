@@ -18,7 +18,7 @@
     "original_language": "en",
     "original_title": "Fathers and Daughters",
     "overview": "A Pulitzer-winning writer grapples with being a widower and father after a mental breakdown, while, 27 years later, his grown daughter struggles to forge connections of her own.",
-    "popularity": 4.3401,
+    "popularity": 4.9853,
     "poster_path": "/fgzp7gGea27hN5d26mgKtZJQgX7.jpg",
     "production_companies": [
         {
@@ -47,7 +47,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2015-10-01",
@@ -63,7 +63,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",

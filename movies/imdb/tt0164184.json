@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "The Sum of All Fears",
     "overview": "When the president of Russia suddenly dies, a man whose politics are virtually unknown succeeds him. The change in political leaders sparks paranoia among American CIA officials, so CIA director Bill Cabot recruits a young analyst to supply insight and advice on the situation. Then the unthinkable happens: a nuclear bomb explodes in a U.S. city, and America is quick to blame the Russians.",
-    "popularity": 6.1953,
+    "popularity": 6.3311,
     "poster_path": "/3E4LW4bjRhEMDeeXeIsmkJ94v8K.jpg",
     "production_companies": [
         {
@@ -53,7 +53,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2002-05-31",
@@ -74,12 +74,12 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "Ukrainian",
             "iso_639_1": "uk",
-            "name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439"
+            "name": "\u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430"
         },
         {
             "english_name": "German",

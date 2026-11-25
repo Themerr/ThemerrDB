@@ -35,7 +35,7 @@
     "original_language": "en",
     "original_title": "Allied",
     "overview": "In 1942, an intelligence officer in North Africa encounters a female French Resistance fighter on a deadly mission behind enemy lines. When they reunite in London, their relationship is tested by the pressures of war.",
-    "popularity": 6.4272,
+    "popularity": 6.1137,
     "poster_path": "/sV4lXM32quwminL3TP36nlNPp7Q.jpg",
     "production_companies": [
         {
@@ -70,7 +70,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2016-11-23",
@@ -91,7 +91,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "German",

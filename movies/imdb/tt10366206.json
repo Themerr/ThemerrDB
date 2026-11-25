@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "John Wick: Chapter 4",
     "overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
-    "popularity": 19.8273,
+    "popularity": 19.9415,
     "poster_path": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
     "production_companies": [
         {
@@ -66,7 +66,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2023-03-21",
@@ -92,7 +92,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "German",
@@ -112,7 +112,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "Spanish",
@@ -125,7 +125,7 @@
     "title": "John Wick: Chapter 4",
     "video": false,
     "vote_average": 7.707,
-    "vote_count": 8566,
+    "vote_count": 8568,
     "youtube_theme_added": 1692977000,
     "youtube_theme_added_by": "88998541",
     "youtube_theme_edited": 1692977000,

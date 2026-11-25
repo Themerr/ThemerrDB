@@ -22,7 +22,7 @@
     "original_language": "en",
     "original_title": "At Eternity's Gate",
     "overview": "Famed but tormented artist Vincent van Gogh spends his final years in Arles, France, painting masterworks of the natural world that surrounds him.",
-    "popularity": 4.0928,
+    "popularity": 3.6417,
     "poster_path": "/y4LvHQoX5YunHJ2EMBSjQvOkvD9.jpg",
     "production_companies": [
         {
@@ -71,7 +71,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         },
         {
             "iso_3166_1": "IE",
@@ -91,7 +91,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",

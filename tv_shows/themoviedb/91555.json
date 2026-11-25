@@ -76,7 +76,7 @@
     "original_language": "en",
     "original_name": "All Elite Wrestling: Dynamite",
     "overview": "A world-class roster of diverse male and female wrestlers give fans a new wrestling experience for the first time in 20 years.",
-    "popularity": 92.9578,
+    "popularity": 103.7977,
     "poster_path": "/uXst536FXtszhbUJzFikifRKvrK.jpg",
     "production_companies": [
         {
@@ -89,7 +89,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "seasons": [
@@ -205,8 +205,8 @@
     "status": "Returning Series",
     "tagline": "",
     "type": "Scripted",
-    "vote_average": 7.9,
-    "vote_count": 91,
+    "vote_average": 7.832,
+    "vote_count": 92,
     "youtube_theme_added": 1795463152,
     "youtube_theme_added_by": "246855873",
     "youtube_theme_edited": 1795463152,

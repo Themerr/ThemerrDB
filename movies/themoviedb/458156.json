@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "John Wick: Chapter 3 - Parabellum",
     "overview": "Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin\u2019s guild, the High Table, John Wick is excommunicado, but the world\u2019s most ruthless hit men and women await his every turn.",
-    "popularity": 13.8714,
+    "popularity": 13.7108,
     "poster_path": "/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg",
     "production_companies": [
         {
@@ -56,7 +56,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2019-05-15",
@@ -70,9 +70,9 @@
             "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
         },
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         },
         {
             "english_name": "English",
@@ -82,7 +82,7 @@
         {
             "english_name": "Indonesian",
             "iso_639_1": "id",
-            "name": "Bahasa indonesia"
+            "name": "Bahasa Indonesia"
         },
         {
             "english_name": "Italian",
@@ -102,7 +102,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         }
     ],
     "status": "Released",
@@ -110,7 +110,7 @@
     "title": "John Wick: Chapter 3 - Parabellum",
     "video": false,
     "vote_average": 7.436,
-    "vote_count": 12308,
+    "vote_count": 12310,
     "youtube_theme_added": 1675910890,
     "youtube_theme_added_by": "87816856",
     "youtube_theme_edited": 1675910890,

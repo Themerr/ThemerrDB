@@ -18,7 +18,7 @@
     "original_language": "en",
     "original_title": "Navalny",
     "overview": "Follows the man who survived an assassination attempt by poisoning with a lethal nerve agent in August 2020. During his months-long recovery, he makes shocking discoveries about the attempt on his life and decides to return home.",
-    "popularity": 1.6278,
+    "popularity": 1.81,
     "poster_path": "/9FXHNsqB4Wk9p42Yh0UtDflRY1f.jpg",
     "production_companies": [
         {
@@ -49,7 +49,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2022-04-08",
@@ -60,7 +60,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "German",
@@ -70,7 +70,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "English",

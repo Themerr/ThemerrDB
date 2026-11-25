@@ -1,6 +1,6 @@
 {
     "adult": false,
-    "backdrop_path": "/hljMglukfpnfaNmUgMuORmL4OVW.jpg",
+    "backdrop_path": "/eyqbJv0B815f3CM71v2ceU29nTk.jpg",
     "belongs_to_collection": {
         "backdrop_path": "/9VM5LiJV0bGb1st1KyHA3cVnO2G.jpg",
         "id": 117693,
@@ -35,7 +35,7 @@
     "original_language": "en",
     "original_title": "Balto",
     "overview": "An outcast half-wolf risks his life to prevent a deadly epidemic from ravaging Nome, Alaska.",
-    "popularity": 4.3557,
+    "popularity": 4.4096,
     "poster_path": "/dCVcdb5oxDizqFLz0F7TE60NoC9.jpg",
     "production_companies": [
         {
@@ -60,7 +60,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         },
         {
             "iso_3166_1": "GB",
@@ -82,7 +82,7 @@
     "tagline": "His story became a legend. His adventure is one you'll never forget.",
     "title": "Balto",
     "video": false,
-    "vote_average": 7.342,
+    "vote_average": 7.3,
     "vote_count": 2281,
     "youtube_theme_added": 1697903790,
     "youtube_theme_added_by": "118304977",

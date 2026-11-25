@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Now You See Me",
     "overview": "An FBI agent and an Interpol detective track a team of illusionists who pull off bank heists during their performances and reward their audiences with the money.",
-    "popularity": 11.2831,
+    "popularity": 11.0457,
     "poster_path": "/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg",
     "production_companies": [
         {
@@ -46,7 +46,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2013-05-29",
@@ -57,7 +57,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "English",
@@ -70,7 +70,7 @@
     "title": "Now You See Me",
     "video": false,
     "vote_average": 7.323,
-    "vote_count": 17366,
+    "vote_count": 17369,
     "youtube_theme_added": 1701573508,
     "youtube_theme_added_by": "10240016",
     "youtube_theme_edited": 1701573508,

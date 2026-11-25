@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Robin Hood",
     "overview": "When soldier Robin happens upon the dying Robert of Loxley, he promises to return the man's sword to his family in Nottingham. There, he assumes Robert's identity; romances his widow, Marion; and draws the ire of the town's sheriff and King John's henchman, Godfrey.",
-    "popularity": 8.2533,
+    "popularity": 8.5394,
     "poster_path": "/9NS5QGOfck24yL3bZqWeW06PgPC.jpg",
     "production_companies": [
         {
@@ -52,7 +52,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2010-05-12",
@@ -68,12 +68,12 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Ukrainian",
             "iso_639_1": "uk",
-            "name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439"
+            "name": "\u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430"
         }
     ],
     "status": "Released",
@@ -81,7 +81,7 @@
     "title": "Robin Hood",
     "video": false,
     "vote_average": 6.401,
-    "vote_count": 5243,
+    "vote_count": 5244,
     "youtube_theme_added": 1722626082,
     "youtube_theme_added_by": "118304977",
     "youtube_theme_edited": 1722626082,

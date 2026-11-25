@@ -22,7 +22,7 @@
     "original_language": "fr",
     "original_title": "Le Fabuleux Destin d'Am\u00e9lie Poulain",
     "overview": "At a tiny Parisian caf\u00e9, the adorable yet painfully shy Am\u00e9lie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
-    "popularity": 17.1856,
+    "popularity": 17.5131,
     "poster_path": "/nSxDa3M9aMvGVLoItzWTepQ5h5d.jpg",
     "production_companies": [
         {
@@ -74,12 +74,12 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         }
     ],
     "status": "Released",
@@ -87,7 +87,7 @@
     "title": "Am\u00e9lie",
     "video": false,
     "vote_average": 7.921,
-    "vote_count": 12855,
+    "vote_count": 12858,
     "youtube_theme_added": 1676225317,
     "youtube_theme_added_by": "6373681",
     "youtube_theme_edited": 1791718686,

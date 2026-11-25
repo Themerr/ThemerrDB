@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Ford v Ferrari",
     "overview": "American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.",
-    "popularity": 13.0691,
+    "popularity": 12.5367,
     "poster_path": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
     "production_companies": [
         {
@@ -57,7 +57,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2019-11-13",
@@ -68,7 +68,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Japanese",
@@ -90,8 +90,8 @@
     "tagline": "They took the American dream for a ride.",
     "title": "Ford v Ferrari",
     "video": false,
-    "vote_average": 8.0,
-    "vote_count": 9523,
+    "vote_average": 8.009,
+    "vote_count": 9524,
     "youtube_theme_added": 1675724263,
     "youtube_theme_added_by": "87816856",
     "youtube_theme_edited": 1675724263,

@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Limitless",
     "overview": "The life of an unsuccessful writer is transformed by a top-secret 'smart drug' that allows him to use 100% of his brain and become a perfect version of himself. His enhanced abilities soon attract shadowy forces that threaten his new life.",
-    "popularity": 9.2268,
+    "popularity": 9.3851,
     "poster_path": "/r8anWUCVK7MZEolcfPrM9eFkRO4.jpg",
     "production_companies": [
         {
@@ -69,7 +69,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2011-03-17",
@@ -90,25 +90,25 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         },
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",
     "tagline": "What if a pill could make you rich and powerful?",
     "title": "Limitless",
     "video": false,
-    "vote_average": 7.206,
-    "vote_count": 11947,
+    "vote_average": 7.2,
+    "vote_count": 11948,
     "youtube_theme_added": 1676041083,
     "youtube_theme_added_by": "87816856",
     "youtube_theme_edited": 1676041083,

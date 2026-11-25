@@ -22,7 +22,7 @@
     "original_language": "en",
     "original_title": "2000 Meters to Andriivka",
     "overview": "Amid the failing counteroffensive, a journalist follows a Ukrainian platoon on their mission to traverse one mile of heavily fortified forest and liberate a strategic village from Russian occupation. But the farther they advance through their destroyed homeland, the more they realize that this war may never end.",
-    "popularity": 1.5898,
+    "popularity": 1.9489,
     "poster_path": "/s1TC3QebWWWJ6CceqbBgAvJde8t.jpg",
     "production_companies": [
         {
@@ -41,7 +41,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2025-07-23",
@@ -57,12 +57,12 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "Ukrainian",
             "iso_639_1": "uk",
-            "name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439"
+            "name": "\u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430"
         }
     ],
     "status": "Released",

@@ -78,7 +78,7 @@
     "original_language": "en",
     "original_name": "Tom Clancy's Jack Ryan",
     "overview": "When CIA analyst Jack Ryan stumbles upon a suspicious series of bank transfers his search for answers pulls him from the safety of his desk job and catapults him into a deadly game of cat and mouse throughout Europe and the Middle East, with a rising terrorist figurehead preparing for a massive attack against the US and her allies.",
-    "popularity": 48.1592,
+    "popularity": 48.8891,
     "poster_path": "/cO4py3L3q5GNPrA0qr1wVDrosK1.jpg",
     "production_companies": [
         {
@@ -121,7 +121,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "seasons": [
@@ -181,7 +181,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "German",
@@ -196,7 +196,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "Spanish",
@@ -212,8 +212,8 @@
     "status": "Ended",
     "tagline": "",
     "type": "Scripted",
-    "vote_average": 7.668,
-    "vote_count": 1950,
+    "vote_average": 7.667,
+    "vote_count": 1951,
     "youtube_theme_added": 1719578277,
     "youtube_theme_added_by": "88998541",
     "youtube_theme_edited": 1719578277,

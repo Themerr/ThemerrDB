@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Jurassic World: Fallen Kingdom",
     "overview": "Three years after Jurassic World was destroyed, Isla Nublar now sits abandoned. When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
-    "popularity": 13.9607,
+    "popularity": 13.9321,
     "poster_path": "/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg",
     "production_companies": [
         {
@@ -50,7 +50,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2018-06-06",
@@ -66,7 +66,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         }
     ],
     "status": "Released",
@@ -74,7 +74,7 @@
     "title": "Jurassic World: Fallen Kingdom",
     "video": false,
     "vote_average": 6.517,
-    "vote_count": 13184,
+    "vote_count": 13186,
     "youtube_theme_added": 1712153102,
     "youtube_theme_added_by": "36286959",
     "youtube_theme_edited": 1712153102,

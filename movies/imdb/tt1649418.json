@@ -22,7 +22,7 @@
     "original_language": "en",
     "original_title": "The Gray Man",
     "overview": "When a shadowy CIA agent uncovers damning agency secrets, he's hunted across the globe by a sociopathic rogue operative who's put a bounty on his head.",
-    "popularity": 9.1893,
+    "popularity": 9.1851,
     "poster_path": "/8cXbitsS6dWQ5gfMTZdorpAAzEH.jpg",
     "production_companies": [
         {
@@ -41,7 +41,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2022-07-13",
@@ -52,7 +52,7 @@
         {
             "english_name": "Czech",
             "iso_639_1": "cs",
-            "name": "\u010cesk\u00fd"
+            "name": "\u010de\u0161tina"
         },
         {
             "english_name": "English",
@@ -62,7 +62,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "German",
@@ -72,7 +72,7 @@
         {
             "english_name": "Thai",
             "iso_639_1": "th",
-            "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+            "name": "\u0e44\u0e17\u0e22"
         }
     ],
     "status": "Released",

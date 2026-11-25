@@ -27,7 +27,7 @@
     "original_language": "zh",
     "original_title": "\u706b\u906e\u773c",
     "overview": "When Wang Wei's daughter is abducted by a criminal organization and law enforcement declines to intervene due to corruption, Wei embarks on a solo mission to find her. His sole ally is Navin, a determined journalist whose wife has also mysteriously disappeared. Together, this improbable pair confronts the kidnappers in a fierce martial arts confrontation, driven by an intense desire for retribution.",
-    "popularity": 27.7082,
+    "popularity": 27.3557,
     "poster_path": "/ivQ1Z3lI1xWvAeGDHBw3CCYZDGJ.jpg",
     "production_companies": [
         {
@@ -52,7 +52,7 @@
     "production_countries": [
         {
             "iso_3166_1": "HK",
-            "name": "Hong Kong"
+            "name": "Hong Kong SAR China"
         },
         {
             "iso_3166_1": "CN",
@@ -60,7 +60,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2026-06-10",
@@ -74,9 +74,9 @@
             "name": "English"
         },
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         },
         {
             "english_name": "Tagalog",
@@ -86,20 +86,20 @@
         {
             "english_name": "Thai",
             "iso_639_1": "th",
-            "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+            "name": "\u0e44\u0e17\u0e22"
         },
         {
             "english_name": "Indonesian",
             "iso_639_1": "id",
-            "name": "Bahasa indonesia"
+            "name": "Bahasa Indonesia"
         }
     ],
     "status": "Released",
     "tagline": "To save their loved ones, they will fight everyone.",
     "title": "The Furious",
     "video": false,
-    "vote_average": 8.197,
-    "vote_count": 910,
+    "vote_average": 8.194,
+    "vote_count": 911,
     "youtube_theme_added": 1790287417,
     "youtube_theme_added_by": "91066652",
     "youtube_theme_edited": 1790287417,

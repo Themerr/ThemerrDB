@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "The Great Wall",
     "overview": "European mercenaries searching for black powder become embroiled in the defense of the Great Wall of China against a horde of monstrous creatures.",
-    "popularity": 8.0963,
+    "popularity": 9.3155,
     "poster_path": "/p70dq1YxabemdZDm5K6Q8G10wSn.jpg",
     "production_companies": [
         {
@@ -73,7 +73,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2016-12-16",
@@ -82,9 +82,9 @@
     "softcore": false,
     "spoken_languages": [
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         },
         {
             "english_name": "English",
@@ -101,8 +101,8 @@
     "tagline": "1700 years to build. 5500 miles long. What were they trying to keep out?",
     "title": "The Great Wall",
     "video": false,
-    "vote_average": 6.042,
-    "vote_count": 5762,
+    "vote_average": 6.043,
+    "vote_count": 5764,
     "youtube_theme_added": 1718748417,
     "youtube_theme_added_by": "165321137",
     "youtube_theme_edited": 1719365365,

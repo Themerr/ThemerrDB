@@ -22,7 +22,7 @@
     "original_language": "cn",
     "original_title": "\u731b\u9f8d\u904e\u6c5f",
     "overview": "After a Chinese restaurant in Rome is threatened by the mafia, who will stop at nothing to acquire the property, the owner recruits a family friend in Hong Kong, kung fu expert Tang Lung, to help them defend their business.",
-    "popularity": 6.8353,
+    "popularity": 6.9315,
     "poster_path": "/m7AIITQ624sfldI4SsX4htXPH1f.jpg",
     "production_companies": [
         {
@@ -41,15 +41,7 @@
     "production_countries": [
         {
             "iso_3166_1": "HK",
-            "name": "Hong Kong"
-        },
-        {
-            "iso_3166_1": "CN",
-            "name": "China"
-        },
-        {
-            "iso_3166_1": "IT",
-            "name": "Italy"
+            "name": "Hong Kong SAR China"
         }
     ],
     "release_date": "1972-12-30",
@@ -63,9 +55,9 @@
             "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
         },
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         },
         {
             "english_name": "English",
@@ -82,7 +74,7 @@
     "tagline": "The Colosseum . . the battleground of Bruce Lee and Chuck Norris.",
     "title": "The Way of the Dragon",
     "video": false,
-    "vote_average": 7.377,
+    "vote_average": 7.4,
     "vote_count": 1375,
     "youtube_theme_added": 1790377328,
     "youtube_theme_added_by": "34431195",

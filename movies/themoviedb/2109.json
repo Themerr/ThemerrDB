@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Rush Hour",
     "overview": "When Hong Kong Inspector Lee is summoned to Los Angeles to investigate a kidnapping, the FBI doesn't want any outside help and assigns cocky LAPD Detective James Carter to distract Lee from the case. Not content to watch the action from the sidelines, Lee and Carter form an unlikely partnership and investigate the case themselves.",
-    "popularity": 14.3367,
+    "popularity": 14.3507,
     "poster_path": "/3WsLE6FtxEPRa6U9sbY1ckrn39s.jpg",
     "production_companies": [
         {
@@ -62,11 +62,11 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         },
         {
             "iso_3166_1": "HK",
-            "name": "Hong Kong"
+            "name": "Hong Kong SAR China"
         }
     ],
     "release_date": "1998-09-18",
@@ -80,9 +80,9 @@
             "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
         },
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         },
         {
             "english_name": "English",
@@ -94,8 +94,8 @@
     "tagline": "The fastest hands in the East meet the biggest mouth in the West.",
     "title": "Rush Hour",
     "video": false,
-    "vote_average": 7.092,
-    "vote_count": 6060,
+    "vote_average": 7.093,
+    "vote_count": 6061,
     "youtube_theme_added": 1675708563,
     "youtube_theme_added_by": "15357950",
     "youtube_theme_edited": 1675708563,

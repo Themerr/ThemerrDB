@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Home Alone",
     "overview": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
-    "popularity": 61.158,
+    "popularity": 66.1151,
     "poster_path": "/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
     "production_companies": [
         {
@@ -46,7 +46,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1990-11-16",
@@ -62,7 +62,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",
@@ -70,7 +70,7 @@
     "title": "Home Alone",
     "video": false,
     "vote_average": 7.473,
-    "vote_count": 13108,
+    "vote_count": 13113,
     "youtube_theme_added": 1675906473,
     "youtube_theme_added_by": "2319445",
     "youtube_theme_edited": 1675906473,

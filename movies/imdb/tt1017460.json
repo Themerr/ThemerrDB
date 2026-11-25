@@ -23,7 +23,7 @@
     "original_language": "en",
     "original_title": "Splice",
     "overview": "Elsa and Clive, two rebellious young scientists, defy legal and ethical boundaries and forge ahead with a dangerous experiment: splicing together human and animal DNA to create a new organism. Named \"Dren\", the creature rapidly develops from a deformed female infant into a beautiful but dangerous winged human-chimera, who forges a bond with both of her creators \u2014 only to have that bond turn deadly.",
-    "popularity": 5.2851,
+    "popularity": 5.3325,
     "poster_path": "/4oqaWnO3dKYAt3vZWAD4oLfOXOC.jpg",
     "production_companies": [
         {
@@ -66,7 +66,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2010-06-03",
@@ -82,7 +82,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",

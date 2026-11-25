@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Official Secrets",
     "overview": "The true story of British intelligence whistleblower Katharine Gun who\u2014prior to the 2003 Iraq invasion\u2014leaked a top-secret NSA memo exposing a joint US-UK illegal spying operation against members of the UN Security Council. The memo proposed blackmailing member states into voting for war.",
-    "popularity": 3.8939,
+    "popularity": 4.1209,
     "poster_path": "/lyCGqSkT3PqLYQXiWs4FCVJBAYW.jpg",
     "production_companies": [
         {
@@ -61,7 +61,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         },
         {
             "iso_3166_1": "CH",
@@ -74,9 +74,9 @@
     "softcore": false,
     "spoken_languages": [
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         },
         {
             "english_name": "English",
@@ -89,7 +89,7 @@
     "title": "Official Secrets",
     "video": false,
     "vote_average": 7.226,
-    "vote_count": 1178,
+    "vote_count": 1179,
     "youtube_theme_added": 1707572052,
     "youtube_theme_added_by": "93583709",
     "youtube_theme_edited": 1707572052,

@@ -52,8 +52,8 @@
         "season_number": 1,
         "show_id": 232230,
         "still_path": "/l2qF75rKgFIkYXISSGHMh6OabN9.jpg",
-        "vote_average": 9.8,
-        "vote_count": 10
+        "vote_average": 9.818,
+        "vote_count": 11
     },
     "name": "Lord of Mysteries",
     "networks": [
@@ -73,7 +73,7 @@
     "original_language": "zh",
     "original_name": "\u8be1\u79d8\u4e4b\u4e3b",
     "overview": "In a Victorian world of steam, dreadnoughts, and occult horrors, Zhou Mingrui awakens as Klein Moretti. He walks a razor\u2019s edge between light and darkness, entangled with warring Churches. This is the legend of unlimited potential\u2026and unspeakable danger.",
-    "popularity": 14.8454,
+    "popularity": 15.0663,
     "poster_path": "/c8fHePq3yTn3WvZd4hupkHwsjm5.jpg",
     "production_companies": [
         {
@@ -126,16 +126,16 @@
     "softcore": false,
     "spoken_languages": [
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         }
     ],
     "status": "Returning Series",
     "tagline": "Awaken from the mysteries, praise the fool's legend!",
     "type": "Scripted",
-    "vote_average": 8.609,
-    "vote_count": 188,
+    "vote_average": 8.616,
+    "vote_count": 189,
     "youtube_theme_added": 1785069292,
     "youtube_theme_added_by": "275524737",
     "youtube_theme_edited": 1785069292,

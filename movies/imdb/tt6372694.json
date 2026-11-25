@@ -34,7 +34,7 @@
     "original_language": "en",
     "original_title": "Prisoners of the Ghostland",
     "overview": "In the treacherous frontier city of Samurai Town, a ruthless bank robber is sprung from jail by wealthy warlord The Governor, whose adopted granddaughter Bernice has gone missing. The Governor offers the prisoner his freedom in exchange for retrieving the runaway. Strapped into a leather suit that will self-destruct within five days, the bandit sets off on a journey to find the young woman\u2014and his own path to redemption.",
-    "popularity": 3.1376,
+    "popularity": 3.0732,
     "poster_path": "/j5HRzcvN1QXZLvwfc3NLxX8XQJY.jpg",
     "production_companies": [
         {
@@ -99,7 +99,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2021-08-31",
@@ -108,14 +108,14 @@
     "softcore": false,
     "spoken_languages": [
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         },
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "English",

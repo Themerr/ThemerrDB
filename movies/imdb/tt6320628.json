@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Spider-Man: Far From Home",
     "overview": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
-    "popularity": 23.701,
+    "popularity": 24.4636,
     "poster_path": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
     "production_companies": [
         {
@@ -56,7 +56,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2019-06-28",
@@ -67,10 +67,10 @@
         {
             "english_name": "Czech",
             "iso_639_1": "cs",
-            "name": "\u010cesk\u00fd"
+            "name": "\u010de\u0161tina"
         },
         {
-            "english_name": "Dutch",
+            "english_name": "Dutch; Flemish",
             "iso_639_1": "nl",
             "name": "Nederlands"
         },
@@ -95,7 +95,7 @@
     "title": "Spider-Man: Far From Home",
     "video": false,
     "vote_average": 7.384,
-    "vote_count": 17949,
+    "vote_count": 17954,
     "youtube_theme_added": 1675700464,
     "youtube_theme_added_by": "15357950",
     "youtube_theme_edited": 1675700464,

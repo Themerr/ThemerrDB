@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "American Assassin",
     "overview": "Following the murder of his fianc\u00e9e, Mitch Rapp trains under the instruction of Cold War veteran Stan Hurley. The pair then is enlisted to investigate a wave of apparently random attacks on military and civilian targets.",
-    "popularity": 6.6159,
+    "popularity": 6.6203,
     "poster_path": "/w6vjeHx3UEaBXIyc8VFqyZYKznD.jpg",
     "production_companies": [
         {
@@ -63,11 +63,11 @@
     "production_countries": [
         {
             "iso_3166_1": "HK",
-            "name": "Hong Kong"
+            "name": "Hong Kong SAR China"
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2017-07-14",
@@ -98,7 +98,7 @@
         {
             "english_name": "Polish",
             "iso_639_1": "pl",
-            "name": "Polski"
+            "name": "polski"
         },
         {
             "english_name": "Turkish",

@@ -49,8 +49,8 @@
         "runtime": 65,
         "season_number": 3,
         "show_id": 84773,
-        "still_path": "/deYg2WQNpDK6nxqh38rVcyP1yuf.jpg",
-        "vote_average": 5.947,
+        "still_path": "/qPvN1nNgWwPFdv2twj2tMEohEJ6.jpg",
+        "vote_average": 5.9,
         "vote_count": 19
     },
     "name": "The Lord of the Rings: The Rings of Power",
@@ -67,15 +67,15 @@
         "episode_number": 7,
         "episode_type": "standard",
         "id": 7587574,
-        "name": "Forging the One Ring",
-        "overview": "",
-        "production_code": "",
-        "runtime": null,
+        "name": "Orodruin",
+        "overview": "Sauron seeks to complete the One Ring.",
+        "production_code": "68",
+        "runtime": 67,
         "season_number": 3,
         "show_id": 84773,
-        "still_path": null,
-        "vote_average": 6.8,
-        "vote_count": 4
+        "still_path": "/yEFvqoa4fOKZCjUgDi0PKWkcUnS.jpg",
+        "vote_average": 7.2,
+        "vote_count": 5
     },
     "number_of_episodes": 24,
     "number_of_seasons": 3,
@@ -85,7 +85,7 @@
     "original_language": "en",
     "original_name": "The Lord of the Rings: The Rings of Power",
     "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of N\u00famenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-    "popularity": 1517.8425,
+    "popularity": 1473.4097,
     "poster_path": "/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
     "production_companies": [
         {
@@ -110,7 +110,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "seasons": [
@@ -167,7 +167,7 @@
     "tagline": "Evil has had many names.",
     "type": "Scripted",
     "vote_average": 7.222,
-    "vote_count": 4139,
+    "vote_count": 4141,
     "youtube_theme_added": 1717384793,
     "youtube_theme_added_by": "120731892",
     "youtube_theme_edited": 1717384793,

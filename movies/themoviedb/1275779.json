@@ -22,7 +22,7 @@
     "original_language": "en",
     "original_title": "Disclosure Day",
     "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-    "popularity": 49.8287,
+    "popularity": 48.2606,
     "poster_path": "/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
     "production_companies": [
         {
@@ -41,7 +41,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2026-06-10",
@@ -57,12 +57,12 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "Korean",
             "iso_639_1": "ko",
-            "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+            "name": "\ud55c\uad6d\uc5b4"
         }
     ],
     "status": "Released",
@@ -70,7 +70,7 @@
     "title": "Disclosure Day",
     "video": false,
     "vote_average": 7.402,
-    "vote_count": 4074,
+    "vote_count": 4073,
     "youtube_theme_added": 1790721800,
     "youtube_theme_added_by": "309123349",
     "youtube_theme_edited": 1790721800,

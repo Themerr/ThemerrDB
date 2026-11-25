@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "My Big Fat Greek Wedding 2",
     "overview": "The continuing adventures of the Portokalos family. A follow-up to the 2002 comedy, \"My Big Fat Greek Wedding.\"",
-    "popularity": 2.9953,
+    "popularity": 3.3464,
     "poster_path": "/lfPqApnLVPsYfdbpSHNnHIxTdmd.jpg",
     "production_companies": [
         {
@@ -68,7 +68,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2016-03-23",
@@ -84,7 +84,7 @@
         {
             "english_name": "Greek",
             "iso_639_1": "el",
-            "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+            "name": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
         }
     ],
     "status": "Released",

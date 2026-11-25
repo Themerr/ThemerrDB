@@ -60,7 +60,7 @@
     "original_language": "zh",
     "original_name": "\u5b88\u62a4\u89e3\u653e\u897f",
     "overview": "",
-    "popularity": 3.2606,
+    "popularity": 3.99,
     "poster_path": "/3gIc5PjBV3LmMODWKkAaY5CnGy1.jpg",
     "production_companies": [
         {
@@ -177,9 +177,9 @@
     "softcore": false,
     "spoken_languages": [
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         }
     ],
     "status": "Returning Series",

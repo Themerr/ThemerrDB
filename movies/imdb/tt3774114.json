@@ -30,7 +30,7 @@
     "original_language": "en",
     "original_title": "Snowden",
     "overview": "CIA employee Edward Snowden leaks thousands of classified documents to the press.",
-    "popularity": 5.2195,
+    "popularity": 5.2523,
     "poster_path": "/yfK7zxNL63VWfluFuoUaJj5PdNw.jpg",
     "production_companies": [
         {
@@ -81,7 +81,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2016-09-15",
@@ -99,8 +99,8 @@
     "tagline": "The only safe place is on the run.",
     "title": "Snowden",
     "video": false,
-    "vote_average": 7.116,
-    "vote_count": 4856,
+    "vote_average": 7.115,
+    "vote_count": 4858,
     "youtube_theme_added": 1722972188,
     "youtube_theme_added_by": "118304977",
     "youtube_theme_edited": 1722972188,

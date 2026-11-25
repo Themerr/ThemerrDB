@@ -30,7 +30,7 @@
     "original_language": "en",
     "original_title": "Mercy",
     "overview": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
-    "popularity": 12.7994,
+    "popularity": 13.9248,
     "poster_path": "/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
     "production_companies": [
         {
@@ -55,7 +55,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2026-01-19",
@@ -71,12 +71,12 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Hindi",
             "iso_639_1": "hi",
-            "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+            "name": "\u0939\u093f\u0902\u0926\u0940"
         }
     ],
     "status": "Released",

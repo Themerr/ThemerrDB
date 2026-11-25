@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Gangs of New York",
     "overview": "In early 1860s New York, Irish immigrant Amsterdam Vallon is released from prison and returns to the Five Points, seeking revenge against his father's killer, William Cutting, a powerful anti-immigrant gang leader. He knows that revenge can only be attained by infiltrating Cutting's inner circle. Vallon's journey becomes a fight for personal survival and to find a place for the Irish people.",
-    "popularity": 11.5649,
+    "popularity": 11.3207,
     "poster_path": "/lemqKtcCuAano5aqrzxYiKC8kkn.jpg",
     "production_companies": [
         {
@@ -57,7 +57,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         },
         {
             "iso_3166_1": "IT",
@@ -85,9 +85,9 @@
             "name": "Latin"
         },
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         }
     ],
     "status": "Released",
@@ -95,7 +95,7 @@
     "title": "Gangs of New York",
     "video": false,
     "vote_average": 7.316,
-    "vote_count": 7555,
+    "vote_count": 7557,
     "youtube_theme_added": 1719334911,
     "youtube_theme_added_by": "118304977",
     "youtube_theme_edited": 1719334911,

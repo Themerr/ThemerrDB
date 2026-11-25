@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "X-Men: Apocalypse",
     "overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
-    "popularity": 14.4379,
+    "popularity": 14.7334,
     "poster_path": "/ikA8UhYdTGpqbatFa93nIf6noSr.jpg",
     "production_companies": [
         {
@@ -80,7 +80,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2016-05-18",
@@ -106,12 +106,12 @@
         {
             "english_name": "Polish",
             "iso_639_1": "pl",
-            "name": "Polski"
+            "name": "polski"
         },
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "Swahili",
@@ -124,7 +124,7 @@
     "title": "X-Men: Apocalypse",
     "video": false,
     "vote_average": 6.5,
-    "vote_count": 14311,
+    "vote_count": 14315,
     "youtube_theme_added": 1674860981,
     "youtube_theme_added_by": "15357950",
     "youtube_theme_edited": 1674860981,

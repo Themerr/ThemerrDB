@@ -67,7 +67,7 @@
     "original_language": "zh",
     "original_name": "\u4e2d\u9910\u5385",
     "overview": "Chinese Restaurant is a Chinese celebrity reality show broadcast by Hunan Television.It's Vicky Zhao's first reality/variety show as a regular guest.",
-    "popularity": 20.4127,
+    "popularity": 20.8317,
     "poster_path": "/t6Tcysu5yULIiiyqrP0WhEwXNwk.jpg",
     "production_companies": [
         {
@@ -198,9 +198,9 @@
     "softcore": false,
     "spoken_languages": [
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         }
     ],
     "status": "Returning Series",

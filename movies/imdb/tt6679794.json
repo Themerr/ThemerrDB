@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Outlaw King",
     "overview": "Forced into exile by the English after being crowned King of Scotland, legendary warrior Robert the Bruce fights to reclaim the throne.",
-    "popularity": 4.0884,
+    "popularity": 4.0434,
     "poster_path": "/rT49ousKUWN3dV7UlhaC9onTNdl.jpg",
     "production_companies": [
         {
@@ -56,7 +56,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2018-09-06",
@@ -72,7 +72,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",

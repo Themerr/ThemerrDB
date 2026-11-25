@@ -30,7 +30,7 @@
     "original_language": "en",
     "original_title": "Hackers",
     "overview": "Along with his new friends, a teenager who was arrested by the US Secret Service and banned from using a computer for writing a computer virus discovers a plot by a nefarious hacker, but they must use their computer skills to find the evidence while being pursued by the Secret Service and the evil computer genius behind the virus.",
-    "popularity": 5.7677,
+    "popularity": 5.8506,
     "poster_path": "/qfx2EENW1sOpKNVKLzr7VOhlxkt.jpg",
     "production_companies": [
         {
@@ -55,7 +55,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         },
         {
             "iso_3166_1": "GB",
@@ -85,7 +85,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         }
     ],
     "status": "Released",

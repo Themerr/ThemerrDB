@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Redemption Day",
     "overview": "When his wife Kate is kidnapped by terrorists for ransom, veteran war hero Brad Paxton races against the clock to rescue her in a daring and deadly operation that pits him against powerful and dark forces.",
-    "popularity": 1.787,
+    "popularity": 1.8505,
     "poster_path": "/y1Tk1LUwS3nRlugiXnag6Bu1ToG.jpg",
     "production_companies": [
         {
@@ -61,7 +61,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2021-01-08",
@@ -77,7 +77,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",

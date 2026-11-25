@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Red Notice",
     "overview": "An Interpol-issued Red Notice is a global alert to hunt and capture the world's most wanted. But when a daring heist brings together the FBI's top profiler and two rival criminals, there's no telling what will happen.",
-    "popularity": 10.5716,
+    "popularity": 10.3832,
     "poster_path": "/lAXONuqg41NwUMuzMiFvicDET9Y.jpg",
     "production_companies": [
         {
@@ -51,7 +51,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2021-11-04",
@@ -67,7 +67,7 @@
         {
             "english_name": "Indonesian",
             "iso_639_1": "id",
-            "name": "Bahasa indonesia"
+            "name": "Bahasa Indonesia"
         },
         {
             "english_name": "Italian",
@@ -77,7 +77,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "Spanish",

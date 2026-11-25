@@ -49,7 +49,7 @@
         "id": 5912413,
         "name": "Finale",
         "overview": "Hoping to decisively close the book on the past, Joe embarks on a risky new chapter. But as with every great story, one last twist awaits.",
-        "production_code": "",
+        "production_code": null,
         "runtime": 54,
         "season_number": 5,
         "show_id": 78191,
@@ -81,7 +81,7 @@
     "original_language": "en",
     "original_name": "You",
     "overview": "A dangerously charming, obsessive man goes to extreme measures to insert himself into the lives of women who fascinate him.",
-    "popularity": 51.9928,
+    "popularity": 54.9192,
     "poster_path": "/oANi0vEE92nuijiZQgPZ88FSxqQ.jpg",
     "production_companies": [
         {
@@ -124,7 +124,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "seasons": [

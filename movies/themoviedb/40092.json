@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "The Secret Life of Walter Mitty",
     "overview": "Walter Mitty, a daydreaming writer with an overprotective mother, likes to imagine that he is a hero who experiences fantastic adventures. His dream becomes reality when he accidentally meets a mysterious woman who hands him a little black book. According to her, it contains the locations of the Dutch crown jewels hidden since World War II. Soon, Mitty finds himself in the middle of a confusing conspiracy, where he has difficulty differentiating between fact and fiction.",
-    "popularity": 1.8355,
+    "popularity": 1.8826,
     "poster_path": "/cctKBFz6VoDDW56PbuWiq4F9Nmr.jpg",
     "production_companies": [
         {
@@ -39,7 +39,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1947-09-01",
@@ -55,7 +55,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "German",

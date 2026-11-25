@@ -35,7 +35,7 @@
     "original_language": "en",
     "original_title": "Rambo III",
     "overview": "Combat has taken its toll on Rambo, but he's finally begun to find inner peace in a monastery. When Rambo's friend and mentor Col. Trautman asks for his help on a top secret mission to Afghanistan, Rambo declines but must reconsider when Trautman is captured.",
-    "popularity": 7.1045,
+    "popularity": 6.7164,
     "poster_path": "/pTVm2HrqV5kOt8tG4ZURNuhrmAq.jpg",
     "production_companies": [
         {
@@ -48,7 +48,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1988-05-24",
@@ -64,15 +64,15 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         }
     ],
     "status": "Released",
     "tagline": "The first was for himself. The second was for his country. This time is for his friend.",
     "title": "Rambo III",
     "video": false,
-    "vote_average": 6.201,
-    "vote_count": 3672,
+    "vote_average": 6.202,
+    "vote_count": 3673,
     "youtube_theme_added": 1675715475,
     "youtube_theme_added_by": "15357950",
     "youtube_theme_edited": 1675715475,

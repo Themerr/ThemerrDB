@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "From Paris with Love",
     "overview": "James Reese has a good job as an ambassador's aid in France, but his real passion is a side gig\u2014working in a minor role in the CIA. He would love to be a full-fledged agent and can't believe his luck when he lands an assignment with Charlie Wax. Trigger-happy Charlie soon has James crying for his desk job, but when he learns that the same guys they're trying to catch are after him, James realises that Charlie may be his only hope of survival.",
-    "popularity": 6.0829,
+    "popularity": 6.0508,
     "poster_path": "/poVoLKLxUqsTLSntA40Po2F78dZ.jpg",
     "production_companies": [
         {
@@ -106,12 +106,12 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         }
     ],
     "status": "Released",

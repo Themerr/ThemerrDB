@@ -22,7 +22,7 @@
     "original_language": "en",
     "original_title": "Mile 22",
     "overview": "An elite group of American operatives, aided by a top-secret tactical command team, must transport an asset who holds life-threatening information to an extraction point 22 miles away through the hostile streets of an Asian city.",
-    "popularity": 4.8106,
+    "popularity": 4.5298,
     "poster_path": "/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg",
     "production_companies": [
         {
@@ -79,7 +79,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2018-08-16",
@@ -90,7 +90,7 @@
         {
             "english_name": "Indonesian",
             "iso_639_1": "id",
-            "name": "Bahasa indonesia"
+            "name": "Bahasa Indonesia"
         },
         {
             "english_name": "English",
@@ -100,7 +100,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         }
     ],
     "status": "Released",

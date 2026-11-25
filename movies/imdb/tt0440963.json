@@ -35,7 +35,7 @@
     "original_language": "en",
     "original_title": "The Bourne Ultimatum",
     "overview": "Bourne is brought out of hiding once again by reporter Simon Ross who is trying to unveil Operation Blackbriar, an upgrade to Project Treadstone, in a series of newspaper columns. Information from the reporter stirs a new set of memories, and Bourne must finally uncover his dark past while dodging The Company's best efforts to eradicate him.",
-    "popularity": 11.53,
+    "popularity": 12.4298,
     "poster_path": "/15rMz5MRXFp7CP4VxhjYw4y0FUn.jpg",
     "production_companies": [
         {
@@ -66,7 +66,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         },
         {
             "iso_3166_1": "GB",
@@ -86,7 +86,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Arabic",
@@ -96,7 +96,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "Spanish",
@@ -109,7 +109,7 @@
     "title": "The Bourne Ultimatum",
     "video": false,
     "vote_average": 7.451,
-    "vote_count": 8776,
+    "vote_count": 8778,
     "youtube_theme_added": 1697351820,
     "youtube_theme_added_by": "118304977",
     "youtube_theme_edited": 1697351820,

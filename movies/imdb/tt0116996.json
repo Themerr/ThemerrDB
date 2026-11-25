@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Mars Attacks!",
     "overview": "A fleet of Martian spacecraft surrounds the world's major cities and all of humanity waits to see if the extraterrestrial visitors have, as they claim, \"come in peace.\" U.S. President James Dale receives assurance from science professor Donald Kessler that the Martians' mission is a friendly one. But when a peaceful exchange ends in the total annihilation of the U.S. Congress, military men call for a full-scale nuclear retaliation.",
-    "popularity": 8.0464,
+    "popularity": 8.1008,
     "poster_path": "/m6BxrwE9RL6ly1B7841n7UTSCQE.jpg",
     "production_companies": [
         {
@@ -45,7 +45,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1996-12-13",
@@ -61,7 +61,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",

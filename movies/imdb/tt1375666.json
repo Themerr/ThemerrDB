@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Inception",
     "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
-    "popularity": 53.9354,
+    "popularity": 51.6368,
     "poster_path": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
     "production_companies": [
         {
@@ -56,7 +56,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2010-07-15",
@@ -72,7 +72,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Japanese",
@@ -89,8 +89,8 @@
     "tagline": "Your mind is the scene of the crime.",
     "title": "Inception",
     "video": false,
-    "vote_average": 8.373,
-    "vote_count": 40812,
+    "vote_average": 8.372,
+    "vote_count": 40818,
     "youtube_theme_added": 1675909907,
     "youtube_theme_added_by": "87816856",
     "youtube_theme_edited": 1675909907,

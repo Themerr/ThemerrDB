@@ -18,7 +18,7 @@
     "original_language": "en",
     "original_title": "A Few Good Men",
     "overview": "When cocky military lawyer Lt. Daniel Kaffee and his co-counsel, Lt. Cmdr. JoAnne Galloway, are assigned to a murder case, they uncover a hazing ritual that could implicate high-ranking officials such as shady Col. Nathan Jessep.",
-    "popularity": 9.637,
+    "popularity": 9.6033,
     "poster_path": "/rLOk4z9zL1tTukIYV56P94aZXKk.jpg",
     "production_companies": [
         {
@@ -37,7 +37,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1992-12-11",
@@ -53,15 +53,15 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",
     "tagline": "In the heart of the nation's capital, in a courthouse of the U.S. government, one man will stop at nothing to keep his honor, and one will stop at nothing to find the truth.",
     "title": "A Few Good Men",
     "video": false,
-    "vote_average": 7.6,
-    "vote_count": 4446,
+    "vote_average": 7.567,
+    "vote_count": 4449,
     "youtube_theme_added": 1674354308,
     "youtube_theme_added_by": 19782651,
     "youtube_theme_edited": 1674354308,

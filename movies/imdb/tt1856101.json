@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Blade Runner 2049",
     "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
-    "popularity": 32.3671,
+    "popularity": 32.852,
     "poster_path": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
     "production_companies": [
         {
@@ -78,7 +78,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2017-10-04",
@@ -99,7 +99,7 @@
         {
             "english_name": "Hungarian",
             "iso_639_1": "hu",
-            "name": "Magyar"
+            "name": "magyar"
         },
         {
             "english_name": "Japanese",
@@ -109,7 +109,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "Somali",
@@ -126,8 +126,8 @@
     "tagline": "The key to the future is finally unearthed.",
     "title": "Blade Runner 2049",
     "video": false,
-    "vote_average": 7.615,
-    "vote_count": 16075,
+    "vote_average": 7.616,
+    "vote_count": 16079,
     "youtube_theme_added": 1675719498,
     "youtube_theme_added_by": "87816856",
     "youtube_theme_edited": 1675719498,

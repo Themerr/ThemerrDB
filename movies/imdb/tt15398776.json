@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Oppenheimer",
     "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
-    "popularity": 35.7431,
+    "popularity": 35.871,
     "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
     "production_companies": [
         {
@@ -67,7 +67,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2023-07-19",
@@ -76,7 +76,7 @@
     "softcore": false,
     "spoken_languages": [
         {
-            "english_name": "Dutch",
+            "english_name": "Dutch; Flemish",
             "iso_639_1": "nl",
             "name": "Nederlands"
         },
@@ -91,7 +91,7 @@
     "title": "Oppenheimer",
     "video": false,
     "vote_average": 8.023,
-    "vote_count": 12964,
+    "vote_count": 12967,
     "youtube_theme_added": 1701091667,
     "youtube_theme_added_by": "88998541",
     "youtube_theme_edited": 1701091667,

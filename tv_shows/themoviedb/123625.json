@@ -76,7 +76,7 @@
     "original_language": "en",
     "original_name": "ARK: The Animated Series",
     "overview": "In a mysterious primeval land populated by dinosaurs and other extinct creatures, people from throughout human history have been resurrected. When 21st century Australian paleontologist Helena Walker awakes there after tragedy, she must learn to survive and find new allies, or die again at the hands of ruthless warlords, all while trying to uncover the true nature of their strange new world.",
-    "popularity": 6.4986,
+    "popularity": 7.2429,
     "poster_path": "/3qzBCXJLifxund1QMa8BiXmH3xp.jpg",
     "production_companies": [
         {
@@ -101,7 +101,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "seasons": [
@@ -119,9 +119,9 @@
     "softcore": false,
     "spoken_languages": [
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         },
         {
             "english_name": "English",

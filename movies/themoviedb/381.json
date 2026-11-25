@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "To Catch a Thief",
     "overview": "When a string of jewel robberies hits the French Riviera, suspicion falls on retired thief John \u201cThe Cat\u201d Robie. To clear his name, he sets out to trap the copycat himself\u2014entangling a wealthy widow and her beguiling daughter in a seductive game of pursuit, deception, and desire.",
-    "popularity": 4.2548,
+    "popularity": 4.3468,
     "poster_path": "/cPy05z52PbFsAvfO5zbp0ebGhIj.jpg",
     "production_companies": [
         {
@@ -39,7 +39,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1955-08-03",
@@ -50,7 +50,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "English",

@@ -22,7 +22,7 @@
     "original_language": "en",
     "original_title": "Reservoir Dogs",
     "overview": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
-    "popularity": 13.434,
+    "popularity": 13.0587,
     "poster_path": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
     "production_companies": [
         {
@@ -41,7 +41,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1992-09-02",
@@ -60,7 +60,7 @@
     "title": "Reservoir Dogs",
     "video": false,
     "vote_average": 8.107,
-    "vote_count": 16077,
+    "vote_count": 16080,
     "youtube_theme_added": 1675714132,
     "youtube_theme_added_by": "15357950",
     "youtube_theme_edited": 1675714132,

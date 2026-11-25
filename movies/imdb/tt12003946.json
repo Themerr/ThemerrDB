@@ -16,10 +16,6 @@
         {
             "id": 35,
             "name": "Comedy"
-        },
-        {
-            "id": 14,
-            "name": "Fantasy"
         }
     ],
     "homepage": "https://www.violentnightmovie.com",
@@ -31,7 +27,7 @@
     "original_language": "en",
     "original_title": "Violent Night",
     "overview": "When a team of mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage, the team isn\u2019t prepared for a surprise combatant: Santa Claus is on the grounds, and he\u2019s about to show why this Nick is no saint.",
-    "popularity": 9.6165,
+    "popularity": 10.1617,
     "poster_path": "/e8CpMgdyihz9Td7amQDqubPuzfN.jpg",
     "production_companies": [
         {
@@ -60,7 +56,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2022-11-30",

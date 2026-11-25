@@ -30,7 +30,7 @@
     "original_language": "en",
     "original_title": "Turning Red",
     "overview": "Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist \u2013 when she gets too excited, she transforms into a giant red panda.",
-    "popularity": 17.891,
+    "popularity": 19.8248,
     "poster_path": "/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
     "production_companies": [
         {
@@ -43,7 +43,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2022-03-10",
@@ -57,19 +57,19 @@
             "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
         },
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         },
         {
             "english_name": "Korean",
             "iso_639_1": "ko",
-            "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+            "name": "\ud55c\uad6d\uc5b4"
         },
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "English",
@@ -81,7 +81,7 @@
     "tagline": "Growing up is a beast.",
     "title": "Turning Red",
     "video": false,
-    "vote_average": 7.315,
+    "vote_average": 7.3,
     "vote_count": 6141,
     "youtube_theme_added": 1674852652,
     "youtube_theme_added_by": "19782651",

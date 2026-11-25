@@ -31,7 +31,7 @@
     "original_language": "cn",
     "original_title": "\u963f\u98db\u6b63\u50b3",
     "overview": "Yuddy, a Hong Kong playboy known for breaking girls' hearts, tries to find solace and truth after discovering the woman who raised him isn't his mother.",
-    "popularity": 5.4895,
+    "popularity": 5.1866,
     "poster_path": "/acfLUO8E61u0ooWS6htbzTHDBcI.jpg",
     "production_companies": [
         {
@@ -44,7 +44,7 @@
     "production_countries": [
         {
             "iso_3166_1": "HK",
-            "name": "Hong Kong"
+            "name": "Hong Kong SAR China"
         }
     ],
     "release_date": "1990-12-15",
@@ -63,9 +63,9 @@
             "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
         },
         {
-            "english_name": "Mandarin",
+            "english_name": "Chinese",
             "iso_639_1": "zh",
-            "name": "\u666e\u901a\u8bdd"
+            "name": "\u6c49\u8bed"
         },
         {
             "english_name": "Tagalog",

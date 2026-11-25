@@ -23,7 +23,7 @@
     "original_language": "en",
     "original_title": "The Interpreter",
     "overview": "After Silvia Broome, an interpreter at United Nations headquarters, overhears plans of an assassination, an American Secret Service agent is sent to investigate.",
-    "popularity": 3.8783,
+    "popularity": 4.3982,
     "poster_path": "/wTidq3J9fh8sEOAlD8WZFHVLSuB.jpg",
     "production_companies": [
         {
@@ -68,7 +68,7 @@
         },
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2005-04-08",
@@ -79,7 +79,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "English",

@@ -23,7 +23,7 @@
     "original_language": "en",
     "original_title": "Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan",
     "overview": "14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.",
-    "popularity": 5.4064,
+    "popularity": 5.2538,
     "poster_path": "/3L1Ml5RWjFVfVq3rQENvgFymT0U.jpg",
     "production_companies": [
         {
@@ -42,7 +42,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2020-10-23",
@@ -53,12 +53,12 @@
         {
             "english_name": "Bulgarian",
             "iso_639_1": "bg",
-            "name": "\u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438 \u0435\u0437\u0438\u043a"
+            "name": "\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438"
         },
         {
             "english_name": "Croatian",
             "iso_639_1": "hr",
-            "name": "Hrvatski"
+            "name": "hrvatski"
         },
         {
             "english_name": "Romanian",
@@ -68,12 +68,12 @@
         {
             "english_name": "Hebrew",
             "iso_639_1": "he",
-            "name": "\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea"
+            "name": "\u05e2\u05d1\u05e8\u05d9\u05ea"
         },
         {
             "english_name": "Hungarian",
             "iso_639_1": "hu",
-            "name": "Magyar"
+            "name": "magyar"
         },
         {
             "english_name": "English",
@@ -85,8 +85,8 @@
     "tagline": "Wear mask. Save live.",
     "title": "Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan",
     "video": false,
-    "vote_average": 6.4,
-    "vote_count": 3057,
+    "vote_average": 6.432,
+    "vote_count": 3058,
     "youtube_theme_added": 1700184959,
     "youtube_theme_added_by": "100123062",
     "youtube_theme_edited": 1700184959,

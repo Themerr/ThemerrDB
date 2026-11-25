@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Superman",
     "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
-    "popularity": 26.3696,
+    "popularity": 26.289,
     "poster_path": "/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg",
     "production_companies": [
         {
@@ -62,7 +62,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "2025-07-09",
@@ -83,14 +83,14 @@
         {
             "english_name": "Croatian",
             "iso_639_1": "hr",
-            "name": "Hrvatski"
+            "name": "hrvatski"
         }
     ],
     "status": "Released",
     "tagline": "Look up.",
     "title": "Superman",
     "video": false,
-    "vote_average": 7.314,
+    "vote_average": 7.3,
     "vote_count": 5799,
     "youtube_theme_added": 1778716954,
     "youtube_theme_added_by": "6266356",

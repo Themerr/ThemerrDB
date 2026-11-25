@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Sherlock Holmes",
     "overview": "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
-    "popularity": 10.6547,
+    "popularity": 10.4369,
     "poster_path": "/momkKuWburNTqKBF6ez7rvhYVhE.jpg",
     "production_companies": [
         {
@@ -68,7 +68,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         },
         {
             "iso_3166_1": "DE",
@@ -88,7 +88,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",
@@ -96,7 +96,7 @@
     "title": "Sherlock Holmes",
     "video": false,
     "vote_average": 7.226,
-    "vote_count": 15250,
+    "vote_count": 15252,
     "youtube_theme_added": 1675704642,
     "youtube_theme_added_by": "15357950",
     "youtube_theme_edited": 1675704642,

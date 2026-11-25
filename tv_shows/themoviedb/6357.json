@@ -70,7 +70,7 @@
     "original_language": "en",
     "original_name": "The Twilight Zone",
     "overview": "An anthology series containing drama, psychological thriller, fantasy, science fiction, suspense, and/or horror, often concluding with a macabre or unexpected twist.",
-    "popularity": 49.3484,
+    "popularity": 52.3364,
     "poster_path": "/7uY4pCOxbEdv4M8jTE4uMPVoSIW.jpg",
     "production_companies": [
         {
@@ -89,7 +89,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "seasons": [
@@ -104,7 +104,7 @@
             "vote_average": 0.0
         },
         {
-            "air_date": "1959-10-02",
+            "air_date": "1959-10-01",
             "episode_count": 36,
             "id": 16510,
             "name": "Season 1",
@@ -114,7 +114,7 @@
             "vote_average": 7.3
         },
         {
-            "air_date": "1960-09-30",
+            "air_date": "1960-09-29",
             "episode_count": 29,
             "id": 16513,
             "name": "Season 2",
@@ -124,7 +124,7 @@
             "vote_average": 7.1
         },
         {
-            "air_date": "1961-09-15",
+            "air_date": "1961-09-14",
             "episode_count": 37,
             "id": 16514,
             "name": "Season 3",
@@ -134,7 +134,7 @@
             "vote_average": 6.9
         },
         {
-            "air_date": "1963-01-03",
+            "air_date": "1963-01-02",
             "episode_count": 18,
             "id": 16511,
             "name": "Season 4",
@@ -144,7 +144,7 @@
             "vote_average": 6.7
         },
         {
-            "air_date": "1963-09-27",
+            "air_date": "1963-09-26",
             "episode_count": 36,
             "id": 16512,
             "name": "Season 5",
@@ -165,8 +165,8 @@
     "status": "Ended",
     "tagline": "You are about to enter another dimension.",
     "type": "Scripted",
-    "vote_average": 8.513,
-    "vote_count": 1106,
+    "vote_average": 8.514,
+    "vote_count": 1107,
     "youtube_theme_added": 1790289738,
     "youtube_theme_added_by": "176828345",
     "youtube_theme_edited": 1790289738,

@@ -78,7 +78,7 @@
     "original_language": "en",
     "original_name": "Emily in Paris",
     "overview": "New passions. New fashions. New Emily? A plucky American marketing whiz spreads her wings in life and love after landing her dream job in Paris.",
-    "popularity": 29.3122,
+    "popularity": 32.3055,
     "poster_path": "/c0bkO416OU7YGdOFktk45H8REgL.jpg",
     "production_companies": [
         {
@@ -109,7 +109,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "seasons": [
@@ -184,7 +184,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Returning Series",

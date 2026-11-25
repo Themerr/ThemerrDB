@@ -22,7 +22,7 @@
     "original_language": "en",
     "original_title": "The Red Shoes",
     "overview": "A fledgling ballerina falls in love with a brilliant composer, but the jealous head of the ballet company plots to drive them apart.",
-    "popularity": 3.1561,
+    "popularity": 3.2167,
     "poster_path": "/vPvpBWFWDvEXuQBkoYgA6A89GVp.jpg",
     "production_companies": [
         {
@@ -46,7 +46,7 @@
         {
             "english_name": "Russian",
             "iso_639_1": "ru",
-            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
         },
         {
             "english_name": "English",
@@ -56,7 +56,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         }
     ],
     "status": "Released",

@@ -26,7 +26,7 @@
     "original_language": "en",
     "original_title": "Groundhog Day",
     "overview": "A cynical TV weatherman, along with his idealistic producer and his sardonic cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
-    "popularity": 11.6676,
+    "popularity": 13.9101,
     "poster_path": "/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
     "production_companies": [
         {
@@ -39,7 +39,7 @@
     "production_countries": [
         {
             "iso_3166_1": "US",
-            "name": "United States of America"
+            "name": "United States"
         }
     ],
     "release_date": "1993-02-11",
@@ -55,7 +55,7 @@
         {
             "english_name": "French",
             "iso_639_1": "fr",
-            "name": "Fran\u00e7ais"
+            "name": "fran\u00e7ais"
         },
         {
             "english_name": "Italian",
@@ -68,7 +68,7 @@
     "title": "Groundhog Day",
     "video": false,
     "vote_average": 7.638,
-    "vote_count": 9382,
+    "vote_count": 9384,
     "youtube_theme_added": 1717815110,
     "youtube_theme_added_by": "118304977",
     "youtube_theme_edited": 1717815110,
