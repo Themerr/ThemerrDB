@@ -56,7 +56,21 @@
             "origin_country": ""
         }
     ],
-    "next_episode_to_air": null,
+    "next_episode_to_air": {
+        "air_date": "2027-01-07",
+        "episode_number": 1,
+        "episode_type": "standard",
+        "id": 8173410,
+        "name": "Episode 1",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 3,
+        "show_id": 250307,
+        "still_path": null,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
     "number_of_episodes": 30,
     "number_of_seasons": 3,
     "origin_country": [
@@ -115,8 +129,8 @@
             "vote_average": 7.7
         },
         {
-            "air_date": null,
-            "episode_count": 0,
+            "air_date": "2027-01-07",
+            "episode_count": 1,
             "id": 494559,
             "name": "Season 3",
             "overview": "",
@@ -136,8 +150,8 @@
     "status": "Returning Series",
     "tagline": "The work never stops.",
     "type": "Scripted",
-    "vote_average": 8.723,
-    "vote_count": 1082,
+    "vote_average": 8.724,
+    "vote_count": 1084,
     "youtube_theme_added": 1788547640,
     "youtube_theme_added_by": "188840204",
     "youtube_theme_edited": 1788547640,

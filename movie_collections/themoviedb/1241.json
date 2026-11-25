@@ -25,7 +25,7 @@
             "title": "Harry Potter and the Philosopher's Stone",
             "video": false,
             "vote_average": 7.905,
-            "vote_count": 30688
+            "vote_count": 30690
         },
         {
             "adult": false,
@@ -46,7 +46,7 @@
             "title": "Harry Potter and the Chamber of Secrets",
             "video": false,
             "vote_average": 7.709,
-            "vote_count": 24456
+            "vote_count": 24457
         },
         {
             "adult": false,
@@ -67,7 +67,7 @@
             "title": "Harry Potter and the Goblet of Fire",
             "video": false,
             "vote_average": 7.804,
-            "vote_count": 22995
+            "vote_count": 22996
         },
         {
             "adult": false,
@@ -88,7 +88,7 @@
             "title": "Harry Potter and the Half-Blood Prince",
             "video": false,
             "vote_average": 7.681,
-            "vote_count": 21493
+            "vote_count": 21494
         },
         {
             "adult": false,
@@ -109,7 +109,7 @@
             "title": "Harry Potter and the Prisoner of Azkaban",
             "video": false,
             "vote_average": 8.015,
-            "vote_count": 24038
+            "vote_count": 24039
         },
         {
             "adult": false,
@@ -130,7 +130,7 @@
             "title": "Harry Potter and the Order of the Phoenix",
             "video": false,
             "vote_average": 7.673,
-            "vote_count": 21533
+            "vote_count": 21534
         },
         {
             "adult": false,
@@ -151,7 +151,7 @@
             "title": "Harry Potter and the Deathly Hallows: Part 1",
             "video": false,
             "vote_average": 7.733,
-            "vote_count": 21098
+            "vote_count": 21099
         },
         {
             "adult": false,
@@ -172,7 +172,7 @@
             "title": "Harry Potter and the Deathly Hallows: Part 2",
             "video": false,
             "vote_average": 8.081,
-            "vote_count": 22795
+            "vote_count": 22796
         }
     ],
     "poster_path": "/eVPs2Y0LyvTLZn6AP5Z6O2rtiGB.jpg",

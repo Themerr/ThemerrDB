@@ -53,21 +53,16 @@
     "softcore": false,
     "spoken_languages": [
         {
-            "english_name": "Icelandic",
-            "iso_639_1": "is",
-            "name": "\u00cdslenska"
-        },
-        {
-            "english_name": "Assamese",
-            "iso_639_1": "as",
-            "name": "\u0985\u09b8\u09ae\u09c0\u09af\u09bc\u09be"
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
         }
     ],
     "status": "Released",
     "tagline": "Rise together or fall alone.",
     "title": "Godzilla x Kong: The New Empire",
     "video": false,
-    "vote_average": 7.022,
+    "vote_average": 7.0,
     "vote_count": 4991,
     "youtube_theme_added": 1717349643,
     "youtube_theme_added_by": "168332544",

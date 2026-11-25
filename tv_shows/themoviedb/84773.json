@@ -45,13 +45,13 @@
         "id": 7587572,
         "name": "From Valinor",
         "overview": "Galadriel finds unexpected help. Sauron presses his advantage. N\u00famenor's tensions spark a surprising proposal. Thrain grows ruthless in his pursuit.",
-        "production_code": "",
+        "production_code": null,
         "runtime": 65,
         "season_number": 3,
         "show_id": 84773,
         "still_path": "/qPvN1nNgWwPFdv2twj2tMEohEJ6.jpg",
-        "vote_average": 5.9,
-        "vote_count": 19
+        "vote_average": 6.15,
+        "vote_count": 20
     },
     "name": "The Lord of the Rings: The Rings of Power",
     "networks": [
@@ -70,12 +70,12 @@
         "name": "Orodruin",
         "overview": "Sauron seeks to complete the One Ring.",
         "production_code": "68",
-        "runtime": 67,
+        "runtime": 68,
         "season_number": 3,
         "show_id": 84773,
-        "still_path": "/yEFvqoa4fOKZCjUgDi0PKWkcUnS.jpg",
-        "vote_average": 7.2,
-        "vote_count": 5
+        "still_path": "/i2HUGmqcWvc9Fr7eQqyc28CDJYk.jpg",
+        "vote_average": 8.0,
+        "vote_count": 7
     },
     "number_of_episodes": 24,
     "number_of_seasons": 3,
@@ -152,7 +152,7 @@
             "overview": "Jumping forward several years from the events of Season Two, Season Three takes place at the height of the War of the Elves and Sauron, as the Dark Lord seeks to craft the One Ring that will give him the edge he needs to win the war, bind all peoples to his will - and at last rule all Middle-earth.",
             "poster_path": "/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
             "season_number": 3,
-            "vote_average": 6.4
+            "vote_average": 6.5
         }
     ],
     "softcore": false,
@@ -167,7 +167,7 @@
     "tagline": "Evil has had many names.",
     "type": "Scripted",
     "vote_average": 7.222,
-    "vote_count": 4141,
+    "vote_count": 4144,
     "youtube_theme_added": 1717384793,
     "youtube_theme_added_by": "120731892",
     "youtube_theme_edited": 1717384793,

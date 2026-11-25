@@ -66,13 +66,13 @@
         }
     ],
     "next_episode_to_air": {
-        "air_date": "2026-11-29",
+        "air_date": "2026-12-06",
         "episode_number": 9,
         "episode_type": "standard",
         "id": 7799402,
         "name": "Komaro and the Zoo / Arisu in No-Bra-Land",
         "overview": "",
-        "production_code": "",
+        "production_code": null,
         "runtime": null,
         "season_number": 1,
         "show_id": 283938,

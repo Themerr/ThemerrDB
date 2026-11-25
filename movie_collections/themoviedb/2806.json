@@ -24,8 +24,8 @@
             "softcore": false,
             "title": "American Pie",
             "video": false,
-            "vote_average": 6.691,
-            "vote_count": 8899
+            "vote_average": 6.692,
+            "vote_count": 8900
         },
         {
             "adult": false,
@@ -45,8 +45,8 @@
             "softcore": false,
             "title": "American Pie 2",
             "video": false,
-            "vote_average": 6.391,
-            "vote_count": 5750
+            "vote_average": 6.392,
+            "vote_count": 5751
         },
         {
             "adult": false,
@@ -67,7 +67,7 @@
             "title": "American Wedding",
             "video": false,
             "vote_average": 6.227,
-            "vote_count": 4578
+            "vote_count": 4579
         },
         {
             "adult": false,
@@ -86,8 +86,8 @@
             "softcore": false,
             "title": "American Reunion",
             "video": false,
-            "vote_average": 6.418,
-            "vote_count": 5073
+            "vote_average": 6.419,
+            "vote_count": 5074
         }
     ],
     "poster_path": "/twY1eM88fu8CCGVtem5ItlrgeDA.jpg",

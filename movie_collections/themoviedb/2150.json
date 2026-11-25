@@ -27,8 +27,8 @@
             "softcore": false,
             "title": "Shrek",
             "video": false,
-            "vote_average": 7.8,
-            "vote_count": 19633
+            "vote_average": 7.781,
+            "vote_count": 19635
         },
         {
             "adult": false,
@@ -52,7 +52,7 @@
             "title": "Shrek 2",
             "video": false,
             "vote_average": 7.333,
-            "vote_count": 14002
+            "vote_count": 14003
         },
         {
             "adult": false,
@@ -76,7 +76,7 @@
             "title": "Shrek the Third",
             "video": false,
             "vote_average": 6.317,
-            "vote_count": 10152
+            "vote_count": 10153
         },
         {
             "adult": false,

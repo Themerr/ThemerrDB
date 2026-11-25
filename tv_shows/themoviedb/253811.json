@@ -24,7 +24,7 @@
     "languages": [
         "ja"
     ],
-    "last_air_date": "2026-11-13",
+    "last_air_date": "2026-11-20",
     "last_episode_to_air": {
         "air_date": "2026-11-20",
         "episode_number": 8,
@@ -124,7 +124,7 @@
             "vote_average": 0.0
         },
         {
-            "air_date": "2025-07-11",
+            "air_date": "2025-07-10",
             "episode_count": 24,
             "id": 392653,
             "name": "Season 1",
@@ -134,7 +134,7 @@
             "vote_average": 6.9
         },
         {
-            "air_date": "2026-10-02",
+            "air_date": "2026-10-01",
             "episode_count": 24,
             "id": 530062,
             "name": "Nikko Kegon Falls Arc",

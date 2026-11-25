@@ -26,7 +26,7 @@
             "title": "Back to the Future",
             "video": false,
             "vote_average": 8.332,
-            "vote_count": 22826
+            "vote_count": 22830
         },
         {
             "adult": false,
@@ -47,8 +47,8 @@
             "softcore": false,
             "title": "Back to the Future Part II",
             "video": false,
-            "vote_average": 7.784,
-            "vote_count": 14555
+            "vote_average": 7.783,
+            "vote_count": 14558
         },
         {
             "adult": false,
@@ -70,7 +70,7 @@
             "title": "Back to the Future Part III",
             "video": false,
             "vote_average": 7.494,
-            "vote_count": 12040
+            "vote_count": 12043
         }
     ],
     "poster_path": "/5Xsu2o5IsZRuuxCEVZ9nVve21FP.jpg",

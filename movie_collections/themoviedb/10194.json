@@ -27,7 +27,7 @@
             "title": "Toy Story",
             "video": false,
             "vote_average": 7.99,
-            "vote_count": 20875
+            "vote_count": 20878
         },
         {
             "adult": false,
@@ -49,7 +49,7 @@
             "title": "Toy Story 2",
             "video": false,
             "vote_average": 7.624,
-            "vote_count": 15617
+            "vote_count": 15618
         },
         {
             "adult": false,
@@ -116,8 +116,8 @@
             "softcore": false,
             "title": "Toy Story 5",
             "video": false,
-            "vote_average": 8.237,
-            "vote_count": 2919
+            "vote_average": 8.236,
+            "vote_count": 2922
         }
     ],
     "poster_path": "/rki5qLuwb0xnnE9seehxO9TlLhW.jpg",

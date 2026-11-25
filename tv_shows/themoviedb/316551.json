@@ -41,8 +41,8 @@
         "season_number": 1,
         "show_id": 316551,
         "still_path": "/wwRuN0vXiAPuJvwMXI8DgBgmCl1.jpg",
-        "vote_average": 0.0,
-        "vote_count": 0
+        "vote_average": 6.0,
+        "vote_count": 1
     },
     "name": "Battle Spirits [Re] ZEKKAI NO KU",
     "networks": [
@@ -107,7 +107,7 @@
             "overview": "",
             "poster_path": "/4ScTaJZ4g4ZPQmfxRHe6AyK5S48.jpg",
             "season_number": 1,
-            "vote_average": 5.4
+            "vote_average": 5.5
         }
     ],
     "softcore": false,

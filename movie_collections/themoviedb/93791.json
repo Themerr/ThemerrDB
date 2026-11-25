@@ -23,8 +23,8 @@
             "softcore": false,
             "title": "Anchorman: The Legend of Ron Burgundy",
             "video": false,
-            "vote_average": 6.7,
-            "vote_count": 4848
+            "vote_average": 6.701,
+            "vote_count": 4849
         },
         {
             "adult": false,
@@ -44,7 +44,7 @@
             "title": "Anchorman 2: The Legend Continues",
             "video": false,
             "vote_average": 6.145,
-            "vote_count": 2951
+            "vote_count": 2952
         }
     ],
     "poster_path": "/ojFvw2rSQWZ53sXLagjM4zluTy9.jpg",

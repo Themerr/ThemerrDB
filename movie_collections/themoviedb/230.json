@@ -24,8 +24,8 @@
             "softcore": false,
             "title": "The Godfather",
             "video": false,
-            "vote_average": 8.689,
-            "vote_count": 24045
+            "vote_average": 8.7,
+            "vote_count": 24048
         },
         {
             "adult": false,
@@ -46,7 +46,7 @@
             "title": "The Godfather Part II",
             "video": false,
             "vote_average": 8.6,
-            "vote_count": 14660
+            "vote_count": 14663
         },
         {
             "adult": false,
@@ -68,7 +68,7 @@
             "title": "The Godfather Part III",
             "video": false,
             "vote_average": 7.414,
-            "vote_count": 7212
+            "vote_count": 7215
         }
     ],
     "poster_path": "/kKjIYmvpBUIxcYJ0LL9YZwv4nrZ.jpg",
