@@ -39,30 +39,6 @@
     ],
     "last_air_date": "2026-11-11",
     "last_episode_to_air": {
-        "air_date": "2026-11-11",
-        "episode_number": 5,
-        "episode_type": "standard",
-        "id": 7292379,
-        "name": "We Be Clubbin'",
-        "overview": "When club sports take over Craig\u2019s afternoons and weekends, Tweek signs up to spend more time with him. Soon his whole family struggles to keep up.",
-        "production_code": "",
-        "runtime": 22,
-        "season_number": 29,
-        "show_id": 2190,
-        "still_path": "/x5bVJoepbExF9d9qWZKusyD4RtL.jpg",
-        "vote_average": 5.75,
-        "vote_count": 16
-    },
-    "name": "South Park",
-    "networks": [
-        {
-            "id": 47,
-            "logo_path": "/6ooPjtXufjsoskdJqj6pxuvHEno.png",
-            "name": "Comedy Central",
-            "origin_country": "US"
-        }
-    ],
-    "next_episode_to_air": {
         "air_date": "2026-11-25",
         "episode_number": 6,
         "episode_type": "finale",
@@ -74,9 +50,19 @@
         "season_number": 29,
         "show_id": 2190,
         "still_path": "/vu7GnmBJDlYTR2VTAqJMBQGCqVi.jpg",
-        "vote_average": 0.0,
-        "vote_count": 0
+        "vote_average": 5.833,
+        "vote_count": 3
     },
+    "name": "South Park",
+    "networks": [
+        {
+            "id": 47,
+            "logo_path": "/6ooPjtXufjsoskdJqj6pxuvHEno.png",
+            "name": "Comedy Central",
+            "origin_country": "US"
+        }
+    ],
+    "next_episode_to_air": null,
     "number_of_episodes": 337,
     "number_of_seasons": 29,
     "origin_country": [
@@ -85,7 +71,7 @@
     "original_language": "en",
     "original_name": "South Park",
     "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-    "popularity": 155.6239,
+    "popularity": 161.1199,
     "poster_path": "/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
     "production_companies": [
         {
@@ -424,7 +410,7 @@
             "overview": "Join Stan, Kyle, Cartman and Kenny for the historic 29th season of South America.",
             "poster_path": "/8tIvWw8SFbF1xEQID0VOE9Yx92m.jpg",
             "season_number": 29,
-            "vote_average": 6.0
+            "vote_average": 5.9
         }
     ],
     "softcore": false,
@@ -439,7 +425,7 @@
     "tagline": "Four boys. One f**ked-up town.",
     "type": "Scripted",
     "vote_average": 8.333,
-    "vote_count": 5297,
+    "vote_count": 5298,
     "youtube_theme_added": 1704916549,
     "youtube_theme_added_by": "42013603",
     "youtube_theme_edited": 1704916549,

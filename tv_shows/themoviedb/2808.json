@@ -79,13 +79,13 @@
         }
     ],
     "next_episode_to_air": {
-        "air_date": "2026-11-25",
+        "air_date": "2026-12-02",
         "episode_number": 15,
         "episode_type": "standard",
         "id": 7663410,
         "name": "Episode 15",
         "overview": "",
-        "production_code": "",
+        "production_code": null,
         "runtime": 22,
         "season_number": 8,
         "show_id": 2808,
@@ -101,7 +101,7 @@
     "original_language": "fr",
     "original_name": "Totally Spies !",
     "overview": "Totally Spies! depicts three girlfriends 'with an attitude' who have to cope with their daily lives at high school as well as the unpredictable pressures of international espionage. They confront the most intimidating - and demented - of villains, each with their own special agenda for demonic, global rude behavior.",
-    "popularity": 33.277,
+    "popularity": 34.6405,
     "poster_path": "/w4JZDCrWxDhO5wKUeTvVHSzaTDk.jpg",
     "production_companies": [
         {
@@ -220,7 +220,7 @@
     "status": "Returning Series",
     "tagline": "",
     "type": "Scripted",
-    "vote_average": 7.4,
+    "vote_average": 7.377,
     "vote_count": 308,
     "youtube_theme_added": 1722018131,
     "youtube_theme_added_by": "9526631",

@@ -29,30 +29,6 @@
     ],
     "last_air_date": "2026-11-11",
     "last_episode_to_air": {
-        "air_date": "2026-11-18",
-        "episode_number": 10,
-        "episode_type": "standard",
-        "id": 7924107,
-        "name": "Amends With Friends",
-        "overview": "Angie and Whitney discuss their marital struggles. Lisa and Meredith disagree with their husbands about letting their kids leave the nest. Bronwyn has an intense sitdown with Todd. Heather hosts a garden party to bring the group back together as Mary and Angie attempt to reconnect, but the group is left with one major question left unanswered.",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 7,
-        "show_id": 110381,
-        "still_path": "/uB0RAl1TVIPGnscBz2bEgRMFmDN.jpg",
-        "vote_average": 9.0,
-        "vote_count": 2
-    },
-    "name": "The Real Housewives of Salt Lake City",
-    "networks": [
-        {
-            "id": 74,
-            "logo_path": "/wX5HsfS47u6UUCSpYXqaQ1x2qdu.png",
-            "name": "Bravo",
-            "origin_country": "US"
-        }
-    ],
-    "next_episode_to_air": {
         "air_date": "2026-11-25",
         "episode_number": 11,
         "episode_type": "standard",
@@ -67,6 +43,30 @@
         "vote_average": 0.0,
         "vote_count": 0
     },
+    "name": "The Real Housewives of Salt Lake City",
+    "networks": [
+        {
+            "id": 74,
+            "logo_path": "/wX5HsfS47u6UUCSpYXqaQ1x2qdu.png",
+            "name": "Bravo",
+            "origin_country": "US"
+        }
+    ],
+    "next_episode_to_air": {
+        "air_date": "2026-12-02",
+        "episode_number": 12,
+        "episode_type": "standard",
+        "id": 7924109,
+        "name": "Lei Down the Law",
+        "overview": "On day two in Maui, Heather\u2019s behavior comes under scrutiny. Angie finally opens up to Mary about the struggles in her marriage. Bronwyn, Angie and Whitney find themselves in hot water. Quai sticks up for herself.",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 7,
+        "show_id": 110381,
+        "still_path": null,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
     "number_of_episodes": 127,
     "number_of_seasons": 7,
     "origin_country": [
@@ -75,7 +75,7 @@
     "original_language": "en",
     "original_name": "The Real Housewives of Salt Lake City",
     "overview": "Fueled by multi-million-dollar businesses and brands, a hidden social circle of successful women have created their own paradise in the majestic mountains of Utah.",
-    "popularity": 15.4327,
+    "popularity": 15.4548,
     "poster_path": "/57DhzlJaKkkx2RlbH7Epb8P8YFJ.jpg",
     "production_companies": [
         {

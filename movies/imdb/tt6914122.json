@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Resistance",
     "overview": "The story of mime Marcel Marceau as he works with a group of Jewish boy scouts and the French Resistance to save the lives of ten thousand orphans during World War II.",
-    "popularity": 3.1427,
+    "popularity": 3.7402,
     "poster_path": "/As22MQ8G3ILsdzsSIv1u9qEz6hE.jpg",
     "production_companies": [
         {
@@ -81,10 +81,6 @@
     ],
     "production_countries": [
         {
-            "iso_3166_1": "CZ",
-            "name": "Czech Republic"
-        },
-        {
             "iso_3166_1": "DE",
             "name": "Germany"
         },
@@ -95,6 +91,14 @@
         {
             "iso_3166_1": "US",
             "name": "United States"
+        },
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        },
+        {
+            "iso_3166_1": "PA",
+            "name": "Panama"
         }
     ],
     "release_date": "2020-03-27",
@@ -137,7 +141,7 @@
     "tagline": "The best way to resist is to survive.",
     "title": "Resistance",
     "video": false,
-    "vote_average": 6.959,
+    "vote_average": 7.0,
     "vote_count": 486,
     "youtube_theme_added": 1722544947,
     "youtube_theme_added_by": "118304977",

@@ -46,8 +46,8 @@
         "season_number": 12,
         "show_id": 2691,
         "still_path": "/g1M0GQaxP55RGPGZl76XzU1YJqk.jpg",
-        "vote_average": 5.1,
-        "vote_count": 19
+        "vote_average": 4.85,
+        "vote_count": 20
     },
     "name": "Two and a Half Men",
     "networks": [
@@ -67,7 +67,7 @@
     "original_language": "en",
     "original_name": "Two and a Half Men",
     "overview": "A hedonistic jingle writer's free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.",
-    "popularity": 1714.7376,
+    "popularity": 1743.4147,
     "poster_path": "/xgfjxyV3g1S68opzuvG6G87muDp.jpg",
     "production_companies": [
         {
@@ -144,7 +144,7 @@
             "overview": "Change is in the air as Charlie's bachelor lifestyle meets new romantic twists, while Alan deals with ex\u2011wife drama and Jake continues to steal every scene.",
             "poster_path": "/kcYIXEat3fR5FoVt4dbzQSnUDa6.jpg",
             "season_number": 4,
-            "vote_average": 6.9
+            "vote_average": 6.8
         },
         {
             "air_date": "2007-09-24",
@@ -174,7 +174,7 @@
             "overview": "Charlie's romantic past catches up to him, Alan's financial woes deepen, and Jake's teenage years bring a new level of mischief and mayhem.",
             "poster_path": "/psgfTx3DYM8h8KDXGaHyvFmxroo.jpg",
             "season_number": 7,
-            "vote_average": 6.9
+            "vote_average": 6.8
         },
         {
             "air_date": "2010-09-20",
@@ -194,7 +194,7 @@
             "overview": "A new chapter begins when internet billionaire Walden Schmidt moves in, bringing fresh energy, wealth, and more absurd adventures to the Malibu household.",
             "poster_path": "/pbhxwxHyU1nNJEpLKuZGjftyhQv.jpg",
             "season_number": 9,
-            "vote_average": 5.3
+            "vote_average": 5.2
         },
         {
             "air_date": "2012-09-27",
@@ -204,7 +204,7 @@
             "overview": "Walden and Alan navigate friendship, fatherhood, and fleeting fame while trying (and failing) to get their personal lives together.",
             "poster_path": "/rkidnuo3bZeQvxbIhcM6PxQbC0N.jpg",
             "season_number": 10,
-            "vote_average": 5.7
+            "vote_average": 5.5
         },
         {
             "air_date": "2013-09-26",
@@ -214,7 +214,7 @@
             "overview": "When a young woman claiming to be Charlie's daughter arrives, life at the beach house turns upside down again in the best, most dysfunctional way.",
             "poster_path": "/qH1E5VDtEHZFtOIYHajTe31JUHm.jpg",
             "season_number": 11,
-            "vote_average": 5.5
+            "vote_average": 5.4
         },
         {
             "air_date": "2014-10-30",
@@ -224,7 +224,7 @@
             "overview": "In the final season, Walden and Alan take drastic (and hilarious) steps to redefine family, love, and what it means to finally grow up.",
             "poster_path": "/t4oM4aGZzeDWHBL2VEToUwpehDj.jpg",
             "season_number": 12,
-            "vote_average": 5.4
+            "vote_average": 5.3
         }
     ],
     "softcore": false,
@@ -239,7 +239,7 @@
     "tagline": "Two adults. One kid. No grown-ups.",
     "type": "Scripted",
     "vote_average": 7.437,
-    "vote_count": 3863,
+    "vote_count": 3867,
     "youtube_theme_added": 1704916342,
     "youtube_theme_added_by": "42013603",
     "youtube_theme_edited": 1704916342,

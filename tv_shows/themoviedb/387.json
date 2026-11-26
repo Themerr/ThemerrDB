@@ -81,7 +81,7 @@
     "original_language": "en",
     "original_name": "SpongeBob SquarePants",
     "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
-    "popularity": 241.967,
+    "popularity": 230.9045,
     "poster_path": "/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
     "production_companies": [
         {
@@ -128,7 +128,7 @@
             "overview": "These are the moments that turned SpongeBob from a cartoon into a worldwide phenomenon! Meet Bikini Bottom's denizens of the deep, learn the technique to blow the perfect bubble, sing \"The F.U.N. Song,\" ride the hooks, turn a gum wrapper into a gold mine of entertainment, and so much more!",
             "poster_path": "/jdiziPxXQ0sYTfM9LkWpUMwkqtS.jpg",
             "season_number": 1,
-            "vote_average": 8.4
+            "vote_average": 8.5
         },
         {
             "air_date": "2000-10-26",
@@ -138,7 +138,7 @@
             "overview": "Dive into episodes featuring Bubble Buddy, Wormy, Clamu, Frankendoodle, and memorable moments like selling Pretty Patties, the 21st Annual Fry Cook Games, Patrick's secret box, performing at the Bubble Bowl, and oceans more!",
             "poster_path": "/1OedDPV5WKf7w71UOKLaHVk4zNs.jpg",
             "season_number": 2,
-            "vote_average": 8.6
+            "vote_average": 8.7
         },
         {
             "air_date": "2002-01-21",
@@ -148,7 +148,7 @@
             "overview": "Check out some of the funniest moments in SpongeBob history, like when Plankton trades lives with Mr. Krabs, SpongeBob patrols the beach, Patrick comes to school, the boys go camping, SpongeBob throws a party to remember, and more!",
             "poster_path": "/zVaShpiNWImCAdr3NToxC3tOV5f.jpg",
             "season_number": 3,
-            "vote_average": 8.7
+            "vote_average": 8.8
         },
         {
             "air_date": "2005-05-06",
@@ -158,7 +158,7 @@
             "overview": "Dive into SpongeBob hilarity with this collection of some of the most comical episodes ever to make land, like when SpongeBob attends a party with Mr. Krabs' Navy buddies - as Mr. Krabs!... SpongeBob and Patrick make a movie... SpongeBob goes on a quest to become King of Karate... Patrick becomes Patricia... and more!",
             "poster_path": "/gsEZRPqWOBjAZK6Hm0jas9nu8oY.jpg",
             "season_number": 4,
-            "vote_average": 8.2
+            "vote_average": 8.4
         },
         {
             "air_date": "2007-04-13",
@@ -313,7 +313,7 @@
     "tagline": "Be there and be square!",
     "type": "Scripted",
     "vote_average": 7.7,
-    "vote_count": 3318,
+    "vote_count": 3319,
     "youtube_theme_added": 1715446345,
     "youtube_theme_added_by": "100185670",
     "youtube_theme_edited": 1715446345,

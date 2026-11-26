@@ -72,14 +72,14 @@
     ],
     "next_episode_to_air": null,
     "number_of_episodes": 218,
-    "number_of_seasons": 33,
+    "number_of_seasons": 34,
     "origin_country": [
         "GB"
     ],
     "original_language": "en",
     "original_name": "Top Gear",
     "overview": "This fast-paced and stunt-filled motor show tests whether cars, both mundane and extraordinary, live up to their manufacturers' claims. The long-running show travels to locations around the world, performing extreme stunts and challenges to see what the featured cars are capable of doing. The current hosts are Paddy McGuinness, Chris Harris and Andrew \"Freddie\" Flintoff.",
-    "popularity": 66.8549,
+    "popularity": 70.1058,
     "poster_path": "/aqM6QnuhSXzjHlKbXyKUqxaGiWu.jpg",
     "production_companies": [
         {
@@ -441,6 +441,16 @@
             "poster_path": "/rP2BvJov4qSOLZgztZm7jqjlE0D.jpg",
             "season_number": 33,
             "vote_average": 7.4
+        },
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 560638,
+            "name": "Season 34",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 34,
+            "vote_average": 0.0
         }
     ],
     "softcore": false,
@@ -454,7 +464,7 @@
     "status": "Returning Series",
     "tagline": "The world\u2019s biggest motoring show.",
     "type": "Talk Show",
-    "vote_average": 7.609,
+    "vote_average": 7.6,
     "vote_count": 951,
     "youtube_theme_added": 1715471410,
     "youtube_theme_added_by": "111896665",
