@@ -1,0 +1,154 @@
+{
+    "adult": false,
+    "backdrop_path": "/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
+    "created_by": [
+        {
+            "credit_id": "65f0b65ff495ee0164737d25",
+            "gender": 2,
+            "id": 133287,
+            "name": "Jason Keller",
+            "original_name": "Jason Keller",
+            "profile_path": "/86qj7RABx11faq93QywwfswfWmh.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2025-06-03",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://tv.apple.com/show/umc.cmc.52w04zy67tiv11p8xvbc57wmc",
+    "id": 248830,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2026-11-24",
+    "last_episode_to_air": {
+        "air_date": "2026-11-24",
+        "episode_number": 5,
+        "episode_type": "standard",
+        "id": 7705046,
+        "name": "Go Time!",
+        "overview": "Amanda and Pryce start training for the US Open. Facing pressure, Santi makes a personnel change.",
+        "production_code": "",
+        "runtime": 37,
+        "season_number": 2,
+        "show_id": 248830,
+        "still_path": "/fP6eUfXQs4WueciPpchJgqGiMIA.jpg",
+        "vote_average": 9.5,
+        "vote_count": 2
+    },
+    "name": "Stick",
+    "networks": [
+        {
+            "id": 2552,
+            "logo_path": "/bngHRFi794mnMq34gfVcm9nDxN1.png",
+            "name": "Apple TV",
+            "origin_country": ""
+        }
+    ],
+    "next_episode_to_air": {
+        "air_date": "2026-12-01",
+        "episode_number": 6,
+        "episode_type": "standard",
+        "id": 7705049,
+        "name": "Jung and the Restless",
+        "overview": "After some turbulence, Santi starts to spiral. Pryce works on his mental game. Mitts gets a surprise visitor.",
+        "production_code": null,
+        "runtime": 41,
+        "season_number": 2,
+        "show_id": 248830,
+        "still_path": "/bNalr8wvIMQUzh6ZFqsSoGyDyBg.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "number_of_episodes": 20,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Stick",
+    "overview": "Pryce Cahill was headed for golf greatness when an on-course meltdown derailed his career. Now struggling to stay afloat, he goes all in to mentor Santi\u2014a teenage phenom with immense potential\u2014and maybe save himself.",
+    "popularity": 52.803,
+    "poster_path": "/3zkHz1s4PpukMJRs3npzbGK10iV.jpg",
+    "production_companies": [
+        {
+            "id": 87045,
+            "logo_path": "/6WLvW3VlxfXOPukpeEPYnjdFtwH.png",
+            "name": "Propagate Content",
+            "origin_country": "US"
+        },
+        {
+            "id": 78984,
+            "logo_path": "/vJLYh9YHQaEryuzu7GNUa1zwKG1.png",
+            "name": "Entertainment 360",
+            "origin_country": "US"
+        },
+        {
+            "id": 194232,
+            "logo_path": "/oE7H93u8sy5vvW5EH3fpCp68vvB.png",
+            "name": "Apple Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 264412,
+            "logo_path": null,
+            "name": "Kellerama",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2025-06-03",
+            "episode_count": 10,
+            "id": 383355,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/y8EWrf5Ry1WmYksWT7MOPWexvr5.jpg",
+            "season_number": 1,
+            "vote_average": 7.9
+        },
+        {
+            "air_date": "2026-11-03",
+            "episode_count": 10,
+            "id": 523945,
+            "name": "Season 2",
+            "overview": "In season two, Santi takes the next step in his pursuit of professional golf, only to discover how quickly the game changes when talent becomes expectation. As Santi chases his dream, Pryce finds himself wondering what might still be possible for him. Urged on by his former rival Clark Ross, Pryce does something nobody expects: he bets on himself, launching an improbable comeback in hopes of becoming the oldest golfer ever to win a major. But the road back proves far harder than he imagined. And the closer Pryce gets to the golfer he once was, the more he is forced to confront why he never fulfilled the promise everyone once saw in him. With brilliant new coach Amanda and trusted caddie Mitts in his corner, Pryce sets out to prove - to the golf world and, more importantly, to himself - that maybe he really was as good as everyone always said he was.",
+            "poster_path": "/3zkHz1s4PpukMJRs3npzbGK10iV.jpg",
+            "season_number": 2,
+            "vote_average": 9.2
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "Take another swing.",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 154,
+    "youtube_theme_added": 1795745336,
+    "youtube_theme_added_by": "257256710",
+    "youtube_theme_edited": 1795745336,
+    "youtube_theme_edited_by": "257256710",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=Ram5l-iPx3A"
+}
