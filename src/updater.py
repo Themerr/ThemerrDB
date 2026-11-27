@@ -1,10 +1,11 @@
 # standard imports
 import argparse
 import base64
-from collections import defaultdict
+from collections import Counter, defaultdict
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from html import escape
+from itertools import accumulate
 import json
 from math import floor
 from operator import itemgetter
@@ -29,6 +30,10 @@ import requests
 import matplotlib
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
+from matplotlib.axes import Axes
+from matplotlib.figure import Figure
+from matplotlib.patches import FancyBboxPatch
+from matplotlib.ticker import MaxNLocator, StrMethodFormatter
 
 # load env
 from dotenv import load_dotenv
@@ -114,6 +119,7 @@ JSON_EXTENSION = '.json'
 PNG_CONTENT_TYPE = 'image/png'
 DATABASE_ITEM_ID_PATTERN = re.compile(r'\d+')
 IMDB_ID_PATTERN = re.compile(r'tt\d+')
+REQUEST_THEME_LABEL = 'request-theme'
 APPROVE_THEME_LABEL = 'approve-theme'
 MIN_THEME_DURATION_SECONDS = 15
 ANIME_GENRE_ID = 16
@@ -126,12 +132,17 @@ ISSUE_AUTHOR_BADGE_STYLE = 'for-the-badge'
 ISSUE_AUTHOR_BADGES = {
     'contributions': {
         'label': 'contributions',
-        'query_filters': (f'label:{APPROVE_THEME_LABEL}',),
+        'query_filters': ('is:closed', f'label:{APPROVE_THEME_LABEL}'),
     },
     'rejections': {
         'label': 'rejections',
-        'query_filters': ('reason:not-planned',),
+        'query_filters': ('is:closed', 'reason:not-planned'),
         'color': 'red',
+    },
+    'open_requests': {
+        'label': 'open requests',
+        'query_filters': ('is:open', 'is:issue', f'label:{REQUEST_THEME_LABEL}'),
+        'color': 'blue',
     },
 }
 DEFAULT_GITHUB_REPOSITORY = 'Themerr/ThemerrDB'
@@ -141,11 +152,28 @@ DUPLICATE_NO_REPLACEMENT_REASON_CLOSE_MESSAGE = (
     'This is a duplicate submission and no replacement reason was provided. '
     'Please check the [database](https://themerr.lizardbyte.dev/ThemerrDB) before submitting themes.'
 )
-CONTRIBUTOR_IMAGE_WIDTH = 900
+CHART_WIDTH = 900
 CONTRIBUTOR_IMAGE_MARGIN = 24
 CONTRIBUTOR_CARD_GAP = 16
 CONTRIBUTOR_SECTION_HEADER_HEIGHT = 40
 CONTRIBUTOR_ROW_HEIGHT = 32
+CHART_BACKGROUND = '#101827'
+CHART_PANEL = '#172235'
+CHART_LINE = '#2e405b'
+CHART_TEXT = '#f2f6ff'
+CHART_MUTED = '#aabbd2'
+CONTRIBUTOR_ACCENT = '#65e5d0'
+REQUEST_ACCENT = '#ffc785'
+GROWTH_CHART_COLORS = {
+    'movie': '#65e5d0',
+    'game': '#c4a0fb',
+    'tv_show': '#90abea',
+    'game_collection': '#f5a2ca',
+    'movie_collection': '#70cbfb',
+    'game_franchise': '#ffc785',
+}
+OPEN_REQUESTS_BASENAME = 'open_requests'
+CHART_FONT = '-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif'
 CONTRIBUTOR_CATEGORIES = (
     'movies',
     'tv_shows',
@@ -302,7 +330,7 @@ def create_github_session() -> requests.Session:
     session = requests.Session()
     session.headers.update({
         'Accept': 'application/vnd.github+json',
-        'User-Agent': 'ThemerrDB contributor image generator',
+        'User-Agent': 'ThemerrDB README chart generator',
     })
 
     token = os.environ.get('GITHUB_TOKEN')
@@ -601,6 +629,15 @@ def append_contributor_card(
             avatar_x=avatar_x,
             avatar_y=avatar_y,
         )
+        if width > 600:
+            bar_width = 230
+            bar_x = count_x - bar_width - 78
+            bar_y = row_y + 13
+            filled_width = bar_width * contributor.count / visible_contributors[0].count
+            parts.extend([
+                f'<rect class="track" x="{bar_x}" y="{bar_y}" width="{bar_width}" height="6" rx="3"/>',
+                f'<rect class="bar" x="{bar_x}" y="{bar_y}" width="{filled_width:.2f}" height="6" rx="3"/>',
+            ])
         parts.extend([
             f'<text class="name" x="{text_x}" y="{row_y + 13}">{display_name}</text>',
             f'<text class="login" x="{text_x}" y="{row_y + 27}">{login}</text>',
@@ -626,7 +663,7 @@ def render_top_contributor_svg(sections: list) -> str:
     category_card_height = CONTRIBUTOR_SECTION_HEADER_HEIGHT + (
         TOP_CONTRIBUTORS_CATEGORY_LIMIT * CONTRIBUTOR_ROW_HEIGHT
     ) + 20
-    content_width = CONTRIBUTOR_IMAGE_WIDTH - (CONTRIBUTOR_IMAGE_MARGIN * 2)
+    content_width = CHART_WIDTH - (CONTRIBUTOR_IMAGE_MARGIN * 2)
     category_width = int((content_width - CONTRIBUTOR_CARD_GAP) / 2)
     category_sections = sections[1:]
     category_rows = int((len(category_sections) + 1) / 2)
@@ -643,24 +680,27 @@ def render_top_contributor_svg(sections: list) -> str:
 
     parts = [
         '<svg xmlns="http://www.w3.org/2000/svg" '
-        f'width="{CONTRIBUTOR_IMAGE_WIDTH}" height="{height}" '
-        f'viewBox="0 0 {CONTRIBUTOR_IMAGE_WIDTH} {height}" role="img" aria-labelledby="title desc">',
+        f'width="{CHART_WIDTH}" height="{height}" '
+        f'viewBox="0 0 {CHART_WIDTH} {height}" role="img" aria-labelledby="title desc">',
         '<title id="title">Contribution Leaderboard</title>',
         '<desc id="desc">Top ThemerrDB contributors across all database categories.</desc>',
         '<style>',
-        'text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}',
-        '.title{fill:#777;font-size:26px;font-weight:700}',
-        '.subtitle{fill:#777;font-size:14px}',
-        '.card{fill:#000;fill-opacity:0.035;stroke:#404040;stroke-opacity:0.35}',
-        '.section-title{fill:#777;font-size:18px;font-weight:700}',
-        '.section-meta{fill:#777;font-size:12px}',
-        '.row-line{stroke:#404040;stroke-opacity:0.16}',
-        '.rank{fill:#777;font-size:12px;font-weight:700}',
-        '.name{fill:#777;font-size:13px;font-weight:700}',
-        '.login{fill:#777;font-size:10px}',
-        '.count{fill:#777;font-size:14px;font-weight:700}',
-        '.placeholder{fill:#777;font-size:12px;font-weight:700}',
+        f'text{{font-family:{CHART_FONT}}}',
+        f'.title{{fill:{CHART_TEXT};font-size:27px;font-weight:700}}',
+        f'.subtitle{{fill:{CHART_MUTED};font-size:14px}}',
+        f'.card{{fill:{CHART_PANEL};stroke:{CHART_LINE}}}',
+        f'.section-title{{fill:{CHART_TEXT};font-size:18px;font-weight:700}}',
+        f'.section-meta{{fill:{CHART_MUTED};font-size:12px}}',
+        f'.row-line{{stroke:{CHART_LINE}}}',
+        f'.rank{{fill:{CHART_MUTED};font-size:12px;font-weight:700}}',
+        f'.name{{fill:{CHART_TEXT};font-size:13px;font-weight:700}}',
+        f'.login{{fill:{CHART_MUTED};font-size:11px}}',
+        f'.count{{fill:{CONTRIBUTOR_ACCENT};font-size:14px;font-weight:700}}',
+        f'.placeholder{{fill:{CHART_TEXT};font-size:12px;font-weight:700}}',
+        f'.track{{fill:{CHART_LINE}}}',
+        f'.bar{{fill:{CONTRIBUTOR_ACCENT}}}',
         '</style>',
+        f'<rect width="100%" height="100%" rx="16" fill="{CHART_BACKGROUND}"/>',
         '<text class="title" x="24" y="34">Contribution Leaderboard</text>',
         '<text class="subtitle" x="24" y="58">Added and edited themes</text>',
     ]
@@ -823,6 +863,126 @@ def build_top_contributor_images(
         contributor_f.write(svg)
 
     remove_deprecated_top_contributor_images(database_root=database_root)
+
+
+def _load_open_request_counts(repository: str, session: requests.Session) -> list[tuple[str | None, int]]:
+    """Count open theme issues by author, following every page of GitHub results."""
+    url = f'https://api.github.com/repos/{repository}/issues'
+    params = {'state': 'open', 'labels': REQUEST_THEME_LABEL, 'per_page': 100, 'direction': 'asc'}
+    authors_by_issue = {}
+    while url:
+        response = session.get(url, params=params, timeout=15)
+        response.raise_for_status()
+        authors_by_issue.update(
+            (issue['number'], (issue.get('user') or {}).get('login'))
+            for issue in response.json()
+            if 'pull_request' not in issue
+        )
+        url = response.links.get('next', {}).get('url')
+        params = None
+
+    counts = Counter(authors_by_issue.values())
+    return sorted(counts.items(), key=lambda item: (-item[1], (item[0] or '').casefold()))
+
+
+def _render_open_requests_svg(counts: list[tuple[str | None, int]], summary: str) -> str:
+    """Render every open request count in a chart for the README."""
+    columns = 2 if len(counts) > 10 else 1
+    rows = max(1, (len(counts) + columns - 1) // columns)
+    row_height = 34
+    height = 105 + row_height * rows
+    margin = 24
+    gap = 16
+    panel_width = (CHART_WIDTH - 2 * margin - gap * (columns - 1)) // columns
+    parts = [
+        '<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" '
+        f'width="{CHART_WIDTH}" height="{height}" viewBox="0 0 {CHART_WIDTH} {height}">',
+        '<title id="title">Open Theme Requests by Submitter</title>',
+        f'<desc id="desc">{summary}. All submitters with open theme requests, ordered by request count.</desc>',
+        '<style>',
+        f'text{{font-family:{CHART_FONT};fill:{CHART_TEXT}}}',
+        f'.muted{{fill:{CHART_MUTED};font-size:14px}}',
+        f'.count{{fill:{REQUEST_ACCENT};font-size:15px;font-weight:700}}',
+        '</style>',
+        f'<rect width="100%" height="100%" rx="16" fill="{CHART_BACKGROUND}"/>',
+        '<text x="24" y="36" font-size="27" font-weight="700">Open Theme Requests by Submitter</text>',
+        f'<text class="muted" x="24" y="60">{summary}</text>',
+    ]
+    for column in range(columns):
+        x = margin + column * (panel_width + gap)
+        parts.append(
+            f'<rect x="{x}" y="77" width="{panel_width}" height="{height - 101}" rx="10" fill="{CHART_PANEL}"/>'
+        )
+    if not counts:
+        parts.append('<text class="muted" x="42" y="100">No open theme requests</text>')
+
+    for index, (login, count) in enumerate(counts):
+        label = f'@{escape(login)}' if login else 'Unknown author'
+        column, row = divmod(index, rows)
+        left = margin + column * (panel_width + gap) + 18
+        bar_width = panel_width - 36
+        right = left + bar_width
+        y = 99 + row_height * row
+        filled_width = bar_width * count / counts[0][1]
+        parts.extend([
+            f'<text x="{left}" y="{y}" font-size="14">{label}</text>',
+            f'<text class="count" x="{right}" y="{y}" text-anchor="end">{count:,}</text>',
+            f'<rect x="{left}" y="{y + 5}" width="{bar_width}" height="4" rx="2" fill="{CHART_LINE}"/>',
+            f'<rect x="{left}" y="{y + 5}" width="{filled_width:.2f}" height="4" rx="2" fill="{REQUEST_ACCENT}"/>',
+        ])
+
+    parts.append('</svg>')
+    return '\n'.join(parts) + '\n'
+
+
+def _render_open_requests_page(repository: str, counts: list[tuple[str | None, int]], summary: str) -> str:
+    """Render a Pages table with every author's count and a link to their open issues."""
+    issues_url = f'https://github.com/{repository}/issues'
+    issue_filter = f'is:issue is:open label:{REQUEST_THEME_LABEL}'
+    lines = [
+        '---',
+        'layout: page',
+        'title: Open Theme Requests by Submitter',
+        'permalink: /open_requests.html',
+        '---',
+        '',
+        summary,
+        '',
+        f'[View all open theme requests on GitHub]({issues_url}?q={quote(issue_filter)})',
+        '',
+    ]
+    if not counts:
+        lines.append('No open theme requests.')
+    else:
+        lines.extend(['| Submitter | Open requests |', '| --- | ---: |'])
+        for login, count in counts:
+            query = quote(f'{issue_filter} author:{login}')
+            author = f'<a href="{issues_url}?q={query}">@{escape(login)}</a>' if login else 'Unknown author'
+            lines.append(f'| {author} | {count:,} |')
+
+    return '\n'.join(lines) + '\n'
+
+
+def _write_open_request_outputs(database_root: str = 'database') -> None:
+    """Publish a complete request snapshot, retaining the previous one if the fetch fails."""
+    repository = os.environ.get('GITHUB_REPOSITORY', DEFAULT_GITHUB_REPOSITORY)
+    try:
+        with create_github_session() as session:
+            counts = _load_open_request_counts(repository=repository, session=session)
+    except requests.RequestException as exc:
+        print_github_warning(f'Unable to refresh open theme request counts: {exc}')
+        return
+
+    total = sum(count for _, count in counts)
+    summary = f'{total:,} open · Updated {datetime.now(timezone.utc):%Y-%m-%d} UTC'
+    svg = _render_open_requests_svg(counts=counts, summary=summary)
+    page = _render_open_requests_page(repository=repository, counts=counts, summary=summary)
+
+    os.makedirs(database_root, exist_ok=True)
+    with open(os.path.join(database_root, f'{OPEN_REQUESTS_BASENAME}.svg'), 'w', encoding='utf-8') as chart_f:
+        chart_f.write(svg)
+    with open(os.path.join(database_root, f'{OPEN_REQUESTS_BASENAME}.md'), 'w', encoding='utf-8') as page_f:
+        page_f.write(page)
 
 
 def exception_writer(error: Exception, name: str, end_program: bool = False) -> None:
@@ -1113,7 +1273,6 @@ def _build_issue_author_badge(badge_type: str,
     label = badge_config['label']
     query = ' '.join([
         f'repo:{repository}',
-        'is:closed',
         *badge_config['query_filters'],
         f'author:{author}',
     ])
@@ -1121,7 +1280,7 @@ def _build_issue_author_badge(badge_type: str,
     badge_options = [
         f'query={encoded_query}',
         f'style={ISSUE_AUTHOR_BADGE_STYLE}',
-        f'label={label}',
+        f'label={quote(label)}',
     ]
     if badge_config.get('color'):
         badge_options.append(f'color={badge_config["color"]}')
@@ -1928,64 +2087,193 @@ def _load_theme_timestamps(db: str, all_items: list) -> list:
             item_data = json.load(item_f)
         timestamps.append(item_data['youtube_theme_added'])
 
-    timestamps.sort()
     return timestamps
 
 
 def _build_database_plot_values(timestamps: list) -> tuple[list, list]:
     """Build cumulative date and count values for the database size plot."""
-    timestamps_human = [datetime.fromtimestamp(x).strftime('%Y-%m-%d') for x in timestamps]
-    x_values = []
-    y_values = []
-    total_count = 0
+    daily_counts = Counter(datetime.fromtimestamp(timestamp, timezone.utc).date().isoformat()
+                           for timestamp in timestamps)
+    x_values = sorted(daily_counts)
+    y_values = list(accumulate(daily_counts[date] for date in x_values))
 
-    for timestamp_human in timestamps_human:
-        if timestamp_human not in x_values:
-            new_total = timestamps_human.count(timestamp_human) + total_count
-            x_values.append(timestamp_human)
-            y_values.append(new_total)
-            total_count = new_total
-
-    # get the current date in human-readable format
-    current_date = datetime.now(timezone.utc).strftime('%Y-%m-%d')
-    if timestamps_human[-1] != current_date:
-        x_values.append(current_date)  # add the current date
-        y_values.append(y_values[-1])  # add the last value again to indicate no increase
+    today = datetime.now(timezone.utc).date().isoformat()
+    if x_values[-1] < today:
+        x_values.append(today)
+        y_values.append(y_values[-1])
 
     return x_values, y_values
 
 
-def _write_database_size_plot(db: str, all_items: list) -> None:
-    """Write the database size plot SVG."""
+def _create_growth_figure(height: float) -> Figure:
+    """Create a figure with the shared chart background."""
+    width = CHART_WIDTH / 100
+    fig = plt.figure(figsize=(width, height), facecolor='none')
+    fig.add_artist(FancyBboxPatch(
+        (0, 0), 1, 1, boxstyle='round,pad=0,rounding_size=0.018', mutation_aspect=width / height,
+        transform=fig.transFigure, facecolor=CHART_BACKGROUND, edgecolor='none', zorder=-1,
+    ))
+    return fig
+
+
+def _style_growth_axes(ax: Axes) -> None:
+    """Apply the shared growth chart axis styles."""
+    ax.set_axisbelow(True)
+    ax.grid(axis='y', color=CHART_LINE, linewidth=0.7)
+    ax.tick_params(axis='both', colors=CHART_MUTED, labelsize=9, length=0, pad=7)
+    ax.yaxis.set_major_formatter(StrMethodFormatter('{x:,.0f}'))
+    date_locator = mdates.AutoDateLocator(minticks=3)
+    ax.xaxis.set_major_locator(date_locator)
+    ax.xaxis.set_major_formatter(mdates.ConciseDateFormatter(date_locator))
+    ax.xaxis.get_offset_text().set(color=CHART_MUTED, fontsize=8)
+    ax.spines[['top', 'right', 'left', 'bottom']].set_visible(False)
+
+
+def _draw_growth_plot(ax: Axes, dates: list[float], counts: list[int], accent: str) -> None:
+    """Draw an individual category's cumulative area chart."""
+    _style_growth_axes(ax)
+    ax.yaxis.set_major_locator(MaxNLocator(nbins=4, integer=True))
+    ax.fill_between(dates, counts, step='post', color=accent, alpha=0.20, linewidth=0)
+    ax.step(dates, counts, where='post', color=accent, linewidth=2)
+    ax.scatter(dates[-1], counts[-1], s=34, color=accent, zorder=3)
+    ax.set_ylim(0, max(counts[-1] * 1.16, 1))
+
+
+def _write_database_size_plot(db: str, all_items: list) -> tuple[list[float], list[int]]:
+    """Write the category plot SVG and return its series for the combined chart."""
     timestamps = _load_theme_timestamps(db=db, all_items=all_items)
-    x_values, y_values = _build_database_plot_values(timestamps=timestamps)
-    x_dates = [datetime.strptime(d, '%Y-%m-%d') for d in x_values]
-
-    fig, ax = plt.subplots(figsize=(10, 4))
-    fig.patch.set_alpha(0)
-    ax.patch.set_alpha(0)
-
-    ax.plot(x_dates, y_values, color='#1f77b4')
-    ax.set_title(databases[db]['title'], color='#777')
-    ax.set_ylabel('Themes', color='#777')
-    ax.tick_params(colors='#777')
-    ax.xaxis.set_major_formatter(mdates.DateFormatter('%Y-%m-%d'))
-    ax.xaxis.set_major_locator(mdates.AutoDateLocator())
-    fig.autofmt_xdate()
-    ax.grid(True, color='#404040')
-    for spine in ax.spines.values():
-        spine.set_edgecolor('#404040')
-
+    dates, counts = _build_database_plot_values(timestamps=timestamps)
+    x_dates = mdates.date2num(dates).tolist()
+    title = databases[db]['title']
+    accent = GROWTH_CHART_COLORS[db]
     svg_file = os.path.join(
         os.path.dirname(databases[db]['path']),
-        f'{databases[db]["title"].lower()}_plot.svg'.replace(' ', '_')
+        f'{title.lower()}_plot.svg'.replace(' ', '_')
     )
-    fig.savefig(svg_file, format='svg', bbox_inches='tight', transparent=True)
+
+    fig = _create_growth_figure(height=3)
+    fig.text(0.036, 0.84, title, color=CHART_TEXT, size=20, weight='bold')
+    fig.text(0.037, 0.745, 'Cumulative themes added', color=CHART_MUTED, size=10)
+    fig.text(0.96, 0.84, f'{counts[-1]:,}', color=accent, size=21, weight='bold', ha='right')
+    fig.text(0.96, 0.745, 'Themes in database', color=CHART_MUTED, size=10, ha='right')
+
+    ax = fig.add_axes((0.09, 0.18, 0.87, 0.48), facecolor='none')
+    _draw_growth_plot(ax, x_dates, counts, accent)
+    padding = max((x_dates[-1] - x_dates[0]) * 0.02, 0.5)
+    ax.set_xlim(x_dates[0] - padding, x_dates[-1] + padding)
+
+    with matplotlib.rc_context({'svg.fonttype': 'none'}):
+        fig.savefig(svg_file, format='svg', metadata={'Title': f'{title} database growth', 'Date': None})
+    plt.close(fig)
+    return x_dates, counts
+
+
+def _create_database_growth_axes(subtitle: str) -> tuple[Figure, Axes]:
+    """Create the figure and axes for a combined database growth chart."""
+    fig = _create_growth_figure(height=4.5)
+    fig.text(0.036, 0.894, 'Database Growth', color=CHART_TEXT, size=20, weight='bold')
+    fig.text(0.037, 0.827, subtitle, color=CHART_MUTED, size=10)
+    ax = fig.add_axes((0.084, 0.244, 0.872, 0.524), facecolor='none')
+    return fig, ax
+
+
+def _save_database_growth_chart(
+        fig: Figure,
+        ax: Axes,
+        date_range: tuple[float, float],
+        database_root: str,
+        filename: str,
+        title: str,
+) -> None:
+    """Set the date limits and legend, then publish a combined growth SVG."""
+    first_date, last_date = date_range
+    padding = max((last_date - first_date) * 0.02, 0.5)
+    ax.set_xlim(first_date - padding, last_date + padding)
+    ax.legend(
+        loc='upper center', bbox_to_anchor=(0.5, -0.164), ncols=3, fontsize=10,
+        labelcolor=CHART_TEXT, facecolor=CHART_PANEL, edgecolor=CHART_LINE, framealpha=1,
+        borderpad=0.7, columnspacing=2.5, handlelength=2.8,
+    )
+
+    os.makedirs(database_root, exist_ok=True)
+    with matplotlib.rc_context({'svg.fonttype': 'none'}):
+        fig.savefig(os.path.join(database_root, filename), format='svg', metadata={'Title': title, 'Date': None})
     plt.close(fig)
 
 
-def _write_database_outputs(db: str) -> None:
-    """Write daily update JSON and SVG outputs for one database."""
+def _write_database_growth_chart(
+        growth: dict[str, tuple[list[float], list[int]]],
+        database_root: str = 'database',
+) -> None:
+    """Plot all categories on the same date and logarithmic count axes."""
+    today = mdates.date2num(datetime.now(timezone.utc).date())
+    first_date = min((dates[0] for dates, _ in growth.values()), default=today - 365)
+    last_date = max((dates[-1] for dates, _ in growth.values()), default=today)
+    largest_count = max((counts[-1] for _, counts in growth.values()), default=0)
+
+    fig, ax = _create_database_growth_axes('Cumulative themes added')
+    fig.text(0.956, 0.827, 'Theme count · Log scale above 1', color=CHART_MUTED, size=10, ha='right')
+    ax.set_yscale('symlog', linthresh=1, linscale=0.55)
+    _style_growth_axes(ax)
+    ax.set_ylim(0, max(1, largest_count) * 1.25)
+
+    for db, accent in GROWTH_CHART_COLORS.items():
+        if db not in databases:
+            continue
+        dates, counts = growth.get(db, ([first_date, last_date], [0, 0]))
+        ax.step(
+            [dates[0], *dates], [0, *counts], where='post',
+            color=accent, linewidth=2.3, linestyle='-', label=f"{databases[db]['title']} ({counts[-1]:,})",
+        )
+
+    _save_database_growth_chart(
+        fig, ax, (first_date, last_date), database_root, 'database_growth.svg', 'Database growth by category',
+    )
+
+
+def _write_stacked_database_growth_chart(
+        growth: dict[str, tuple[list[float], list[int]]],
+        database_root: str = 'database',
+) -> None:
+    """Stack category counts at every change date to show overall growth."""
+    dates = sorted({date for category_dates, _ in growth.values() for date in category_dates})
+    if not dates:
+        today = mdates.date2num(datetime.now(timezone.utc).date())
+        dates = [today - 365, today]
+
+    bands = []
+    labels = []
+    colors = []
+    for db, accent in GROWTH_CHART_COLORS.items():
+        if db not in databases:
+            continue
+        category_dates, category_counts = growth.get(db, ([], []))
+        changes = dict(zip(category_dates, category_counts))
+        count = 0
+        band = []
+        for date in dates:
+            count = changes.get(date, count)
+            band.append(count)
+        bands.append(band)
+        labels.append(f"{databases[db]['title']} ({count:,})")
+        colors.append(accent)
+
+    totals = [sum(day_counts) for day_counts in zip(*bands)]
+    fig, ax = _create_database_growth_axes('Cumulative themes by category')
+    fig.text(0.956, 0.894, f'{totals[-1]:,}', color=CHART_TEXT, size=20, weight='bold', ha='right')
+    fig.text(0.956, 0.827, 'Total themes', color=CHART_MUTED, size=10, ha='right')
+    _style_growth_axes(ax)
+    ax.yaxis.set_major_locator(MaxNLocator(nbins=5, integer=True))
+    ax.stackplot(dates, *bands, labels=labels, colors=colors, step='post', alpha=0.70)
+    ax.step(dates, totals, where='post', color=CHART_TEXT, linewidth=1.4, alpha=0.8)
+    ax.set_ylim(0, max(1, totals[-1] * 1.10))
+    _save_database_growth_chart(
+        fig, ax, (dates[0], dates[-1]), database_root, 'database_growth_stacked.svg', 'Stacked database growth',
+    )
+
+
+def _write_database_outputs(db: str) -> tuple[list[float], list[int]] | None:
+    """Write daily update outputs for one database and return its growth series."""
     items_per_page = 10
     all_items = sorted(databases[db]['all_items'], key=itemgetter('title'), reverse=False)
     if not all_items:
@@ -1994,7 +2282,7 @@ def _write_database_outputs(db: str) -> None:
     chunks = [all_items[x:x + items_per_page] for x in range(0, len(all_items), items_per_page)]
     _write_chunk_files(db=db, chunks=chunks)
     _write_pages_file(db=db, all_items=all_items, chunks=chunks)
-    _write_database_size_plot(db=db, all_items=all_items)
+    return _write_database_size_plot(db=db, all_items=all_items)
 
 
 def _write_deployment_metadata() -> None:
@@ -2021,10 +2309,16 @@ def _run_daily_update() -> None:
     # finish queue before writing `all` files
     queue.join()
 
+    growth = {}
     for db in databases:
-        _write_database_outputs(db=db)
+        series = _write_database_outputs(db=db)
+        if series is not None:
+            growth[db] = series
 
+    _write_database_growth_chart(growth=growth)
+    _write_stacked_database_growth_chart(growth=growth)
     build_top_contributor_images()
+    _write_open_request_outputs()
     _write_deployment_metadata()
 
 

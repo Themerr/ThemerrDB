@@ -26,38 +26,41 @@ The database is created using codeless contributions.
 
 You can view the entire database at [ThemerrDB](https://themerr.lizardbyte.dev/ThemerrDB).
 
+## Open Theme Requests
+
+The counts refresh with the daily database update. [Browse the table with links to each submitter's open requests](https://themerr.lizardbyte.dev/ThemerrDB/open_requests.html).
+
+<details>
+<summary>Show open request counts for all submitters</summary>
+
+![Open theme request counts for all submitters](https://themerr.lizardbyte.dev/ThemerrDB/open_requests.svg)
+
+</details>
+
+## Contribution Leaderboard
+
+![Contribution Leaderboard](https://themerr.lizardbyte.dev/ThemerrDB/top_contributors.svg)
+
 ## Database Growth
 
 <div align="center">
-  <a href="#movies"><img src="https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fthemerr.lizardbyte.dev%2FThemerrDB%2Fmovies%2Fpages.json&query=count&style=for-the-badge&label=TheMovieDB%20Movies&logo=the-movie-database&logoColor=ffffff&color=01B4E4&labelColor=01B4E4" alt="TheMovieDB Movies"></a>
-  <a href="#movies"><img src="https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fthemerr.lizardbyte.dev%2FThemerrDB%2Fmovies%2Fpages.json&query=imdb_count&style=for-the-badge&label=IMDB%20Movies&logo=imdb&logoColor=000000&color=F5C518&labelColor=F5C518" alt="IMDB Movies"></a>
-  <a href="#movie-collections"><img src="https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fthemerr.lizardbyte.dev%2FThemerrDB%2Fmovie_collections%2Fpages.json&query=count&style=for-the-badge&label=Movie%20Collections&logo=the-movie-database&logoColor=ffffff&color=01B4E4&labelColor=01B4E4" alt="Movie Collections"></a>
-  <a href="#tv-shows"><img src="https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fthemerr.lizardbyte.dev%2FThemerrDB%2Ftv_shows%2Fpages.json&query=count&style=for-the-badge&label=TV%20Shows&logo=the-movie-database&logoColor=ffffff&color=01B4E4&labelColor=01B4E4" alt="TV Shows"></a>
-  <a href="#games"><img src="https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fthemerr.lizardbyte.dev%2FThemerrDB%2Fgames%2Fpages.json&query=count&style=for-the-badge&label=Games&logo=igdb&logoColor=ffffff&color=9147FF&labelColor=9147FF" alt="Games"></a>
-  <a href="#game-collections"><img src="https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fthemerr.lizardbyte.dev%2FThemerrDB%2Fgame_collections%2Fpages.json&query=count&style=for-the-badge&label=Game%20Collections&logo=igdb&logoColor=ffffff&color=9147FF&labelColor=9147FF" alt="Game Collections"></a>
-  <a href="#game-franchises"><img src="https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fthemerr.lizardbyte.dev%2FThemerrDB%2Fgame_franchises%2Fpages.json&query=count&style=for-the-badge&label=Game%20Franchises&logo=igdb&logoColor=ffffff&color=9147FF&labelColor=9147FF" alt="Game Franchises"></a>
+  <a href="https://themerr.lizardbyte.dev/ThemerrDB/movies/movies_plot.svg"><img src="https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fthemerr.lizardbyte.dev%2FThemerrDB%2Fmovies%2Fpages.json&query=count&style=for-the-badge&label=TheMovieDB%20Movies&logo=the-movie-database&logoColor=ffffff&color=01B4E4&labelColor=01B4E4" alt="TheMovieDB Movies"></a>
+  <a href="https://themerr.lizardbyte.dev/ThemerrDB/movies/movies_plot.svg"><img src="https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fthemerr.lizardbyte.dev%2FThemerrDB%2Fmovies%2Fpages.json&query=imdb_count&style=for-the-badge&label=IMDB%20Movies&logo=imdb&logoColor=000000&color=F5C518&labelColor=F5C518" alt="IMDB Movies"></a>
+  <a href="https://themerr.lizardbyte.dev/ThemerrDB/movie_collections/movie_collections_plot.svg"><img src="https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fthemerr.lizardbyte.dev%2FThemerrDB%2Fmovie_collections%2Fpages.json&query=count&style=for-the-badge&label=Movie%20Collections&logo=the-movie-database&logoColor=ffffff&color=01B4E4&labelColor=01B4E4" alt="Movie Collections"></a>
+  <a href="https://themerr.lizardbyte.dev/ThemerrDB/tv_shows/tv_shows_plot.svg"><img src="https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fthemerr.lizardbyte.dev%2FThemerrDB%2Ftv_shows%2Fpages.json&query=count&style=for-the-badge&label=TV%20Shows&logo=the-movie-database&logoColor=ffffff&color=01B4E4&labelColor=01B4E4" alt="TV Shows"></a>
+  <a href="https://themerr.lizardbyte.dev/ThemerrDB/games/games_plot.svg"><img src="https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fthemerr.lizardbyte.dev%2FThemerrDB%2Fgames%2Fpages.json&query=count&style=for-the-badge&label=Games&logo=igdb&logoColor=ffffff&color=9147FF&labelColor=9147FF" alt="Games"></a>
+  <a href="https://themerr.lizardbyte.dev/ThemerrDB/game_collections/game_collections_plot.svg"><img src="https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fthemerr.lizardbyte.dev%2FThemerrDB%2Fgame_collections%2Fpages.json&query=count&style=for-the-badge&label=Game%20Collections&logo=igdb&logoColor=ffffff&color=9147FF&labelColor=9147FF" alt="Game Collections"></a>
+  <a href="https://themerr.lizardbyte.dev/ThemerrDB/game_franchises/game_franchises_plot.svg"><img src="https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fthemerr.lizardbyte.dev%2FThemerrDB%2Fgame_franchises%2Fpages.json&query=count&style=for-the-badge&label=Game%20Franchises&logo=igdb&logoColor=ffffff&color=9147FF&labelColor=9147FF" alt="Game Franchises"></a>
 </div>
 
-#### Contribution Leaderboard
-![Contribution Leaderboard](https://themerr.lizardbyte.dev/ThemerrDB/top_contributors.svg)
+[![Stacked area chart showing total theme growth and each category's contribution](https://themerr.lizardbyte.dev/ThemerrDB/database_growth_stacked.svg)](https://themerr.lizardbyte.dev/ThemerrDB/database_growth_stacked.svg)
 
-#### Movies
-![Movies](https://themerr.lizardbyte.dev/ThemerrDB/movies/movies_plot.svg)
+<details>
+<summary>View the logarithmic growth chart</summary>
 
-#### Movie Collections
-![Movie Collections](https://themerr.lizardbyte.dev/ThemerrDB/movie_collections/movie_collections_plot.svg)
+[![Six categories of theme growth on one graph with a logarithmic count scale](https://themerr.lizardbyte.dev/ThemerrDB/database_growth.svg)](https://themerr.lizardbyte.dev/ThemerrDB/database_growth.svg)
 
-#### TV Shows
-![TV Shows](https://themerr.lizardbyte.dev/ThemerrDB/tv_shows/tv_shows_plot.svg)
-
-#### Games
-![Games](https://themerr.lizardbyte.dev/ThemerrDB/games/games_plot.svg)
-
-#### Game Collections
-![Game Collections](https://themerr.lizardbyte.dev/ThemerrDB/game_collections/game_collections_plot.svg)
-
-#### Game Franchises
-![Game Franchises](https://themerr.lizardbyte.dev/ThemerrDB/game_franchises/game_franchises_plot.svg)
+</details>
 
 ## Contributing
 
