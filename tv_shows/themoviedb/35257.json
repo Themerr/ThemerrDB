@@ -1,0 +1,119 @@
+{
+    "adult": false,
+    "backdrop_path": "/ljtQfw7ujk4rtGKr7cNpsObDNTc.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "1974-04-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 35257,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1975-09-24",
+    "last_episode_to_air": {
+        "air_date": "1975-09-24",
+        "episode_number": 78,
+        "episode_type": "finale",
+        "id": 799151,
+        "name": "Gold From Denmark",
+        "overview": "",
+        "production_code": "",
+        "runtime": 23,
+        "season_number": 1,
+        "show_id": 35257,
+        "still_path": "/jaBK2YxdRIuh1Q4vjB5g1R4wvUK.jpg",
+        "vote_average": 7.5,
+        "vote_count": 2
+    },
+    "name": "Vicky the Viking",
+    "networks": [
+        {
+            "id": 1,
+            "logo_path": "/4x4GsmRmSLLL0RVNKsoqAVH43tz.png",
+            "name": "Fuji TV",
+            "origin_country": "JP"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 78,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "\u5c0f\u3055\u306a\u30d0\u30a4\u30ad\u30f3\u30b0\u3000\u30d3\u30c3\u30b1",
+    "overview": "Vicky is the only son of Halvar, the formidable viking chief. Vicky renounces violence but nevertheless he is able to convince the seasoned viking warriors to take him along on their voyages. In dangerous situations, where their bravery and force are not quite enough to master the situation, the wild-eyed warriors learn to rely on Vicky's cleverness.",
+    "popularity": 18.6831,
+    "poster_path": "/jIR2RCOSRNfZoBYqwVYVfrcf9M6.jpg",
+    "production_companies": [
+        {
+            "id": 71443,
+            "logo_path": null,
+            "name": "Zuiyo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4287,
+            "logo_path": "/iK3eu8AcWOHM5VSo4Gmnv9rsJWz.png",
+            "name": "Nippon Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3391,
+            "logo_path": "/t0QBs2fI3mE3HxgoH1n39bYuzNu.png",
+            "name": "ORF",
+            "origin_country": "AT"
+        },
+        {
+            "id": 4606,
+            "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+            "name": "ZDF",
+            "origin_country": "DE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1974-04-03",
+            "episode_count": 78,
+            "id": 45997,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jIR2RCOSRNfZoBYqwVYVfrcf9M6.jpg",
+            "season_number": 1,
+            "vote_average": 6.8
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "\u65e5\u672c\u8a9e"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.1,
+    "vote_count": 60,
+    "youtube_theme_added": 1795822420,
+    "youtube_theme_added_by": "18121008",
+    "youtube_theme_edited": 1795822420,
+    "youtube_theme_edited_by": "18121008",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=tQoZRNU5RTg"
+}
