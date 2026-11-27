@@ -1,0 +1,133 @@
+{
+    "adult": false,
+    "backdrop_path": "/uOqZrqNIvvP2mNoeCaSpDjUe52w.jpg",
+    "created_by": [
+        {
+            "credit_id": "6acb65f339cfcae6f0204d6f",
+            "gender": 0,
+            "id": 1128737,
+            "name": "Toshimichi Suzuki",
+            "original_name": "Toshimichi Suzuki",
+            "profile_path": null
+        },
+        {
+            "credit_id": "6acb6628e26c235e022df517",
+            "gender": 0,
+            "id": 1677896,
+            "name": "Tony Takezaki",
+            "original_name": "Tony Takezaki",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "1990-05-25",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 67818,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1990-11-22",
+    "last_episode_to_air": {
+        "air_date": "1990-11-22",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "id": 1222775,
+        "name": "The Man Who Bites His Tongue",
+        "overview": "AD Police officer Billy Fonward, 28, male, was critically wounded in a battle with a defective Boomer on the run. However, he was subjected to an experimental cybernetics operation which miraculously brought him back to life. With the exception of his brain and some of his internal organs, his body parts were completely replaced with mechanical substitutes, which transmit senses in the form of electrical information, thus leaving him with only his tongue to \"feel\" like a human being. The use of optional weapons and protectors enables him to work with highly dangerous cases without being affected by pain, consequently keeping him calm and decisive under any situation. After returning to work, Billy is promoted two ranks to become an AD Police Special Weapons Team Commander. He is, in effect, the first experimental subject to become an anti-Boomer Cyborg Police Officer. But Billy couldn't be a hero...",
+        "production_code": "",
+        "runtime": 40,
+        "season_number": 1,
+        "show_id": 67818,
+        "still_path": "/2KsufMvgG99eIKD4XkP0hZdl2dw.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "name": "A.D. Police Files",
+    "networks": [],
+    "next_episode_to_air": null,
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "AD\u30dd\u30ea\u30b9",
+    "overview": "MegaTokyo 2027: Relentless technological development has resulted in the creation of Boomers.\n\nThese are artificially intelligent androids with the potential to free mankind from physical labor; but anything that can be used can also be misused.",
+    "popularity": 5.7358,
+    "poster_path": "/qkvnFr3kN40sGBkqUmoIv0gGYoH.jpg",
+    "production_companies": [
+        {
+            "id": 12302,
+            "logo_path": "/lkxJXc0o9M2vVoQOyWeZfiNAsXl.png",
+            "name": "ARTMIC",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12502,
+            "logo_path": "/tlBbCuZditAuvzDdIDjjnGLJUpc.png",
+            "name": "Bandai Namco Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4690,
+            "logo_path": "/bQXkraSwoBDVd8xEAOkxGQLBB1S.png",
+            "name": "Anime International Company",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1990-05-25",
+            "episode_count": 3,
+            "id": 80116,
+            "name": "Season 1",
+            "overview": "MegaTokyo 2027: Relentless technological development has resulted in the creation of Boomers.\n\nThese are artificially intelligent androids with the potential to free mankind from physical labor; but anything that can be used can also be misused.",
+            "poster_path": "/cLRZmZixUuaZPjdNxHt3xMBy7rC.jpg",
+            "season_number": 1,
+            "vote_average": 0.0
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "\u65e5\u672c\u8a9e"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 6.78,
+    "vote_count": 41,
+    "youtube_theme_added": 1795823784,
+    "youtube_theme_added_by": "80606054",
+    "youtube_theme_edited": 1795823784,
+    "youtube_theme_edited_by": "80606054",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=9tclaKDpjMo"
+}
