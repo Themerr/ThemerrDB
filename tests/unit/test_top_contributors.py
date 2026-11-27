@@ -1,6 +1,7 @@
 # standard imports
 from datetime import datetime as RealDateTime
 import json
+from xml.etree import ElementTree
 
 # lib imports
 import requests
@@ -354,6 +355,69 @@ def test_write_database_outputs_writes_pages_chunks_and_plot(tmp_path, monkeypat
     assert (movie_dir / 'movies_plot.svg').is_file()
 
 
+def test_combined_growth_chart_draws_all_categories_on_one_log_scale(tmp_path, monkeypatch):
+    movie_start, game_start, end = updater.mdates.date2num(['2022-06-01', '2024-02-01', '2026-11-27']).tolist()
+    figures = []
+    save_figure = updater.Figure.savefig
+
+    def save_and_record(figure, *args, **kwargs):
+        figures.append(figure)
+        save_figure(figure, *args, **kwargs)
+
+    monkeypatch.setattr(updater.Figure, 'savefig', save_and_record)
+    updater._write_database_growth_chart(
+        growth={
+            'movie': ([movie_start, end], [1, 4307]),
+            'game': ([game_start, end], [1, 13]),
+        },
+        database_root=str(tmp_path),
+    )
+
+    figure, = figures
+    axis, = figure.axes
+    assert axis.get_yscale() == 'symlog'
+    assert axis.get_ylim()[0] == 0
+    assert axis.get_ylim()[1] > 4307
+    lines = {line.get_label(): line for line in axis.lines}
+    assert len(lines) == 6
+    assert list(lines['Movies (4,307)'].get_ydata()) == [0, 1, 4307]
+    assert list(lines['Games (13)'].get_xdata()) == [game_start, game_start, end]
+    assert list(lines['Games (13)'].get_ydata()) == [0, 1, 13]
+    assert list(lines['Game Collections (0)'].get_ydata()) == [0, 0, 0]
+    assert all(line.get_linestyle() == '-' for line in lines.values())
+
+
+def test_stacked_growth_chart_carries_counts_forward_and_draws_the_total(tmp_path, monkeypatch):
+    movie_start, game_start, movie_update, end = updater.mdates.date2num(
+        ['2023-01-01', '2024-01-01', '2025-01-01', '2026-11-27'],
+    ).tolist()
+    plots = []
+    stackplot = updater.Axes.stackplot
+
+    def stack_and_record(axis, dates, *bands, **style):
+        plots.append((axis, dates, dict(zip(style['labels'], bands))))
+        return stackplot(axis, dates, *bands, **style)
+
+    monkeypatch.setattr(updater.Axes, 'stackplot', stack_and_record)
+    updater._write_stacked_database_growth_chart(
+        growth={
+            'movie': ([movie_start, movie_update, end], [5, 10, 10]),
+            'game': ([game_start, end], [2, 2]),
+        },
+        database_root=str(tmp_path),
+    )
+
+    (axis, dates, bands), = plots
+    assert axis.get_yscale() == 'linear'
+    assert dates == [movie_start, game_start, movie_update, end]
+    assert len(bands) == 6
+    assert bands['Movies (10)'] == [5, 5, 10, 10]
+    assert bands['Games (2)'] == [0, 2, 2, 2]
+    assert bands['Game Franchises (0)'] == [0, 0, 0, 0]
+    total, = axis.lines
+    assert list(total.get_ydata()) == [5, 7, 12, 12]
+
+
 def test_main_daily_update_builds_top_contributor_images(tmp_path, monkeypatch):
     monkeypatch.chdir(tmp_path)
     site_dir = tmp_path / 'gh-pages-template'
@@ -426,6 +490,7 @@ def test_main_daily_update_builds_top_contributor_images(tmp_path, monkeypatch):
     monkeypatch.setattr(updater, 'imdb_path', str(imdb_dir))
     monkeypatch.setattr(updater, 'queue', ImmediateQueue())
     monkeypatch.setattr(updater, 'build_top_contributor_images', lambda: built.append(True))
+    monkeypatch.setattr(updater, '_load_open_request_counts', lambda **kwargs: [])
 
     updater.main()
 
@@ -441,7 +506,15 @@ def test_main_daily_update_builds_top_contributor_images(tmp_path, monkeypatch):
         'imdb_count': 1,
     }
     assert (movie_dir / 'movies_plot.svg').is_file()
+    chart = ElementTree.parse(database_root / 'database_growth.svg')
+    labels = [label.text for label in chart.findall('.//{http://www.w3.org/2000/svg}text')]
+    assert {'Database Growth', 'Movies (1)', 'Theme count · Log scale above 1'} <= set(labels)
+    chart = ElementTree.parse(database_root / 'database_growth_stacked.svg')
+    labels = [label.text for label in chart.findall('.//{http://www.w3.org/2000/svg}text')]
+    assert {'Database Growth', 'Movies (1)', 'Total themes'} <= set(labels)
     assert built == [True]
+    assert 'No open theme requests' in (database_root / 'open_requests.svg').read_text(encoding='utf-8')
+    assert 'No open theme requests.' in (database_root / 'open_requests.md').read_text(encoding='utf-8')
     assert json.loads(metadata_file.read_text(encoding='utf-8')) == {
         'deployed_at': '2026-10-06T18:16:06Z',
         'schemaVersion': 1,

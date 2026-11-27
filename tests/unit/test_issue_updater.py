@@ -819,6 +819,7 @@ def test_main_daily_update(daily_update_args, mock_igdb_api, mock_tmdb_api, monk
             return cls(2999, 1, 1, tzinfo=tz)
 
     monkeypatch.setattr(updater, 'datetime', FutureDateTime)
+    monkeypatch.setattr(updater, '_write_open_request_outputs', lambda: None)
 
     updater.main()
 
@@ -1497,7 +1498,13 @@ def test_process_issue_update_writes_author_badges_first(tmp_path, monkeypatch, 
         author='octocat',
         repository='Themerr/ThemerrDB',
     )
-    expected_badges = f'{expected_contribution_badge} {expected_rejection_badge}'
+    query = 'repo%3AThemerr%2FThemerrDB%20is%3Aopen%20is%3Aissue%20label%3Arequest-theme%20author%3Aoctocat'
+    expected_open_requests_badge = (
+        f'[![open requests](https://img.shields.io/github/issues-search?'
+        f'query={query}&style=for-the-badge&label=open%20requests&color=blue)]'
+        f'(https://github.com/Themerr/ThemerrDB/issues?q={query})'
+    )
+    expected_badges = f'{expected_contribution_badge} {expected_rejection_badge} {expected_open_requests_badge}'
     comment = (tmp_path / 'comment.md').read_text(encoding='utf-8')
     assert result is False
     assert comment.startswith(f'{expected_badges}\n\n')
