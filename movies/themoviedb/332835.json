@@ -1,0 +1,80 @@
+{
+    "adult": false,
+    "backdrop_path": "/uTyXPP72WPqqYnA9PjxApmFM3ux.jpg",
+    "belongs_to_collection": null,
+    "budget": 5500000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 332835,
+    "imdb_id": "tt3767372",
+    "origin_country": [
+        "IN"
+    ],
+    "original_language": "hi",
+    "original_title": "\u092a\u0940\u0915\u0942",
+    "overview": "A taxi driver is caught between a dysfunctional relationship between a woman and her father as he drives them to Kolkata.",
+    "popularity": 1.3101,
+    "poster_path": "/yo7EZWiLpLGhqs3YnlDGDBPjfTb.jpg",
+    "production_companies": [
+        {
+            "id": 19144,
+            "logo_path": null,
+            "name": "Rising Sun Films",
+            "origin_country": "IN"
+        },
+        {
+            "id": 49607,
+            "logo_path": null,
+            "name": "MSM Motion Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 53252,
+            "logo_path": null,
+            "name": "Saraswati Entertainment Creations Limited",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IN",
+            "name": "India"
+        }
+    ],
+    "release_date": "2015-05-08",
+    "revenue": 22159216,
+    "runtime": 123,
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "Bengali",
+            "iso_639_1": "bn",
+            "name": "\u09ac\u09be\u0982\u09b2\u09be"
+        },
+        {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "\u0939\u093f\u0902\u0926\u0940"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Motion Se Hi Emotion.",
+    "title": "Piku",
+    "video": false,
+    "vote_average": 7.144,
+    "vote_count": 232,
+    "youtube_theme_added": 1795823000,
+    "youtube_theme_added_by": "8399677",
+    "youtube_theme_edited": 1795823000,
+    "youtube_theme_edited_by": "8399677",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=8C8ZyYnqOZs"
+}
