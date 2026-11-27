@@ -1,0 +1,79 @@
+{
+    "adult": false,
+    "backdrop_path": "/iGViga8sDCET1S6GfwOlAbuhSGQ.jpg",
+    "belongs_to_collection": null,
+    "budget": 12000000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://wellgousa.com/films/colony",
+    "id": 1375646,
+    "imdb_id": "tt34385135",
+    "origin_country": [
+        "KR"
+    ],
+    "original_language": "ko",
+    "original_title": "\uad70\uccb4",
+    "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+    "popularity": 64.2171,
+    "poster_path": "/enz3WLx5QU1FUyhXZld04QWIc6N.jpg",
+    "production_companies": [
+        {
+            "id": 218768,
+            "logo_path": "/elTqEtADDWEXpvwvpK6n0d3GiXo.png",
+            "name": "Wow Point",
+            "origin_country": "KR"
+        },
+        {
+            "id": 246330,
+            "logo_path": "/qpCXngTuN5OQmYV4JaWLmJA6sfA.png",
+            "name": "Smilegate Entertainment",
+            "origin_country": "KR"
+        },
+        {
+            "id": 243139,
+            "logo_path": null,
+            "name": "Midnight Studio",
+            "origin_country": "KR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+        }
+    ],
+    "release_date": "2026-05-21",
+    "revenue": 53128238,
+    "runtime": 123,
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "\ud55c\uad6d\uc5b4"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Survive the hive.",
+    "title": "Colony",
+    "video": false,
+    "vote_average": 8.163,
+    "vote_count": 1646,
+    "youtube_theme_added": 1795822926,
+    "youtube_theme_added_by": "260596864",
+    "youtube_theme_edited": 1795822926,
+    "youtube_theme_edited_by": "260596864",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=z1W7EK7G4h0"
+}
