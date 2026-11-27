@@ -37,7 +37,7 @@
     "languages": [
         "en"
     ],
-    "last_air_date": "2026-11-11",
+    "last_air_date": "2026-11-25",
     "last_episode_to_air": {
         "air_date": "2026-11-25",
         "episode_number": 6,
@@ -50,8 +50,8 @@
         "season_number": 29,
         "show_id": 2190,
         "still_path": "/vu7GnmBJDlYTR2VTAqJMBQGCqVi.jpg",
-        "vote_average": 5.833,
-        "vote_count": 3
+        "vote_average": 7.9,
+        "vote_count": 7
     },
     "name": "South Park",
     "networks": [
@@ -71,7 +71,7 @@
     "original_language": "en",
     "original_name": "South Park",
     "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-    "popularity": 161.1199,
+    "popularity": 166.4663,
     "poster_path": "/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
     "production_companies": [
         {
@@ -410,7 +410,7 @@
             "overview": "Join Stan, Kyle, Cartman and Kenny for the historic 29th season of South America.",
             "poster_path": "/8tIvWw8SFbF1xEQID0VOE9Yx92m.jpg",
             "season_number": 29,
-            "vote_average": 5.9
+            "vote_average": 6.4
         }
     ],
     "softcore": false,
@@ -425,7 +425,7 @@
     "tagline": "Four boys. One f**ked-up town.",
     "type": "Scripted",
     "vote_average": 8.333,
-    "vote_count": 5298,
+    "vote_count": 5300,
     "youtube_theme_added": 1704916549,
     "youtube_theme_added_by": "42013603",
     "youtube_theme_edited": 1704916549,

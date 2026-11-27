@@ -35,7 +35,7 @@
         "name": "The Dark Summoner and the Church's Inquisitor",
         "overview": "Roni's being made an official priest! But if his relationship with Amona ever got out...",
         "production_code": null,
-        "runtime": 13,
+        "runtime": 12,
         "season_number": 1,
         "show_id": 335790,
         "still_path": "/4ZX2itqywOXCcv4SYAOdTIZbueM.jpg",
@@ -64,11 +64,11 @@
         "id": 7905980,
         "name": "Episode 9",
         "overview": "",
-        "production_code": "",
+        "production_code": null,
         "runtime": null,
         "season_number": 1,
         "show_id": 335790,
-        "still_path": null,
+        "still_path": "/eN6g7vID5hctb5FUMs3v1RT5QJf.jpg",
         "vote_average": 0.0,
         "vote_count": 0
     },
@@ -80,7 +80,7 @@
     "original_language": "ja",
     "original_name": "\u30c0\u30fc\u30af\u30b5\u30e2\u30ca\u30fc\u3068\u30c7\u30ad\u3066\u3044\u308b",
     "overview": "Amona, a dark summoner and demi-human girl who's too weak to resist her desires, and Roni, an overly serious priest! Roni welcomes Amona as a new member to his adventuring party. Everyone expected the two would clash and become sworn enemies. But, to their surprise and on their first day together, they have a one-night stand...!",
-    "popularity": 20.1517,
+    "popularity": 19.0678,
     "poster_path": "/xD8bCXGlwC98mFq8mDyB15grUts.jpg",
     "production_companies": [
         {
@@ -117,7 +117,7 @@
     "seasons": [
         {
             "air_date": "2026-10-05",
-            "episode_count": 8,
+            "episode_count": 9,
             "id": 555897,
             "name": "Specials",
             "overview": "",
@@ -147,8 +147,8 @@
     "status": "Returning Series",
     "tagline": "",
     "type": "Scripted",
-    "vote_average": 8.647,
-    "vote_count": 17,
+    "vote_average": 8.444,
+    "vote_count": 18,
     "youtube_theme_added": 1792881271,
     "youtube_theme_added_by": "30657709",
     "youtube_theme_edited": 1792881271,

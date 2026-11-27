@@ -64,8 +64,8 @@
         "season_number": 5,
         "show_id": 46786,
         "still_path": "/ArdLrnKBZgD5ju7Fwu4MjAm1SjY.jpg",
-        "vote_average": 8.8,
-        "vote_count": 21
+        "vote_average": 8.864,
+        "vote_count": 22
     },
     "name": "Bates Motel",
     "networks": [
@@ -85,7 +85,7 @@
     "original_language": "en",
     "original_name": "Bates Motel",
     "overview": "A \"contemporary prequel\" to the 1960 film Psycho, depicting the life of Norman Bates and his mother Norma prior to the events portrayed in Hitchcock's film, albeit in a different fictional town and in a modern setting. The series begins after the death of Norma's husband, when she purchases a motel located in a coastal Oregon town so she and Norman can start a new life.",
-    "popularity": 36.6161,
+    "popularity": 36.5967,
     "poster_path": "/xXKcfZE7ulYxgjjYv51s0zDG69s.jpg",
     "production_companies": [
         {
@@ -178,7 +178,7 @@
             "overview": "Two years later, Norman has descended into full-blown psychosis. To the public, he's a happy and well-adjusted member of the White Pine Bay community, but at home his violent blackouts continue to increase as 'Mother' threatens to take over his mind completely.",
             "poster_path": "/thiuoJju16M7WFBAjMxptBHeSlf.jpg",
             "season_number": 5,
-            "vote_average": 8.3
+            "vote_average": 8.4
         }
     ],
     "softcore": false,
@@ -193,7 +193,7 @@
     "tagline": "Together until the end.",
     "type": "Scripted",
     "vote_average": 8.042,
-    "vote_count": 1862,
+    "vote_count": 1863,
     "youtube_theme_added": 1710131979,
     "youtube_theme_added_by": "12233951",
     "youtube_theme_edited": 1710131979,

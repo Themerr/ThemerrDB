@@ -21,7 +21,7 @@
     ],
     "homepage": "https://www.mgmplus.com/series/treasure-island",
     "id": 333101,
-    "in_production": false,
+    "in_production": true,
     "languages": [
         "en"
     ],
@@ -59,7 +59,7 @@
     "original_language": "en",
     "original_name": "Treasure Island",
     "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate\u2019s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
-    "popularity": 17.7384,
+    "popularity": 16.5196,
     "poster_path": "/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
     "production_companies": [
         {
@@ -105,10 +105,10 @@
             "name": "English"
         }
     ],
-    "status": "Ended",
+    "status": "Returning Series",
     "tagline": "",
     "type": "Scripted",
-    "vote_average": 6.618,
+    "vote_average": 6.6,
     "vote_count": 55,
     "youtube_theme_added": 1792796951,
     "youtube_theme_added_by": "30657709",

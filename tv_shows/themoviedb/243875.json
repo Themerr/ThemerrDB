@@ -49,12 +49,12 @@
         "id": 8114541,
         "name": "A Party Sub and a Six-Legged Fan",
         "overview": "Mandy's attempt to advance her career as a serious journalist backfires. Meanwhile, Georgie and Jim butt heads over past business arrangements.",
-        "production_code": "",
+        "production_code": null,
         "runtime": 21,
         "season_number": 3,
         "show_id": 243875,
         "still_path": "/nwPPIBN0rl3WQ9wlvHkGddS7ovP.jpg",
-        "vote_average": 7.75,
+        "vote_average": 7.8,
         "vote_count": 2
     },
     "name": "Georgie & Mandy's First Marriage",
@@ -89,7 +89,7 @@
     "original_language": "en",
     "original_name": "Georgie & Mandy's First Marriage",
     "overview": "Georgie and Mandy raise their young family in Texas while navigating the challenges of adulthood, parenting, and marriage.",
-    "popularity": 47.0692,
+    "popularity": 45.6388,
     "poster_path": "/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
     "production_companies": [
         {
@@ -140,7 +140,7 @@
             "overview": "",
             "poster_path": "/cEkJlFQkTGFlV3nh3TRGUuZqU8S.jpg",
             "season_number": 3,
-            "vote_average": 7.6
+            "vote_average": 7.5
         }
     ],
     "softcore": false,

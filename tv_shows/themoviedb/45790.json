@@ -69,14 +69,14 @@
         "episode_type": "standard",
         "id": 7459382,
         "name": "Frightening Monsters (3)",
-        "overview": "",
+        "overview": "Amid the battle, Dr. Ferdinand reveals himself as the true force behind the dinosaurs. Johnny and Gyro claim the eyes Corpse Part \u2014 but Diego seizes half.",
         "production_code": "",
-        "runtime": null,
+        "runtime": 25,
         "season_number": 6,
         "show_id": 45790,
-        "still_path": null,
-        "vote_average": 0.0,
-        "vote_count": 0
+        "still_path": "/dtgqCgUWnjlrJVX7GASPa9899RE.jpg",
+        "vote_average": 10.0,
+        "vote_count": 1
     },
     "number_of_episodes": 202,
     "number_of_seasons": 6,
@@ -86,7 +86,7 @@
     "original_language": "ja",
     "original_name": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a",
     "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
-    "popularity": 131.8033,
+    "popularity": 143.6339,
     "poster_path": "/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
     "production_companies": [
         {
@@ -183,7 +183,7 @@
             "overview": "America, 1890. Johnny Joestar, a genius jockey now paralyzed from the waist down, chases after outlaw Gyro Zeppeli in a tough cross-continent horse race.",
             "poster_path": "/yB2cUOuT3OMGtU3CTLQjuFUL8Ox.jpg",
             "season_number": 6,
-            "vote_average": 8.5
+            "vote_average": 8.6
         }
     ],
     "softcore": false,

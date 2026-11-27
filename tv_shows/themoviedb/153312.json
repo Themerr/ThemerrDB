@@ -1,6 +1,6 @@
 {
     "adult": false,
-    "backdrop_path": "/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+    "backdrop_path": "/v1d3baYqMfyQKxBHXu5Pmu6vTZ3.jpg",
     "created_by": [
         {
             "credit_id": "630d77d35ab81a007a85a9ee",
@@ -46,8 +46,8 @@
         "season_number": 4,
         "show_id": 153312,
         "still_path": "/buQLdkJbt2DTUHiJ0qDRTbZkaIP.jpg",
-        "vote_average": 8.4,
-        "vote_count": 20
+        "vote_average": 8.5,
+        "vote_count": 22
     },
     "name": "Tulsa King",
     "networks": [
@@ -66,10 +66,10 @@
         "name": "Black Diamonds",
         "overview": "Dwight expands his operation while seeking stronger backing abroad. Mitch and Spencer look to score big at the track.",
         "production_code": "",
-        "runtime": null,
+        "runtime": 36,
         "season_number": 4,
         "show_id": 153312,
-        "still_path": null,
+        "still_path": "/fr282E5kge3NaTvbg793Q84xs42.jpg",
         "vote_average": 0.0,
         "vote_count": 0
     },
@@ -81,7 +81,7 @@
     "original_language": "en",
     "original_name": "Tulsa King",
     "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-    "popularity": 300.1171,
+    "popularity": 281.0071,
     "poster_path": "/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
     "production_companies": [
         {

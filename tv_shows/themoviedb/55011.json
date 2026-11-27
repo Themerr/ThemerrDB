@@ -35,7 +35,7 @@
         "id": 927412,
         "name": "Legend of the Verdurous Planet",
         "overview": "Striker claims that it was following Kugel's instructions after his death and eventually reached the conclusion that to ensure stability to the fleet, it was necessary for the humans to view it as their god. Both Ledo and Chamber reject Striker's offer to join its side and decide to destroy it. Unable to defeat Striker in their current condition, Ledo decides to merge his nerve system with Chamber's interface to increase its capabilites at the cost of his life, but Amy appears soon after to tell him that he does not need to fight alone. Meanwhile at the Gargantia, Ridget uses the key to activate the mass driver stored inside the main ship and uses it to bombard the enemy fleet while Pinion evacuates his crew and intends to take the enemies assaulting his ship with them, but is saved in the last moment by Lukkage. Striker then decides to attack the Gargantia but Ledo and Chamber pursue it.",
-        "production_code": "",
+        "production_code": null,
         "runtime": 24,
         "season_number": 1,
         "show_id": 55011,
@@ -61,7 +61,7 @@
     "original_language": "ja",
     "original_name": "\u7fe0\u661f\u306e\u30ac\u30eb\u30ac\u30f3\u30c6\u30a3\u30a2",
     "overview": "While fighting an intense inter-galactic war, a mecha pilot is accidentally warped into a space-time neither he nor his computer recognize. After waking up from a long-time hibernation, he finds himself trapped on a planet, with human residents talking in an unknown form of language, using inferior technologies, and - most shocking to him - naturally breathable air.",
-    "popularity": 13.7585,
+    "popularity": 13.4575,
     "poster_path": "/z3E4DPo520fO7QQm53shMLVxsb2.jpg",
     "production_companies": [
         {
@@ -133,7 +133,7 @@
     "status": "Ended",
     "tagline": "Gargantia on the Verdurous Planet!",
     "type": "Scripted",
-    "vote_average": 7.22,
+    "vote_average": 7.2,
     "vote_count": 82,
     "youtube_theme_added": 1792880421,
     "youtube_theme_added_by": "30657709",

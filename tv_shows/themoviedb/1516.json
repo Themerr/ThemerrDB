@@ -57,7 +57,7 @@
         "show_id": 1516,
         "still_path": "/c2nYyJTk3s81vIt5I4vpz39GGIj.jpg",
         "vote_average": 7.9,
-        "vote_count": 9
+        "vote_count": 10
     },
     "name": "The A-Team",
     "networks": [
@@ -77,7 +77,7 @@
     "original_language": "en",
     "original_name": "The A-Team",
     "overview": "A fictional group of ex-United States Army Special Forces personnel work as soldiers of fortune while on the run from the Army after being branded as war criminals for a \"crime they didn't commit.\"",
-    "popularity": 61.0517,
+    "popularity": 60.9515,
     "poster_path": "/p2qWJJ7Wyaq2xvgIHuBw4zVNBij.jpg",
     "production_companies": [
         {
@@ -124,7 +124,7 @@
             "overview": "Sent to prison by a military court for a crime they didn't commit, these four commandos escaped from a maximum-security stockade and now survive in the Los Angeles underground as soldiers of fortune. So, if you have a problem and there's no one else who can help, and if you think you can find them, maybe you can hire The A-Team.",
             "poster_path": "/xkXAMuH4HSs0EG9EJSglmgh3zGm.jpg",
             "season_number": 1,
-            "vote_average": 7.3
+            "vote_average": 7.4
         },
         {
             "air_date": "1983-09-20",
@@ -164,7 +164,7 @@
             "overview": "B.A., Hannibal, Murdock and Face confront their greatest challenges yet when the mysterious General Stockwell joins them to battle bad guys that include hitmen, hijackers, and mercenary monks.",
             "poster_path": "/ak8ZvkrjNsYgX42uxouze00Up2M.jpg",
             "season_number": 5,
-            "vote_average": 7.5
+            "vote_average": 7.4
         }
     ],
     "softcore": false,
@@ -178,8 +178,8 @@
     "status": "Ended",
     "tagline": "Heroes for hire.",
     "type": "Scripted",
-    "vote_average": 7.5,
-    "vote_count": 1144,
+    "vote_average": 7.506,
+    "vote_count": 1146,
     "youtube_theme_added": 1795355597,
     "youtube_theme_added_by": "103195888",
     "youtube_theme_edited": 1795355597,

@@ -28,30 +28,6 @@
     ],
     "last_air_date": "2026-11-19",
     "last_episode_to_air": {
-        "air_date": "2026-11-19",
-        "episode_number": 7,
-        "episode_type": "standard",
-        "id": 7894803,
-        "name": "The Humongous Sea Monster",
-        "overview": "Fran and Teacher face the biggest catch of their lives when their ship is attacked by a sea monster.",
-        "production_code": null,
-        "runtime": 24,
-        "season_number": 2,
-        "show_id": 134667,
-        "still_path": "/zfpHLNDFQyQFbqH122LUYFBVfTN.jpg",
-        "vote_average": 0.0,
-        "vote_count": 0
-    },
-    "name": "Reincarnated as a Sword",
-    "networks": [
-        {
-            "id": 614,
-            "logo_path": "/hSdroyVthq3CynxTIIY7lnS8w1.png",
-            "name": "TOKYO MX",
-            "origin_country": "JP"
-        }
-    ],
-    "next_episode_to_air": {
         "air_date": "2026-11-26",
         "episode_number": 8,
         "episode_type": "standard",
@@ -66,6 +42,30 @@
         "vote_average": 0.0,
         "vote_count": 0
     },
+    "name": "Reincarnated as a Sword",
+    "networks": [
+        {
+            "id": 614,
+            "logo_path": "/hSdroyVthq3CynxTIIY7lnS8w1.png",
+            "name": "TOKYO MX",
+            "origin_country": "JP"
+        }
+    ],
+    "next_episode_to_air": {
+        "air_date": "2026-12-03",
+        "episode_number": 9,
+        "episode_type": "standard",
+        "id": 7894806,
+        "name": "A Rescue Mission Gone Awry",
+        "overview": "A rescue mission quickly gets out of hand.",
+        "production_code": null,
+        "runtime": 24,
+        "season_number": 2,
+        "show_id": 134667,
+        "still_path": "/iPbJaUjhaquPKBjuxYa0CR5RiOd.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
     "number_of_episodes": 24,
     "number_of_seasons": 2,
     "origin_country": [
@@ -74,7 +74,7 @@
     "original_language": "ja",
     "original_name": "\u8ee2\u751f\u3057\u305f\u3089\u5263\u3067\u3057\u305f",
     "overview": "Reincarnated as a sentient weapon with memories of his past life, but not his name, a magical sword saves a young beastgirl from a life of slavery. Fran, the cat-eared girl, becomes his wielder, and wants only to grow stronger, while the sword wants to know why he is here. Together, the strange duo's journey has only just begun!",
-    "popularity": 21.1938,
+    "popularity": 20.2873,
     "poster_path": "/yZ3VZVc7iyF7KtIjERBGEedVXqA.jpg",
     "production_companies": [
         {

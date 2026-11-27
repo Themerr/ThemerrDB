@@ -37,21 +37,21 @@
     "languages": [
         "en"
     ],
-    "last_air_date": "2026-11-25",
+    "last_air_date": "2026-11-24",
     "last_episode_to_air": {
-        "air_date": "2026-11-25",
+        "air_date": "2026-11-24",
         "episode_number": 8,
         "episode_type": "finale",
         "id": 7587575,
         "name": "The Doom of Men",
         "overview": "With Sauron's victory at hand, the forces of good and evil assemble to decide the fate of Middle-earth.",
-        "production_code": null,
+        "production_code": "LTUM 308",
         "runtime": 71,
         "season_number": 3,
         "show_id": 84773,
         "still_path": "/9MGM4h43SWzrPYip9G0dDtcyvaq.jpg",
-        "vote_average": 6.208,
-        "vote_count": 12
+        "vote_average": 5.912,
+        "vote_count": 17
     },
     "name": "The Lord of the Rings: The Rings of Power",
     "networks": [
@@ -71,7 +71,7 @@
     "original_language": "en",
     "original_name": "The Lord of the Rings: The Rings of Power",
     "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of N\u00famenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-    "popularity": 1425.4718,
+    "popularity": 1444.9527,
     "poster_path": "/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
     "production_companies": [
         {
@@ -152,8 +152,8 @@
     "status": "Returning Series",
     "tagline": "Evil has had many names.",
     "type": "Scripted",
-    "vote_average": 7.221,
-    "vote_count": 4149,
+    "vote_average": 7.224,
+    "vote_count": 4155,
     "youtube_theme_added": 1717384793,
     "youtube_theme_added_by": "120731892",
     "youtube_theme_edited": 1717384793,

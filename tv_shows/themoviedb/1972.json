@@ -51,12 +51,12 @@
         "id": 134258,
         "name": "Daybreak (2)",
         "overview": "Adama and the Galactica crew stake the survival of the human race on their plan to rescue Hera from the Cylon colony in this, the series finale.",
-        "production_code": "",
+        "production_code": null,
         "runtime": 92,
         "season_number": 4,
         "show_id": 1972,
         "still_path": "/8kfJTvkPbMl6OqSPLCi8aqF1zFH.jpg",
-        "vote_average": 8.326,
+        "vote_average": 8.3,
         "vote_count": 23
     },
     "name": "Battlestar Galactica",
@@ -79,7 +79,7 @@
     "original_language": "en",
     "original_name": "Battlestar Galactica",
     "overview": "When an old enemy, the Cylons, resurface and obliterate the 12 colonies, the crew of the aged Galactica protect a small civilian fleet - the last of humanity - as they journey toward the fabled 13th colony, Earth.",
-    "popularity": 48.7148,
+    "popularity": 50.2166,
     "poster_path": "/99PJSbcO2LeM10uOGWeFihNp77j.jpg",
     "production_companies": [
         {
@@ -182,7 +182,7 @@
     "status": "Ended",
     "tagline": "So say we all!",
     "type": "Scripted",
-    "vote_average": 8.209,
+    "vote_average": 8.2,
     "vote_count": 1911,
     "youtube_theme_added": 1710009587,
     "youtube_theme_added_by": "6182107",
