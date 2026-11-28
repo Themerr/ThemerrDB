@@ -28,6 +28,8 @@ APPROVAL_LABELS = {APPROVE_THEME_LABEL, 'add-game', 'add-movie'}
 # The retired labels were migrated to approve-theme in August 2023.
 APPROVAL_LABEL_MIGRATION = '2023-08-08T00:00:00Z'
 APPROVAL_BOT = 'lizardbyte-bot'
+REST_TIMELINE_EVENTS = {'labeled', 'unlabeled', 'closed', 'reopened'}
+REST_REQUEST_RESERVE = 50
 TITLE = 'Approval Leaderboard'
 BASENAME = 'approval_leaderboard'
 EMPTY_LABEL = 'No attributed theme approvals'
@@ -124,31 +126,45 @@ def _load_connections(session: requests.Session, ids: list[str], fragment: str, 
     return connections
 
 
-def _load_legacy_timeline(session: requests.Session, repository: str, number: int, limiter: RateLimiter) -> list:
-    """REST preserves the names of the retired add-game and add-movie labels."""
-    url = f'https://api.github.com/repos/{repository}/issues/{number}/timeline'
-    params = {'per_page': 100}
-    timeline = []
+def _rest_items(session: requests.Session, url: str, limiter: RateLimiter, **params):
+    """Read every page of a GitHub REST list."""
+    params = {'per_page': 100, **params}
     while url:
         limiter.wait()
         response = session.get(url, params=params, timeout=15)
         response.raise_for_status()
-        for event in response.json():
-            if event['event'] not in {'labeled', 'unlabeled', 'closed', 'reopened'}:
-                continue
-            actor = event.get('actor') or {}
-            timeline.append({
-                '__typename': f'{event["event"].capitalize()}Event',
-                'createdAt': event['created_at'],
-                'label': event.get('label'),
-                'actor': {
-                    'login': actor.get('login', ''),
-                    'databaseId': actor.get('id') if actor.get('type') == 'User' else None,
-                },
-            })
+        yield from response.json()
         url = response.links.get('next', {}).get('url')
         params = None
-    return timeline
+
+
+def _rest_actor(actor: dict | None) -> dict:
+    """Convert a REST account to the actor shape used by approval timelines."""
+    actor = actor or {}
+    return {
+        'login': actor.get('login', ''),
+        'databaseId': actor.get('id') if actor.get('type') == 'User' else None,
+    }
+
+
+def _rest_label_event(event: dict) -> dict:
+    """Convert a REST label or issue state event to the shared timeline format."""
+    return {
+        '__typename': f'{event["event"].capitalize()}Event',
+        'createdAt': event['created_at'],
+        'label': event.get('label'),
+        'actor': _rest_actor(event.get('actor')),
+    }
+
+
+def _load_legacy_timeline(session: requests.Session, repository: str, number: int, limiter: RateLimiter) -> list:
+    """REST preserves the names of the retired add-game and add-movie labels."""
+    url = f'https://api.github.com/repos/{repository}/issues/{number}/timeline'
+    return [
+        _rest_label_event(event)
+        for event in _rest_items(session, url, limiter)
+        if event['event'] in REST_TIMELINE_EVENTS
+    ]
 
 
 def _person(actor: dict | None) -> dict | None:
@@ -213,6 +229,64 @@ def _find_approver(timeline: list, closed_at: str, confirmed_commands: set[str])
     return approver
 
 
+def _rest_command_acknowledged(event: dict, session: requests.Session, repo_url: str, limiter: RateLimiter) -> bool:
+    """Check whether a REST timeline comment was an approval acknowledged by the bot."""
+    if event['event'] != 'commented' or not _is_approval_command(event.get('body') or ''):
+        return False
+    if (event.get('reactions') or {}).get('+1') == 0:
+        return False
+    url = f'{repo_url}/issues/comments/{event["id"]}/reactions'
+    return any(
+        (reaction.get('user') or {}).get('login', '').casefold() == APPROVAL_BOT
+        for reaction in _rest_items(session, url, limiter, content='+1')
+    )
+
+
+def _rest_approver(session: requests.Session, repo_url: str, number: str, closed_at: str,
+                   limiter: RateLimiter) -> dict | None:
+    """Replay REST evidence for an issue whose GraphQL history gave no approver."""
+    timeline = []
+    confirmed = set()
+    for event in _rest_items(session, f'{repo_url}/issues/{number}/timeline', limiter):
+        if event['event'] in REST_TIMELINE_EVENTS:
+            timeline.append(_rest_label_event(event))
+        elif (created_at := event.get('created_at')) and created_at <= closed_at and _rest_command_acknowledged(
+                event, session, repo_url, limiter):
+            comment_id = str(event['id'])
+            timeline.append({
+                '__typename': 'IssueComment',
+                'id': comment_id,
+                'createdAt': created_at,
+                'author': _rest_actor(event.get('user')),
+            })
+            confirmed.add(comment_id)
+    return _find_approver(timeline, closed_at, confirmed)
+
+
+def _recheck_unattributed(session: requests.Session, repository: str, history: dict, limiter: RateLimiter) -> None:
+    """Retry unresolved approvals against REST while preserving progress across runs."""
+    pending = [
+        (number, entry)
+        for number, entry in history.items()
+        if entry['approver'] is None and not entry.get('rest_checked')
+    ]
+    if not pending:
+        return
+    pending.sort(key=lambda pair: pair[1]['closed_at'], reverse=True)
+    try:
+        response = session.get('https://api.github.com/rate_limit', timeout=15)
+        response.raise_for_status()
+        remaining = response.json()['resources']['core']['remaining']
+        # Most issues need a timeline request and one reaction request.
+        limit = max(0, remaining - REST_REQUEST_RESERVE) // 2
+        repo_url = f'https://api.github.com/repos/{repository}'
+        for number, entry in pending[:limit]:
+            entry['approver'] = _rest_approver(session, repo_url, number, entry['closed_at'], limiter)
+            entry['rest_checked'] = True
+    except requests.RequestException as exc:
+        print_github_warning(f'Unable to finish rechecking unattributed approvals: {exc}')
+
+
 def _load_approval_history(session: requests.Session, repository: str, previous: dict) -> dict:
     """Reuse unchanged attribution and backfill any newly discovered history."""
     history = {}
@@ -245,6 +319,7 @@ def _load_approval_history(session: requests.Session, repository: str, previous:
             'closed_at': issue['closedAt'],
             'approver': _find_approver(timeline, issue['closedAt'], confirmed),
         }
+    _recheck_unattributed(session, repository, history, limiter)
     return history
 
 

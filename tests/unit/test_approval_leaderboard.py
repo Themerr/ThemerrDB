@@ -99,6 +99,8 @@ def test_backfills_both_approval_paths_and_reuses_unchanged_history(tmp_path, mo
             {'event': 'labeled', 'created_at': '2023-08-07T00:08:41Z', 'label': {'name': 'approve-theme'},
              'actor': {'login': 'migration-operator', 'id': 10, 'type': 'User'}},
         ]),
+        response({'resources': {'core': {'remaining': 100}}}),
+        response([]),
     ])
     monkeypatch.setenv('GITHUB_REPOSITORY', 'example/ThemerrDB')
     monkeypatch.setattr(session, 'post', post)
@@ -126,11 +128,14 @@ def test_backfills_both_approval_paths_and_reuses_unchanged_history(tmp_path, mo
     assert [call.args[0] for call in rest.call_args_list] == [
         'https://api.github.com/repos/example/ThemerrDB/issues/4/timeline',
         'https://api.github.com/test?page=2',
+        'https://api.github.com/rate_limit',
+        'https://api.github.com/repos/example/ThemerrDB/issues/3/timeline',
     ]
     history = json.loads(history_file.read_text(encoding='utf-8'))
     assert set(history) == {'1', '2', '3', '4', '6'}
     assert history['2']['approver'] == {'id': 1, 'login': 'reviewer'}
     assert history['3']['approver'] is None
+    assert history['3']['rest_checked'] is True
     assert history['4']['approver'] == {'id': 1, 'login': 'old-reviewer'}
     assert history['6']['closed_at'] == cached['closedAt']
     page_text = (tmp_path / 'approval_leaderboard.md').read_text(encoding='utf-8')
@@ -148,6 +153,66 @@ def test_backfills_both_approval_paths_and_reuses_unchanged_history(tmp_path, mo
                                 ('count', ['3', '1']), ('section-meta', ['4 days ago', '1 month ago'])]:
         assert [node.text for node in chart.findall(f'svg:text[@class="{css_class}"]', svg)] == expected
     assert len(chart.findall('svg:image', svg)) == 2
+
+
+def test_recheck_recovers_a_cached_bot_command_and_resumes_after_used_budget(monkeypatch):
+    repository = 'example/ThemerrDB'
+    repo_url = f'https://api.github.com/repos/{repository}'
+    session = requests.Session()
+    reviewed, skipped, newest, older = issue(1), issue(2), issue(3), issue(4, closed_at='2026-01-03T00:00:00Z')
+    previous = {
+        str(entry['number']): {'updated_at': entry['updatedAt'], 'approver': None}
+        for entry in (reviewed, skipped, newest, older)
+    }
+    previous['1']['rest_checked'] = True
+    previous['2']['approver'] = {'id': 2, 'login': 'previous-reviewer'}
+    monkeypatch.setattr(leaderboard, '_approved_issues', lambda *args: [reviewed, skipped, newest, older])
+    reviewer = {'login': 'reviewer', 'id': 1, 'type': 'User'}
+    bot = {'login': 'LizardByte-bot', 'id': 3, 'type': 'User'}
+    rest = Mock(side_effect=[
+        response({'resources': {'core': {'remaining': 52}}}),
+        response([
+            {'event': 'commented', 'created_at': OPENED, 'body': '@LizardByte-bot check',
+             'user': reviewer, 'id': 4, 'reactions': {'+1': 1}},
+            {'event': 'commented', 'created_at': OPENED, 'body': '@LizardByte-bot approve',
+             'user': reviewer, 'id': 5, 'reactions': {'+1': 0}},
+            {'event': 'commented', 'created_at': OPENED, 'body': '@LizardByte-bot approve',
+             'user': reviewer, 'id': 6, 'reactions': {'+1': 1}},
+            {'event': 'labeled', 'created_at': OPENED, 'label': {'name': 'approve-queue'}, 'actor': bot},
+            {'event': 'labeled', 'created_at': OPENED, 'label': {'name': 'approve-theme'}, 'actor': bot},
+            {'event': 'closed', 'created_at': CLOSED},
+        ]),
+        response([{'user': bot}]),
+        response({'resources': {'core': {'remaining': 52}}}),
+        response([]),
+    ])
+    monkeypatch.setattr(session, 'get', rest)
+
+    first = leaderboard._load_approval_history(session, repository, previous)
+    assert first['3']['approver'] == {'id': 1, 'login': 'reviewer'}
+    assert first['4'].get('rest_checked') is None
+
+    second = leaderboard._load_approval_history(session, repository, first)
+    assert second['4']['rest_checked'] is True
+    assert second['4']['approver'] is None
+    assert [call.args[0] for call in rest.call_args_list] == [
+        'https://api.github.com/rate_limit', f'{repo_url}/issues/3/timeline',
+        f'{repo_url}/issues/comments/6/reactions', 'https://api.github.com/rate_limit', f'{repo_url}/issues/4/timeline',
+    ]
+
+
+def test_recheck_can_retry_when_github_requests_fail(monkeypatch, capsys):
+    session = requests.Session()
+    monkeypatch.setattr(session, 'get', Mock(side_effect=[
+        response({'resources': {'core': {'remaining': 100}}}),
+        requests.Timeout('timeline unavailable'),
+    ]))
+    pending = {'1': {'approver': None, 'closed_at': CLOSED}}
+
+    leaderboard._recheck_unattributed(session, 'example/ThemerrDB', pending, leaderboard.RateLimiter(4))
+
+    assert pending == {'1': {'approver': None, 'closed_at': CLOSED}}
+    assert 'Unable to finish rechecking unattributed approvals' in capsys.readouterr().out
 
 
 @pytest.mark.parametrize(('days', 'expected'), [
