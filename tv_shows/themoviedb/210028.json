@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/heoy30cy8kWH1PuqTII9mXC5u7F.jpg",
+    "created_by": [
+        {
+            "credit_id": "631e5a160102c90079eab0fa",
+            "gender": 2,
+            "id": 3156010,
+            "name": "Ke Han-Chen",
+            "original_name": "Ke Han Chen",
+            "profile_path": "/23NoXClsD4PFgcjJ24qYlqeFq46.jpg"
+        },
+        {
+            "credit_id": "631e5a01e5593700918959bc",
+            "gender": 2,
+            "id": 3284118,
+            "name": "Ming Gin Cheng",
+            "original_name": "Ming Gin Cheng",
+            "profile_path": "/eikVNOexvOR2fc6Z6fpWXiTgw5U.jpg"
+        }
+    ],
+    "episode_run_time": [
+        72
+    ],
+    "first_air_date": "2007-04-29",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 210028,
+    "in_production": false,
+    "languages": [
+        "zh"
+    ],
+    "last_air_date": "2007-09-09",
+    "last_episode_to_air": {
+        "air_date": "2007-09-09",
+        "episode_number": 20,
+        "episode_type": "finale",
+        "id": 3951522,
+        "name": "Episode 20",
+        "overview": "",
+        "production_code": "",
+        "runtime": 72,
+        "season_number": 1,
+        "show_id": 210028,
+        "still_path": null,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "name": "18, Censoring or Not?",
+    "networks": [],
+    "next_episode_to_air": null,
+    "number_of_episodes": 20,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "TW"
+    ],
+    "original_language": "zh",
+    "original_name": "18\u7981\u4e0d\u7981",
+    "overview": "Comedic exploration of the differences between the sexes. In a high school where male and female students are segregated, two groups of students of opposite sexes deal with their rising hormones.",
+    "popularity": 1.1057,
+    "poster_path": "/yZPxRy3Vb6g9miI0Ny0yhJaXman.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-04-29",
+            "episode_count": 20,
+            "id": 308284,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/yZPxRy3Vb6g9miI0Ny0yhJaXman.jpg",
+            "season_number": 1,
+            "vote_average": 0.0
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "Chinese",
+            "iso_639_1": "zh",
+            "name": "\u6c49\u8bed"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "youtube_theme_added": 1795823999,
+    "youtube_theme_added_by": "340991467",
+    "youtube_theme_edited": 1795823999,
+    "youtube_theme_edited_by": "340991467",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=tcY_IcBE3t0"
+}
