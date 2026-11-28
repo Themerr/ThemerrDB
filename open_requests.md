@@ -4,7 +4,7 @@ title: Open Theme Requests by Submitter
 permalink: /open_requests.html
 ---
 
-850 open · Updated 2026-11-28 UTC
+851 open · Updated 2026-11-28 UTC
 
 [View all open theme requests on GitHub](https://github.com/Themerr/ThemerrDB/issues?q=is%3Aissue%20is%3Aopen%20label%3Arequest-theme)
 
@@ -72,6 +72,7 @@ permalink: /open_requests.html
 | <a href="https://github.com/Themerr/ThemerrDB/issues?q=is%3Aissue%20is%3Aopen%20label%3Arequest-theme%20author%3ATutenks">@Tutenks</a> | 2 |
 | <a href="https://github.com/Themerr/ThemerrDB/issues?q=is%3Aissue%20is%3Aopen%20label%3Arequest-theme%20author%3A1ofx9">@1ofx9</a> | 1 |
 | <a href="https://github.com/Themerr/ThemerrDB/issues?q=is%3Aissue%20is%3Aopen%20label%3Arequest-theme%20author%3AAhmedMekawi">@AhmedMekawi</a> | 1 |
+| <a href="https://github.com/Themerr/ThemerrDB/issues?q=is%3Aissue%20is%3Aopen%20label%3Arequest-theme%20author%3Adanguno">@danguno</a> | 1 |
 | <a href="https://github.com/Themerr/ThemerrDB/issues?q=is%3Aissue%20is%3Aopen%20label%3Arequest-theme%20author%3Ahazzah12">@hazzah12</a> | 1 |
 | <a href="https://github.com/Themerr/ThemerrDB/issues?q=is%3Aissue%20is%3Aopen%20label%3Arequest-theme%20author%3Aitty1410">@itty1410</a> | 1 |
 | <a href="https://github.com/Themerr/ThemerrDB/issues?q=is%3Aissue%20is%3Aopen%20label%3Arequest-theme%20author%3AJdwilsh">@Jdwilsh</a> | 1 |
