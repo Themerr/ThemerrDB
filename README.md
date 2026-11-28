@@ -43,8 +43,9 @@ The counts refresh with the daily database update. [Browse the table with links 
 
 ## Approval Leaderboard
 
-The leaderboard counts completed theme approvals by GitHub user and refreshes daily. It includes historical
-approvals from bot commands and manual labels. Approvals without an identifiable person are shown in the summary.
+The leaderboard shows each GitHub user's completed theme approvals and how recently they last approved a theme.
+It refreshes daily and includes historical approvals from bot commands and manual labels. Approvals without an
+identifiable person are shown in the summary.
 [View the full approval leaderboard](https://themerr.lizardbyte.dev/ThemerrDB/approval_leaderboard.html).
 
 ![Approval Leaderboard](https://themerr.lizardbyte.dev/ThemerrDB/approval_leaderboard.svg)

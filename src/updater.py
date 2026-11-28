@@ -250,6 +250,7 @@ class TopContributor:
     count: int
     profile: ContributorProfile
     avatar_data_uri: Optional[str] = None
+    count_detail: str | None = None
 
 
 class RateLimiter:
@@ -645,11 +646,17 @@ def append_contributor_card(
                 f'<rect class="track" x="{bar_x}" y="{bar_y}" width="{bar_width}" height="6" rx="3"/>',
                 f'<rect class="bar" x="{bar_x}" y="{bar_y}" width="{filled_width:.2f}" height="6" rx="3"/>',
             ])
+        count_y = row_y + (13 if contributor.count_detail else 21)
         parts.extend([
             f'<text class="name" x="{text_x}" y="{row_y + 13}">{display_name}</text>',
             f'<text class="login" x="{text_x}" y="{row_y + 27}">{login}</text>',
-            f'<text class="count" x="{count_x}" y="{row_y + 21}" text-anchor="end">{contributor.count:,}</text>',
+            f'<text class="count" x="{count_x}" y="{count_y}" text-anchor="end">{contributor.count:,}</text>',
         ])
+        if contributor.count_detail:
+            detail = escape(contributor.count_detail)
+            parts.append(
+                f'<text class="section-meta" x="{count_x}" y="{row_y + 27}" text-anchor="end">{detail}</text>'
+            )
 
 
 def render_top_contributor_svg(sections: list) -> str:

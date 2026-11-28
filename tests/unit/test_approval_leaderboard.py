@@ -1,7 +1,9 @@
+from datetime import date, datetime, timedelta
 import json
 from unittest.mock import Mock
 from xml.etree import ElementTree
 
+import pytest
 import requests
 
 from src import approval_leaderboard as leaderboard
@@ -53,11 +55,12 @@ def test_backfills_both_approval_paths_and_reuses_unchanged_history(tmp_path, mo
     session = requests.Session()
     legacy_time = '2023-01-02T00:00:00Z'
     direct, queued, automated, legacy, exception, cached = (
-        issue(1), issue(2), issue(3), issue(4, closed_at=legacy_time), issue(5, reason='NOT_PLANNED'), issue(6)
+        issue(1), issue(2), issue(3), issue(4, closed_at=legacy_time), issue(5, reason='NOT_PLANNED'),
+        issue(6, closed_at='2025-12-07T00:00:00Z'),
     )
     history_file = tmp_path / 'approval_history.json'
     previous = {
-        '6': {'updated_at': CLOSED, 'approver': {'id': 2, 'login': 'another-reviewer'}},
+        '6': {'updated_at': cached['updatedAt'], 'approver': {'id': 2, 'login': 'another-reviewer'}},
         '7': {'updated_at': CLOSED, 'approver': {'id': 9, 'login': 'reopened-since-last-refresh'}},
     }
     history_file.write_text(json.dumps(previous), encoding='utf-8')
@@ -103,6 +106,12 @@ def test_backfills_both_approval_paths_and_reuses_unchanged_history(tmp_path, mo
     monkeypatch.setattr(leaderboard, 'create_github_session', lambda: session)
     monkeypatch.setattr(leaderboard, 'fetch_avatar_data_uri', lambda profile, session: 'data:image/png;base64,YQ==')
 
+    class FixedDateTime(datetime):
+        @classmethod
+        def now(cls, tz=None):
+            return cls(2026, 1, 8, tzinfo=tz)
+
+    monkeypatch.setattr(leaderboard, 'datetime', FixedDateTime)
     leaderboard.write_approval_leaderboard(tmp_path)
 
     variables = [call.kwargs['json']['variables'] for call in post.call_args_list]
@@ -123,11 +132,12 @@ def test_backfills_both_approval_paths_and_reuses_unchanged_history(tmp_path, mo
     assert history['2']['approver'] == {'id': 1, 'login': 'reviewer'}
     assert history['3']['approver'] is None
     assert history['4']['approver'] == {'id': 1, 'login': 'old-reviewer'}
+    assert history['6']['closed_at'] == cached['closedAt']
     page_text = (tmp_path / 'approval_leaderboard.md').read_text(encoding='utf-8')
     summary = '5 total approvals · 4 attributed · 1 unattributed'
     assert summary in page_text
-    assert 'https://github.com/reviewer">@reviewer</a> | 3 |' in page_text
-    assert 'https://github.com/another-reviewer">@another-reviewer</a> | 1 |' in page_text
+    assert 'https://github.com/reviewer">@reviewer</a> | 3 | 4 days ago |' in page_text
+    assert 'https://github.com/another-reviewer">@another-reviewer</a> | 1 | 1 month ago |' in page_text
     assert 'old-reviewer' not in page_text
     chart = ElementTree.parse(tmp_path / 'approval_leaderboard.svg')
     svg = {'svg': 'http://www.w3.org/2000/svg'}
@@ -135,9 +145,26 @@ def test_backfills_both_approval_paths_and_reuses_unchanged_history(tmp_path, mo
     assert summary in chart.find('svg:text[@class="subtitle"]', svg).text
     assert chart.find('svg:text[@class="section-title"]', svg) is None
     for css_class, expected in [('rank', ['1', '2']), ('login', ['@reviewer', '@another-reviewer']),
-                                ('count', ['3', '1'])]:
+                                ('count', ['3', '1']), ('section-meta', ['4 days ago', '1 month ago'])]:
         assert [node.text for node in chart.findall(f'svg:text[@class="{css_class}"]', svg)] == expected
     assert len(chart.findall('svg:image', svg)) == 2
+
+
+@pytest.mark.parametrize(('days', 'expected'), [
+    (0, 'Today'),
+    (1, '1 day ago'),
+    (6, '6 days ago'),
+    (7, '1 week ago'),
+    (14, '2 weeks ago'),
+    (30, '1 month ago'),
+    (60, '2 months ago'),
+    (365, '1 year ago'),
+    (730, '2 years ago'),
+])
+def test_format_last_approval(days, expected):
+    today = date(2026, 1, 8)
+    closed_on = today - timedelta(days=days)
+    assert leaderboard._format_last_approval(f'{closed_on}T00:00:00Z', today) == expected
 
 
 def test_approval_chart_shows_every_ranked_approver():

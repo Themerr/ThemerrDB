@@ -1,7 +1,7 @@
 """Build the approval leaderboard from GitHub issue history."""
 
 from collections import Counter
-from datetime import datetime, timezone
+from datetime import date, datetime, timezone
 from html import escape
 from itertools import batched
 import json
@@ -217,7 +217,7 @@ def _load_approval_history(session: requests.Session, repository: str, previous:
         seen.add(number)
         cached = previous.get(number)
         if cached and cached['updated_at'] == issue['updatedAt']:
-            history[number] = cached
+            history[number] = {**cached, 'closed_at': issue['closedAt']}
         else:
             changed.append(issue)
 
@@ -234,20 +234,35 @@ def _load_approval_history(session: requests.Session, repository: str, previous:
                 raise requests.RequestException(f'GitHub returned no timeline for issue #{issue["number"]}')
         history[str(issue['number'])] = {
             'updated_at': issue['updatedAt'],
+            'closed_at': issue['closedAt'],
             'approver': _find_approver(timeline, issue['closedAt'], confirmed),
         }
     return history
 
 
-def _rank_approvers(history: dict, session: requests.Session) -> tuple[list[TopContributor], int]:
+def _format_last_approval(closed_at: str, today: date) -> str:
+    """Express the most recent completion in whole days, weeks, months, or years."""
+    days = (today - datetime.fromisoformat(closed_at).date()).days
+    if days <= 0:
+        return 'Today'
+    for length, unit in ((365, 'year'), (30, 'month'), (7, 'week')):
+        if days >= length:
+            count = days // length
+            return f'{count} {unit}{"s" if count != 1 else ""} ago'
+    return f'{days} day{"s" if days != 1 else ""} ago'
+
+
+def _rank_approvers(history: dict, session: requests.Session, today: date) -> tuple[list[TopContributor], int]:
     """Rank approvers by count and load their GitHub profiles and avatars."""
     counts = Counter()
     logins = {}
+    last_approvals = {}
     for entry in sorted(history.values(), key=lambda entry: entry['updated_at'], reverse=True):
         if approver := entry['approver']:
             user_id = approver['id']
             counts[user_id] += 1
             logins.setdefault(user_id, approver['login'])
+            last_approvals[user_id] = max(last_approvals.get(user_id, ''), entry['closed_at'])
     ranked = sorted(counts, key=lambda user_id: (-counts[user_id], logins[user_id].casefold()))
     approvers = []
     for user_id in ranked:
@@ -257,6 +272,7 @@ def _rank_approvers(history: dict, session: requests.Session) -> tuple[list[TopC
             count=counts[user_id],
             profile=profile,
             avatar_data_uri=fetch_avatar_data_uri(profile, session),
+            count_detail=_format_last_approval(last_approvals[user_id], today),
         ))
     return approvers, len(history) - counts.total()
 
@@ -266,7 +282,7 @@ def render_approval_svg(approvers: list[TopContributor], summary: str) -> str:
     return render_leaderboard_svg(
         [{'contributors': approvers}],
         title=TITLE,
-        description='People ranked by the number of completed theme approvals.',
+        description='People ranked by completed theme approvals, with the time since their most recent approval.',
         subtitle=summary,
         overall_limit=max(2, len(approvers)),
         empty_label=EMPTY_LABEL,
@@ -280,10 +296,11 @@ def _render_approval_page(approvers: list[TopContributor], summary: str) -> str:
         '', summary, '',
     ]
     if approvers:
-        lines.extend(['| Approver | Approvals |', '| --- | ---: |'])
+        lines.extend(['| Approver | Approvals | Last approval |', '| --- | ---: | --- |'])
         for approver in approvers:
             login = approver.profile.login
-            lines.append(f'| <a href="https://github.com/{quote(login)}">@{escape(login)}</a> | {approver.count:,} |')
+            profile = f'<a href="https://github.com/{quote(login)}">@{escape(login)}</a>'
+            lines.append(f'| {profile} | {approver.count:,} | {approver.count_detail} |')
     else:
         lines.append(f'{EMPTY_LABEL}.')
     return '\n'.join(lines) + '\n'
@@ -294,17 +311,18 @@ def write_approval_leaderboard(database_root: Path = Path('database')) -> None:
     repository = os.environ.get('GITHUB_REPOSITORY', DEFAULT_GITHUB_REPOSITORY)
     history_file = database_root / 'approval_history.json'
     previous = json.loads(history_file.read_text(encoding='utf-8')) if history_file.exists() else {}
+    today = datetime.now(timezone.utc).date()
     try:
         with create_github_session() as session:
             history = _load_approval_history(session, repository, previous)
-            approvers, unattributed = _rank_approvers(history, session)
+            approvers, unattributed = _rank_approvers(history, session, today)
     except requests.RequestException as exc:
         print_github_warning(f'Unable to refresh approval leaderboard: {exc}')
         return
 
     total = len(history)
     summary = f'{total:,} total approvals · {total - unattributed:,} attributed · {unattributed:,} unattributed'
-    summary += f' · Updated {datetime.now(timezone.utc):%Y-%m-%d} UTC'
+    summary += f' · Updated {today:%Y-%m-%d} UTC'
     chart = render_approval_svg(approvers, summary)
     database_root.mkdir(parents=True, exist_ok=True)
     (database_root / f'{BASENAME}.svg').write_text(chart, encoding='utf-8')
