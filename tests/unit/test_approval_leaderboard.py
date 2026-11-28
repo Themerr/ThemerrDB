@@ -165,6 +165,7 @@ def test_recheck_recovers_a_cached_bot_command_and_resumes_after_used_budget(mon
         for entry in (reviewed, skipped, newest, older)
     }
     previous['1']['rest_checked'] = True
+    previous['1']['rest_checked_version'] = leaderboard.REST_CHECK_VERSION
     previous['2']['approver'] = {'id': 2, 'login': 'previous-reviewer'}
     monkeypatch.setattr(leaderboard, '_approved_issues', lambda *args: [reviewed, skipped, newest, older])
     reviewer = {'login': 'reviewer', 'id': 1, 'type': 'User'}
@@ -199,6 +200,94 @@ def test_recheck_recovers_a_cached_bot_command_and_resumes_after_used_budget(mon
         'https://api.github.com/rate_limit', f'{repo_url}/issues/3/timeline',
         f'{repo_url}/issues/comments/6/reactions', 'https://api.github.com/rate_limit', f'{repo_url}/issues/4/timeline',
     ]
+
+
+def test_rechecks_old_attribution_and_stores_automatic_approval_outside_ranking(tmp_path, monkeypatch):
+    session = requests.Session()
+    historic = issue(1330, closed_at='2023-09-21T22:23:48Z')
+    automated = issue(10143, closed_at='2026-11-23T18:51:48Z')
+    corrected = issue(1353, closed_at='2023-09-29T02:59:49Z', reason='NOT_PLANNED')
+    previous = {
+        str(entry['number']): {'updated_at': entry['updatedAt'], 'approver': None, 'rest_checked': True}
+        for entry in (historic, automated, corrected)
+    }
+    history_file = tmp_path / 'approval_history.json'
+    history_file.write_text(json.dumps(previous), encoding='utf-8')
+    monkeypatch.setattr(session, 'post', Mock(return_value=issue_page([historic, automated, corrected])))
+    monkeypatch.setattr(leaderboard, 'create_github_session', lambda: session)
+    bot = {'login': 'LizardByte-bot', 'id': 108553330, 'type': 'User'}
+    first = {'login': 'jjnether', 'id': 88998541, 'type': 'User'}
+    later = {'login': 'ReenigneArcher', 'id': 42013603, 'type': 'User'}
+    rest = Mock(side_effect=[
+        response({'resources': {'core': {'remaining': 100}}}),
+        response([
+            {'event': 'labeled', 'created_at': '2026-11-23T18:51:04Z',
+             'label': {'name': 'approve-queue'}, 'actor': bot},
+            {'event': 'labeled', 'created_at': '2026-11-23T18:51:05Z',
+             'label': {'name': 'approve-theme'}, 'actor': bot},
+            {'event': 'unlabeled', 'created_at': '2026-11-23T18:51:42Z',
+             'label': {'name': 'approve-queue'}, 'actor': bot},
+            {'event': 'closed', 'created_at': automated['closedAt']},
+        ]),
+        response([
+            {'event': 'labeled', 'created_at': '2023-09-21T22:16:38Z',
+             'label': {'name': 'approve-queue'}, 'actor': first},
+            {'event': 'labeled', 'created_at': '2023-09-21T22:22:58Z',
+             'label': {'name': 'approve-theme'}, 'actor': bot},
+            {'event': 'unlabeled', 'created_at': '2023-09-21T22:23:44Z',
+             'label': {'name': 'approve-theme'}, 'actor': bot},
+            {'event': 'closed', 'created_at': historic['closedAt']},
+            {'event': 'labeled', 'created_at': '2023-09-30T03:06:52Z',
+             'label': {'name': 'approve-theme'}, 'actor': later},
+        ]),
+    ])
+    monkeypatch.setattr(session, 'get', rest)
+
+    leaderboard.write_approval_leaderboard(tmp_path)
+
+    history = json.loads(history_file.read_text(encoding='utf-8'))
+    assert set(history) == {'1330', '10143'}
+    assert history['1330']['approver'] == {'id': 88998541, 'login': 'jjnether'}
+    assert history['10143']['approver'] == {'id': 108553330, 'login': 'LizardByte-bot', 'source': 'automatic'}
+    for filename in ('approval_leaderboard.svg', 'approval_leaderboard.md'):
+        leaderboard_text = (tmp_path / filename).read_text(encoding='utf-8')
+        assert '@jjnether' in leaderboard_text
+        assert '@LizardByte-bot' not in leaderboard_text
+        assert '1 total approvals · 1 attributed · 0 unattributed' in leaderboard_text
+
+
+@pytest.mark.parametrize('timeline', [
+    [label('approve-theme', BOT)],
+    [label('approve-queue', BOT)],
+    [label('approve-queue', REVIEWER), label('approve-theme', BOT)],
+    [label('approve-queue', BOT), label('approve-theme', BOT), command('unconfirmed')],
+    [label('approve-queue', BOT), label('approve-theme', BOT), label('approve-theme', BOT, kind='UnlabeledEvent')],
+])
+def test_bot_promotion_without_clear_automatic_evidence_stays_unattributed(timeline):
+    assert leaderboard._fallback_approver(timeline, '2026-11-23T18:51:48Z') is None
+
+
+def test_acknowledged_command_can_promote_a_bot_queued_issue():
+    timeline = [
+        label('approve-queue', BOT),
+        command('acknowledged'),
+        label('approve-theme', BOT),
+    ]
+    approval = leaderboard._find_approver(timeline, CLOSED, {'acknowledged'})
+    assert approval == {'id': 1, 'login': 'reviewer'}
+
+
+def test_command_after_promotion_preserves_automatic_attribution():
+    timeline = [
+        label('approve-queue', BOT),
+        label('approve-theme', BOT),
+        {**command('acknowledged'), 'createdAt': '2026-10-23T23:09:02Z'},
+    ]
+    closed_at = '2026-10-23T23:09:23Z'
+    assert leaderboard._find_approver(timeline, closed_at, {'acknowledged'}) is None
+    assert leaderboard._fallback_approver(timeline, closed_at) == {
+        'id': BOT['databaseId'], 'login': BOT['login'], 'source': 'automatic',
+    }
 
 
 def test_recheck_can_retry_when_github_requests_fail(monkeypatch, capsys):
