@@ -4,12 +4,12 @@ title: Approval Leaderboard
 permalink: /approval_leaderboard.html
 ---
 
-7,469 total approvals · 7,042 attributed · 427 unattributed · Updated 2026-11-28 UTC
+7,093 total approvals · 7,093 attributed · 0 unattributed · Updated 2026-11-28 UTC
 
 | Approver | Approvals | Last approval |
 | --- | ---: | --- |
-| <a href="https://github.com/jjnether">@jjnether</a> | 2,244 | 2 years ago |
-| <a href="https://github.com/ReenigneArcher">@ReenigneArcher</a> | 2,207 | Today |
+| <a href="https://github.com/jjnether">@jjnether</a> | 2,288 | 2 years ago |
+| <a href="https://github.com/ReenigneArcher">@ReenigneArcher</a> | 2,214 | Today |
 | <a href="https://github.com/OcifferAction">@OcifferAction</a> | 1,514 | 2 years ago |
 | <a href="https://github.com/LuckyNoS7evin">@LuckyNoS7evin</a> | 558 | 3 weeks ago |
 | <a href="https://github.com/bozzio83">@bozzio83</a> | 353 | 1 month ago |

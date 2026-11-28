@@ -28,30 +28,6 @@
     ],
     "last_air_date": "2026-11-20",
     "last_episode_to_air": {
-        "air_date": "2026-11-20",
-        "episode_number": 1,
-        "episode_type": "standard",
-        "id": 7717925,
-        "name": "Episode 1",
-        "overview": "",
-        "production_code": "",
-        "runtime": 58,
-        "season_number": 8,
-        "show_id": 103397,
-        "still_path": "/4MdFOmw6Hc4gYzzIGGoW0HQ7DKs.jpg",
-        "vote_average": 0.0,
-        "vote_count": 0
-    },
-    "name": "Guarding JieFangXi",
-    "networks": [
-        {
-            "id": 1605,
-            "logo_path": "/cdRh1NZIUaqDUhwjgqWbp6zhWHK.png",
-            "name": "bilibili",
-            "origin_country": "CN"
-        }
-    ],
-    "next_episode_to_air": {
         "air_date": "2026-11-27",
         "episode_number": 2,
         "episode_type": "standard",
@@ -66,6 +42,30 @@
         "vote_average": 0.0,
         "vote_count": 0
     },
+    "name": "Guarding JieFangXi",
+    "networks": [
+        {
+            "id": 1605,
+            "logo_path": "/cdRh1NZIUaqDUhwjgqWbp6zhWHK.png",
+            "name": "bilibili",
+            "origin_country": "CN"
+        }
+    ],
+    "next_episode_to_air": {
+        "air_date": "2026-12-04",
+        "episode_number": 3,
+        "episode_type": "standard",
+        "id": 7717928,
+        "name": "Episode 3",
+        "overview": "",
+        "production_code": null,
+        "runtime": null,
+        "season_number": 8,
+        "show_id": 103397,
+        "still_path": null,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
     "number_of_episodes": 80,
     "number_of_seasons": 8,
     "origin_country": [
@@ -74,7 +74,7 @@
     "original_language": "zh",
     "original_name": "\u5b88\u62a4\u89e3\u653e\u897f",
     "overview": "",
-    "popularity": 3.7973,
+    "popularity": 4.9643,
     "poster_path": "/3gIc5PjBV3LmMODWKkAaY5CnGy1.jpg",
     "production_companies": [
         {
