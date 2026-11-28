@@ -1,0 +1,78 @@
+{
+    "adult": false,
+    "backdrop_path": "/9OaseUgtF0nFwbJIzSpRYxKRmVf.jpg",
+    "belongs_to_collection": null,
+    "budget": 13000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 309886,
+    "imdb_id": "tt3647498",
+    "origin_country": [
+        "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Blood Father",
+    "overview": "An ex-con reconnects with his estranged teenage daughter while fighting to keep her alive after she becomes a target of violent drug dealers.",
+    "popularity": 3.1037,
+    "poster_path": "/xgzmEJNM2ePcwwDZOGGznwPPnsc.jpg",
+    "production_companies": [
+        {
+            "id": 856,
+            "logo_path": "/3tfzS2CrX6Ntbu927XzHXEPDA6y.png",
+            "name": "Wild Bunch",
+            "origin_country": "FR"
+        },
+        {
+            "id": 729,
+            "logo_path": "/hNxGdbddbsDDnEWJ7RNLcGCRSLQ.png",
+            "name": "Why Not Productions",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "release_date": "2016-08-11",
+    "revenue": 6903033,
+    "runtime": 88,
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Espa\u00f1ol"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A father makes his own justice.",
+    "title": "Blood Father",
+    "video": false,
+    "vote_average": 6.166,
+    "vote_count": 1739,
+    "youtube_theme_added": 1795828875,
+    "youtube_theme_added_by": "313098007",
+    "youtube_theme_edited": 1795828875,
+    "youtube_theme_edited_by": "313098007",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=tCfLNEnWsHA"
+}
