@@ -7,7 +7,6 @@ from itertools import batched
 import json
 import os
 from pathlib import Path
-import re
 from urllib.parse import quote
 
 import requests
@@ -29,7 +28,6 @@ APPROVAL_LABELS = {APPROVE_THEME_LABEL, 'add-game', 'add-movie'}
 # The retired labels were migrated to approve-theme in August 2023.
 APPROVAL_LABEL_MIGRATION = '2023-08-08T00:00:00Z'
 APPROVAL_BOT = 'lizardbyte-bot'
-APPROVAL_COMMAND = re.compile(r'^@LizardByte-bot +(?i:approve)(?: |$)')
 TITLE = 'Approval Leaderboard'
 BASENAME = 'approval_leaderboard'
 EMPTY_LABEL = 'No attributed theme approvals'
@@ -160,19 +158,36 @@ def _person(actor: dict | None) -> dict | None:
     return {'id': actor['databaseId'], 'login': actor['login']}
 
 
+def _is_approval_command(body: str) -> bool:
+    """Recognize the approval command using the bot's space-separated syntax."""
+    mention, _, arguments = body.strip().partition(' ')
+    command, _, _ = arguments.lstrip(' ').partition(' ')
+    return mention == '@LizardByte-bot' and command.lower() == 'approve'
+
+
 def _confirmed_commands(session: requests.Session, timelines: dict) -> set[str]:
     """Verify that the approval bot acknowledged each candidate command."""
     comment_ids = [
         event['id']
         for timeline in timelines.values()
         for event in timeline
-        if event['__typename'] == 'IssueComment' and APPROVAL_COMMAND.match(event['body'].strip())
+        if event['__typename'] == 'IssueComment' and _is_approval_command(event['body'])
     ]
     reactions = _load_connections(session, comment_ids, REACTIONS_QUERY, 'reactions')
     return {
         comment_id for comment_id, thumbs_up in reactions.items()
         if any((reaction['user'] or {}).get('login', '').casefold() == APPROVAL_BOT for reaction in thumbs_up)
     }
+
+
+def _label_approver(event: dict, previous_approver: dict | None) -> dict | None:
+    """Clear removed labels and trace bot-applied labels to the earlier approval."""
+    if event['__typename'] == 'UnlabeledEvent':
+        return None
+    actor = event.get('actor') or {}
+    if actor.get('login', '').casefold() == APPROVAL_BOT:
+        return previous_approver
+    return _person(actor)
 
 
 def _find_approver(timeline: list, closed_at: str, confirmed_commands: set[str]) -> dict | None:
@@ -182,26 +197,19 @@ def _find_approver(timeline: list, closed_at: str, confirmed_commands: set[str])
         kind = event['__typename']
         if event['createdAt'] > closed_at or (kind == 'ClosedEvent' and event['createdAt'] == closed_at):
             break
-        if kind == 'ReopenedEvent':
-            command = queued = approver = None
-        elif kind == 'IssueComment' and event['id'] in confirmed_commands:
-            command = _person(event['author'])
-        elif kind in {'LabeledEvent', 'UnlabeledEvent'}:
-            label = event['label']['name']
-            actor = event.get('actor') or {}
-            added_by_bot = actor.get('login', '').casefold() == APPROVAL_BOT
-            if label == APPROVE_QUEUE_LABEL:
-                if kind == 'UnlabeledEvent':
-                    queued = None
-                else:
-                    queued = command if added_by_bot else _person(actor)
-                command = None
-            elif label in APPROVAL_LABELS:
-                if kind == 'UnlabeledEvent':
-                    approver = None
-                else:
-                    approver = queued if added_by_bot else _person(actor)
-                command = None
+        match kind:
+            case 'ReopenedEvent':
+                command = queued = approver = None
+            case 'IssueComment' if event['id'] in confirmed_commands:
+                command = _person(event['author'])
+            case 'LabeledEvent' | 'UnlabeledEvent':
+                label = event['label']['name']
+                if label == APPROVE_QUEUE_LABEL:
+                    queued = _label_approver(event, command)
+                    command = None
+                elif label in APPROVAL_LABELS:
+                    approver = _label_approver(event, queued)
+                    command = None
     return approver
 
 
