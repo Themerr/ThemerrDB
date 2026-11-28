@@ -1,0 +1,72 @@
+{
+    "adult": false,
+    "backdrop_path": "/qV3NFmHbLiYYNBiPaG2v2iZWGM.jpg",
+    "belongs_to_collection": {
+        "backdrop_path": "/tnueYsNDz8TWSNRFXnIf8DkJmqB.jpg",
+        "id": 1239180,
+        "name": "Amsterdamned Collection",
+        "poster_path": "/2kmpGFUkJmM4SBQWjz0q2hSbUca.jpg"
+    },
+    "budget": 10673500,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 1179684,
+    "imdb_id": "tt29943172",
+    "origin_country": [
+        "NL"
+    ],
+    "original_language": "nl",
+    "original_title": "Amsterdamned II",
+    "overview": "After 37 years, the canals of Amsterdam are once again turning blood red. Tara Lee is a young ambitious detective with the Amsterdam police force who is confronted by a number of gruesome incidents around the canals. She enlists the help of  Visser, a retired detective who once nabbed a serial killer stalking those same canals. They face an adversary who seems to possess superhuman powers.",
+    "popularity": 5.033,
+    "poster_path": "/iI7gV6YoCUhiai9niLeIvVQ6XBX.jpg",
+    "production_companies": [
+        {
+            "id": 44429,
+            "logo_path": "/dpwZUNOvvpiH7UptylG0zV3npFC.png",
+            "name": "2CFilm",
+            "origin_country": "NL"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "NL",
+            "name": "Netherlands"
+        }
+    ],
+    "release_date": "2025-11-30",
+    "revenue": 0,
+    "runtime": 110,
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "Dutch; Flemish",
+            "iso_639_1": "nl",
+            "name": "Nederlands"
+        }
+    ],
+    "status": "Released",
+    "tagline": "THE SAME CANALS. NEW BLOOD.",
+    "title": "Amsterdamned II",
+    "video": false,
+    "vote_average": 5.639,
+    "vote_count": 54,
+    "youtube_theme_added": 1795832034,
+    "youtube_theme_added_by": "54889006",
+    "youtube_theme_edited": 1795832034,
+    "youtube_theme_edited_by": "54889006",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=rNbjNAZjuR4"
+}
