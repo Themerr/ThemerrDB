@@ -250,6 +250,7 @@ class TopContributor:
     count: int
     profile: ContributorProfile
     avatar_data_uri: Optional[str] = None
+    count_detail: str | None = None
 
 
 class RateLimiter:
@@ -408,7 +409,12 @@ def load_contributor_totals(database_root: str, categories: tuple) -> dict:
     return dict(totals)
 
 
-def resolve_contributor_profile(user_id: str, session: requests.Session) -> ContributorProfile:
+def resolve_contributor_profile(
+        user_id: str,
+        session: requests.Session,
+        *,
+        fallback_login: str | None = None,
+) -> ContributorProfile:
     """
     Resolve a GitHub user ID to profile details.
 
@@ -418,6 +424,8 @@ def resolve_contributor_profile(user_id: str, session: requests.Session) -> Cont
         Numeric GitHub user ID stored in contributor metadata.
     session : requests.Session
         GitHub API session.
+    fallback_login : str | None
+        Last known login when the GitHub profile lookup is unavailable.
 
     Returns
     -------
@@ -426,18 +434,14 @@ def resolve_contributor_profile(user_id: str, session: requests.Session) -> Cont
     """
     fallback = ContributorProfile(
         user_id=user_id,
-        login=f'user-{user_id}',
-        name=f'User {user_id}',
+        login=fallback_login or f'user-{user_id}',
+        name=fallback_login or f'User {user_id}',
         avatar_url=f'https://avatars.githubusercontent.com/u/{user_id}?size={AVATAR_SIZE}',
     )
 
     if os.environ.get('CI_TEST'):
-        return ContributorProfile(
-            user_id=user_id,
-            login=f'user-{user_id}',
-            name=f'User {user_id}',
-            avatar_url='',
-        )
+        fallback.avatar_url = ''
+        return fallback
 
     try:
         response = session.get(f'https://api.github.com/user/{user_id}', timeout=15)
@@ -567,6 +571,8 @@ def append_contributor_card(
         height: int,
         display_limit: int,
         card_index: int,
+        header_height: int = CONTRIBUTOR_SECTION_HEADER_HEIGHT,
+        empty_label: str = 'No contributors yet',
 ) -> None:
     """
     Append one compact contributor card to SVG parts.
@@ -589,27 +595,30 @@ def append_contributor_card(
         Maximum contributors to show in the card.
     card_index : int
         Unique card index.
+    header_height : int
+        Space above the first row, including the title when present.
+    empty_label : str
+        Message displayed when the section has no ranked users.
     """
     visible_contributors = section['contributors'][:display_limit]
-    title = escape(section['title'])
+    title = section.get('title')
     name_max_length = 48 if width > 600 else 25
     login_max_length = 54 if width > 600 else 29
     count_x = x + width - 18
 
-    parts.extend([
-        f'<rect class="card" x="{x}" y="{y}" width="{width}" height="{height}" rx="8"/>',
-        f'<text class="section-title" x="{x + 16}" y="{y + 26}">{title}</text>',
-    ])
+    parts.append(f'<rect class="card" x="{x}" y="{y}" width="{width}" height="{height}" rx="8"/>')
+    if title:
+        parts.append(f'<text class="section-title" x="{x + 16}" y="{y + 26}">{escape(title)}</text>')
 
     if not visible_contributors:
         parts.append(
-            f'<text class="section-meta" x="{x + (width / 2)}" y="{y + 92}" '
-            'text-anchor="middle">No contributors yet</text>'
+            f'<text class="section-meta" x="{x + (width / 2)}" y="{y + header_height + 52}" '
+            f'text-anchor="middle">{escape(empty_label)}</text>'
         )
         return
 
     for index, contributor in enumerate(visible_contributors, start=1):
-        row_y = y + CONTRIBUTOR_SECTION_HEADER_HEIGHT + ((index - 1) * CONTRIBUTOR_ROW_HEIGHT)
+        row_y = y + header_height + ((index - 1) * CONTRIBUTOR_ROW_HEIGHT)
         rank_x = x + 16
         avatar_x = x + 42
         avatar_y = row_y + 4
@@ -618,10 +627,9 @@ def append_contributor_card(
         display_name = escape(truncate_text(contributor.profile.name, name_max_length))
         login = escape(truncate_text(f'@{contributor.profile.login}', login_max_length))
 
-        parts.extend([
-            f'<line class="row-line" x1="{x + 16}" x2="{x + width - 16}" y1="{row_y}" y2="{row_y}"/>',
-            f'<text class="rank" x="{rank_x}" y="{row_y + 20}">{index}</text>',
-        ])
+        if title or index > 1:
+            parts.append(f'<line class="row-line" x1="{x + 16}" x2="{x + width - 16}" y1="{row_y}" y2="{row_y}"/>')
+        parts.append(f'<text class="rank" x="{rank_x}" y="{row_y + 20}">{index}</text>')
         append_contributor_avatar(
             parts=parts,
             contributor=contributor,
@@ -638,28 +646,42 @@ def append_contributor_card(
                 f'<rect class="track" x="{bar_x}" y="{bar_y}" width="{bar_width}" height="6" rx="3"/>',
                 f'<rect class="bar" x="{bar_x}" y="{bar_y}" width="{filled_width:.2f}" height="6" rx="3"/>',
             ])
+        count_y = row_y + (13 if contributor.count_detail else 21)
         parts.extend([
             f'<text class="name" x="{text_x}" y="{row_y + 13}">{display_name}</text>',
             f'<text class="login" x="{text_x}" y="{row_y + 27}">{login}</text>',
-            f'<text class="count" x="{count_x}" y="{row_y + 21}" text-anchor="end">{contributor.count:,}</text>',
+            f'<text class="count" x="{count_x}" y="{count_y}" text-anchor="end">{contributor.count:,}</text>',
         ])
+        if contributor.count_detail:
+            detail = escape(contributor.count_detail)
+            parts.append(
+                f'<text class="section-meta" x="{count_x}" y="{row_y + 27}" text-anchor="end">{detail}</text>'
+            )
 
 
 def render_top_contributor_svg(sections: list) -> str:
-    """
-    Render a combined top contributors SVG.
+    """Render the contribution leaderboard."""
+    return render_leaderboard_svg(
+        sections,
+        title='Contribution Leaderboard',
+        description='Top ThemerrDB contributors across all database categories.',
+        subtitle='Added and edited themes',
+        overall_limit=TOP_CONTRIBUTORS_LIMIT,
+    )
 
-    Parameters
-    ----------
-    sections : list
-        Contributor sections and resolved contributors.
 
-    Returns
-    -------
-    str
-        SVG markup.
-    """
-    all_card_height = CONTRIBUTOR_SECTION_HEADER_HEIGHT + (TOP_CONTRIBUTORS_LIMIT * CONTRIBUTOR_ROW_HEIGHT) + 20
+def render_leaderboard_svg(
+        sections: list,
+        *,
+        title: str,
+        description: str,
+        subtitle: str,
+        overall_limit: int,
+        empty_label: str = 'No contributors yet',
+) -> str:
+    """Render the overall ranking and any category cards as an SVG."""
+    overall_header_height = CONTRIBUTOR_SECTION_HEADER_HEIGHT if sections[0].get('title') else 16
+    all_card_height = overall_header_height + (overall_limit * CONTRIBUTOR_ROW_HEIGHT) + 20
     category_card_height = CONTRIBUTOR_SECTION_HEADER_HEIGHT + (
         TOP_CONTRIBUTORS_CATEGORY_LIMIT * CONTRIBUTOR_ROW_HEIGHT
     ) + 20
@@ -682,8 +704,8 @@ def render_top_contributor_svg(sections: list) -> str:
         '<svg xmlns="http://www.w3.org/2000/svg" '
         f'width="{CHART_WIDTH}" height="{height}" '
         f'viewBox="0 0 {CHART_WIDTH} {height}" role="img" aria-labelledby="title desc">',
-        '<title id="title">Contribution Leaderboard</title>',
-        '<desc id="desc">Top ThemerrDB contributors across all database categories.</desc>',
+        f'<title id="title">{escape(title)}</title>',
+        f'<desc id="desc">{escape(description)}</desc>',
         '<style>',
         f'text{{font-family:{CHART_FONT}}}',
         f'.title{{fill:{CHART_TEXT};font-size:27px;font-weight:700}}',
@@ -701,8 +723,8 @@ def render_top_contributor_svg(sections: list) -> str:
         f'.bar{{fill:{CONTRIBUTOR_ACCENT}}}',
         '</style>',
         f'<rect width="100%" height="100%" rx="16" fill="{CHART_BACKGROUND}"/>',
-        '<text class="title" x="24" y="34">Contribution Leaderboard</text>',
-        '<text class="subtitle" x="24" y="58">Added and edited themes</text>',
+        f'<text class="title" x="24" y="34">{escape(title)}</text>',
+        f'<text class="subtitle" x="24" y="58">{escape(subtitle)}</text>',
     ]
 
     append_contributor_card(
@@ -712,8 +734,10 @@ def render_top_contributor_svg(sections: list) -> str:
         y=74,
         width=content_width,
         height=all_card_height,
-        display_limit=TOP_CONTRIBUTORS_LIMIT,
+        display_limit=overall_limit,
         card_index=0,
+        header_height=overall_header_height,
+        empty_label=empty_label,
     )
 
     category_start_y = 74 + all_card_height + CONTRIBUTOR_CARD_GAP

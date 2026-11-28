@@ -41,6 +41,15 @@ The counts refresh with the daily database update. [Browse the table with links 
 
 ![Contribution Leaderboard](https://themerr.lizardbyte.dev/ThemerrDB/top_contributors.svg)
 
+## Approval Leaderboard
+
+The leaderboard shows each GitHub user's completed theme approvals and how recently they last approved a theme.
+It refreshes daily and includes historical approvals from bot commands and manual labels. Approvals without an
+identifiable person are shown in the summary.
+[View the full approval leaderboard](https://themerr.lizardbyte.dev/ThemerrDB/approval_leaderboard.html).
+
+![Approval Leaderboard](https://themerr.lizardbyte.dev/ThemerrDB/approval_leaderboard.svg)
+
 ## Database Growth
 
 <div align="center">
@@ -100,9 +109,9 @@ Code contributors can use the [Developer Setup](docs/developerSetup.md) guide.
 
 ### Content Review
 
-Submitted "issues" will be reviewed by a developer/moderator. Once approved we will add a label, i.e. `approve-theme`.
-At this point, the workflow will run and attempt to update the database in the
-[database](https://github.com/Themerr/ThemerrDB/tree/database) branch.
+A developer or moderator reviews each submission and queues it with `@LizardByte-bot approve`. When it reaches the
+front of the queue, the bot adds `approve-theme` and the workflow attempts to update the
+[database branch](https://github.com/Themerr/ThemerrDB/tree/database).
 
 ## Daily updates
 
