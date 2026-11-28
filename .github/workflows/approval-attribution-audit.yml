@@ -27,32 +27,53 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         run: |
           uv run --no-build --no-sync python - <<'PY'
+          from collections import Counter
           import json
           import os
-          from src.approval_leaderboard import _is_approval_command, _rest_items
+          import requests
+          from src.approval_leaderboard import REST_CHECK_VERSION, _load_approval_history, _recheck_unattributed
           from src.updater import RateLimiter, create_github_session
 
-          repository = os.environ['GITHUB_REPOSITORY']
-          base = f'https://api.github.com/repos/{repository}/issues'
-          limiter = RateLimiter(4)
+          url = ('https://raw.githubusercontent.com/Themerr/ThemerrDB/'
+                 'b3fdd91af01949f377850889c559f4d04fc9f517/approval_history.json')
+          response = requests.get(url, timeout=30)
+          response.raise_for_status()
+          previous = response.json()
+          missing = {number for number, row in previous.items() if row['approver'] is None}
+          assert len(missing) == 427
           with create_github_session() as session:
-              for number in (6591, 9393):
-                  response = session.get(f'{base}/{number}', timeout=15)
-                  response.raise_for_status()
-                  issue = response.json()
-                  records = []
-                  for item in _rest_items(session, f'{base}/{number}/timeline', limiter):
-                      kind = item['event']
-                      label = (item.get('label') or {}).get('name', '')
-                      actor = (item.get('actor') or item.get('user') or {}).get('login')
-                      command = kind == 'commented' and _is_approval_command(item.get('body') or '')
-                      if not command and kind not in ('closed','reopened') and not label.startswith('approve'):
-                          continue
-                      records.append({'event': kind, 'label': label, 'actor': actor,
-                                      'created': item.get('created_at'), 'approval_command': command,
-                                      'thumbs_up': (item.get('reactions') or {}).get('+1')})
-                  print('Approval exception audit ' + json.dumps({
-                      'issue': number, 'author': issue['user']['login'], 'closed': issue['closed_at'],
-                      'events': records,
-                  }), flush=True)
+              repository = os.environ['GITHUB_REPOSITORY']
+              history = _load_approval_history(session, repository, previous)
+              first_pass_pending = sum(row['approver'] is None for row in history.values())
+              previous_pending = None
+              for _ in range(6):
+                  pending = sum(row['approver'] is None and row.get('rest_checked_version') != REST_CHECK_VERSION
+                                for row in history.values())
+                  if pending == 0 or pending == previous_pending:
+                      break
+                  previous_pending = pending
+                  _recheck_unattributed(session, repository, history, RateLimiter(4))
+
+          excluded = sorted(missing - history.keys(), key=int)
+          decisions = Counter()
+          for number in missing & history.keys():
+              person = history[number]['approver']
+              if person:
+                  decisions[(person['login'], person.get('source', 'human'))] += 1
+          remaining = sorted((number for number, row in history.items() if row['approver'] is None), key=int)
+          print('Approval attribution audit ' + json.dumps({
+              'baseline_unattributed': len(missing),
+              'remaining_after_first_refresh': first_pass_pending,
+              'excluded': excluded,
+              'attributed': [{'login': login, 'source': source, 'count': count}
+                             for (login, source), count in sorted(decisions.items())],
+              'remaining': remaining,
+              'total_eligible': len(history),
+          }), flush=True)
+          assert history['1330']['approver']['login'] == 'jjnether'
+          assert history['1338']['approver']['login'] == 'ReenigneArcher'
+          assert history['6591']['approver']['login'] == 'ReenigneArcher'
+          assert history['9393']['approver'].get('source') == 'automatic'
+          assert excluded == ['1353'], excluded
+          assert not remaining, remaining
           PY

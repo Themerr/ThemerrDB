@@ -267,6 +267,29 @@ def test_bot_promotion_without_clear_automatic_evidence_stays_unattributed(timel
     assert leaderboard._fallback_approver(timeline, '2026-11-23T18:51:48Z') is None
 
 
+def test_acknowledged_command_can_promote_a_bot_queued_issue():
+    timeline = [
+        label('approve-queue', BOT),
+        command('acknowledged'),
+        label('approve-theme', BOT),
+    ]
+    approval = leaderboard._find_approver(timeline, CLOSED, {'acknowledged'})
+    assert approval == {'id': 1, 'login': 'reviewer'}
+
+
+def test_command_after_promotion_preserves_automatic_attribution():
+    timeline = [
+        label('approve-queue', BOT),
+        label('approve-theme', BOT),
+        {**command('acknowledged'), 'createdAt': '2026-10-23T23:09:02Z'},
+    ]
+    closed_at = '2026-10-23T23:09:23Z'
+    assert leaderboard._find_approver(timeline, closed_at, {'acknowledged'}) is None
+    assert leaderboard._fallback_approver(timeline, closed_at) == {
+        'id': BOT['databaseId'], 'login': BOT['login'], 'source': 'automatic',
+    }
+
+
 def test_recheck_can_retry_when_github_requests_fail(monkeypatch, capsys):
     session = requests.Session()
     monkeypatch.setattr(session, 'get', Mock(side_effect=[

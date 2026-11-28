@@ -237,7 +237,7 @@ def _find_approver(timeline: list, closed_at: str, confirmed_commands: set[str])
                     queued = _label_approver(event, command)
                     command = None
                 elif label in APPROVAL_LABELS:
-                    approver = _label_approver(event, queued)
+                    approver = _label_approver(event, queued or command)
                     command = None
     return approver
 
@@ -263,16 +263,19 @@ def _bot_label_actor(event: dict) -> dict | None:
     return None
 
 
-def _automatic_approver(labels: list) -> dict | None:
+def _automatic_approver(labels: list, events: list) -> dict | None:
     """Require both bot queueing and bot promotion without a human approval label."""
     if any(_bot_label_actor(item) is None for item in labels if item['__typename'] == 'LabeledEvent'):
         return None
     active_labels = [item for item in labels if item['label']['name'] == APPROVE_THEME_LABEL]
     if not active_labels or not (actor := _bot_label_actor(active_labels[-1])):
         return None
+    promoted_at = active_labels[-1]['createdAt']
+    if any(item['__typename'] == 'IssueComment' and item['createdAt'] <= promoted_at for item in events):
+        return None
     queued = [
         item for item in labels
-        if item['label']['name'] == APPROVE_QUEUE_LABEL and item['createdAt'] <= active_labels[-1]['createdAt']
+        if item['label']['name'] == APPROVE_QUEUE_LABEL and item['createdAt'] <= promoted_at
     ]
     if not queued or not _bot_label_actor(queued[-1]):
         return None
@@ -291,8 +294,8 @@ def _fallback_approver(timeline: list, closed_at: str) -> dict | None:
         # The old workflow could remove the approval label just before a successful close.
         people = (_person(item.get('actor')) for item in labels if item['__typename'] == 'LabeledEvent')
         return next(filter(None, people), None)
-    if closed_at[:10] >= AUTOMATIC_APPROVAL_START and not any(item['__typename'] == 'IssueComment' for item in events):
-        return _automatic_approver(labels)
+    if closed_at[:10] >= AUTOMATIC_APPROVAL_START:
+        return _automatic_approver(labels, events)
     return None
 
 
