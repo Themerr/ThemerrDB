@@ -812,7 +812,10 @@ def test_process_item_id(item_type, item_id, mock_igdb_api, mock_tmdb_api, youtu
     assert data['youtube_theme_url']
 
 
-def test_main_daily_update(daily_update_args, mock_igdb_api, mock_tmdb_api, monkeypatch):
+def test_main_daily_update(daily_update_args, mock_igdb_api, mock_tmdb_api, tmp_path, monkeypatch):
+    monkeypatch.chdir(tmp_path)
+    (tmp_path / 'gh-pages-template').mkdir()
+
     class FutureDateTime(RealDateTime):
         @classmethod
         def now(cls, tz=None):
@@ -822,6 +825,8 @@ def test_main_daily_update(daily_update_args, mock_igdb_api, mock_tmdb_api, monk
     monkeypatch.setattr(updater, '_write_open_request_outputs', lambda: None)
 
     updater.main()
+
+    assert (tmp_path / 'database' / 'database_growth_stacked.svg').is_file()
 
 
 def test_main_issue_update_movie(issue_update_args, submission_movie, mock_tmdb_api, mock_youtube_api):

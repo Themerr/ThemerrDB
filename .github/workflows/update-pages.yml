@@ -101,6 +101,12 @@ jobs:
 
           uv run --no-build --no-sync python -u ./src/updater.py --daily_update
 
+      - name: Update approval leaderboard
+        if: github.event_name != 'pull_request'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: uv run --no-build --no-sync python -m src.approval_leaderboard
+
       - name: Archive database
         shell: bash
         run: |

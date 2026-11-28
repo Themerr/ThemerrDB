@@ -99,7 +99,6 @@ The following guide is meant for authorized Themerr approvers to use when approv
 > If a user fails to answer your question after about a week or longer, you can proceed how you think best with the theme.
 
 - A useful website for checking regional blocks on a Youtube video can be found [here](https://watannetwork.com/tools/blocked/).
-- The `approve-queue` label can be manually added to add an issue to the bot approval queue.
 
 > [!NOTE]
-> These labels should typically not need to be manually added, but they are helpful for troubleshooting.
+> Use the bot's approve command for routine approvals. Reserve the approval labels for troubleshooting.
