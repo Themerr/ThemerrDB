@@ -52,12 +52,12 @@
     ],
     "production_countries": [
         {
-            "iso_3166_1": "GB",
-            "name": "United Kingdom"
-        },
-        {
             "iso_3166_1": "US",
             "name": "United States"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
         },
         {
             "iso_3166_1": "FR",
@@ -80,7 +80,7 @@
     "title": "Thelma & Louise",
     "video": false,
     "vote_average": 7.597,
-    "vote_count": 4098,
+    "vote_count": 4099,
     "youtube_theme_added": 1675633169,
     "youtube_theme_added_by": "15357950",
     "youtube_theme_edited": 1675633169,

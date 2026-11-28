@@ -33,7 +33,7 @@
     ],
     "homepage": "https://www.amazon.com/dp/B0FBJHCKDW",
     "id": 219760,
-    "in_production": true,
+    "in_production": false,
     "languages": [
         "en"
     ],
@@ -131,10 +131,10 @@
             "name": "English"
         }
     ],
-    "status": "Returning Series",
+    "status": "Ended",
     "tagline": "An origin story.",
     "type": "Scripted",
-    "vote_average": 7.696,
+    "vote_average": 7.7,
     "vote_count": 326,
     "youtube_theme_added": 1795552571,
     "youtube_theme_added_by": "3836170",

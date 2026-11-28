@@ -24,8 +24,8 @@
             "softcore": false,
             "title": "Home Alone",
             "video": false,
-            "vote_average": 7.473,
-            "vote_count": 13134
+            "vote_average": 7.5,
+            "vote_count": 13138
         },
         {
             "adult": false,
@@ -47,7 +47,7 @@
             "title": "Home Alone 2: Lost in New York",
             "video": false,
             "vote_average": 6.801,
-            "vote_count": 11099
+            "vote_count": 11100
         },
         {
             "adult": false,
@@ -67,8 +67,8 @@
             "softcore": false,
             "title": "Home Alone 3",
             "video": false,
-            "vote_average": 5.28,
-            "vote_count": 3428
+            "vote_average": 5.281,
+            "vote_count": 3429
         },
         {
             "adult": false,

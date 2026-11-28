@@ -61,7 +61,7 @@
     ],
     "homepage": "https://www.netflix.com/title/80994082",
     "id": 96677,
-    "in_production": true,
+    "in_production": false,
     "languages": [
         "fr"
     ],
@@ -161,11 +161,11 @@
             "name": "fran\u00e7ais"
         }
     ],
-    "status": "Returning Series",
+    "status": "Ended",
     "tagline": "Two Lupins. One too many.",
     "type": "Scripted",
-    "vote_average": 7.681,
-    "vote_count": 2821,
+    "vote_average": 7.7,
+    "vote_count": 2824,
     "youtube_theme_added": 1792837595,
     "youtube_theme_added_by": "93882479",
     "youtube_theme_edited": 1792837595,

@@ -25,7 +25,7 @@
             "title": "Harry Potter and the Philosopher's Stone",
             "video": false,
             "vote_average": 7.904,
-            "vote_count": 30704
+            "vote_count": 30706
         },
         {
             "adult": false,
@@ -46,7 +46,7 @@
             "title": "Harry Potter and the Chamber of Secrets",
             "video": false,
             "vote_average": 7.709,
-            "vote_count": 24469
+            "vote_count": 24470
         },
         {
             "adult": false,
@@ -66,7 +66,7 @@
             "softcore": false,
             "title": "Harry Potter and the Goblet of Fire",
             "video": false,
-            "vote_average": 7.803,
+            "vote_average": 7.804,
             "vote_count": 23007
         },
         {
@@ -88,7 +88,7 @@
             "title": "Harry Potter and the Half-Blood Prince",
             "video": false,
             "vote_average": 7.681,
-            "vote_count": 21502
+            "vote_count": 21504
         },
         {
             "adult": false,
@@ -108,7 +108,7 @@
             "softcore": false,
             "title": "Harry Potter and the Prisoner of Azkaban",
             "video": false,
-            "vote_average": 8.014,
+            "vote_average": 8.015,
             "vote_count": 24052
         },
         {
@@ -130,7 +130,7 @@
             "title": "Harry Potter and the Order of the Phoenix",
             "video": false,
             "vote_average": 7.672,
-            "vote_count": 21543
+            "vote_count": 21545
         },
         {
             "adult": false,
@@ -150,8 +150,8 @@
             "softcore": false,
             "title": "Harry Potter and the Deathly Hallows: Part 1",
             "video": false,
-            "vote_average": 7.732,
-            "vote_count": 21109
+            "vote_average": 7.733,
+            "vote_count": 21110
         },
         {
             "adult": false,

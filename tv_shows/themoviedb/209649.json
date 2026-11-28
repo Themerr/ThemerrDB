@@ -38,7 +38,7 @@
         "id": 4573345,
         "name": "Not a Bad Night",
         "overview": "Haruto's copy attends a welcoming party held by Professor Tearietta, in celebration of Haruto and Iris joining the research lab. Unbeknownst to the partygoers, Schneidel has sent an elite group of assassins to eliminate everyone present!",
-        "production_code": "",
+        "production_code": null,
         "runtime": 23,
         "season_number": 1,
         "show_id": 209649,
@@ -202,7 +202,7 @@
     "original_language": "ja",
     "original_name": "\u5b9f\u306f\u4ffa\u3001\u6700\u5f37\u3067\u3057\u305f\uff1f",
     "overview": "After being a shut-in, Haruto is reincarnated as a baby. And amazingly, that baby is a prince! However, he's abandoned in a forest on the day he's born because of his low magic level... What will be the fate of Haruto, who was inadvertently given 1000 times the normal amount of magic by the goddess of reincarnation without anyone noticing?!",
-    "popularity": 8.2461,
+    "popularity": 8.0237,
     "poster_path": "/og42meOPOiq37wUSfQV0lqb1U0Q.jpg",
     "production_companies": [
         {
@@ -277,7 +277,7 @@
     "status": "Ended",
     "tagline": "",
     "type": "Scripted",
-    "vote_average": 7.327,
+    "vote_average": 7.3,
     "vote_count": 113,
     "youtube_theme_added": 1720808123,
     "youtube_theme_added_by": "175335713",

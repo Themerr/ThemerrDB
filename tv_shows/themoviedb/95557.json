@@ -1,6 +1,6 @@
 {
     "adult": false,
-    "backdrop_path": "/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
+    "backdrop_path": "/o5QLdLh4SDkY4yDncW0qTZXETdD.jpg",
     "created_by": [],
     "episode_run_time": [],
     "first_air_date": "2021-03-25",
@@ -8,10 +8,6 @@
         {
             "id": 16,
             "name": "Animation"
-        },
-        {
-            "id": 18,
-            "name": "Drama"
         },
         {
             "id": 10765,
@@ -76,7 +72,7 @@
     "original_language": "en",
     "original_name": "INVINCIBLE",
     "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father's tutelage.",
-    "popularity": 68.5068,
+    "popularity": 67.4276,
     "poster_path": "/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
     "production_companies": [
         {
@@ -193,7 +189,7 @@
     "status": "Returning Series",
     "tagline": "Almost there.",
     "type": "Scripted",
-    "vote_average": 8.622,
+    "vote_average": 8.6,
     "vote_count": 6184,
     "youtube_theme_added": 1711468868,
     "youtube_theme_added_by": "28829297",

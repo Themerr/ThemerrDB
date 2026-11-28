@@ -33,32 +33,8 @@
     "languages": [
         "en"
     ],
-    "last_air_date": "2026-11-20",
+    "last_air_date": "2026-11-27",
     "last_episode_to_air": {
-        "air_date": "2026-11-20",
-        "episode_number": 6,
-        "episode_type": "standard",
-        "id": 7499440,
-        "name": "Racket Club",
-        "overview": "Dwight battles to protect the ranch from Van Heusen's land grab.",
-        "production_code": "",
-        "runtime": 39,
-        "season_number": 4,
-        "show_id": 153312,
-        "still_path": "/buQLdkJbt2DTUHiJ0qDRTbZkaIP.jpg",
-        "vote_average": 8.6,
-        "vote_count": 24
-    },
-    "name": "Tulsa King",
-    "networks": [
-        {
-            "id": 4330,
-            "logo_path": "/fi83B1oztoS47xxcemFdPMhIzK.png",
-            "name": "Paramount+",
-            "origin_country": "US"
-        }
-    ],
-    "next_episode_to_air": {
         "air_date": "2026-11-27",
         "episode_number": 7,
         "episode_type": "standard",
@@ -70,8 +46,32 @@
         "season_number": 4,
         "show_id": 153312,
         "still_path": "/fr282E5kge3NaTvbg793Q84xs42.jpg",
-        "vote_average": 9.0,
-        "vote_count": 2
+        "vote_average": 9.2,
+        "vote_count": 3
+    },
+    "name": "Tulsa King",
+    "networks": [
+        {
+            "id": 4330,
+            "logo_path": "/fi83B1oztoS47xxcemFdPMhIzK.png",
+            "name": "Paramount+",
+            "origin_country": "US"
+        }
+    ],
+    "next_episode_to_air": {
+        "air_date": "2026-12-04",
+        "episode_number": 8,
+        "episode_type": "standard",
+        "id": 7499442,
+        "name": "Storm Front",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 4,
+        "show_id": 153312,
+        "still_path": null,
+        "vote_average": 0.0,
+        "vote_count": 0
     },
     "number_of_episodes": 39,
     "number_of_seasons": 4,
@@ -81,7 +81,7 @@
     "original_language": "en",
     "original_name": "Tulsa King",
     "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-    "popularity": 281.0071,
+    "popularity": 275.5975,
     "poster_path": "/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
     "production_companies": [
         {
@@ -182,7 +182,7 @@
             "overview": "In season four, Dwight fights to legitimize his empire and protect his crew as corrupt politicians, dangerous new enemies, and a crushing personal loss hit from every direction. However, every hard-won gain comes with even harder truths: about loyalty, leadership and the cost of ambition. Each move drags Dwight deeper into the street instincts he left behind in New York - turning Tulsa into a battleground and Dwight into the one threat no one can afford to underestimate.",
             "poster_path": "/aqvDey0veLcY7XkoDWGFOqRAD3I.jpg",
             "season_number": 4,
-            "vote_average": 8.5
+            "vote_average": 8.6
         }
     ],
     "softcore": false,

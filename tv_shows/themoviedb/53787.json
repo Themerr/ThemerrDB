@@ -1,7 +1,16 @@
 {
     "adult": false,
     "backdrop_path": "/9ZfSM7eZVLbjYdZB31tlUi2egR8.jpg",
-    "created_by": [],
+    "created_by": [
+        {
+            "credit_id": "6b0b10122e14058d0ac11b81",
+            "gender": 1,
+            "id": 1556193,
+            "name": "Kozue Amano",
+            "original_name": "\u5929\u91ce\u3053\u305a\u3048",
+            "profile_path": null
+        }
+    ],
     "episode_run_time": [
         24
     ],
@@ -125,8 +134,8 @@
     "status": "Ended",
     "tagline": "",
     "type": "Scripted",
-    "vote_average": 8.4,
-    "vote_count": 41,
+    "vote_average": 8.5,
+    "vote_count": 42,
     "youtube_theme_added": 1791734509,
     "youtube_theme_added_by": "7787007",
     "youtube_theme_edited": 1791734509,

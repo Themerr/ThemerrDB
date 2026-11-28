@@ -42,8 +42,8 @@
         "season_number": 38,
         "show_id": 456,
         "still_path": "/eEYBTo7rEwyE0ZHgUb3wgYA4lx8.jpg",
-        "vote_average": 4.5,
-        "vote_count": 2
+        "vote_average": 6.333,
+        "vote_count": 3
     },
     "name": "The Simpsons",
     "networks": [
@@ -515,7 +515,7 @@
     "tagline": "Just a product of society that's lost its good manners.",
     "type": "Scripted",
     "vote_average": 8.03,
-    "vote_count": 11201,
+    "vote_count": 11202,
     "youtube_theme_added": 1704908494,
     "youtube_theme_added_by": "42013603",
     "youtube_theme_edited": 1704908494,

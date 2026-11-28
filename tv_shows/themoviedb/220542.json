@@ -28,19 +28,19 @@
     ],
     "last_air_date": "2026-11-20",
     "last_episode_to_air": {
-        "air_date": "2026-11-20",
-        "episode_number": 56,
+        "air_date": "2026-11-27",
+        "episode_number": 57,
         "episode_type": "standard",
-        "id": 7810349,
-        "name": "Hemp and Folk Religion",
-        "overview": "Maomao, Jinshi, and Basen continue their journey west, but they aren't the only ones heading that way.",
-        "production_code": "",
+        "id": 7810357,
+        "name": "Problems Accumulate",
+        "overview": "Maomao arrives at the Western Capital and gets a first look at the political tension taking place there.",
+        "production_code": null,
         "runtime": 24,
         "season_number": 1,
         "show_id": 220542,
-        "still_path": "/wx4DaUHyzr4bySRmxFST8L0rQB5.jpg",
-        "vote_average": 6.6,
-        "vote_count": 5
+        "still_path": "/mSEE2BpQdT7uKKSV1mJrcXtZBMM.jpg",
+        "vote_average": 7.5,
+        "vote_count": 2
     },
     "name": "The Apothecary Diaries",
     "networks": [
@@ -76,19 +76,19 @@
         }
     ],
     "next_episode_to_air": {
-        "air_date": "2026-11-27",
-        "episode_number": 57,
+        "air_date": "2026-12-04",
+        "episode_number": 58,
         "episode_type": "standard",
-        "id": 7810357,
-        "name": "Problems Accumulate",
-        "overview": "Maomao arrives at the Western Capital and gets a first look at the political tension taking place there.",
+        "id": 7810361,
+        "name": "The Western Capital",
+        "overview": "",
         "production_code": null,
-        "runtime": 24,
+        "runtime": null,
         "season_number": 1,
         "show_id": 220542,
-        "still_path": "/mSEE2BpQdT7uKKSV1mJrcXtZBMM.jpg",
-        "vote_average": 8.0,
-        "vote_count": 1
+        "still_path": null,
+        "vote_average": 0.0,
+        "vote_count": 0
     },
     "number_of_episodes": 60,
     "number_of_seasons": 1,
@@ -98,7 +98,7 @@
     "original_language": "ja",
     "original_name": "\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068",
     "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
-    "popularity": 99.8331,
+    "popularity": 108.9395,
     "poster_path": "/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
     "production_companies": [
         {

@@ -43,8 +43,8 @@
         "season_number": 2,
         "show_id": 247718,
         "still_path": "/h8SkZGUipXUPuCrHTeIn1A1ff0f.jpg",
-        "vote_average": 9.0,
-        "vote_count": 39
+        "vote_average": 9.025,
+        "vote_count": 40
     },
     "name": "MobLand",
     "networks": [
@@ -71,7 +71,7 @@
     "original_language": "en",
     "original_name": "MobLand",
     "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-    "popularity": 1748.5294,
+    "popularity": 1221.3349,
     "poster_path": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
     "production_companies": [
         {
@@ -169,8 +169,8 @@
     "status": "Returning Series",
     "tagline": "Chaos reigns.",
     "type": "Scripted",
-    "vote_average": 8.688,
-    "vote_count": 1322,
+    "vote_average": 8.692,
+    "vote_count": 1326,
     "youtube_theme_added": 1790376728,
     "youtube_theme_added_by": "108456101",
     "youtube_theme_edited": 1790376728,

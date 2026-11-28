@@ -25,7 +25,7 @@
             "title": "John Wick",
             "video": false,
             "vote_average": 7.468,
-            "vote_count": 21680
+            "vote_count": 21682
         },
         {
             "adult": false,
@@ -46,7 +46,7 @@
             "softcore": false,
             "title": "John Wick: Chapter 2",
             "video": false,
-            "vote_average": 7.346,
+            "vote_average": 7.3,
             "vote_count": 14884
         },
         {
@@ -68,7 +68,7 @@
             "softcore": false,
             "title": "John Wick: Chapter 3 - Parabellum",
             "video": false,
-            "vote_average": 7.436,
+            "vote_average": 7.437,
             "vote_count": 12317
         },
         {
@@ -90,8 +90,8 @@
             "softcore": false,
             "title": "John Wick: Chapter 4",
             "video": false,
-            "vote_average": 7.706,
-            "vote_count": 8577
+            "vote_average": 7.707,
+            "vote_count": 8578
         }
     ],
     "poster_path": "/sm7rZZivZm2NhJDucFf3gpfFdVt.jpg",

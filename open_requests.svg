@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" width="900" height="1261" viewBox="0 0 900 1261">
 <title id="title">Open Theme Requests by Submitter</title>
-<desc id="desc">851 open · Updated 2026-11-28 UTC. All submitters with open theme requests, ordered by request count.</desc>
+<desc id="desc">855 open · Updated 2026-11-28 UTC. All submitters with open theme requests, ordered by request count.</desc>
 <style>
 text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#f2f6ff}
 .muted{fill:#aabbd2;font-size:14px}
@@ -8,7 +8,7 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#f2
 </style>
 <rect width="100%" height="100%" rx="16" fill="#101827"/>
 <text x="24" y="36" font-size="27" font-weight="700">Open Theme Requests by Submitter</text>
-<text class="muted" x="24" y="60">851 open · Updated 2026-11-28 UTC</text>
+<text class="muted" x="24" y="60">855 open · Updated 2026-11-28 UTC</text>
 <rect x="24" y="77" width="418" height="1160" rx="10" fill="#172235"/>
 <rect x="458" y="77" width="418" height="1160" rx="10" fill="#172235"/>
 <text x="42" y="99" font-size="14">@supervo87</text>
@@ -35,18 +35,18 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#f2
 <text class="count" x="424" y="269" text-anchor="end">18</text>
 <rect x="42" y="274" width="382" height="4" rx="2" fill="#2e405b"/>
 <rect x="42" y="274" width="46.15" height="4" rx="2" fill="#ffc785"/>
-<text x="42" y="303" font-size="14">@kilatib</text>
+<text x="42" y="303" font-size="14">@jj3005</text>
 <text class="count" x="424" y="303" text-anchor="end">18</text>
 <rect x="42" y="308" width="382" height="4" rx="2" fill="#2e405b"/>
 <rect x="42" y="308" width="46.15" height="4" rx="2" fill="#ffc785"/>
-<text x="42" y="337" font-size="14">@Aestolia</text>
-<text class="count" x="424" y="337" text-anchor="end">17</text>
+<text x="42" y="337" font-size="14">@kilatib</text>
+<text class="count" x="424" y="337" text-anchor="end">18</text>
 <rect x="42" y="342" width="382" height="4" rx="2" fill="#2e405b"/>
-<rect x="42" y="342" width="43.58" height="4" rx="2" fill="#ffc785"/>
-<text x="42" y="371" font-size="14">@jj3005</text>
-<text class="count" x="424" y="371" text-anchor="end">15</text>
+<rect x="42" y="342" width="46.15" height="4" rx="2" fill="#ffc785"/>
+<text x="42" y="371" font-size="14">@Aestolia</text>
+<text class="count" x="424" y="371" text-anchor="end">17</text>
 <rect x="42" y="376" width="382" height="4" rx="2" fill="#2e405b"/>
-<rect x="42" y="376" width="38.46" height="4" rx="2" fill="#ffc785"/>
+<rect x="42" y="376" width="43.58" height="4" rx="2" fill="#ffc785"/>
 <text x="42" y="405" font-size="14">@techyhard</text>
 <text class="count" x="424" y="405" text-anchor="end">13</text>
 <rect x="42" y="410" width="382" height="4" rx="2" fill="#2e405b"/>
@@ -259,24 +259,28 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#f2
 <text class="count" x="858" y="1017" text-anchor="end">1</text>
 <rect x="476" y="1022" width="382" height="4" rx="2" fill="#2e405b"/>
 <rect x="476" y="1022" width="2.56" height="4" rx="2" fill="#ffc785"/>
-<text x="476" y="1051" font-size="14">@danguno</text>
+<text x="476" y="1051" font-size="14">@AlfDoesStuff</text>
 <text class="count" x="858" y="1051" text-anchor="end">1</text>
 <rect x="476" y="1056" width="382" height="4" rx="2" fill="#2e405b"/>
 <rect x="476" y="1056" width="2.56" height="4" rx="2" fill="#ffc785"/>
-<text x="476" y="1085" font-size="14">@hazzah12</text>
+<text x="476" y="1085" font-size="14">@danguno</text>
 <text class="count" x="858" y="1085" text-anchor="end">1</text>
 <rect x="476" y="1090" width="382" height="4" rx="2" fill="#2e405b"/>
 <rect x="476" y="1090" width="2.56" height="4" rx="2" fill="#ffc785"/>
-<text x="476" y="1119" font-size="14">@itty1410</text>
+<text x="476" y="1119" font-size="14">@hazzah12</text>
 <text class="count" x="858" y="1119" text-anchor="end">1</text>
 <rect x="476" y="1124" width="382" height="4" rx="2" fill="#2e405b"/>
 <rect x="476" y="1124" width="2.56" height="4" rx="2" fill="#ffc785"/>
-<text x="476" y="1153" font-size="14">@Jdwilsh</text>
+<text x="476" y="1153" font-size="14">@itty1410</text>
 <text class="count" x="858" y="1153" text-anchor="end">1</text>
 <rect x="476" y="1158" width="382" height="4" rx="2" fill="#2e405b"/>
 <rect x="476" y="1158" width="2.56" height="4" rx="2" fill="#ffc785"/>
-<text x="476" y="1187" font-size="14">@MahmoudMWally</text>
+<text x="476" y="1187" font-size="14">@Jdwilsh</text>
 <text class="count" x="858" y="1187" text-anchor="end">1</text>
 <rect x="476" y="1192" width="382" height="4" rx="2" fill="#2e405b"/>
 <rect x="476" y="1192" width="2.56" height="4" rx="2" fill="#ffc785"/>
+<text x="476" y="1221" font-size="14">@MahmoudMWally</text>
+<text class="count" x="858" y="1221" text-anchor="end">1</text>
+<rect x="476" y="1226" width="382" height="4" rx="2" fill="#2e405b"/>
+<rect x="476" y="1226" width="2.56" height="4" rx="2" fill="#ffc785"/>
 </svg>

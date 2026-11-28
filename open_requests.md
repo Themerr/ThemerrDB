@@ -4,7 +4,7 @@ title: Open Theme Requests by Submitter
 permalink: /open_requests.html
 ---
 
-851 open · Updated 2026-11-28 UTC
+855 open · Updated 2026-11-28 UTC
 
 [View all open theme requests on GitHub](https://github.com/Themerr/ThemerrDB/issues?q=is%3Aissue%20is%3Aopen%20label%3Arequest-theme)
 
@@ -16,9 +16,9 @@ permalink: /open_requests.html
 | <a href="https://github.com/Themerr/ThemerrDB/issues?q=is%3Aissue%20is%3Aopen%20label%3Arequest-theme%20author%3Adan2804">@dan2804</a> | 91 |
 | <a href="https://github.com/Themerr/ThemerrDB/issues?q=is%3Aissue%20is%3Aopen%20label%3Arequest-theme%20author%3Abaulaergrungim">@baulaergrungim</a> | 21 |
 | <a href="https://github.com/Themerr/ThemerrDB/issues?q=is%3Aissue%20is%3Aopen%20label%3Arequest-theme%20author%3ADragonlive76">@Dragonlive76</a> | 18 |
+| <a href="https://github.com/Themerr/ThemerrDB/issues?q=is%3Aissue%20is%3Aopen%20label%3Arequest-theme%20author%3Ajj3005">@jj3005</a> | 18 |
 | <a href="https://github.com/Themerr/ThemerrDB/issues?q=is%3Aissue%20is%3Aopen%20label%3Arequest-theme%20author%3Akilatib">@kilatib</a> | 18 |
 | <a href="https://github.com/Themerr/ThemerrDB/issues?q=is%3Aissue%20is%3Aopen%20label%3Arequest-theme%20author%3AAestolia">@Aestolia</a> | 17 |
-| <a href="https://github.com/Themerr/ThemerrDB/issues?q=is%3Aissue%20is%3Aopen%20label%3Arequest-theme%20author%3Ajj3005">@jj3005</a> | 15 |
 | <a href="https://github.com/Themerr/ThemerrDB/issues?q=is%3Aissue%20is%3Aopen%20label%3Arequest-theme%20author%3Atechyhard">@techyhard</a> | 13 |
 | <a href="https://github.com/Themerr/ThemerrDB/issues?q=is%3Aissue%20is%3Aopen%20label%3Arequest-theme%20author%3Aezequielaraujho">@ezequielaraujho</a> | 12 |
 | <a href="https://github.com/Themerr/ThemerrDB/issues?q=is%3Aissue%20is%3Aopen%20label%3Arequest-theme%20author%3Agrubia">@grubia</a> | 12 |
@@ -72,6 +72,7 @@ permalink: /open_requests.html
 | <a href="https://github.com/Themerr/ThemerrDB/issues?q=is%3Aissue%20is%3Aopen%20label%3Arequest-theme%20author%3ATutenks">@Tutenks</a> | 2 |
 | <a href="https://github.com/Themerr/ThemerrDB/issues?q=is%3Aissue%20is%3Aopen%20label%3Arequest-theme%20author%3A1ofx9">@1ofx9</a> | 1 |
 | <a href="https://github.com/Themerr/ThemerrDB/issues?q=is%3Aissue%20is%3Aopen%20label%3Arequest-theme%20author%3AAhmedMekawi">@AhmedMekawi</a> | 1 |
+| <a href="https://github.com/Themerr/ThemerrDB/issues?q=is%3Aissue%20is%3Aopen%20label%3Arequest-theme%20author%3AAlfDoesStuff">@AlfDoesStuff</a> | 1 |
 | <a href="https://github.com/Themerr/ThemerrDB/issues?q=is%3Aissue%20is%3Aopen%20label%3Arequest-theme%20author%3Adanguno">@danguno</a> | 1 |
 | <a href="https://github.com/Themerr/ThemerrDB/issues?q=is%3Aissue%20is%3Aopen%20label%3Arequest-theme%20author%3Ahazzah12">@hazzah12</a> | 1 |
 | <a href="https://github.com/Themerr/ThemerrDB/issues?q=is%3Aissue%20is%3Aopen%20label%3Arequest-theme%20author%3Aitty1410">@itty1410</a> | 1 |

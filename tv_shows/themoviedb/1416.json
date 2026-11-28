@@ -33,7 +33,7 @@
         "id": 7904668,
         "name": "Till I Collapse",
         "overview": "Grey Sloan is overrun with patients after a nearby hospital closes its doors, and hospital leadership clashes with how best to manage the chaos.",
-        "production_code": "",
+        "production_code": null,
         "runtime": 43,
         "season_number": 23,
         "show_id": 1416,
@@ -57,7 +57,7 @@
         "id": 8089585,
         "name": "Episode 7",
         "overview": "",
-        "production_code": "",
+        "production_code": null,
         "runtime": null,
         "season_number": 23,
         "show_id": 1416,
@@ -73,7 +73,7 @@
     "original_language": "en",
     "original_name": "Grey's Anatomy",
     "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-    "popularity": 1222.9884,
+    "popularity": 905.6682,
     "poster_path": "/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
     "production_companies": [
         {
@@ -190,7 +190,7 @@
             "overview": "Enter a world of change in the irresistible and unforgettable fourth season of Grey's Anatomy. Love, lies, and family ties are revealed as the surgeons of Seattle Grace discover that their choices have major unintended consequences. And coupled with the arrival of some very eager new interns, life at the hospital sizzles with more emotion, excitement, and heartbreak than ever before.",
             "poster_path": "/gDQR39nMdjAvGyWe4lOPCj4iMQx.jpg",
             "season_number": 4,
-            "vote_average": 7.9
+            "vote_average": 8.0
         },
         {
             "air_date": "2008-09-25",
@@ -395,7 +395,7 @@
     "tagline": "Begin again.",
     "type": "Scripted",
     "vote_average": 8.199,
-    "vote_count": 11150,
+    "vote_count": 11151,
     "youtube_theme_added": 1704918144,
     "youtube_theme_added_by": "42013603",
     "youtube_theme_edited": 1704918144,
