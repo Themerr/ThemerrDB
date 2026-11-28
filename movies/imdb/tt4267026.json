@@ -1,0 +1,74 @@
+{
+    "adult": false,
+    "backdrop_path": "/yIxnn3tcSwHe0DXvvQ3dfFVEPSR.jpg",
+    "belongs_to_collection": {
+        "backdrop_path": "/fk0HFPPpJ2DfOkwOR3JD6FoOG8q.jpg",
+        "id": 607112,
+        "name": "Hell House LLC Collection",
+        "poster_path": "/i2asszAuJlGyy7XSMadETGdMLB0.jpg"
+    },
+    "budget": 25000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://www.hellhousellc.com/",
+    "id": 359246,
+    "imdb_id": "tt4267026",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Hell House LLC",
+    "overview": "Five years after an unexplained malfunction causes the death of 15 tour-goers and staff on the opening night of a Halloween haunted house tour, a documentary crew travels back to the scene of the tragedy to find out what really happened.",
+    "popularity": 2.8491,
+    "poster_path": "/xUSCQEbbAy3Lv6r00RfXtdxhRDX.jpg",
+    "production_companies": [
+        {
+            "id": 62981,
+            "logo_path": null,
+            "name": "Cognetti Films",
+            "origin_country": ""
+        },
+        {
+            "id": 209454,
+            "logo_path": null,
+            "name": "Marlyous' Boys",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States"
+        }
+    ],
+    "release_date": "2015-10-16",
+    "revenue": 0,
+    "runtime": 91,
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "New York's Scariest Haunted House Tour",
+    "title": "Hell House LLC",
+    "video": false,
+    "vote_average": 6.484,
+    "vote_count": 728,
+    "youtube_theme_added": 1795829912,
+    "youtube_theme_added_by": "15040940",
+    "youtube_theme_edited": 1795829912,
+    "youtube_theme_edited_by": "15040940",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=2zy_YRoUHls"
+}
