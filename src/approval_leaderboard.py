@@ -28,7 +28,10 @@ APPROVAL_LABELS = {APPROVE_THEME_LABEL, 'add-game', 'add-movie'}
 # The retired labels were migrated to approve-theme in August 2023.
 APPROVAL_LABEL_MIGRATION = '2023-08-08T00:00:00Z'
 APPROVAL_BOT = 'lizardbyte-bot'
+AUTOMATIC_APPROVAL_START = '2026-05-27'
+AUTOMATIC_SOURCE = 'automatic'
 REST_TIMELINE_EVENTS = {'labeled', 'unlabeled', 'closed', 'reopened'}
+REST_CHECK_VERSION = 2
 REST_REQUEST_RESERVE = 50
 TITLE = 'Approval Leaderboard'
 BASENAME = 'approval_leaderboard'
@@ -206,16 +209,26 @@ def _label_approver(event: dict, previous_approver: dict | None) -> dict | None:
     return _person(actor)
 
 
-def _find_approver(timeline: list, closed_at: str, confirmed_commands: set[str]) -> dict | None:
-    """Follow the approval label and queue through the issue's final close."""
-    command = queued = approver = None
+def _final_open_events(timeline: list, closed_at: str) -> list:
+    """Keep the events from the final open period through the closing event."""
+    events = []
     for event in timeline:
         kind = event['__typename']
         if event['createdAt'] > closed_at or (kind == 'ClosedEvent' and event['createdAt'] == closed_at):
             break
+        if kind == 'ReopenedEvent':
+            events.clear()
+        else:
+            events.append(event)
+    return events
+
+
+def _find_approver(timeline: list, closed_at: str, confirmed_commands: set[str]) -> dict | None:
+    """Follow the approval label and queue through the issue's final close."""
+    command = queued = approver = None
+    for event in _final_open_events(timeline, closed_at):
+        kind = event['__typename']
         match kind:
-            case 'ReopenedEvent':
-                command = queued = approver = None
             case 'IssueComment' if event['id'] in confirmed_commands:
                 command = _person(event['author'])
             case 'LabeledEvent' | 'UnlabeledEvent':
@@ -231,8 +244,6 @@ def _find_approver(timeline: list, closed_at: str, confirmed_commands: set[str])
 
 def _rest_command_acknowledged(event: dict, session: requests.Session, repo_url: str, limiter: RateLimiter) -> bool:
     """Check whether a REST timeline comment was an approval acknowledged by the bot."""
-    if event['event'] != 'commented' or not _is_approval_command(event.get('body') or ''):
-        return False
     if (event.get('reactions') or {}).get('+1') == 0:
         return False
     url = f'{repo_url}/issues/comments/{event["id"]}/reactions'
@@ -240,6 +251,49 @@ def _rest_command_acknowledged(event: dict, session: requests.Session, repo_url:
         (reaction.get('user') or {}).get('login', '').casefold() == APPROVAL_BOT
         for reaction in _rest_items(session, url, limiter, content='+1')
     )
+
+
+def _bot_label_actor(event: dict) -> dict | None:
+    """Return the bot account when it applied a label."""
+    actor = event.get('actor') or {}
+    if (event['__typename'] == 'LabeledEvent'
+            and actor.get('login', '').casefold() == APPROVAL_BOT
+            and actor.get('databaseId')):
+        return actor
+    return None
+
+
+def _automatic_approver(labels: list) -> dict | None:
+    """Require both bot queueing and bot promotion without a human approval label."""
+    if any(_bot_label_actor(item) is None for item in labels if item['__typename'] == 'LabeledEvent'):
+        return None
+    active_labels = [item for item in labels if item['label']['name'] == APPROVE_THEME_LABEL]
+    if not active_labels or not (actor := _bot_label_actor(active_labels[-1])):
+        return None
+    queued = [
+        item for item in labels
+        if item['label']['name'] == APPROVE_QUEUE_LABEL and item['createdAt'] <= active_labels[-1]['createdAt']
+    ]
+    if not queued or not _bot_label_actor(queued[-1]):
+        return None
+    return {'id': actor['databaseId'], 'login': actor['login'], 'source': AUTOMATIC_SOURCE}
+
+
+def _fallback_approver(timeline: list, closed_at: str) -> dict | None:
+    """Recover early manual approvals and identify approvals made by automation."""
+    events = _final_open_events(timeline, closed_at)
+    labels = [
+        item for item in events
+        if item['__typename'] in {'LabeledEvent', 'UnlabeledEvent'}
+        and item['label']['name'] in APPROVAL_LABELS | {APPROVE_QUEUE_LABEL}
+    ]
+    if closed_at.startswith('2023-'):
+        # The old workflow could remove the approval label just before a successful close.
+        people = (_person(item.get('actor')) for item in labels if item['__typename'] == 'LabeledEvent')
+        return next(filter(None, people), None)
+    if closed_at[:10] >= AUTOMATIC_APPROVAL_START and not any(item['__typename'] == 'IssueComment' for item in events):
+        return _automatic_approver(labels)
+    return None
 
 
 def _rest_approver(session: requests.Session, repo_url: str, number: str, closed_at: str,
@@ -250,17 +304,19 @@ def _rest_approver(session: requests.Session, repo_url: str, number: str, closed
     for event in _rest_items(session, f'{repo_url}/issues/{number}/timeline', limiter):
         if event['event'] in REST_TIMELINE_EVENTS:
             timeline.append(_rest_label_event(event))
-        elif (created_at := event.get('created_at')) and created_at <= closed_at and _rest_command_acknowledged(
-                event, session, repo_url, limiter):
+        elif (event['event'] == 'commented'
+              and event['created_at'] <= closed_at
+              and _is_approval_command(event.get('body') or '')):
             comment_id = str(event['id'])
             timeline.append({
                 '__typename': 'IssueComment',
                 'id': comment_id,
-                'createdAt': created_at,
+                'createdAt': event['created_at'],
                 'author': _rest_actor(event.get('user')),
             })
-            confirmed.add(comment_id)
-    return _find_approver(timeline, closed_at, confirmed)
+            if _rest_command_acknowledged(event, session, repo_url, limiter):
+                confirmed.add(comment_id)
+    return _find_approver(timeline, closed_at, confirmed) or _fallback_approver(timeline, closed_at)
 
 
 def _recheck_unattributed(session: requests.Session, repository: str, history: dict, limiter: RateLimiter) -> None:
@@ -268,7 +324,7 @@ def _recheck_unattributed(session: requests.Session, repository: str, history: d
     pending = [
         (number, entry)
         for number, entry in history.items()
-        if entry['approver'] is None and not entry.get('rest_checked')
+        if entry['approver'] is None and entry.get('rest_checked_version') != REST_CHECK_VERSION
     ]
     if not pending:
         return
@@ -283,6 +339,7 @@ def _recheck_unattributed(session: requests.Session, repository: str, history: d
         for number, entry in pending[:limit]:
             entry['approver'] = _rest_approver(session, repo_url, number, entry['closed_at'], limiter)
             entry['rest_checked'] = True
+            entry['rest_checked_version'] = REST_CHECK_VERSION
     except requests.RequestException as exc:
         print_github_warning(f'Unable to finish rechecking unattributed approvals: {exc}')
 
@@ -341,7 +398,7 @@ def _rank_approvers(history: dict, session: requests.Session, today: date) -> tu
     logins = {}
     last_approvals = {}
     for entry in sorted(history.values(), key=lambda entry: entry['updated_at'], reverse=True):
-        if approver := entry['approver']:
+        if (approver := entry['approver']) and approver.get('source') != AUTOMATIC_SOURCE:
             user_id = approver['id']
             counts[user_id] += 1
             logins.setdefault(user_id, approver['login'])
@@ -357,7 +414,8 @@ def _rank_approvers(history: dict, session: requests.Session, today: date) -> tu
             avatar_data_uri=fetch_avatar_data_uri(profile, session),
             count_detail=_format_last_approval(last_approvals[user_id], today),
         ))
-    return approvers, len(history) - counts.total()
+    unattributed = sum(entry['approver'] is None for entry in history.values())
+    return approvers, unattributed
 
 
 def render_approval_svg(approvers: list[TopContributor], summary: str) -> str:
@@ -403,7 +461,7 @@ def write_approval_leaderboard(database_root: Path = Path('database')) -> None:
         print_github_warning(f'Unable to refresh approval leaderboard: {exc}')
         return
 
-    total = len(history)
+    total = sum(approver.count for approver in approvers) + unattributed
     summary = f'{total:,} total approvals · {total - unattributed:,} attributed · {unattributed:,} unattributed'
     summary += f' · Updated {today:%Y-%m-%d} UTC'
     chart = render_approval_svg(approvers, summary)
