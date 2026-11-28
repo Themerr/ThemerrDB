@@ -26,7 +26,7 @@
             "title": "Murder on the Orient Express",
             "video": false,
             "vote_average": 6.705,
-            "vote_count": 10877
+            "vote_count": 10879
         },
         {
             "adult": false,
@@ -47,8 +47,8 @@
             "softcore": false,
             "title": "Death on the Nile",
             "video": false,
-            "vote_average": 6.405,
-            "vote_count": 4480
+            "vote_average": 6.404,
+            "vote_count": 4482
         },
         {
             "adult": false,
@@ -70,7 +70,7 @@
             "title": "A Haunting in Venice",
             "video": false,
             "vote_average": 6.559,
-            "vote_count": 3037
+            "vote_count": 3038
         }
     ],
     "poster_path": "/3FWaxwZgpLDFIDm1HDyT7jeGsEU.jpg",

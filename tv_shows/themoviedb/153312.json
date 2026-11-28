@@ -40,14 +40,14 @@
         "episode_type": "standard",
         "id": 7499440,
         "name": "Racket Club",
-        "overview": "Dwight battles Turco's rising demands while racing to protect the ranch from Van Heusen's land grab. Tyson gets a life changing offer.",
+        "overview": "Dwight battles to protect the ranch from Van Heusen's land grab.",
         "production_code": "",
         "runtime": 39,
         "season_number": 4,
         "show_id": 153312,
         "still_path": "/buQLdkJbt2DTUHiJ0qDRTbZkaIP.jpg",
-        "vote_average": 8.5,
-        "vote_count": 22
+        "vote_average": 8.6,
+        "vote_count": 24
     },
     "name": "Tulsa King",
     "networks": [
@@ -64,14 +64,14 @@
         "episode_type": "standard",
         "id": 7499441,
         "name": "Black Diamonds",
-        "overview": "Dwight expands his operation while seeking stronger backing abroad. Mitch and Spencer look to score big at the track.",
+        "overview": "Dwight expands his operation while seeking stronger backing abroad.",
         "production_code": "",
         "runtime": 36,
         "season_number": 4,
         "show_id": 153312,
         "still_path": "/fr282E5kge3NaTvbg793Q84xs42.jpg",
-        "vote_average": 0.0,
-        "vote_count": 0
+        "vote_average": 9.0,
+        "vote_count": 2
     },
     "number_of_episodes": 39,
     "number_of_seasons": 4,
@@ -182,7 +182,7 @@
             "overview": "In season four, Dwight fights to legitimize his empire and protect his crew as corrupt politicians, dangerous new enemies, and a crushing personal loss hit from every direction. However, every hard-won gain comes with even harder truths: about loyalty, leadership and the cost of ambition. Each move drags Dwight deeper into the street instincts he left behind in New York - turning Tulsa into a battleground and Dwight into the one threat no one can afford to underestimate.",
             "poster_path": "/aqvDey0veLcY7XkoDWGFOqRAD3I.jpg",
             "season_number": 4,
-            "vote_average": 8.4
+            "vote_average": 8.5
         }
     ],
     "softcore": false,

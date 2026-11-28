@@ -35,7 +35,7 @@
         "name": "True Magic Knights",
         "overview": "Zagato sends Cefiro's mightiest swordsman to kill the girls on their way to the final shrine.",
         "production_code": null,
-        "runtime": 23,
+        "runtime": 24,
         "season_number": 1,
         "show_id": 303272,
         "still_path": "/9ZW85NMil0nDzdaSRaFu6sy83hl.jpg",
@@ -196,8 +196,8 @@
         "id": 7921676,
         "name": "Episode 9",
         "overview": "",
-        "production_code": "",
-        "runtime": 23,
+        "production_code": null,
+        "runtime": null,
         "season_number": 1,
         "show_id": 303272,
         "still_path": null,
@@ -212,7 +212,7 @@
     "original_language": "ja",
     "original_name": "\u9b54\u6cd5\u9a0e\u58eb\u30ec\u30a4\u30a2\u30fc\u30b9",
     "overview": "A school trip to Tokyo Tower turns into a battle for another world when Hikaru, Umi, and Fuu are summoned to Cefiro! With Princess Emeraude captured, the magical world teeters on the brink of collapse. To save her, the three girls must awaken their powers, become the Legendary Magic Knights, and face deadly enemies before Cefiro is lost forever!",
-    "popularity": 13.5093,
+    "popularity": 13.5046,
     "poster_path": "/ypWyKHE9Db1y81lMvyRTjDJMAO0.jpg",
     "production_companies": [
         {

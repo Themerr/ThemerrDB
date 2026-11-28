@@ -9,20 +9,12 @@
             "name": "Animation"
         },
         {
-            "id": 12,
-            "name": "Adventure"
-        },
-        {
             "id": 14,
             "name": "Fantasy"
         },
         {
-            "id": 35,
-            "name": "Comedy"
-        },
-        {
-            "id": 10751,
-            "name": "Family"
+            "id": 12,
+            "name": "Adventure"
         }
     ],
     "homepage": "https://www.forgottenislandmovie.com",
@@ -71,7 +63,7 @@
     "title": "Forgotten Island",
     "video": false,
     "vote_average": 8.0,
-    "vote_count": 307,
+    "vote_count": 308,
     "youtube_theme_added": 1795531103,
     "youtube_theme_added_by": "49878466",
     "youtube_theme_edited": 1795531103,

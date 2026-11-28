@@ -26,8 +26,8 @@
             "softcore": false,
             "title": "Kung Fu Panda",
             "video": false,
-            "vote_average": 7.3,
-            "vote_count": 13233
+            "vote_average": 7.346,
+            "vote_count": 13234
         },
         {
             "adult": false,
@@ -50,7 +50,7 @@
             "title": "Kung Fu Panda 2",
             "video": false,
             "vote_average": 7.092,
-            "vote_count": 8319
+            "vote_count": 8320
         },
         {
             "adult": false,
@@ -74,7 +74,7 @@
             "title": "Kung Fu Panda 3",
             "video": false,
             "vote_average": 6.941,
-            "vote_count": 6915
+            "vote_count": 6916
         },
         {
             "adult": false,

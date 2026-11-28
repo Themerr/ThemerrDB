@@ -58,7 +58,7 @@
         "season_number": 3,
         "show_id": 103540,
         "still_path": "/gJkF1VYjeGjZdI1lOC75cg6jadH.jpg",
-        "vote_average": 7.233,
+        "vote_average": 7.2,
         "vote_count": 15
     },
     "name": "Percy Jackson and the Olympians",
@@ -84,12 +84,12 @@
         "name": "I Learn How to Grow Zombies",
         "overview": "In the hunt for Annabeth, our quest team finds themselves hunted.",
         "production_code": "3HMB03",
-        "runtime": 46,
+        "runtime": 47,
         "season_number": 3,
         "show_id": 103540,
         "still_path": "/80aEH4C27IXQmUy9o8iRafXR2Tx.jpg",
-        "vote_average": 1.0,
-        "vote_count": 1
+        "vote_average": 5.0,
+        "vote_count": 4
     },
     "number_of_episodes": 24,
     "number_of_seasons": 3,
@@ -168,7 +168,7 @@
             "overview": "The stakes are higher than ever before as Percy is faced with the sudden disappearance of Annabeth and the impending Great Prophecy provided by the Oracle of Delphi, dictating the fate of Olympus. As foretold by the Oracle of Delphi, one demigod child of the \"Big Three\" is fated to raise Olympus to new heights or bring it crashing into ruin, with their own life hanging in the balance.",
             "poster_path": "/zofPiEpwCRYaezOncTlQwXebHFU.jpg",
             "season_number": 3,
-            "vote_average": 4.1
+            "vote_average": 6.1
         }
     ],
     "softcore": false,
