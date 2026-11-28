@@ -1,0 +1,66 @@
+---
+name: Audit approval attribution
+on:
+  push:
+    branches:
+      - codex/complete-approval-attribution
+    paths:
+      - .github/workflows/approval-attribution-audit.yml
+permissions: {}
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: read
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0
+        with:
+          python-version: '3.14'
+      - uses: astral-sh/setup-uv@1db35dd8eee11c5894872e0b383ae6c406cf738d
+      - run: uv sync --locked --no-build --no-install-project --no-python-downloads --python 3.14
+      - name: Replay the published approval snapshot
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          uv run --no-build --no-sync python - <<'PY'
+          from collections import Counter
+          import json
+          import os
+          import requests
+          from src.approval_leaderboard import _load_approval_history
+          from src.updater import create_github_session
+
+          url = ('https://raw.githubusercontent.com/Themerr/ThemerrDB/'
+                 'b3fdd91af01949f377850889c559f4d04fc9f517/approval_history.json')
+          response = requests.get(url, timeout=30)
+          response.raise_for_status()
+          previous = response.json()
+          missing = {number for number, row in previous.items() if row['approver'] is None}
+          assert len(missing) == 427
+          with create_github_session() as session:
+              history = _load_approval_history(session, os.environ['GITHUB_REPOSITORY'], previous)
+
+          excluded = sorted(missing - history.keys(), key=int)
+          decisions = Counter()
+          for number in missing & history.keys():
+              person = history[number]['approver']
+              if person:
+                  decisions[(person['login'], person.get('source', 'human'))] += 1
+          remaining = sorted((number for number, row in history.items() if row['approver'] is None), key=int)
+          print('Approval attribution audit ' + json.dumps({
+              'baseline_unattributed': len(missing),
+              'excluded': excluded,
+              'attributed': [{'login': login, 'source': source, 'count': count}
+                             for (login, source), count in sorted(decisions.items())],
+              'remaining': remaining,
+              'total_eligible': len(history),
+          }), flush=True)
+          assert history['1330']['approver']['login'] == 'jjnether'
+          assert history['1338']['approver']['login'] == 'ReenigneArcher'
+          assert excluded == ['1353'], excluded
+          assert not remaining, remaining
+          PY
