@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2026-08-26",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://v.youku.com/video?s=ffefaad54c434973b4d6",
+    "id": 299952,
+    "in_production": false,
+    "languages": [
+        "zh"
+    ],
+    "last_air_date": "2026-09-09",
+    "last_episode_to_air": {
+        "air_date": "2026-09-09",
+        "episode_number": 24,
+        "episode_type": "finale",
+        "id": 7347752,
+        "name": "Shang Zhitao, Welcome Back to Beijing",
+        "overview": "A financial crisis draws Nian back to Harbin, where helping Zhitao gives the former couple a chance to confront their fractured relationship.",
+        "production_code": "",
+        "runtime": 43,
+        "season_number": 1,
+        "show_id": 299952,
+        "still_path": "/8Agis4hdMnlZquULWCBszudn3yY.jpg",
+        "vote_average": 9.5,
+        "vote_count": 2
+    },
+    "name": "The Early Spring",
+    "networks": [
+        {
+            "id": 1419,
+            "logo_path": "/w2TeR3fvPZ9a617tNIF1oOfyPtk.png",
+            "name": "Youku",
+            "origin_country": "CN"
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "CN"
+    ],
+    "original_language": "zh",
+    "original_name": "\u65e9\u6625\u6674\u6717",
+    "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
+    "popularity": 11.7743,
+    "poster_path": "/lGFngmJWMO4HTPcI0sUGKBAFqMe.jpg",
+    "production_companies": [
+        {
+            "id": 48460,
+            "logo_path": "/7m3BMwdstKRqw7qg5vSYW2S0HrR.png",
+            "name": "Youku",
+            "origin_country": "CN"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2026-08-26",
+            "episode_count": 24,
+            "id": 473557,
+            "name": "Season 1",
+            "overview": "A warmhearted new employee and her gifted boss navigate a fast-paced workplace, all while harboring a secret relationship that may jeopardize everything.",
+            "poster_path": "/rN1EK7gcFh6lKtE3ECrchiIF6hd.jpg",
+            "season_number": 1,
+            "vote_average": 9.0
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "Chinese",
+            "iso_639_1": "zh",
+            "name": "\u6c49\u8bed"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.162,
+    "vote_count": 37,
+    "youtube_theme_added": 1795830031,
+    "youtube_theme_added_by": "176250628",
+    "youtube_theme_edited": 1795830031,
+    "youtube_theme_edited_by": "176250628",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=saB4nHX8TfU"
+}
