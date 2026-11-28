@@ -1,0 +1,144 @@
+{
+    "adult": false,
+    "backdrop_path": "/4UVd9nuO79sbTdil6ZmAqlC9Rjr.jpg",
+    "created_by": [
+        {
+            "credit_id": "6a7323eada3dfd2f4f537f6f",
+            "gender": 0,
+            "id": 2789243,
+            "name": "Maciej Buchwald",
+            "original_name": "Maciej Buchwald",
+            "profile_path": null
+        },
+        {
+            "credit_id": "6a7323ffb69ad803c79cc094",
+            "gender": 0,
+            "id": 2312156,
+            "name": "Kordian K\u0105dziela",
+            "original_name": "Kordian K\u0105dziela",
+            "profile_path": null
+        },
+        {
+            "credit_id": "6a7324d0743c38bdd61550b0",
+            "gender": 0,
+            "id": 3156828,
+            "name": "Jakub Ru\u017cy\u0142\u0142o",
+            "original_name": "Jakub Ru\u017cy\u0142\u0142o",
+            "profile_path": "/gRBXf4IJK700XxmJyErHfx4K8De.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2023-12-13",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81553471",
+    "id": 236450,
+    "in_production": true,
+    "languages": [
+        "pl"
+    ],
+    "last_air_date": "2026-08-05",
+    "last_episode_to_air": {
+        "air_date": "2026-08-05",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "id": 7633046,
+        "name": "Rise of the Machines",
+        "overview": "The royal couple decides to visit Adamczycha right when a peasant uprising kicks off, leaving the fate of the village in the unfit hands of Jan Pawe\u0142.",
+        "production_code": "",
+        "runtime": 38,
+        "season_number": 3,
+        "show_id": 236450,
+        "still_path": "/3chxS6LqvLRbwD64AEDYA82MbG7.jpg",
+        "vote_average": 8.0,
+        "vote_count": 1
+    },
+    "name": "1670",
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "next_episode_to_air": null,
+    "number_of_episodes": 24,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "PL"
+    ],
+    "original_language": "pl",
+    "original_name": "1670",
+    "overview": "A zany nobleman contends with family feuds and clashes with peasants in his quest to become the most famous person in Poland.",
+    "popularity": 5.9727,
+    "poster_path": "/dQ0bRkuVK3Lla9AfFGo6CpVwlCb.jpg",
+    "production_companies": [
+        {
+            "id": 10826,
+            "logo_path": "/nnXr9tDsIU7uGjVOFrjsSK2jYuY.png",
+            "name": "Akson Studio",
+            "origin_country": "PL"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "PL",
+            "name": "Poland"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-12-13",
+            "episode_count": 8,
+            "id": 359674,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/vDZ2uMixOQoHRVTGnuHSdxypXxv.jpg",
+            "season_number": 1,
+            "vote_average": 6.9
+        },
+        {
+            "air_date": "2025-09-17",
+            "episode_count": 8,
+            "id": 441101,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/p9BmIIHdKSDKGBI5zkTrjbhtiwn.jpg",
+            "season_number": 2,
+            "vote_average": 7.7
+        },
+        {
+            "air_date": "2026-08-05",
+            "episode_count": 8,
+            "id": 466147,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/lAFJp0NgAInJsUUpw18GcXl1N82.jpg",
+            "season_number": 3,
+            "vote_average": 7.1
+        }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+        {
+            "english_name": "Polish",
+            "iso_639_1": "pl",
+            "name": "polski"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.529,
+    "vote_count": 154,
+    "youtube_theme_added": 1795897873,
+    "youtube_theme_added_by": "336649316",
+    "youtube_theme_edited": 1795897873,
+    "youtube_theme_edited_by": "336649316",
+    "youtube_theme_url": "https://www.youtube.com/watch?v=qeYZGqTPINA"
+}
